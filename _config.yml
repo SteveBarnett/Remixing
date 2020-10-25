@@ -57,3 +57,5 @@
 collections:
   notes:
     output: true
+  art:
+    output: true
