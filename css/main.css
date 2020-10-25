@@ -139,13 +139,20 @@ a:focus {
 }
 
 .notes li {
-  display: inline-block;
-  margin: 0 1em 1em 0;
-  max-width: 18em;
+  margin-bottom: 1em;
+  text-transform: capitalize;
 }
 
 .notes img {
   max-width: 100%;
+}
+
+.note-archive li.section {
+  margin-top: 2em;
+}
+
+.note-archive li {
+  text-transform: capitalize;
 }
 
 /* ==========================================================================

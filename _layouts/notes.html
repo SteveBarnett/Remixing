@@ -17,10 +17,13 @@
     <h1>{{ page.title }}</h1>
 
     <ul>
-      {% for note in site.static_files %} {% if note.path contains page.section
-      %}
+      {% assign slugified_title = page.title | replace: " ", "-" | replace:
+      "---", "-" | downcase %} {% assign current_notes = "notes/" | append:
+      slugified_title %} {% for note in site.static_files %} {% if note.path
+      contains current_notes %}
       <li>
-        <a href="{{ note.path }}" title="{{ note.basename }}">
+        <h2>{{ note.basename | replace: "-", " " }}</h2>
+        <a href="{{ note.path }}">
           <img
             src="{{ note.path }}"
             alt="Index card notes for {{ note.basename }}"

@@ -53,3 +53,7 @@
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  notes:
+    output: true

@@ -1,0 +1,42 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en-nz" class="note-archive">
+  <head>
+    <meta charset="utf-8" />
+    <title>Notes Archive</title>
+    <meta content="" name="description" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+
+    <link href="https://use.typekit.net/ven2qwv.css" rel="stylesheet" />
+    <link href="/css/normalize.css" rel="stylesheet" />
+    <link href="/css/main.css" rel="stylesheet" />
+
+    <meta content="#fafafa" name="theme-color" />
+  </head>
+
+  <body>
+    <h1>Notes</h1>
+
+    <ul>
+    {% for section in site.notes %}
+      {% assign slugified_title = section.title | replace: " ", "-" | replace:
+      "---", "-" | downcase %}
+      <li class="section"><a href="/notes/{{ slugified_title }}/">{{ section.title }}</a>
+
+        <ul>
+            {% assign current_notes = "notes/" | append: slugified_title %} {% for
+      note in site.static_files %} {% if note.path contains current_notes %}
+      <li>
+        <a href="{{ note.path }}">
+          {{ note.basename }}
+        </a>
+      </li>
+      {% endif %} {% endfor %}
+        </ul>
+
+      </li>
+    {% endfor %}
+    <ul>
+  </body>
+</html>
