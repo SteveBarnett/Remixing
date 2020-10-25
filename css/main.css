@@ -133,6 +133,21 @@ a:focus {
   outline: 0.1em solid #fc3;
 }
 
+.notes ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.notes li {
+  display: inline-block;
+  margin: 0 1em 1em 0;
+  max-width: 18em;
+}
+
+.notes img {
+  max-width: 100%;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
