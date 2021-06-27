@@ -155,6 +155,15 @@ a:focus {
   text-transform: capitalize;
 }
 
+ul.thumbs-small {
+  display:  flex;
+  flex-wrap: wrap;
+}
+
+li.thumbs-small {
+  flex: 1 1 20em;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
