@@ -1,26 +1,9 @@
 ---
+title: Notes Archive
 ---
-<!DOCTYPE html>
-<html lang="en-nz" class="note-archive">
-  <head>
-    <meta charset="utf-8" />
-    <title>Notes Archive</title>
-    <meta content="" name="description" />
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
+{% include header.html %}
 
-    <link href="https://use.typekit.net/ven2qwv.css" rel="stylesheet" />
-    <link href="/css/normalize.css" rel="stylesheet" />
-    <link href="/css/main.css" rel="stylesheet" />
-
-    <meta content="#fafafa" name="theme-color" />
-  </head>
-
-  <body>
-    {% include nav.html %}
-    
-    <h1>Notes</h1>
-
-    <ul>
+    <ul class="archive">
     {% for section in site.notes %}
       {% assign slugified_title = section.title | replace: " ", "-" | replace:
       "---", "-" | downcase %}
@@ -40,5 +23,5 @@
       </li>
     {% endfor %}
     <ul>
-  </body>
-</html>
+
+{% include footer.html %}

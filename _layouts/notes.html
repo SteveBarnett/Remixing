@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-nz" class="notes">
-  <head>
-    <meta charset="utf-8" />
-    <title>Notes: {{ page.title }}</title>
-    <meta content="" name="description" />
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
+{% include header.html title="Notes" %}
 
-    <link href="https://use.typekit.net/ven2qwv.css" rel="stylesheet" />
-    <link href="/css/normalize.css" rel="stylesheet" />
-    <link href="/css/main.css" rel="stylesheet" />
-
-    <meta content="#fafafa" name="theme-color" />
-  </head>
-
-  <body>
-    {% include nav.html %}
-    
-    <h1>{{ page.title }}</h1>
-
-    <ul>
+    <ul class="notes">
       {% assign slugified_title = page.title | replace: " ", "-" | replace:
       "---", "-" | downcase %} {% assign current_notes = "notes/" | append:
       slugified_title %} {% for note in site.static_files %} {% if note.path
@@ -35,5 +17,5 @@
       </li>
       {% endif %} {% endfor %}
     </ul>
-  </body>
-</html>
+
+{% include footer.html %}
