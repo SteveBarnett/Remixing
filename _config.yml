@@ -59,3 +59,5 @@ collections:
     output: true
   art:
     output: true
+  big-ideas:
+    output: false
