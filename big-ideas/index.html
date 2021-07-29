@@ -1,20 +1,12 @@
 ---
-title: Big Ideas
+title: Table of contents
 ---
 {% include header.html title="Big Ideas" %}
 
 These are a handful of ideas that made me stop and think. They changed how I think about things and how I try to be in the world. They come from a wide range of sources that I'll list at some point. I'm not sure yet what I'm doing with this list, but writing it down felt like a good first step.
 
     <ul>
-      {% for big-idea in site.big-ideas %}<li><a href="#{{ big-idea.title | replace: " ", "-" | remove: "," | downcase }}">{{ big-idea.title }}</a></li>{% endfor %}
+      {% for big-idea in site.big-ideas %}<li><a href="{{ big-idea.url }}">{{ big-idea.title }}</a></li>{% endfor %}
     </ul>
-
-    {% for big-idea in site.big-ideas %}
-      
-    <h2 id="{{ big-idea.title | replace: " ", "-" | remove: "," | downcase }}">{{ big-idea.title }}</h2>
-
-    {{ big-idea.content }}
-  
-    {% endfor %}
 
 {% include footer.html %}

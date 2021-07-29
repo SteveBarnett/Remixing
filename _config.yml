@@ -60,4 +60,4 @@ collections:
   art:
     output: true
   big-ideas:
-    output: false
+    output: true

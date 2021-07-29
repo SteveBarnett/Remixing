@@ -1,5 +1,6 @@
 ---
 title: Slow down
+layout: big-ideas
 ---
 
 ### What is it?

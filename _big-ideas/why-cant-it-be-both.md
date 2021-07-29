@@ -1,5 +1,6 @@
 ---
 title: Why can't it be both?
+layout: big-ideas
 ---
 
 ### What is it?

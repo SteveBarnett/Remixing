@@ -1,5 +1,6 @@
 ---
 title: Begin Again
+layout: big-ideas
 ---
 
 ### What is it?

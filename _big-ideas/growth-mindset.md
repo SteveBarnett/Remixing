@@ -1,5 +1,6 @@
 ---
 title: Growth Mindset
+layout: big-ideas
 ---
 
 ### What is it?

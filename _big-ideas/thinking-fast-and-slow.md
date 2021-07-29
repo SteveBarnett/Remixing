@@ -1,5 +1,6 @@
 ---
-title: Thinking, Fast and Slow
+title: Thinking, fast and slow
+layout: big-ideas
 ---
 
 ### What is it?

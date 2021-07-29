@@ -1,5 +1,6 @@
 ---
 title: Impermanence
+layout: big-ideas
 ---
 
 ### What is it?

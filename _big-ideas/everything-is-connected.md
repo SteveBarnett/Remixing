@@ -1,5 +1,6 @@
 ---
 title: Everything is connected
+layout: big-ideas
 ---
 
 ### What is it?
