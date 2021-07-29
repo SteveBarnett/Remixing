@@ -4,14 +4,13 @@ title: Slow down
 
 ### What is it?
 
-Taking a moment before speaking or acting.
+Take a moment before speaking or acting.
 
 ### Why is it important?
 
-Slowing down lets you respond rather than react. Intensity and reactivity breed more of the same.
+When we slow down, we can:
 
-Moving more slowly lets you see more clearly. See things as they are. See yourself as you are.
-
-It lets you pay more attention. The more attention you put on something, the more meaning it has.
-
-Slowing down gives you time to reflect. Reflection is where learning happens.
+- respond rather than react. Intensity and reactivity breed more of the same.
+- see more clearly: see things as they are, see ourselves as we are.
+- pay more attention. The more attention we put on something, the more meaning it has.
+- have time to reflect. Reflection is where we cement learning.

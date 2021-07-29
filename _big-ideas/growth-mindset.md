@@ -6,8 +6,8 @@ title: Growth Mindset
 
 Mindset is about a person's behaviour, specifically in relation to failures and difficulties. 
 
-- A person with a **fixed mindset** believes that skills are innate and that failure means a lack of skills. Think "I'm just not good at maths." They believe that success should be easy.
-- A person with a **growth mindset** believes that skills can be learned and that failure is an opportunity for learning and growing. Think: "I'm not good at maths *yet*". They believe that success comes from effort.
+- A person with a **fixed mindset** believes that skills are innate and that failure is the end. Think "I'm just not good at maths." They believe that success should be easy.
+- A person with a **growth mindset** believes that skills can be learned and that failure is an opportunity for learning and growing. Think: "I'm not good at maths *yet*". They believe that success comes from applied effort.
 
 ### Why is it important?
 
