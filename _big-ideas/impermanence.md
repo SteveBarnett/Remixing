@@ -1,11 +1,10 @@
 ---
 title: Impermanence
 layout: big-ideas
+elevator-pitch: Everything and everyone changes, regardless of what we might think or want.
 ---
 
 ### What is it?
-
-Everything and everyone changes, regardless of what we might think or want.
 
 - Nature is constantly changing. Things grow, things die.
 - A person is different in different situations. Someone who's a parent is (still themselves, but is) a different person when they're around their children and when they're around their own parents.

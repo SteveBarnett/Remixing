@@ -1,6 +1,7 @@
 ---
 title: Slow down
 layout: big-ideas
+elevator-pitch: Speak and and act more slowly.
 ---
 
 ### What is it?

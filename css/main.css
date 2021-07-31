@@ -135,7 +135,6 @@ nav a {
 nav a[aria-current="page"] {
   color: #333;
   font-weight: bold;
-  text-decoration: none;
 }
 
 h1,
@@ -188,6 +187,10 @@ ul.thumbs-small {
 
 li.thumbs-small {
   flex: 1 1 20em;
+}
+
+.lede {
+  font-size: 1.5rem;
 }
 
 /* ==========================================================================

@@ -1,6 +1,7 @@
 ---
 title: Thinking, fast and slow
 layout: big-ideas
+elevator-pitch: The brain puts things into a fast / unconscious category or a slow / conscious category.
 ---
 
 ### What is it?

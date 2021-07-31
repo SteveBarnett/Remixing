@@ -1,6 +1,7 @@
 ---
 title: Growth Mindset
 layout: big-ideas
+elevator-pitch: See that setback are a chance to learn, that success comes from effort not innate skill.
 ---
 
 ### What is it?
