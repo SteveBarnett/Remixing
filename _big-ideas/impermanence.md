@@ -1,6 +1,7 @@
 ---
 title: Impermanence
 layout: big-ideas
+permalink: /big-ideas/impermanence/
 elevator-pitch: Everything and everyone changes, regardless of what we might think or want.
 ---
 

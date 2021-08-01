@@ -1,6 +1,7 @@
 ---
 title: Begin Again
 layout: big-ideas
+permalink: /big-ideas/begin-again/
 elevator-pitch: At every point in our lives we can pause, then begin again, with a fresh, open-hearted, perspective.
 ---
 
@@ -10,7 +11,7 @@ There's always a choice: do we want to follow this next thought, get carried awa
 
 ### Why is it important?
 
-When you can begin again, it can entirely change our experience, and the outcome, of an interaction. The past is gone and the future doesn't exist. By beginning again we can recentre on the present, which is all there really is.
+When we can begin again, it can entirely change our experience of an interaction, and the outcome. By beginning again we can recentre on the present, which is all there really is.
 
 - In the middle of an argument, you can catch yourself, and begin again.
 - After spending a few hours being lost in thought, you can catch yourself, and begin again.
