@@ -1,9 +1,7 @@
 {% include header.html title="Art" %}
 
     <ul class="notes {{ page.thumbs }}" {% if page.thumbs %}role="list"{% endif %}>
-      {% assign slugified_title = page.title | replace: " ", "-" | replace:
-      "---", "-" | downcase %} {% assign current_art = "art/" | append:
-      slugified_title %} {% for thing in site.static_files %} {% if thing.path
+      {% assign current_art = page.permalink %} {% for thing in site.static_files %} {% if thing.path
       contains current_art %}
       <li class="{{ page.thumbs }}" {% if page.thumbs %}role="listitem"{% endif %}>
         <h2>{{ thing.basename | replace: "-", " " }}</h2>

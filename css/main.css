@@ -180,13 +180,18 @@ a:focus {
   text-transform: capitalize;
 }
 
-ul.thumbs-small {
+ul.thumbs-small,
+ul.thumbs-extra-small {
   display:  flex;
   flex-wrap: wrap;
 }
 
 li.thumbs-small {
   flex: 1 1 20em;
+}
+
+li.thumbs-extra-small {
+  flex: 1 1 10em;
 }
 
 .lede {

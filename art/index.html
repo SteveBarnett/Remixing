@@ -5,12 +5,10 @@ title: Art Archive
 
     <ul class="archive">
     {% for thing in site.art %}
-      {% assign slugified_title = thing.title | replace: " ", "-" | replace:
-      "---", "-" | downcase %}
-      <li class="thing"><a href="/art/{{ slugified_title }}/">{{ thing.title }}</a>
+      <li class="thing"><a href="{{ thing.permalink }}">{{ thing.title }}</a>
 
         <ul>
-            {% assign current_art = "art/" | append: slugified_title %} {% for
+            {% assign current_art = thing.permalink %} {% for
       note in site.static_files %} {% if note.path contains current_art %}
       <li>
         <a href="{{ note.path }}">
