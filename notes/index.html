@@ -3,24 +3,19 @@ title: Notes Archive
 ---
 {% include header.html %}
 
-    <ul class="archive">
-    {% for section in site.notes %}
-      <li class="section"><a href="{{ section.url }}">{{ section.slug | replace: "-", " " }}</a>
-
-        <ul>
-          {% for note in site.static_files %}
-            {% if note.path contains section.url %}
-            <li>
-              <a href="{{ note.path }}">
-                {{ note.basename }}
-              </a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-
-      </li>
-    {% endfor %}
+{%- for section in site.notes -%}
+  <a href="{{ section.url }}"><h2 id="{{ section.slug }}">{{ section.title }}</h2></a>
     <ul>
+    {%- for note in site.static_files -%}
+      {%- if note.path contains section.url -%}
+      <li>
+        <a href="{{ note.path }}">
+          {{ note.basename }}
+        </a>
+      </li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+{%- endfor -%}
 
 {% include footer.html %}
