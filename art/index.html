@@ -5,8 +5,7 @@ title: Art Archive
 
     <ul class="archive">
     {% for thing in site.art %}
-      <li class="thing"><a href="{{ thing.url }}">{{ thing.title }}</a>
-
+      <li class="thing"><a href="{{ thing.url }}">{{ thing.slug | replace: "-", " " }}</a>
         <ul>
         {% for note in site.static_files %}
           {% if note.path contains thing.url %}

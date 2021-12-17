@@ -5,7 +5,7 @@ title: Notes Archive
 
     <ul class="archive">
     {% for section in site.notes %}
-      <li class="section"><a href="{{ section.url }}">{{ section.title }}</a>
+      <li class="section"><a href="{{ section.url }}">{{ section.slug | replace: "-", " " }}</a>
 
         <ul>
           {% for note in site.static_files %}
