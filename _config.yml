@@ -54,6 +54,7 @@
 #   - vendor/gems/
 #   - vendor/ruby/
 
+permalink: pretty
 collections:
   notes:
     output: true

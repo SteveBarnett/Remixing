@@ -1,19 +1,20 @@
 {% include header.html title="Art" %}
 
     <ul class="notes {{ page.thumbs }}" {% if page.thumbs %}role="list"{% endif %}>
-      {% assign current_art = page.permalink %} {% for thing in site.static_files %} {% if thing.path
-      contains current_art %}
-      <li class="{{ page.thumbs }}" {% if page.thumbs %}role="listitem"{% endif %}>
-        <h2>{{ thing.basename | replace: "-", " " }}</h2>
-        <a href="{{ thing.path }}">
-          <img
-            src="{{ thing.path }}"
-            alt="Art, sort of: {{ thing.basename }}"
-            loading="lazy"
-          />
-        </a>
-      </li>
-      {% endif %} {% endfor %}
+      {% for thing in site.static_files %}
+        {% if thing.path contains page.url %}
+        <li class="{{ page.thumbs }}" {% if page.thumbs %}role="listitem"{% endif %}>
+          <h2>{{ thing.basename | replace: "-", " " }}</h2>
+          <a href="{{ thing.path }}">
+            <img
+              src="{{ thing.path }}"
+              alt="Art, sort of: {{ thing.basename }}"
+              loading="lazy"
+            />
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
     </ul>
 
 {% include footer.html %}
