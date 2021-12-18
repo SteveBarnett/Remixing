@@ -3,7 +3,8 @@ title: Art Archive
 ---
 {% include header.html %}
 
-  {%- for thing in site.art -%}
+  {% assign sortedart = site.art | reverse %}
+  {%- for thing in sortedart -%}
     <a href="{{ thing.url }}"><h2 id="{{ thing.slug }}">{{ thing.title }}</h2></a>
       <ul>
       {%- for note in site.static_files -%}
