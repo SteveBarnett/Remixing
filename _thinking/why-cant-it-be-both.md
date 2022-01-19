@@ -1,7 +1,7 @@
 ---
 title: Why can't it be both?
-layout: big-ideas
-permalink: /big-ideas/why-cant-it-be-both
+layout: thinking-and-doing
+permalink: /thinking/why-cant-it-be-both
 elevator-pitch: Some things that look like a dichotomy, aren't.
 ---
 

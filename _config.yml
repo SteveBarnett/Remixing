@@ -60,5 +60,7 @@ collections:
     output: true
   art:
     output: true
-  big-ideas:
+  thinking:
+    output: true
+  doing:
     output: true

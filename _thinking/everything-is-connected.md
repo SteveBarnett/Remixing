@@ -1,7 +1,7 @@
 ---
 title: Everything is connected
-layout: big-ideas
-permalink: /big-ideas/everything-is-connected/
+layout: thinking-and-doing
+permalink: /thinking/everything-is-connected/
 elevator-pitch: Everything and everyone is interconnected and interdependent.
 ---
 

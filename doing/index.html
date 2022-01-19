@@ -1,0 +1,12 @@
+---
+title: Table of contents
+---
+{% include header.html title="Doing" %}
+
+<p>These are a handful of things to do that have made a difference in my life. They changed how I act. They help me be a better person. For me that means being a better friend, partner, teacher, professional, creative. They come from a wide range of sources: philosophy, psychology, teaching and training).</p>
+
+    <ul>
+      {% for do in site.doing %}<li><a href="{{ do.url }}">{{ do.title }}</a></li>{% endfor %}
+    </ul>
+
+{% include footer.html %}

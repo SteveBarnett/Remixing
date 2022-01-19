@@ -1,7 +1,7 @@
 ---
 title: Begin Again
-layout: big-ideas
-permalink: /big-ideas/begin-again/
+layout: thinking-and-doing
+permalink: /doing/begin-again/
 elevator-pitch: At every point in our lives we can pause, then begin again, with a fresh, open-hearted, perspective.
 ---
 

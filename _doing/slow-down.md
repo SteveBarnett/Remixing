@@ -1,7 +1,7 @@
 ---
 title: Slow down
-layout: big-ideas
-permalink: /big-ideas/slow-down/
+layout: thinking-and-doing
+permalink: /doing/slow-down/
 elevator-pitch: Speak and and act more slowly.
 ---
 

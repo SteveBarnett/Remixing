@@ -1,8 +1,8 @@
 ---
 title: Growth Mindset
-layout: big-ideas
-permalink: /big-ideas/growth-mindset/
-elevator-pitch: See that setback are a chance to learn, that success comes from effort not innate skill.
+layout: thinking-and-doing
+permalink: /thinking/growth-mindset/
+elevator-pitch: See that setbacks are a chance to learn, that success comes from effort not innate skill.
 ---
 
 ### What is it?
