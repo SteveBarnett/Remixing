@@ -64,3 +64,11 @@ collections:
     output: true
   doing:
     output: true
+
+defaults:
+  - scope:
+      type: posts
+      category: music
+    values:
+      permalink: :categories/:title
+      layout: music

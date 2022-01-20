@@ -1,0 +1,26 @@
+---
+title: Table of contents
+---
+{% include header.html title="Music" %}
+
+{%- for category in site.categories reversed -%}
+{%- if category[0] != "music" -%}
+
+<h2>Album: {{ category[0] }}</h2>
+
+<ol reversed class="music">
+  {%- for track in category[1] -%}
+    <li>
+      <audio controls src="{{ track.url | replace: "-", " " }}.mp3">
+          Your browser does not support the
+          <code>audio</code> element.
+      </audio>
+      <a href="{{ track.url }}">{{ track.title }}</a> ({{ track.date | date: "%Y-%m-%d" }})
+  </li>
+  {%- endfor -%}
+</ol>
+
+{%- endif -%}
+{%- endfor -%}
+
+{% include footer.html %}
