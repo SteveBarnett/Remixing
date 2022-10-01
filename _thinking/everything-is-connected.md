@@ -7,6 +7,7 @@ elevator-pitch: Everything and everyone is interconnected and interdependent.
 
 ### What is it?
 
+- Life is connected. Reality is a single, indivisible, thing. We use concepts to put imaginary fences around aggregates of things. Subject and object are distinct but not separate.
 - People are connected. There's almost nothing we do that we truly do alone, or that truly effects no-one but ourselves. 
 - Tasks are connected. Most things we do aren't just for the sake of that single outcome. They're part of a bigger project or goal.
 

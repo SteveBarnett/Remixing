@@ -7,7 +7,7 @@ elevator-pitch: Everything and everyone changes, regardless of what we might thi
 
 ### What is it?
 
-- Nature is constantly changing. Things grow, things die.
+- Reality is a single flow. Nothing really forms long enough to be an impermanent thing.
 - A person is different in different situations. Someone who's a parent is (still themselves, but is) a different person when they're around their children and when they're around their own parents.
 - A person changes over time. Perhaps someone is very similar to how they were a year ago. But what about five years ago? Ten years ago? Twenty? More?
 
