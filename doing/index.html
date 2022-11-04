@@ -5,8 +5,22 @@ title: Table of contents
 
 <p>These are a handful of things to do that have made a difference in my life. They changed how I act. They help me be a better person. For me that means being a better friend, partner, teacher, professional, creative. They come from a wide range of sources: philosophy, psychology, teaching and training).</p>
 
-    <ul>
-      {% for do in site.doing %}<li><a href="{{ do.url }}">{{ do.title }}</a></li>{% endfor %}
-    </ul>
+{% assign doingcategories = site.data.doing | map: "category" | uniq | sort %}
 
+{%- for doingcategory in doingcategories -%}
+
+  {%- assign dos = site.data.doing | where: "category", doingcategory -%}
+  <h2 id="{{ doingcategory }}">{{ doingcategory | capitalize }}</h2>
+  <ul>
+    {%- for do in dos -%}
+    <li>{{ do.text }}</li>
+    {%- endfor -%}
+  </ul>
+
+  {%- assign numbeofrelatedthinkings = site.data.thinking | where: "category", doingcategory | size -%}
+  {%- if numbeofrelatedthinkings > 0 -%}
+  See also: Thinking > <a href="/thinking/#{{ doingcategory }}">{{ doingcategory | capitalize }}</a>.
+  {%- endif -%}
+
+{%- endfor -%}
 {% include footer.html %}

@@ -8,8 +8,6 @@ collections:
     output: true
   doing:
     output: true
-  the-big-idea:
-    output: true
 
 defaults:
   - scope:
