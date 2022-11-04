@@ -142,6 +142,11 @@ h2 {
   border-bottom: 1px solid #333;
 }
 
+h1:target:before, h2:target:before, h3:target:before {
+  content: "→";
+  margin-right: 0.25em;
+}
+
 a {
   color: #00a;
 }
