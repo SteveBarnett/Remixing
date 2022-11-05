@@ -2,7 +2,16 @@
 <html lang="en-nz">
   <head>
     <meta charset="utf-8" />
-    <title>{% if include.title %}{{ include.title }}: {% endif %}{{ page.title }}</title>
+    <title>
+    {%- if include.title -%}
+    {%- unless include.title == "Doing" -%}
+    {%- unless include.title == "Thinking" -%}
+    {{ include.title }}:&nbsp;
+    {%- endunless -%}
+    {%- endunless -%}
+    {%- endif -%}
+    {{ page.title }}
+    </title>
     <meta content="" name="description" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
 
