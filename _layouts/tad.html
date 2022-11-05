@@ -1,0 +1,74 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+{%- assign sortedtags = site.tags | sort -%}
+
+{%- for tag in sortedtags -%}
+
+  {%- assign postsfilteredbycategory = tag[1] | where: "categories", page.currentcategory -%}
+  {%- assign numberofpostsfilteredbycategory = postsfilteredbycategory | size -%}
+
+  {%- unless numberofpostsfilteredbycategory == 0 -%}
+
+    {%- assign tagsrelatedtothistag = "" -%}
+
+    <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+
+    <ul>
+    {%- for post in postsfilteredbycategory -%}
+      <li>
+        {% if post.star %}★ {% endif %}
+        {{ post.title }}
+
+        {%- assign numberoftags = post.tags | size -%}
+        {%- if numberoftags > 1 -%}
+
+          {%- capture tagsrelatedtothispost -%}
+          &nbsp;Related:&nbsp;
+          {%- for taginpost in post.tags -%}
+            {%- unless taginpost == tag[0] -%}
+              , <a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
+            {%- endunless -%}
+          {%- endfor -%}
+          .
+          {%- endcapture -%}
+          {{ tagsrelatedtothispost | remove_first: ", " }}
+
+        {%- endif -%}
+      </li>
+
+      {%- for tagfortagrelation in post.tags -%}
+        {%- unless tagfortagrelation == tag[0] -%}
+          {%- assign tagsrelatedtothistag = tagsrelatedtothistag | append: ", " | append: tagfortagrelation -%}
+        {%- endunless -%}
+      {%- endfor -%}
+
+    {%- endfor -%}
+    </ul>
+
+    {%- assign tagsrelatedtothistag = tagsrelatedtothistag | remove_first: ", " -%}
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
+
+    {%- capture tagsrelatedtothistagstring -%}
+    Related to {{ tag[0] | capitalize }}:&nbsp;
+    {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
+      , <a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
+    {%- endfor -%}
+    .
+    {%- endcapture -%}
+    {{ tagsrelatedtothistagstring | remove_first: ", " }}
+
+    {%- assign postsfilteredbytheothercategory = tag[1] | where: "categories", page.othercategory -%}
+    {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
+    
+    {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
+    &nbsp;See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <a href="/{{ page.othercategory }}/#{{ tag[0] }}">{{ tag[0] | capitalize }}</a>.
+    {%- endunless -%}
+
+  {%- endunless -%}
+
+{%- endfor -%}
+
+{% include footer.html %}

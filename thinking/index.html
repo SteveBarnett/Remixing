@@ -1,43 +1,8 @@
 ---
-title: Table of contents
+title: Thinking
+layout: tad
+currentcategory: thinking
+othercategory: doing
 ---
-{% include header.html title="Thinking" %}
 
 <p>These are some ideas that made me stop and think. They changed how I think about things and how I try to be in the world. They help me be a better person. For me that means being a better friend, partner, teacher, professional, creative.</p>
-
-{%- assign sortedtags = site.tags | sort -%}
-
-{%- for tag in sortedtags -%}
-
-<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-<ul>
-  {%- assign relatedtagsstring = null -%}
-
-  {% for post in tag[1] %}
-    {%- if post.categories contains "thinking" -%}
-    <li>
-      {{ post.title }}
-      
-      <!-- Try and find related tags -->
-      {%- assign posttagssize = post.tags | size -%}
-      {%- if posttagssize > 1 -%}
-      {%- capture relatedstring -%}
-      (Also: 
-        {% for relatedtag in post.tags %}
-          {%- unless relatedtag == tag[0] -%}
-            , <a href="#{{ relatedtag }}">{{ relatedtag | capitalize }}</a>
-          {%- endunless -%} 
-        {%- endfor -%} 
-      .)
-      {%- endcapture -%}
-      {{ relatedstring | remove: " ," }}
-      {%- endif -%}
-
-    </li>
-    {%- endif -%}
-  {%- endfor -%} 
-</ul>
-
-{%- endfor -%}
-
-{% include footer.html %}
