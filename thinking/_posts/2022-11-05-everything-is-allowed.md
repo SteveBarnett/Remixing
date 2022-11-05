@@ -1,0 +1,4 @@
+---
+title: Everything is allowed, even resistance.
+tags: acceptance
+---

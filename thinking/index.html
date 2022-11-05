@@ -5,23 +5,39 @@ title: Table of contents
 
 <p>These are some ideas that made me stop and think. They changed how I think about things and how I try to be in the world. They help me be a better person. For me that means being a better friend, partner, teacher, professional, creative.</p>
 
-{% assign thinkingcategories = site.data.thinking | map: "category" | uniq | sort %}
+{%- assign sortedtags = site.tags | sort -%}
 
-{%- for thinkingcategory in thinkingcategories -%}
+{%- for tag in sortedtags -%}
 
-  {%- assign thinks = site.data.thinking | where: "category", thinkingcategory -%}
-  <h2 id="{{ thinkingcategory }}">{{ thinkingcategory | capitalize }}</h2>
-  <ul>
-    {%- for think in thinks -%}
-    <li>{{ think.text }}</li>
-    {%- endfor -%}
-  </ul>
+<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+<ul>
+  {%- assign relatedtagsstring = null -%}
 
-  {%- assign numbeofrelateddoings = site.data.doing | where: "category", thinkingcategory | size -%}
-  {%- if numbeofrelateddoings > 0 -%}
-  See also: Doing > <a href="/doing/#{{ thinkingcategory }}">{{ thinkingcategory | capitalize }}</a>.
-  {%- endif -%}
-  
+  {% for post in tag[1] %}
+    {%- if post.categories contains "thinking" -%}
+    <li>
+      {{ post.title }}
+      
+      <!-- Try and find related tags -->
+      {%- assign posttagssize = post.tags | size -%}
+      {%- if posttagssize > 1 -%}
+      {%- capture relatedstring -%}
+      (Also: 
+        {% for relatedtag in post.tags %}
+          {%- unless relatedtag == tag[0] -%}
+            , <a href="#{{ relatedtag }}">{{ relatedtag | capitalize }}</a>
+          {%- endunless -%} 
+        {%- endfor -%} 
+      .)
+      {%- endcapture -%}
+      {{ relatedstring | remove: " ," }}
+      {%- endif -%}
+
+    </li>
+    {%- endif -%}
+  {%- endfor -%} 
+</ul>
+
 {%- endfor -%}
 
 {% include footer.html %}
