@@ -4,7 +4,11 @@ title: Table of contents
 {% include header.html title="Music" %}
 
 {%- for category in site.categories reversed -%}
-{%- if category[0] != "music" -%}
+{%- if category[0] == "thinking" -%}
+  {% continue %}
+{% elsif category[0] == "doing" %}
+  {% continue %}
+{% else %}
 
 <h2>Album: {{ category[0] }}</h2>
 
