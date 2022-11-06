@@ -12,8 +12,9 @@
   {%- unless numberofpostsfilteredbycategory == 0 -%}
 
     {%- assign tagsrelatedtothistag = "" -%}
+    {%- assign currenttagname = tag[0] -%}
 
-    <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+    <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> {{ currenttagname | capitalize }}</h2>
 
     <ul>
     {%- for post in postsfilteredbycategory -%}
@@ -27,8 +28,8 @@
           {%- capture tagsrelatedtothispost -%}
           &nbsp;Related:&nbsp;
           {%- for taginpost in post.tags -%}
-            {%- unless taginpost == tag[0] -%}
-              , <a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
+            {%- unless taginpost == currenttagname -%}
+              , <a href="#{{ taginpost }}"><span class="tagmoji">{{ site.data.tagmoji[taginpost].emoji }}</span> {{ taginpost | capitalize }}</a>
             {%- endunless -%}
           {%- endfor -%}
           .
@@ -39,7 +40,7 @@
       </li>
 
       {%- for tagfortagrelation in post.tags -%}
-        {%- unless tagfortagrelation == tag[0] -%}
+        {%- unless tagfortagrelation == currenttagname -%}
           {%- assign tagsrelatedtothistag = tagsrelatedtothistag | append: ", " | append: tagfortagrelation -%}
         {%- endunless -%}
       {%- endfor -%}
@@ -50,21 +51,24 @@
     {%- assign tagsrelatedtothistag = tagsrelatedtothistag | remove_first: ", " -%}
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
+    {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
 
-    {%- capture tagsrelatedtothistagstring -%}
-    Related to {{ tag[0] | capitalize }}:&nbsp;
-    {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
-      , <a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
-    {%- endfor -%}
-    .
-    {%- endcapture -%}
-    {{ tagsrelatedtothistagstring | remove_first: ", " }}
+    {%- unless tagsrelatedtothistagarraysize == 0 -%}
+      {%- capture tagsrelatedtothistagstring -%}
+      Related to {{ currenttagname | capitalize }}:&nbsp;
+      {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
+        , <a href="#{{ tagsrelatedtothistaglinks }}"><span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks].emoji }}</span> {{ tagsrelatedtothistaglinks | capitalize }}</a>
+      {%- endfor -%}
+      .
+      {%- endcapture -%}
+      {{ tagsrelatedtothistagstring | remove_first: ", " }}
+    {%- endunless -%}
 
     {%- assign postsfilteredbytheothercategory = tag[1] | where: "categories", page.othercategory -%}
     {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
-    
+
     {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
-    &nbsp;See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <a href="/{{ page.othercategory }}/#{{ tag[0] }}">{{ tag[0] | capitalize }}</a>.
+    &nbsp;See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <a href="/{{ page.othercategory }}/#{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> {{ currenttagname | capitalize }}</a>.
     {%- endunless -%}
 
   {%- endunless -%}
