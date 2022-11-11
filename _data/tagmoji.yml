@@ -21,11 +21,13 @@ inspection:
 motion:
     emoji: 🌊
 non-dual:
-    emoji: 🕉
+    emoji: ♾
 opposites:
     emoji: ↔️
 perception:
     emoji: 🧠
+looping: 
+    emoji: 🌀
 self:
     emoji: 🙋
 tmwt:
