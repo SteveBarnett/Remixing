@@ -1,0 +1,69 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+<p>Below is an overview of the topics in <a href="/{{ page.currentcategory }}/">{{ page.currentcategory | capitalize }}</a>.</p>
+
+{%- assign sortedtags = site.tags | sort -%}
+
+<ul>
+{%- for tag in sortedtags -%}
+
+  {%- assign postsfilteredbycategory = tag[1] | where: "categories", page.currentcategory -%}
+  {%- assign numberofpostsfilteredbycategory = postsfilteredbycategory | size -%}
+
+  {%- unless numberofpostsfilteredbycategory == 0 -%}
+
+    {%- assign tagsrelatedtothistag = "" -%}
+    {%- assign currenttagname = tag[0] -%}
+
+    <li id="{{ currenttagname }}">
+      <span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> <a href="/thinking/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
+
+      <ul>
+
+    {%- for post in postsfilteredbycategory -%}
+      {%- for tagfortagrelation in post.tags -%}
+        {%- unless tagfortagrelation == currenttagname -%}
+          {%- assign tagsrelatedtothistag = tagsrelatedtothistag | append: ", " | append: tagfortagrelation -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    {%- endfor -%}
+
+    {%- assign tagsrelatedtothistag = tagsrelatedtothistag | remove_first: ", " -%}
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
+    {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
+
+    
+    {%- unless tagsrelatedtothistagarraysize == 0 -%}
+      {%- capture tagsrelatedtothistagstring -%}
+          Related:&nbsp;
+        {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
+          , <span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks].emoji }}</span> <a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
+        {%- endfor -%}
+        .
+      {%- endcapture -%}
+      
+      <li>
+        {{ tagsrelatedtothistagstring | remove_first: ", " }}
+      </li>
+    {%- endunless -%}
+
+    {%- assign postsfilteredbytheothercategory = tag[1] | where: "categories", page.othercategory -%}
+    {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
+
+    {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
+    <li>
+      See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> <a href="/{{ page.othercategory }}/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>.
+    </li>
+    {%- endunless -%}
+
+    </ul>
+  </li>
+  {%- endunless -%}
+
+{%- endfor -%}
+</ul>
+
+{% include footer.html %}
