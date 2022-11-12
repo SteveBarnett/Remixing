@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <title>
     {%- if include.title -%}
-    {%- unless include.title == "Doing" -%}
-    {%- unless include.title == "Thinking" -%}
+    {%- unless include.title contains "Doing" -%}
+    {%- unless include.title contains "Thinking" -%}
     {{ include.title }}:&nbsp;
     {%- endunless -%}
     {%- endunless -%}
@@ -28,6 +28,6 @@
 
     {% include nav.html %}
 
-    <main id="main" tabindex="0">
+    <main id="main" tabindex="-1">
 
     <h1>{{ page.title }}</h1>
