@@ -4,6 +4,8 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
+<p>There's also <a href="/{{ page.currentcategory }}/topics/">a list of just the topics</a> and <a href="/{{ page.currentcategory }}/starred/">a list of just the starred items</a>.</p>
+
 {%- for tag in sortedtags -%}
 
   {%- assign postsfilteredbycategory = tag[1] | where: "categories", page.currentcategory -%}
