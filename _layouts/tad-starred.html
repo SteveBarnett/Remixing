@@ -1,0 +1,27 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
+{%- assign starredposts = currentcategoryposts | where: "star", "true" -%}
+
+<ul>
+
+  {%- for starredpost in starredposts -%}
+  <li>
+    {{ starredpost.title }} In&nbsp;
+    
+    {%- capture starredposttags -%}
+      {%- for tag in starredpost.tags -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag].emoji }}</span> <a href="/{{ page.currentcategory }}/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ starredposttags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ul>
+
+<p>See also: <a href="/{{ page.othercategory }}/starred">{{ page.othercategory | capitalize }} → Starred</a>.</p>
+
+{% include footer.html %}
