@@ -31,7 +31,7 @@
           &nbsp;Related:&nbsp;
           {%- for taginpost in post.tags -%}
             {%- unless taginpost == currenttagname -%}
-              , <a href="#{{ taginpost }}"><span class="tagmoji">{{ site.data.tagmoji[taginpost].emoji }}</span> {{ taginpost | capitalize }}</a>
+              , <span class="tagmoji">{{ site.data.tagmoji[taginpost].emoji }}</span> <a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
             {%- endunless -%}
           {%- endfor -%}
           .
@@ -59,7 +59,7 @@
       {%- capture tagsrelatedtothistagstring -%}
       Related to {{ currenttagname | capitalize }}:&nbsp;
       {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
-        , <a href="#{{ tagsrelatedtothistaglinks }}"><span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks].emoji }}</span> {{ tagsrelatedtothistaglinks | capitalize }}</a>
+        , <span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks].emoji }}</span> <a href="#{{ tagsrelatedtothistaglinks }}"> {{ tagsrelatedtothistaglinks | capitalize }}</a>
       {%- endfor -%}
       .
       {%- endcapture -%}
@@ -70,7 +70,7 @@
     {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
 
     {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
-    &nbsp;See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <a href="/{{ page.othercategory }}/#{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> {{ currenttagname | capitalize }}</a>.
+    &nbsp;See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <span class="tagmoji">{{ site.data.tagmoji[currenttagname].emoji }}</span> <a href="/{{ page.othercategory }}/#{{ currenttagname }}"> {{ currenttagname | capitalize }}</a>.
     {%- endunless -%}
 
   {%- endunless -%}
