@@ -20,7 +20,7 @@
 
     <ul>
     {%- for post in postsfilteredbycategory -%}
-      <li>
+      <li id="{{ post.title | truncatewords: 5 | slugify  }}">
         {% if post.star %}★ <strong>{% endif %}
         {{ post.title }}
       {% if post.star %}</strong>{% endif %}
