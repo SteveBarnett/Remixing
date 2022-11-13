@@ -13,7 +13,7 @@
     
     {%- capture starredposttags -%}
       {%- for tag in starredpost.tags -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span> <a href="/{{ page.currentcategory }}/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
