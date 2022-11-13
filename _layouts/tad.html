@@ -21,8 +21,9 @@
     <ul>
     {%- for post in postsfilteredbycategory -%}
       <li>
-        {% if post.star %}★ {% endif %}
+        {% if post.star %}★ <strong>{% endif %}
         {{ post.title }}
+      {% if post.star %}</strong>{% endif %}
 
         {%- assign numberoftags = post.tags | size -%}
         {%- if numberoftags > 1 -%}
