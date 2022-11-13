@@ -1,4 +1,4 @@
 ---
 title: Everything is allowed, even resistance.
-tags: acceptance
+tags: acceptance mindfulness buddhism experience
 ---

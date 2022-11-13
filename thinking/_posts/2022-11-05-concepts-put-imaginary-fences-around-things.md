@@ -1,4 +1,4 @@
 ---
 title: Concepts put imaginary fences around things.
-tags: concepts
+tags: concepts buddhism experience inspection perception
 ---

@@ -1,4 +1,4 @@
 ---
 title: The map is not the territory.
-tags: concepts
+tags: concepts consciousness inspection truth
 ---

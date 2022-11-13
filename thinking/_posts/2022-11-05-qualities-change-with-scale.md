@@ -1,4 +1,4 @@
 ---
 title: Qualities change with scale.
-tags: context
+tags: context concepts experience inspection perception truth tmwt
 ---
