@@ -1,4 +1,4 @@
 ---
 title: We construct our reality. Perception is active participation.
-tags: perception
+tags: perception truth tmwt non-dual experience
 ---

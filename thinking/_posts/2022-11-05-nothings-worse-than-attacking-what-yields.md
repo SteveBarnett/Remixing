@@ -1,4 +1,4 @@
 ---
 title: Nothing's worse than attacking what yields.
-tags: acceptance daoism opposites
+tags: acceptance daoism opposites resilience
 ---

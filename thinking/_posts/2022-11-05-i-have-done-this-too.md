@@ -1,4 +1,4 @@
 ---
 title: I have done this too.
-tags: human
+tags: human self resilience inspection
 ---
