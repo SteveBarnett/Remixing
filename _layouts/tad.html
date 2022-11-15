@@ -16,7 +16,7 @@
     {%- assign tagsrelatedtothistag = "" -%}
     {%- assign currenttagname = tag[0] -%}
 
-    <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> {{ currenttagname | capitalize }}</h2>
+    <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> <a href="#{{ currenttagname }}">{{ currenttagname | capitalize }}</a></h2>
 
     <ul>
     {%- for post in postsfilteredbycategory -%}
