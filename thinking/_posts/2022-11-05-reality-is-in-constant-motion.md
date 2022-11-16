@@ -1,5 +1,5 @@
 ---
 title: Reality is in constant motion.
-tags: motion tmwt truth inspection mindfulness
+tags: motion TMWT truth inspection mindfulness
 star: true
 ---

@@ -1,4 +1,4 @@
 ---
 title: All things are in process, rising and returning.
-tags: motion daoism change experience looping tmwt
+tags: motion daoism change experience looping TMWT
 ---

@@ -1,4 +1,4 @@
 ---
 title: Everything is connected.
-tags: context tmwt buddhism non-dual truth
+tags: context TMWT buddhism non-dual truth
 ---
