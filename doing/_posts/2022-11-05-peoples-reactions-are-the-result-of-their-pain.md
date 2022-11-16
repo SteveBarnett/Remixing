@@ -1,4 +1,4 @@
 ---
 title: People's reactions are the result of their pain.
-tags: human
+tags: human buddhism mindfulness
 ---

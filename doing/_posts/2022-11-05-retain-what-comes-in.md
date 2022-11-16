@@ -1,4 +1,4 @@
 ---
 title: Retain what comes in.
-tags: acceptance daoism
+tags: acceptance daoism resilience
 ---

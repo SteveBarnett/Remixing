@@ -1,4 +1,4 @@
 ---
 title: Look for what’s looking.
-tags: experience
+tags: experience self consciousness
 ---

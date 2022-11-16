@@ -1,4 +1,4 @@
 ---
 title: See Paths of Least Resistance.
-tags: human
+tags: human perception motion
 ---

@@ -1,4 +1,4 @@
 ---
 title: Look for the edges.
-tags: experience
+tags: experience self mindfulness
 ---

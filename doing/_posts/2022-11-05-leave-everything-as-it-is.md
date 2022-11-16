@@ -1,4 +1,4 @@
 ---
 title: Leave everything as it is, in its place.
-tags: experience
+tags: experience buddhism mindfulness slowness
 ---

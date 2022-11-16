@@ -1,4 +1,4 @@
 ---
-title: Be happy for no reason.
-tags: human
+title: Be "happy for no reason."
+tags: human buddhism experience mindfulness
 ---

@@ -1,5 +1,4 @@
 ---
-title: The ocean, not the waves.
+title: The sky, not the clouds.
 tags: experience self buddhism mindfulness consciousness
-star: true
 ---

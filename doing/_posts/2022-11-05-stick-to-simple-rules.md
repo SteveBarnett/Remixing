@@ -1,4 +1,4 @@
 ---
 title: Stick to simple rules.
-tags: human
+tags: human antifragile resilience
 ---

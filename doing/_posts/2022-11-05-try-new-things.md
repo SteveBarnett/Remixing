@@ -1,4 +1,4 @@
 ---
 title: Try new things.
-tags: brave
+tags: brave human
 ---

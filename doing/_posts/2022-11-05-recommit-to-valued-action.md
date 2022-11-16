@@ -1,4 +1,4 @@
 ---
 title: Recommit to valued action.
-tags: human
+tags: human stoicism resilience
 ---

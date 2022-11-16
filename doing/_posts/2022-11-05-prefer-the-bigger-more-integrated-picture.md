@@ -1,4 +1,4 @@
 ---
 title: Prefer the bigger, more integrated picture.
-tags: human
+tags: human TMWT perception
 ---

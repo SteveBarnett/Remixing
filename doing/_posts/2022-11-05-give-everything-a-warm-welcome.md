@@ -1,4 +1,4 @@
 ---
 title: Give everything a warm welcome.
-tags: acceptance experience
+tags: acceptance experience buddhism
 ---

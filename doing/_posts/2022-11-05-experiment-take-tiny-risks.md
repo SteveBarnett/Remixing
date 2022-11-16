@@ -1,4 +1,4 @@
 ---
 title: Experiment, take tiny risks.
-tags: brave
+tags: brave change antifragile
 ---

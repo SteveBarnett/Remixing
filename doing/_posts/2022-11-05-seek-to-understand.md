@@ -1,4 +1,4 @@
 ---
 title: Seek to understand.
-tags: human
+tags: human perception
 ---

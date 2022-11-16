@@ -1,5 +1,5 @@
 ---
 title: I see you, Mara. Let’s have tea.
-tags: acceptance
+tags: acceptance buddhism inspection
 star: true
 ---

@@ -1,4 +1,5 @@
 ---
 title: Slow your tempo.
-tags: slowness daoism
+tags: slowness daoism mindfulness
+star: true
 ---
