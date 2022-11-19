@@ -1,4 +1,4 @@
 ---
 title: Pay more attention.
-tags: mindfulness
+tags: mindfulness buddhism perception
 ---

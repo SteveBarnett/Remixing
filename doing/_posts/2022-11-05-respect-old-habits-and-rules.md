@@ -1,4 +1,4 @@
 ---
 title: Respect the old habits and rules.
-tags: resilience
+tags: resilience antifragile human
 ---

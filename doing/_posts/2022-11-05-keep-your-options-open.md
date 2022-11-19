@@ -1,4 +1,4 @@
 ---
 title: Keep your options open.
-tags: resilience
+tags: resilience antifragile human
 ---

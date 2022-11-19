@@ -1,4 +1,4 @@
 ---
 title: Only forward.
-tags: resilience
+tags: resilience brave human
 ---

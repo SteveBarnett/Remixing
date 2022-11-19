@@ -1,4 +1,4 @@
 ---
 title: Contemplate the sage.
-tags: mindfulness
+tags: mindfulness stoicism inspection
 ---

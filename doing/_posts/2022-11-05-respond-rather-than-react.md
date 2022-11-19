@@ -1,4 +1,4 @@
 ---
 title: Respond rather than react. Intensity and reactivity breed more of the same.
-tags: mindfulness
+tags: mindfulness buddhism stoicism slowness
 ---

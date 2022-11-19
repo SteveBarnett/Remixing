@@ -1,4 +1,4 @@
 ---
 title: The obstacle is the way.
-tags: resilience
+tags: resilience stoicism acceptance
 ---

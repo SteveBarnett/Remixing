@@ -1,4 +1,4 @@
 ---
 title: Withhold judgement.
-tags: slowness
+tags: slowness buddhism daoism
 ---

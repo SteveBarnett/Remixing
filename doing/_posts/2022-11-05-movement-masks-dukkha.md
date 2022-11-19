@@ -1,4 +1,4 @@
 ---
-title: Movement masks dukkha
-tags: mindfulness
+title: Movement masks dukkha.
+tags: mindfulness buddhism slowness
 ---

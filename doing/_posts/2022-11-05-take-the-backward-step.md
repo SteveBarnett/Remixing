@@ -1,4 +1,4 @@
 ---
-title: Just let everything be, in its own place.
+title: Take the backward step.
 tags: mindfulness buddhism consciousness
 ---

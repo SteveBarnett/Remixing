@@ -1,4 +1,4 @@
 ---
 title: Recognise the suffering.
-tags: mindfulness
+tags: mindfulness buddhism human resilience
 ---

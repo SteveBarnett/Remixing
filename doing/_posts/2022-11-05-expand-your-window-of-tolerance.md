@@ -1,4 +1,4 @@
 ---
 title: Expand your window of tolerance.
-tags: mindfulness
+tags: mindfulness buddhism brave human
 ---

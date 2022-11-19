@@ -1,4 +1,4 @@
 ---
 title: Tough and trying times don't stop you from being a good person. 
-tags: resilience
+tags: resilience stoicism human
 ---

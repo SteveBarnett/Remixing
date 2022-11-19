@@ -1,4 +1,4 @@
 ---
 title: Be comfortable with ambiguity.
-tags: mindfulness
+tags: mindfulness buddhism human
 ---

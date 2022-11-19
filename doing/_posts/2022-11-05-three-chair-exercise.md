@@ -1,4 +1,4 @@
 ---
 title: The three chair exercise. 
-tags: mindfulness
+tags: mindfulness human perception
 ---

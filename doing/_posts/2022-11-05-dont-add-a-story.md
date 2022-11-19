@@ -1,4 +1,4 @@
 ---
 title: Don’t add a story.
-tags: mindfulness resilience
+tags: mindfulness resilience buddhism stoicism
 ---
