@@ -7,68 +7,46 @@ title: Notes Archive
 
 <h2>Table of contents</h2>
 
+{% assign philosophynotes = site.notes | where: "category", "philosophy" %}
+{% assign psychologynotes = site.notes | where: "category", "psychology" %}
+{% assign worknotes = site.notes | where: "category", "work" %}
+
 <ul>
   <li>
     <a href="#philosophy">Philosophy</a>
     <ul>
-      {%- for section in site.notes -%}
-      {%- if section.category == "philosophy" -%}
-        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
-      {%- endif -%}
+      {%- for philosophynote in philosophynotes -%}
+        <li><a href="#{{ philosophynote.slug }}">{{ philosophynote.title }}</a></li>
       {%- endfor -%}      
     </ul>
   </li>
   <li>
     <a href="#psychology">Psychology</a>
     <ul>
-      {%- for section in site.notes -%}
-      {%- if section.category == "psychology" -%}
-        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
-      {%- endif -%}
+      {%- for psychologynote in psychologynotes -%}
+        <li><a href="#{{ psychologynote.slug }}">{{ psychologynote.title }}</a></li>
       {%- endfor -%}      
     </ul>
   </li>
   <li>
     <a href="#work">Work</a>
     <ul>
-      {%- for section in site.notes -%}
-      {%- if section.category == "work" -%}
-        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
-      {%- endif -%}
+      {%- for worknote in worknotes -%}
+        <li><a href="#{{ worknote.slug }}">{{ worknote.title }}</a></li>
       {%- endfor -%}      
     </ul>
   </li>
 </ul>
 
-<h2 id="philosophy">Philosophy</h2>
-
-{%- for section in site.notes -%}
-{%- if section.category == "philosophy" -%}
-  <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
-    <ul>
-    {%- for note in site.static_files -%}
-      {%- if note.path contains section.url -%}
-      <li>
-        <a href="{{ note.path }}">
-          {{ note.basename }}
-        </a>
-      </li>
-      {%- endif -%}
-    {%- endfor -%}
-    </ul>
-{%- endif -%}
-{%- endfor -%}
-
 <section id="listing">
 
-  <h2 id="psychology">Psychology</h2>
+  <h2 id="philosophy">Philosophy</h2>
 
-  {%- for section in site.notes -%}
-  {%- if section.category == "psychology" -%}
-    <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
+  {%- for philosophynote in philosophynotes -%}
+    <h3 id="{{ philosophynote.slug }}"><a href="{{ philosophynote.url }}">{{ philosophynote.title }}</a></h3>
       <ul>
       {%- for note in site.static_files -%}
-        {%- if note.path contains section.url -%}
+        {%- if note.path contains philosophynote.url -%}
         <li>
           <a href="{{ note.path }}">
             {{ note.basename }}
@@ -77,17 +55,32 @@ title: Notes Archive
         {%- endif -%}
       {%- endfor -%}
       </ul>
-  {%- endif -%}
+  {%- endfor -%}
+
+  <h2 id="psychology">Psychology</h2>
+
+  {%- for psychologynote in psychologynotes -%}
+    <h3 id="{{ psychologynote.slug }}"><a href="{{ psychologynote.url }}">{{ psychologynote.title }}</a></h3>
+      <ul>
+      {%- for note in site.static_files -%}
+        {%- if note.path contains psychologynote.url -%}
+        <li>
+          <a href="{{ note.path }}">
+            {{ note.basename }}
+          </a>
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
   {%- endfor -%}
 
   <h2 id="work">Work</h2>
 
-  {%- for section in site.notes -%}
-  {%- if section.category == "work" -%}
-    <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
+  {%- for worknote in worknotes -%}
+    <h3 id="{{ worknote.slug }}"><a href="{{ worknote.url }}">{{ worknote.title }}</a></h3>
       <ul>
       {%- for note in site.static_files -%}
-        {%- if note.path contains section.url -%}
+        {%- if note.path contains worknote.url -%}
         <li>
           <a href="{{ note.path }}">
             {{ note.basename }}
@@ -96,7 +89,6 @@ title: Notes Archive
         {%- endif -%}
       {%- endfor -%}
       </ul>
-  {%- endif -%}
   {%- endfor -%}
 
 </section>
