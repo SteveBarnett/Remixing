@@ -3,11 +3,48 @@ title: Notes Archive
 ---
 {% include header.html %}
 
+<p><a href="#listing">Jump to listing ↓</a>.</p>
+
+<h2>Table of contents</h2>
+
+<ul>
+  <li>
+    <a href="#philosophy">Philosophy</a>
+    <ul>
+      {%- for section in site.notes -%}
+      {%- if section.category == "philosophy" -%}
+        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
+      {%- endif -%}
+      {%- endfor -%}      
+    </ul>
+  </li>
+  <li>
+    <a href="#psychology">Psychology</a>
+    <ul>
+      {%- for section in site.notes -%}
+      {%- if section.category == "psychology" -%}
+        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
+      {%- endif -%}
+      {%- endfor -%}      
+    </ul>
+  </li>
+  <li>
+    <a href="#work">Work</a>
+    <ul>
+      {%- for section in site.notes -%}
+      {%- if section.category == "work" -%}
+        <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
+      {%- endif -%}
+      {%- endfor -%}      
+    </ul>
+  </li>
+</ul>
+
 <h2 id="philosophy">Philosophy</h2>
 
 {%- for section in site.notes -%}
 {%- if section.category == "philosophy" -%}
-  <a href="{{ section.url }}"><h3 id="{{ section.slug }}">{{ section.title }}</h3></a>
+  <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
     <ul>
     {%- for note in site.static_files -%}
       {%- if note.path contains section.url -%}
@@ -22,60 +59,46 @@ title: Notes Archive
 {%- endif -%}
 {%- endfor -%}
 
-<h2 id="psychology">Psychology</h2>
+<section id="listing">
 
-{%- for section in site.notes -%}
-{%- if section.category == "psychology" -%}
-  <a href="{{ section.url }}"><h3 id="{{ section.slug }}">{{ section.title }}</h3></a>
-    <ul>
-    {%- for note in site.static_files -%}
-      {%- if note.path contains section.url -%}
-      <li>
-        <a href="{{ note.path }}">
-          {{ note.basename }}
-        </a>
-      </li>
-      {%- endif -%}
-    {%- endfor -%}
-    </ul>
-{%- endif -%}
-{%- endfor -%}
+  <h2 id="psychology">Psychology</h2>
 
-<h2 id="work">Work</h2>
-
-{%- for section in site.notes -%}
-{%- if section.category == "work" -%}
-  <a href="{{ section.url }}"><h3 id="{{ section.slug }}">{{ section.title }}</h3></a>
-    <ul>
-    {%- for note in site.static_files -%}
-      {%- if note.path contains section.url -%}
-      <li>
-        <a href="{{ note.path }}">
-          {{ note.basename }}
-        </a>
-      </li>
-      {%- endif -%}
-    {%- endfor -%}
-    </ul>
-{%- endif -%}
-{%- endfor -%}
-
-<a href="{{ section.url }}"><h2>Misc</h2></a>
-
-{%- for section in site.notes -%}
-{%- if section.category == "misc" -%}
-  <ul>
-  {%- for note in site.static_files -%}
-    {%- if note.path contains section.url -%}
-    <li>
-      <a href="{{ note.path }}">
-        {{ note.basename }}
-      </a>
-    </li>
-    {%- endif -%}
+  {%- for section in site.notes -%}
+  {%- if section.category == "psychology" -%}
+    <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
+      <ul>
+      {%- for note in site.static_files -%}
+        {%- if note.path contains section.url -%}
+        <li>
+          <a href="{{ note.path }}">
+            {{ note.basename }}
+          </a>
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
+  {%- endif -%}
   {%- endfor -%}
-  </ul>
-{%- endif -%}
-{%- endfor -%}
+
+  <h2 id="work">Work</h2>
+
+  {%- for section in site.notes -%}
+  {%- if section.category == "work" -%}
+    <h3 id="{{ section.slug }}"><a href="{{ section.url }}">{{ section.title }}</a></h3>
+      <ul>
+      {%- for note in site.static_files -%}
+        {%- if note.path contains section.url -%}
+        <li>
+          <a href="{{ note.path }}">
+            {{ note.basename }}
+          </a>
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
+  {%- endif -%}
+  {%- endfor -%}
+
+</section>
 
 {% include footer.html %}
