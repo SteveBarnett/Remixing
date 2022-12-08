@@ -2,4 +2,5 @@
 title: Give everything a warm welcome.
 tags: acceptance experience buddhism
 star: true
+order: 2
 ---

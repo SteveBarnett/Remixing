@@ -3,9 +3,9 @@
 {{ content | markdownify }}
 
 {%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
-{%- assign starredposts = currentcategoryposts | where: "star", "true" -%}
+{%- assign starredposts = currentcategoryposts | where: "star", "true" | sort: "order" -%}
 
-<ul>
+<ol>
 
   {%- for starredpost in starredposts -%}
   <li>
@@ -20,7 +20,7 @@
     {{ starredposttags | remove_first: ", " }}.
   </li>
   {%- endfor -%}
-</ul>
+</ol>
 
 <p>See also: <a href="/{{ page.currentcategory }}/topics/">a list of {{ page.currentcategory | capitalize }} topics</a>; <a href="/{{ page.currentcategory }}/all/">a list of all {{ page.currentcategory | capitalize }} items</a>; <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</p>
 
