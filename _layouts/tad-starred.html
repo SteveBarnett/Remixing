@@ -22,6 +22,13 @@
   {%- endfor -%}
 </ol>
 
-<p>See also: <a href="/{{ page.currentcategory }}/topics/">a list of {{ page.currentcategory | capitalize }} topics</a>; <a href="/{{ page.currentcategory }}/all/">a list of all {{ page.currentcategory | capitalize }} items</a>; <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</p>
+<p>See also:</p>
+
+<ul>
+  <li><a href="/{{ page.currentcategory }}/topics/">{{ page.currentcategory | capitalize }} topics</a>;</li>
+  <li> <a href="/{{ page.currentcategory }}/all/">all {{ page.currentcategory | capitalize }} items</a>;</li>
+  <li><a href="/{{ page.currentcategory }}/recently-added/">recently added {{ page.currentcategory | capitalize }} items</a>;</li>
+  <li><a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</li>
+</ul>
 
 {% include footer.html %}
