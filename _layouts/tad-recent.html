@@ -7,7 +7,7 @@
 
 <ol>
 
-  {%- for recentpost in recentposts | limit: 9 -%}
+  {%- for recentpost in recentposts limit: 9 -%}
   <li>
     {{ recentpost.title }} In&nbsp;
     
