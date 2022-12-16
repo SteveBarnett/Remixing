@@ -1,0 +1,27 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
+{%- assign recentposts = currentcategoryposts -%}
+
+<ol>
+
+  {%- for recentpost in recentposts | limit: 9 -%}
+  <li>
+    {{ recentpost.title }} In&nbsp;
+    
+    {%- capture recentposttags -%}
+      {%- for tag in recentpost.tags -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ recentposttags | remove_first: ", " }}. Added {{ recentpost.date | date: "%d-%m-%Y" }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<p>See also: <a href="/{{ page.currentcategory }}/topics/">a list of {{ page.currentcategory | capitalize }} topics</a>; <a href="/{{ page.currentcategory }}/all/">a list of all {{ page.currentcategory | capitalize }} items</a>; <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</p>
+
+{% include footer.html %}

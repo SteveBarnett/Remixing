@@ -4,7 +4,7 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
-<p>There's also <a href="/{{ page.currentcategory }}/topics/">a list of just the topics</a> and <a href="/{{ page.currentcategory }}/starred/">a list of just the starred items</a>.</p>
+<p>There are also lists of <a href="/{{ page.currentcategory }}/starred/">the starred items</a>, <a href="/{{ page.currentcategory }}/topics/">the topics</a>, and <a href="/{{ page.currentcategory }}/recently-added/">recently added items</a>.</p>
 
 {%- for tag in sortedtags -%}
 
