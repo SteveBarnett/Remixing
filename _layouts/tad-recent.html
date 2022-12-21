@@ -9,10 +9,14 @@
 
   {%- for recentpost in recentposts limit: 9 -%}
   <li>
+    {%- if recentpost.star -%}<strong>{%- endif -%}
     {{ recentpost.title }} In&nbsp;
+    {%- if recentpost.star -%}</strong>{%- endif -%}
     
+    {%- assign sortedrecentposttags = recentpost.tags | sort_natural -%}
+
     {%- capture recentposttags -%}
-      {%- for tag in recentpost.tags -%}
+      {%- for tag in sortedrecentposttags -%}
       , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}

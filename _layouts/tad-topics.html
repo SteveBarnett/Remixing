@@ -34,7 +34,7 @@
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
     {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
-
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | sort_natural %}
     
     {%- unless tagsrelatedtothistagarraysize == 0 -%}
       {%- capture tagsrelatedtothistagstring -%}

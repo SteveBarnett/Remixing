@@ -33,9 +33,11 @@
         {%- assign numberoftags = post.tags | size -%}
         {%- if numberoftags > 1 -%}
 
+          {%- assign sortedposttags = post.tags | sort_natural -%}
+
           {%- capture tagsrelatedtothispost -%}
           &nbsp;Related:&nbsp;
-          {%- for taginpost in post.tags -%}
+          {%- for taginpost in sortedposttags -%}
             {%- unless taginpost == currenttagname -%}
               , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
             {%- endunless -%}
@@ -60,6 +62,7 @@
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
     {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
     {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
+    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | sort_natural %}
 
     {%- unless tagsrelatedtothistagarraysize == 0 -%}
       {%- capture tagsrelatedtothistagstring -%}

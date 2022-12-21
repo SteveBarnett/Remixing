@@ -11,8 +11,10 @@
   <li>
     {{ starredpost.title }} In&nbsp;
     
+    {% assign sortedstarredpost = starredpost.tags | sort_natural  %}
+
     {%- capture starredposttags -%}
-      {%- for tag in starredpost.tags -%}
+      {%- for tag in sortedstarredpost -%}
       , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
