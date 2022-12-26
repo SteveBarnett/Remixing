@@ -1,0 +1,82 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
+{%- assign starredposts = currentcategoryposts | where: "star", "true" -%}
+
+{%- assign braveposts = starredposts | where: "tags", "brave" -%}
+{%- assign resilienceposts = starredposts | where: "tags", "resilience" -%}
+{%- assign loveposts = starredposts | where: "tags", "love" -%}
+
+<h2 id="brave" tabindex="-1">Brave</h2>
+
+<ul>
+  {%- for bravepost in braveposts -%}
+  <li>
+    {{ bravepost.title }} In&nbsp;
+    
+    {%- assign sortedbravepost = bravepost.tags | sort_natural -%}
+
+    {%- capture braveposttags -%}
+      {%- for tag in sortedbravepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ braveposttags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2 id="resilient" tabindex="-1">Resilient</h2>
+
+<ul>
+  {%- for resiliencepost in resilienceposts -%}
+  <li>
+    {{ resiliencepost.title }} In&nbsp;
+    
+    {%- assign sortedresiliencepost = resiliencepost.tags | sort_natural -%}
+
+    {%- capture resilienceposttags -%}
+      {%- for tag in sortedresiliencepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ resilienceposttags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2 id="loving" tabindex="-1">Loving</h2>
+
+<ul>
+  {%- for lovepost in loveposts -%}
+  <li>
+    {{ lovepost.title }} In&nbsp;
+    
+    {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
+
+    {%- capture loveposttags -%}
+      {%- for tag in sortedlovepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ loveposttags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ul>
+
+
+<p>See also:</p>
+
+<ul>
+  <li><a href="/{{ page.currentcategory }}/topics/">{{ page.currentcategory | capitalize }} topics</a>;</li>
+  <li> <a href="/{{ page.currentcategory }}/all/">all {{ page.currentcategory | capitalize }} items</a>;</li>
+  <li><a href="/{{ page.currentcategory }}/recently-added/">recently added {{ page.currentcategory | capitalize }} items</a>;</li>
+  <li><a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</li>
+</ul>
+
+{% include footer.html %}
