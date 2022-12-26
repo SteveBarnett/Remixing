@@ -1,4 +1,5 @@
 ---
 title: Be vulnerable.
-tags: slowness human
+tags: slowness human brave
+star: true
 ---

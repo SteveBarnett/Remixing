@@ -1,4 +1,5 @@
 ---
 title: Give Benefits, freely and easily.
-tags: human stoicism
+tags: human stoicism love
+star: true
 ---
