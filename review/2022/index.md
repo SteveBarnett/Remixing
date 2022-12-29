@@ -34,6 +34,7 @@ I read some great books and played some great games in 2022. Here are my top 5s,
 - [The Matter With Things by Iain McGilchrist](https://www.goodreads.com/book/show/59577089-the-matter-with-things). A gargantuan beast that brings together lots of things into one epic journey.
 - [Losing Ourselves by Jay L. Garfield](https://www.goodreads.com/book/show/61146136-losing-ourselves). Very thought-provoking discussion of the nature of self as a series of overlapping processes.
 - [Li: Dynamic Form in Nature by David G. Wade](https://www.goodreads.com/book/show/316280.Li). Beautiful little book highlighting the patterns on, in, and under everything.
+- [Crystal and Dragon by David G. Wade](https://www.goodreads.com/book/show/363920.Crystal_and_Dragon). A thoughtful, scientific, mystical, look at form and energy.
 
 ### Games
 
