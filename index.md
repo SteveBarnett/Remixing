@@ -5,9 +5,11 @@ layout: page
 
 Hi, I’m Steve Barnett. Here are some of the things I do.
 
+I tend to be quite reflective. Here's [a short review of my 2022](/review/2022/).
+
 ## Personal
 
-I **read** quite a bit. Around the start of 2018 I started tracking what I read on [my goodreads profile](https://www.goodreads.com/max_barners). I tend to read sci-fi, psychology, philosophy, and work books. I often [write up my notes on index cards](/notes/) to help me summarise and remember the content. Here's [a short review of my 2022](/review/2022/).
+I **read** quite a bit. Around the start of 2018 I started tracking what I read on [my goodreads profile](https://www.goodreads.com/max_barners). I keep [a copy of the list here](/reading). I try to read widely, but I like sci-fi, psychology, and philosophy. I often [write up my notes on index cards](/notes/) to help me summarise and remember the content.
 
 I like making **pictures**. Of cats, dogs, and other odd things. Often abstract or strange juxtapositions. I go by the nickname Max Barners. [See some of my photos on Instagram](https://www.instagram.com/maxbarners/). Sometimes [I like to sketch and draw](/art/), especially in small and weird ways.
 
