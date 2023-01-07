@@ -9,11 +9,13 @@ Some things I learned:
 - taking holidays is more important than I think, **but/and** the details are less important than I think;
 - I am (still) very conflict-avoidant, **but/and** I've learned to speak up more when I'm unhappy;
 - I'm regularly grateful for my (meditation and mindfulness) practice;
-- Daoism is very much my jam (see my [notes](/notes/#daoism), [thinking](/thinking/all/#daoism), and [doing](/doing/all/#daoism).
+- Daoism is very much my jam (see my [notes](/notes/#daoism), [thinking](/thinking/all/#daoism), and [doing](/doing/all/#daoism)).
 
-My favourite new place this year was [New Plymouth](https://www.newzealand.com/au/new-plymouth/).
+My favourite new place this year was [New Plymouth](https://www.newzealand.com/au/new-plymouth/). It's a lot like Wellington (where I live), but... smaller and a little cuter.
 
 Overall, this has been a quite a quiet year, **but/and** things are good.
+
+(If you're wondering about "but/and": [I'm borrowing it from (the very excellent) Robin Sloan](https://www.robinsloan.com/notes/but-and/))
 
 ## Media
 
