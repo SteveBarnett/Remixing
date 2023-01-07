@@ -10,8 +10,9 @@
   {%- for recentpost in recentposts limit: 9 -%}
   <li>
     {%- if recentpost.star -%}<strong>{%- endif -%}
-    {{ recentpost.title }} In&nbsp;
+    {{ recentpost.title }} 
     {%- if recentpost.star -%}</strong>{%- endif -%}
+    &nbsp;In&nbsp;
     
     {%- assign sortedrecentposttags = recentpost.tags | sort_natural -%}
 
