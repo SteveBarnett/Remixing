@@ -6,6 +6,19 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
+<h2>The topics</h2>
+
+{%- capture listoftags -%}
+  {%- for tag in sortedtags -%}
+    {%- assign currenttagname = tag[0] -%}
+    , <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
+  {%- endfor -%}
+{%- endcapture -%}
+
+{{ listoftags | remove_first: ", " }}.
+
+<h2>The connections</h2>
+
 <ul>
 {%- for tag in sortedtags -%}
 
