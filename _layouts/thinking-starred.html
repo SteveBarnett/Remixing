@@ -2,6 +2,15 @@
 
 {{ content | markdownify }}
 
+<h2>Table of contents</h2>
+
+<ol>
+  <li><a href="#short-form">Short form</a></li>
+  <li><a href="#long-form">Long form</a></li>
+</ol>
+
+<h2 id="short-form" tabindex="-1">Short form</h2>
+
 {%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
 {%- assign starredposts = currentcategoryposts | where: "star", "true" | sort: "order" -%}
 
@@ -31,6 +40,12 @@
   <li> <a href="/{{ page.currentcategory }}/all/">all {{ page.currentcategory | capitalize }} items</a>;</li>
   <li><a href="/{{ page.currentcategory }}/recently-added/">recently added {{ page.currentcategory | capitalize }} items</a>;</li>
   <li><a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</li>
+</ul>
+
+<h2 id="long-form" tabindex="-1">Long form</h2>
+
+<ul>
+  <li><a href="/thinking/layers">Layers</a></li>
 </ul>
 
 {% include footer.html %}
