@@ -9,31 +9,116 @@
   <li><a href="#long-form">Long form</a></li>
 </ol>
 
+{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
+
 <h2 id="short-form" tabindex="-1">Short form</h2>
 
-{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
-{%- assign starredposts = currentcategoryposts | where: "star", "true" | sort: "order" -%}
+<h3 id="preamble">Preamble</h3>
+{%- assign preambleposts = currentcategoryposts | where: "preamble", "true" | sort: "order" -%}
 
 <ol>
-
-  {%- for starredpost in starredposts -%}
+  {%- for preamble in preambleposts -%}
   <li>
-    {{ starredpost.title }} In&nbsp;
+    {{ preamble.title }} In&nbsp;
     
-    {% assign sortedstarredpost = starredpost.tags | sort_natural  %}
+    {% assign sortedpreamble = preamble.tags | sort_natural  %}
 
-    {%- capture starredposttags -%}
-      {%- for tag in sortedstarredpost -%}
+    {%- capture preambletags -%}
+      {%- for tag in sortedpreamble -%}
       , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ starredposttags | remove_first: ", " }}.
+    {{ preambletags | remove_first: ", " }}.
   </li>
   {%- endfor -%}
 </ol>
 
-<p>See also:</p>
+<h3 id="thebigidea">The Big Idea</h3>
+{%- assign thebigideaposts = currentcategoryposts | where: "thebigidea", "true" | sort: "order" -%}
+
+<ol>
+  {%- for thebigidea in thebigideaposts -%}
+  <li>
+    {{ thebigidea.title }} In&nbsp;
+    
+    {% assign sortedthebigidea = thebigidea.tags | sort_natural  %}
+
+    {%- capture thebigideatags -%}
+      {%- for tag in sortedthebigidea -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thebigideatags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="reality">Reality</h3>
+{%- assign realityposts = currentcategoryposts | where: "reality", "true" | sort: "order" -%}
+
+<ol>
+  {%- for reality in realityposts -%}
+  <li>
+    {{ reality.title }} In&nbsp;
+    
+    {% assign sortedreality = reality.tags | sort_natural  %}
+
+    {%- capture realitytags -%}
+      {%- for tag in sortedreality -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ realitytags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="perception">Perception</h3>
+{%- assign perceptionposts = currentcategoryposts | where: "perception", "true" | sort: "order" -%}
+
+<ol>
+  {%- for perception in perceptionposts -%}
+  <li>
+    {{ perception.title }} In&nbsp;
+    
+    {% assign sortedperception = perception.tags | sort_natural  %}
+
+    {%- capture perceptiontags -%}
+      {%- for tag in sortedperception -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ perceptiontags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="concepts">Concepts</h3>
+{%- assign conceptsposts = currentcategoryposts | where: "concepts", "true" | sort: "order" -%}
+
+<ol>
+  {%- for conceptspost in conceptsposts -%}
+  <li>
+    {{ conceptspost.title }} In&nbsp;
+    
+    {% assign sortedconceptspost = conceptspost.tags | sort_natural  %}
+
+    {%- capture conceptsposttags -%}
+      {%- for tag in sortedconceptspost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ conceptsposttags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2>See also</h2>
 
 <ul>
   <li><a href="/{{ page.currentcategory }}/topics/">{{ page.currentcategory | capitalize }} topics</a>;</li>
