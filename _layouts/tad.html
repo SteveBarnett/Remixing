@@ -36,7 +36,7 @@
           {%- assign sortedposttags = post.tags | sort_natural -%}
 
           {%- capture tagsrelatedtothispost -%}
-          &nbsp;Related:&nbsp;
+          Related:&nbsp;
           {%- for taginpost in sortedposttags -%}
             {%- unless taginpost == currenttagname -%}
               , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
