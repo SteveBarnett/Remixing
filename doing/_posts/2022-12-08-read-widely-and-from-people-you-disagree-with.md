@@ -1,4 +1,4 @@
 ---
-title: Read widely and from people you disagree with
+title: Read widely and from people you disagree with.
 tags: human antifragile TMWT
 ---

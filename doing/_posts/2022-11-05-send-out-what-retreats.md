@@ -1,4 +1,4 @@
 ---
 title: Send out what retreats.
-tags: slowness daoism motion
+tags: slowness daoism
 ---

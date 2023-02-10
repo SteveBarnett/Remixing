@@ -1,4 +1,4 @@
 ---
 title: Tend the garden.
-tags: mindfulness buddhism change
+tags: mindfulness buddhism
 ---

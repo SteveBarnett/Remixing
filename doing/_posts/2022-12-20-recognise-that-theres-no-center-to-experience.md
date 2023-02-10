@@ -1,4 +1,4 @@
 ---
 title: Recognise that there's no center to experience
-tags: consciousness experience non-dual
+tags: consciousness experience
 ---
