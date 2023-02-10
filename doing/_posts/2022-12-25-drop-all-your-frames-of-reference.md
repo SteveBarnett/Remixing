@@ -1,4 +1,4 @@
 ---
-title: Drop all your frames of reference
+title: Drop all your frames of reference.
 tags: experience mindfulness consciousness
 ---
