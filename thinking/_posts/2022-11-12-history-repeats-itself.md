@@ -1,4 +1,4 @@
 ---
 title: History repeats itself, but not in quite the same way.
-tags: truth TMWT motion looping
+tags: truth TMWT motion
 ---
