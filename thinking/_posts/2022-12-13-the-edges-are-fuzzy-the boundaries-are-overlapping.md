@@ -1,6 +1,4 @@
 ---
 title: The edges are fuzzy. The boundaries are overlapping.
-tags: concepts non-dual truth
-star: true
-order: 7
+tags: concepts non-dual
 ---

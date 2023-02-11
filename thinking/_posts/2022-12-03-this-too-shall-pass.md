@@ -1,4 +1,4 @@
 ---
-title: This too shall pass
-tags: acceptance change motion truth
+title: This too shall pass.
+tags: acceptance motion
 ---

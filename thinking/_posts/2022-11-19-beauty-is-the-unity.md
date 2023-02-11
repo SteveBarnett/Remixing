@@ -1,4 +1,4 @@
 ---
 title: Beauty is the unity of sameness and difference.
-tags: TMWT truth human
+tags: TMWT human
 ---

@@ -118,6 +118,50 @@
   {%- endfor -%}
 </ol>
 
+<hr />
+
+<h3 id="concepts">Free Will and Self</h3>
+{%- assign freewillandselfs = currentcategoryposts | where: "freewillandself", "true" | sort: "order" -%}
+
+<ol>
+  {%- for freewillandself in freewillandselfs -%}
+  <li>
+    {{ freewillandself.title }} In&nbsp;
+    
+    {% assign sortedfreewillandself = freewillandself.tags | sort_natural  %}
+
+    {%- capture freewillandselftags -%}
+      {%- for tag in sortedfreewillandself -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ freewillandselftags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="concepts">The Tao</h3>
+{%- assign thetaos = currentcategoryposts | where: "thetao", "true" | sort: "order" -%}
+
+<ol>
+  {%- for thetao in thetaos -%}
+  <li>
+    {{ thetao.title }} In&nbsp;
+    
+    {% assign sortedthetao = thetao.tags | sort_natural  %}
+
+    {%- capture thetaotags -%}
+      {%- for tag in sortedthetao -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thetaotags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
 <h2>See also</h2>
 
 <ul>

@@ -1,4 +1,4 @@
 ---
 title: Experiental reality is much deeper, richer, than what can be named
-tags: buddhism truth experience
+tags: buddhism experience
 ---
