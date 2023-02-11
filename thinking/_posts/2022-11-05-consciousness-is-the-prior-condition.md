@@ -1,4 +1,4 @@
 ---
 title: Consciousness is the prior condition of everything you experience.
-tags: experience self buddhism consciousness mindfulness
+tags: experience self buddhism consciousness waking-up
 ---
