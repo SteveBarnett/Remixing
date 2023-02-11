@@ -31,7 +31,7 @@
     {%- assign currenttagname = tag[0] -%}
 
     <li id="{{ currenttagname }}">
-      <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/thinking/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
+      <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
 
       <ul>
 
