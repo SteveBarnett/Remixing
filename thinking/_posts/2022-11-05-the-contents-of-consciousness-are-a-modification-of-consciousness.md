@@ -1,4 +1,4 @@
 ---
 title: The contents of consciousness are a modification of consciousness.
-tags: experience
+tags: experience waking-up
 ---

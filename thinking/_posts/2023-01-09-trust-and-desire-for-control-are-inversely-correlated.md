@@ -1,4 +1,4 @@
 ---
-title: Trust and desire for control are inversely correlated
+title: Trust and desire for control are inversely correlated.
 tags: acceptance buddhism resilience
 ---

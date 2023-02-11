@@ -1,6 +1,6 @@
 ---
 title: Subject and object are distinct, but not separate.
-tags: non-dual buddhism TMWT
+tags: non-dual buddhism TMWT waking-up
 star: true
 perception: true
 order: 2
