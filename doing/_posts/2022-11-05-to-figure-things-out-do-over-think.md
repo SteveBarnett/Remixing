@@ -1,4 +1,4 @@
 ---
 title: To figure things out, Do > Think.
-tags: brave human inspection antifragile
+tags: brave human antifragile
 ---

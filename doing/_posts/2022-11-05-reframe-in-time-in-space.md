@@ -1,5 +1,5 @@
 ---
 title: Reframe. In time, in space.
-tags: mindfulness stoicism perception human love
+tags: mindfulness stoicism human love
 star: true
 ---

@@ -1,4 +1,4 @@
 ---
 title: Admit ignorance, give power.
-tags: human brave conflict
+tags: human brave
 ---

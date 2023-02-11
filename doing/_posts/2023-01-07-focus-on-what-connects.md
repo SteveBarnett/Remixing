@@ -1,4 +1,4 @@
 ---
 title: Ask questions about and focus on what connects, not what divides
-tags: human conflict
+tags: human
 ---

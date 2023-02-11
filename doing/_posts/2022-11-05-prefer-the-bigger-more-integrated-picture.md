@@ -1,6 +1,6 @@
 ---
 title: Prefer the bigger, more integrated picture.
-tags: human TMWT perception
+tags: human TMWT
 star: true
 preamble: true
 order: 3

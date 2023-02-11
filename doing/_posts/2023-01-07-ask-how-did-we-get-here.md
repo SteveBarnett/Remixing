@@ -1,4 +1,4 @@
 ---
-title: Ask How did we get here?
-tags: brave human conflict
+title: 'Ask "How did we get here?"'
+tags: brave human
 ---

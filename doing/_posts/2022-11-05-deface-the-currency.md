@@ -1,4 +1,4 @@
 ---
 title: Deface the currency.
-tags: human stoicism perception
+tags: human stoicism
 ---
