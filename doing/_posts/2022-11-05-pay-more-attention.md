@@ -1,4 +1,4 @@
 ---
 title: Pay more attention.
-tags: mindfulness buddhism
+tags: mindfulness buddhism waking-up
 ---
