@@ -1,4 +1,4 @@
 ---
 title: Follow The Middle Way.
-tags: human buddhism mindfulness
+tags: buddhism mindfulness
 ---
