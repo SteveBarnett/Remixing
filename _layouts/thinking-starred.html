@@ -162,6 +162,27 @@
   {%- endfor -%}
 </ol>
 
+<h3 id="no-problem">No Problem</h3>
+{%- assign noproblems = currentcategoryposts | where: "noproblem", "true" | sort: "order" -%}
+
+<ol>
+  {%- for noproblem in noproblems -%}
+  <li>
+    {{ noproblem.title }} In&nbsp;
+    
+    {% assign sortednoproblem = noproblem.tags | sort_natural  %}
+
+    {%- capture noproblemtags -%}
+      {%- for tag in sortednoproblem -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ noproblemtags | remove_first: ", " }}.
+  </li>
+  {%- endfor -%}
+</ol>
+
 <h2>See also</h2>
 
 <ul>
