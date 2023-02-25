@@ -14,7 +14,7 @@
 <ul>
   {%- for bravepost in braveposts -%}
   <li id="{{ bravepost.title | truncatewords: 5 | slugify  }}">
-    {{ bravepost.title }} <span class="tags">In&nbsp;
+    {{ bravepost.title }} <span class="tags">In 
     
     {%- assign sortedbravepost = bravepost.tags | sort_natural -%}
 
@@ -34,7 +34,7 @@
 <ul>
   {%- for resiliencepost in resilienceposts -%}
   <li id="{{ resiliencepost.title | truncatewords: 5 | slugify  }}">
-    {{ resiliencepost.title }} <span class="tags">In&nbsp;
+    {{ resiliencepost.title }} <span class="tags">In 
     
     {%- assign sortedresiliencepost = resiliencepost.tags | sort_natural -%}
 
@@ -54,7 +54,7 @@
 <ul>
   {%- for lovepost in loveposts -%}
   <li id="{{ lovepost.title | truncatewords: 5 | slugify  }}">
-    {{ lovepost.title }} <span class="tags">In&nbsp;
+    {{ lovepost.title }} <span class="tags">In 
     
     {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
 
