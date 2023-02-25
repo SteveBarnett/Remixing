@@ -183,6 +183,27 @@
   {%- endfor -%}
 </ol>
 
+<h3 id="palliative">The Palliative Society</h3>
+{%- assign palliatives = currentcategoryposts | where: "pain", "true" | sort: "order" -%}
+
+<ol>
+  {%- for palliative in palliatives -%}
+  <li id="{{ palliative.title | truncatewords: 5 | slugify  }}">
+    {{ palliative.title }} <span class="tags">In&nbsp;
+    
+    {% assign sortedpalliative = palliative.tags | sort_natural  %}
+
+    {%- capture palliativetags -%}
+      {%- for tag in sortedpalliative -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ palliativetags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
 <h2>See also</h2>
 
 <ul>
