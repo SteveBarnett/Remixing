@@ -8,11 +8,11 @@
 <ol>
 
   {%- for recentpost in recentposts limit: 9 -%}
-  <li>
+  <li id="{{ recentpost.title | truncatewords: 5 | slugify  }}">
     {%- if recentpost.star -%}<strong>{%- endif -%}
     {{ recentpost.title }} 
     {%- if recentpost.star -%}</strong>{%- endif -%}
-    &nbsp;In&nbsp;
+    <span class="tags">&nbsp;In&nbsp;
     
     {%- assign sortedrecentposttags = recentpost.tags | sort_natural -%}
 
@@ -22,7 +22,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ recentposttags | remove_first: ", " }}. Added {{ recentpost.date | date: "%d-%m-%Y" }}.
+    {{ recentposttags | remove_first: ", " }}. Added {{ recentpost.date | date: "%d-%m-%Y" }}.</span>
   </li>
   {%- endfor -%}
 </ol>

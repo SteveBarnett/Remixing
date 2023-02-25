@@ -142,13 +142,20 @@ h2 {
   border-bottom: 1px solid #333;
 }
 
-h1:target:before, h2:target:before, h3:target:before, li:target:before {
+h1:target:before, h2:target:before, h3:target:before {
   content: "→";
   margin-right: 0.25em;
 }
 
 li:target {
-  font-weight: bold;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 2em;
+}
+
+li:target .tags {
+  font-size: 0.5em;
+  display: block;
 }
 
 a {

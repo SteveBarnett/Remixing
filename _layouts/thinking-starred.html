@@ -18,8 +18,8 @@
 
 <ol>
   {%- for preamble in preambleposts -%}
-  <li>
-    {{ preamble.title }} In&nbsp;
+  <li id="{{ preamble.title | truncatewords: 5 | slugify  }}">
+    {{ preamble.title }} <span class="tags">In&nbsp;
     
     {% assign sortedpreamble = preamble.tags | sort_natural  %}
 
@@ -29,7 +29,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ preambletags | remove_first: ", " }}.
+    {{ preambletags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -39,8 +39,8 @@
 
 <ol>
   {%- for thebigidea in thebigideaposts -%}
-  <li>
-    {{ thebigidea.title }} In&nbsp;
+  <li id="{{ thebigidea.title | truncatewords: 5 | slugify  }}">
+    {{ thebigidea.title }} <span class="tags">In&nbsp;
     
     {% assign sortedthebigidea = thebigidea.tags | sort_natural  %}
 
@@ -50,7 +50,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ thebigideatags | remove_first: ", " }}.
+    {{ thebigideatags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -60,8 +60,8 @@
 
 <ol>
   {%- for reality in realityposts -%}
-  <li>
-    {{ reality.title }} In&nbsp;
+  <li id="{{ reality.title | truncatewords: 5 | slugify  }}">
+    {{ reality.title }} <span class="tags">In&nbsp;
     
     {% assign sortedreality = reality.tags | sort_natural  %}
 
@@ -71,7 +71,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ realitytags | remove_first: ", " }}.
+    {{ realitytags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -81,8 +81,8 @@
 
 <ol>
   {%- for perception in perceptionposts -%}
-  <li>
-    {{ perception.title }} In&nbsp;
+  <li id="{{ perception.title | truncatewords: 5 | slugify  }}">
+    {{ perception.title }} <span class="tags">In&nbsp;
     
     {% assign sortedperception = perception.tags | sort_natural  %}
 
@@ -92,7 +92,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ perceptiontags | remove_first: ", " }}.
+    {{ perceptiontags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -102,8 +102,8 @@
 
 <ol>
   {%- for conceptspost in conceptsposts -%}
-  <li>
-    {{ conceptspost.title }} In&nbsp;
+  <li id="{{ conceptspost.title | truncatewords: 5 | slugify  }}">
+    {{ conceptspost.title }} <span class="tags">In&nbsp;
     
     {% assign sortedconceptspost = conceptspost.tags | sort_natural  %}
 
@@ -113,7 +113,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ conceptsposttags | remove_first: ", " }}.
+    {{ conceptsposttags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -125,8 +125,8 @@
 
 <ol>
   {%- for freewillandself in freewillandselfs -%}
-  <li>
-    {{ freewillandself.title }} In&nbsp;
+  <li id="{{ freewillandself.title | truncatewords: 5 | slugify  }}">
+    {{ freewillandself.title }} <span class="tags">In&nbsp;
     
     {% assign sortedfreewillandself = freewillandself.tags | sort_natural  %}
 
@@ -136,7 +136,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ freewillandselftags | remove_first: ", " }}.
+    {{ freewillandselftags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -146,8 +146,8 @@
 
 <ol>
   {%- for thetao in thetaos -%}
-  <li>
-    {{ thetao.title }} In&nbsp;
+  <li id="{{ thetao.title | truncatewords: 5 | slugify  }}">
+    {{ thetao.title }} <span class="tags">In&nbsp;
     
     {% assign sortedthetao = thetao.tags | sort_natural  %}
 
@@ -157,7 +157,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ thetaotags | remove_first: ", " }}.
+    {{ thetaotags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>
@@ -167,8 +167,8 @@
 
 <ol>
   {%- for noproblem in noproblems -%}
-  <li>
-    {{ noproblem.title }} In&nbsp;
+  <li id="{{ noproblem.title | truncatewords: 5 | slugify  }}">
+    {{ noproblem.title }} <span class="tags">In&nbsp;
     
     {% assign sortednoproblem = noproblem.tags | sort_natural  %}
 
@@ -178,7 +178,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ noproblemtags | remove_first: ", " }}.
+    {{ noproblemtags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>

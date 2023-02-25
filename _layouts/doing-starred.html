@@ -13,8 +13,8 @@
 
 <ul>
   {%- for bravepost in braveposts -%}
-  <li>
-    {{ bravepost.title }} In&nbsp;
+  <li id="{{ bravepost.title | truncatewords: 5 | slugify  }}">
+    {{ bravepost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedbravepost = bravepost.tags | sort_natural -%}
 
@@ -24,7 +24,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ braveposttags | remove_first: ", " }}.
+    {{ braveposttags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ul>
@@ -33,8 +33,8 @@
 
 <ul>
   {%- for resiliencepost in resilienceposts -%}
-  <li>
-    {{ resiliencepost.title }} In&nbsp;
+  <li id="{{ resiliencepost.title | truncatewords: 5 | slugify  }}">
+    {{ resiliencepost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedresiliencepost = resiliencepost.tags | sort_natural -%}
 
@@ -44,7 +44,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ resilienceposttags | remove_first: ", " }}.
+    {{ resilienceposttags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ul>
@@ -53,8 +53,8 @@
 
 <ul>
   {%- for lovepost in loveposts -%}
-  <li>
-    {{ lovepost.title }} In&nbsp;
+  <li id="{{ lovepost.title | truncatewords: 5 | slugify  }}">
+    {{ lovepost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
 
@@ -64,7 +64,7 @@
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ loveposttags | remove_first: ", " }}.
+    {{ loveposttags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ul>
