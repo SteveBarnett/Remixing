@@ -9,12 +9,12 @@ This is a copy of [my goodreads list](https://www.goodreads.com/max_barners).
 
 <ol reversed>
 {% for book in site.data.books2023 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}
 		{%- if book.my_rating == 0 -%}
 		.
 		{%- else -%}
-		, rated {{ book.my_rating }}/5.
+		, <span class="rating">rated {{ book.my_rating }}/5</span>.
 		{%- endif-%}
 	</li>
 {% endfor %}

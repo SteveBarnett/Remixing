@@ -218,6 +218,10 @@ li.thumbs-extra-small {
   margin-bottom: 1rem;
 }
 
+.five-star .author, .five-star .rating {
+  font-weight: bold;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
