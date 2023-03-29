@@ -2,13 +2,6 @@
 
 {{ content | markdownify }}
 
-<h2>Table of contents</h2>
-
-<ol>
-  <li><a href="#short-form">Short form</a></li>
-  <li><a href="#long-form">Long form</a></li>
-</ol>
-
 {%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
 
 <h2 id="short-form" tabindex="-1">Short form</h2>
@@ -118,91 +111,22 @@
   {%- endfor -%}
 </ol>
 
-<hr />
+<h2 id="longer-form" tabindex="-1">Long former</h2>
 
-<h3 id="free-will-and-self">Free Will and Self</h3>
-{%- assign freewillandselfs = currentcategoryposts | where: "freewillandself", "true" | sort: "order" -%}
+<ul>
+  <li><a href="/thinking/layers/">Layers</a></li>
+  <li><a href="/thinking/how-i-take-notes/">How I take notes</a></li>
+  <li><a href="/thinking/before-thoughts/">Before thoughts</a></li>
+</ul>
 
-<ol>
-  {%- for freewillandself in freewillandselfs -%}
-  <li id="{{ freewillandself.title | truncatewords: 5 | slugify  }}">
-    {{ freewillandself.title }} <span class="tags">In
-    
-    {% assign sortedfreewillandself = freewillandself.tags | sort_natural  %}
+<h2>Collections</h2>
 
-    {%- capture freewillandselftags -%}
-      {%- for tag in sortedfreewillandself -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ freewillandselftags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ol>
-
-<h3 id="the-tao">The Tao</h3>
-{%- assign thetaos = currentcategoryposts | where: "thetao", "true" | sort: "order" -%}
-
-<ol>
-  {%- for thetao in thetaos -%}
-  <li id="{{ thetao.title | truncatewords: 5 | slugify  }}">
-    {{ thetao.title }} <span class="tags">In
-    
-    {% assign sortedthetao = thetao.tags | sort_natural  %}
-
-    {%- capture thetaotags -%}
-      {%- for tag in sortedthetao -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ thetaotags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ol>
-
-<h3 id="no-problem">No Problem</h3>
-{%- assign noproblems = currentcategoryposts | where: "noproblem", "true" | sort: "order" -%}
-
-<ol>
-  {%- for noproblem in noproblems -%}
-  <li id="{{ noproblem.title | truncatewords: 5 | slugify  }}">
-    {{ noproblem.title }} <span class="tags">In
-    
-    {% assign sortednoproblem = noproblem.tags | sort_natural  %}
-
-    {%- capture noproblemtags -%}
-      {%- for tag in sortednoproblem -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ noproblemtags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ol>
-
-<h3 id="palliative">The Palliative Society</h3>
-{%- assign palliatives = currentcategoryposts | where: "pain", "true" | sort: "order" -%}
-
-<ol>
-  {%- for palliative in palliatives -%}
-  <li id="{{ palliative.title | truncatewords: 5 | slugify  }}">
-    {{ palliative.title }} <span class="tags">In
-    
-    {% assign sortedpalliative = palliative.tags | sort_natural  %}
-
-    {%- capture palliativetags -%}
-      {%- for tag in sortedpalliative -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ palliativetags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ol>
+<ul>
+  <li><a href="/thinking/the-tao/">The Tao</a></li>
+  <li><a href="/thinking/free-will-and-self/">Free Will and Self</a></li>
+  <li><a href="/thinking/no-problem/">No Problem</a></li>
+  <li><a href="/thinking/the-palliative-society/">The Palliative Society</a></li>
+</ul>
 
 <h2>See also</h2>
 
@@ -211,13 +135,6 @@
   <li> <a href="/{{ page.currentcategory }}/all/">all {{ page.currentcategory | capitalize }} items</a>;</li>
   <li><a href="/{{ page.currentcategory }}/recently-added/">recently added {{ page.currentcategory | capitalize }} items</a>;</li>
   <li><a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</li>
-</ul>
-
-<h2 id="long-form" tabindex="-1">Long form</h2>
-
-<ul>
-  <li><a href="/thinking/layers/">Layers</a></li>
-  <li><a href="/thinking/how-i-take-notes/">How I take notes</a></li>
 </ul>
 
 {% include footer.html %}

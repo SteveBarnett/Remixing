@@ -1,0 +1,24 @@
+---
+layout: page
+title: Free Will and Self
+---
+
+{%- assign freewillandselfs = site.posts | where: "freewillandself", "true" | sort: "order" -%}
+
+<ol>
+  {%- for freewillandself in freewillandselfs -%}
+  <li id="{{ freewillandself.title | truncatewords: 5 | slugify  }}">
+    {{ freewillandself.title }} <span class="tags">In
+    
+    {% assign sortedfreewillandself = freewillandself.tags | sort_natural  %}
+
+    {%- capture freewillandselftags -%}
+      {%- for tag in sortedfreewillandself -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ freewillandselftags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>

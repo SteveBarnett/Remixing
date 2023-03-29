@@ -1,0 +1,24 @@
+---
+layout: page
+title: No Problem
+---
+
+{%- assign noproblems = site.posts | where: "noproblem", "true" | sort: "order" -%}
+
+<ol>
+  {%- for noproblem in noproblems -%}
+  <li id="{{ noproblem.title | truncatewords: 5 | slugify  }}">
+    {{ noproblem.title }} <span class="tags">In
+    
+    {% assign sortednoproblem = noproblem.tags | sort_natural  %}
+
+    {%- capture noproblemtags -%}
+      {%- for tag in sortednoproblem -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ noproblemtags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>

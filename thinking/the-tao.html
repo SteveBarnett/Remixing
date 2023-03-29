@@ -1,0 +1,24 @@
+---
+layout: page
+title: The Tao
+---
+
+{%- assign thetaos = site.posts | where: "thetao", "true" | sort: "order" -%}
+
+<ol>
+  {%- for thetao in thetaos -%}
+  <li id="{{ thetao.title | truncatewords: 5 | slugify  }}">
+    {{ thetao.title }} <span class="tags">In
+    
+    {% assign sortedthetao = thetao.tags | sort_natural  %}
+
+    {%- capture thetaotags -%}
+      {%- for tag in sortedthetao -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thetaotags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
