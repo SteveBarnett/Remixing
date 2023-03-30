@@ -1,0 +1,24 @@
+---
+layout: page
+title: Buddhist ideas
+---
+
+{%- assign buddhistideas = site.posts | where: "buddhistidea", "true" | sort: "order" -%}
+
+<ol>
+  {%- for buddhistidea in buddhistideas -%}
+  <li id="{{ buddhistidea.title | truncatewords: 5 | slugify  }}">
+    {{ buddhistidea.title }} <span class="tags">In
+    
+    {% assign sortedbuddhistidea = buddhistidea.tags | sort_natural  %}
+
+    {%- capture buddhistideatags -%}
+      {%- for tag in sortedbuddhistidea -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ buddhistideatags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
