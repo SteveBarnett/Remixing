@@ -1,4 +1,6 @@
 ---
 title: Break the illusion of separateness of anything you can notice.
 tags: mindfulness self waking-up
+consciousness: true
+order: 6
 ---
