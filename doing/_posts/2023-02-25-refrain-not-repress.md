@@ -1,4 +1,4 @@
 ---
 title: Refrain, not repress.
-tags: buddhism inspection mindfulness
+tags: buddhism mindfulness
 ---
