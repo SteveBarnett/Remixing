@@ -5,7 +5,7 @@ layout: page
 
 This is a copy of [my goodreads list](https://www.goodreads.com/max_barners).
 
-My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad".
+My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
 
 <h2>2023</h2>
 
@@ -22,92 +22,13 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 {% endfor %}
 </ol>
 
-<h2>2022</h2>
+<h2>Earlier</h2>
 
-<ol reversed>
-{% for book in site.data.books2022 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
-
-<h2>2021</h2>
-
-<ol reversed>
-{% for book in site.data.books2021 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
-
-<h2>2020</h2>
-
-<ol reversed>
-{% for book in site.data.books2020 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
-
-<h2>2019</h2>
-
-<ol reversed>
-{% for book in site.data.books2019 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
-
-<h2>2018</h2>
-
-<ol reversed>
-{% for book in site.data.books2018 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
-
-<h2>2017</h2>
-
-<ol reversed>
-{% for book in site.data.books2017 %}
-	<li>
-		<strong>{{ book.title }}</strong> by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, rated {{ book.my_rating }}/5.
-		{%- endif-%}
-	</li>
-{% endfor %}
-</ol>
+<ul>
+	<li><a href="/reading/2022">2022</a></li>
+	<li><a href="/reading/2021">2021</a></li>
+	<li><a href="/reading/2020">2020</a></li>
+	<li><a href="/reading/2019">2019</a></li>
+	<li><a href="/reading/2018">2018</a></li>
+	<li><a href="/reading/2017">2017</a></li>
+</ul>
