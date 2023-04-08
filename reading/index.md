@@ -5,16 +5,7 @@ layout: page
 
 This is a copy of [my goodreads list](https://www.goodreads.com/max_barners).
 
-My ratings:
-
-<ul>
-	<li>5: Really good</li>
-	<li>4: Good</li>
-	<li>3: Okay</li>
-	<li>2: Bad</li>
-	<li>1: Really bad</li>
-</ul>
-
+My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad".
 
 <h2>2023</h2>
 
