@@ -2,52 +2,9 @@
 
 {{ content | markdownify }}
 
-{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
-{%- assign starredposts = currentcategoryposts | where: "star", "true" -%}
-
-{%- assign braveposts = starredposts | where: "tags", "brave" -%}
-{%- assign resilienceposts = starredposts | where: "tags", "resilience" -%}
-{%- assign loveposts = starredposts | where: "tags", "love" -%}
-
-<h2 id="brave" tabindex="-1">Brave</h2>
-
-<ul>
-  {%- for bravepost in braveposts -%}
-  <li id="{{ bravepost.title | truncatewords: 5 | slugify  }}">
-    {{ bravepost.title }} <span class="tags">In 
-    
-    {%- assign sortedbravepost = bravepost.tags | sort_natural -%}
-
-    {%- capture braveposttags -%}
-      {%- for tag in sortedbravepost -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ braveposttags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ul>
-
-<h2 id="resilient" tabindex="-1">Resilient</h2>
-
-<ul>
-  {%- for resiliencepost in resilienceposts -%}
-  <li id="{{ resiliencepost.title | truncatewords: 5 | slugify  }}">
-    {{ resiliencepost.title }} <span class="tags">In 
-    
-    {%- assign sortedresiliencepost = resiliencepost.tags | sort_natural -%}
-
-    {%- capture resilienceposttags -%}
-      {%- for tag in sortedresiliencepost -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ resilienceposttags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ul>
+{%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
+{%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
+{%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
 
 <h2 id="loving" tabindex="-1">Loving</h2>
 
@@ -69,6 +26,45 @@
   {%- endfor -%}
 </ul>
 
+<h2 id="open" tabindex="-1">Opening</h2>
+
+<ul>
+  {%- for openpost in openposts -%}
+  <li id="{{ openpost.title | truncatewords: 5 | slugify  }}">
+    {{ openpost.title }} <span class="tags">In 
+    
+    {%- assign sortedopenpost = openpost.tags | sort_natural -%}
+
+    {%- capture openposttags -%}
+      {%- for tag in sortedopenpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ openposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2 id="connect" tabindex="-1">Connecting</h2>
+
+<ul>
+  {%- for connectpost in connectposts -%}
+  <li id="{{ connectpost.title | truncatewords: 5 | slugify  }}">
+    {{ connectpost.title }} <span class="tags">In 
+    
+    {%- assign sortedconnectpost = connectpost.tags | sort_natural -%}
+
+    {%- capture connectposttags -%}
+      {%- for tag in sortedconnectpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ connectposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
 
 <h2>See also:</h2>
 
