@@ -3,5 +3,5 @@ title: Respond rather than react. Intensity and reactivity breed more of the sam
 tags: mindfulness buddhism stoicism slowness love
 star: true
 love: true
-order: 3
+order: 2
 ---
