@@ -14,7 +14,7 @@ title: The Palliative Society
 
     {%- capture palliativetags -%}
       {%- for tag in sortedpalliative -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ palliative.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 

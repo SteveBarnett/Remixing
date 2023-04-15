@@ -14,7 +14,7 @@ title: Free Will and Self
 
     {%- capture freewillandselftags -%}
       {%- for tag in sortedfreewillandself -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ freewillandself.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 

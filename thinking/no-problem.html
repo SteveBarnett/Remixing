@@ -14,7 +14,7 @@ title: No Problem
 
     {%- capture noproblemtags -%}
       {%- for tag in sortednoproblem -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ noproblem.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
