@@ -4,4 +4,6 @@ tags: self consciousness experience mindfulness waking-up
 star: true
 freewillandself: true
 order: 3
+selfmaintain: true
+selfmaintainorder: 4
 ---

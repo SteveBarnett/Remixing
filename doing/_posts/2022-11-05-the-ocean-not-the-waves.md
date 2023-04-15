@@ -4,4 +4,6 @@ tags: experience self buddhism mindfulness consciousness resilience
 star: true
 open: true
 order: 1
+selfbreakapproach: true
+selfbreakapproachorder: 2
 ---

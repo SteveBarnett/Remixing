@@ -1,0 +1,112 @@
+---
+layout: page
+title: No-Self
+---
+
+<h2 id="the-self">The self</h2>
+
+{%- assign selfs = site.posts | where: "self", "true" | sort: "selforder" -%}
+
+<ol>
+  {%- for self in selfs -%}
+  <li id="{{ self.title | truncatewords: 5 | slugify  }}">
+    {{ self.title }} <span class="tags">In
+    
+    {% assign sortedself = self.tags | sort_natural  %}
+
+    {%- capture selftags -%}
+      {%- for tag in sortedself -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ self.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selftags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="reification">Reification</h2>
+
+{%- assign selfmaintains = site.posts | where: "selfmaintain", "true" | sort: "selfmaintainorder" -%}
+
+<ol>
+  {%- for selfmaintain in selfmaintains -%}
+  <li id="{{ selfmaintain.title | truncatewords: 5 | slugify  }}">
+    {{ selfmaintain.title }} <span class="tags">In
+    
+    {% assign sortedselfmaintain = selfmaintain.tags | sort_natural  %}
+
+    {%- capture selfmaintaintags -%}
+      {%- for tag in sortedselfmaintain -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ selfmaintain.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selfmaintaintags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="breaking-the-illusion">Breaking the illusion</h2>
+
+<h3 id="feel">Feel</h3>
+
+{%- assign selfbreakapproachs = site.posts | where: "selfbreakapproach", "true" | sort: "selfbreakapproachorder" -%}
+
+<ol>
+  {%- for selfbreakapproach in selfbreakapproachs -%}
+  <li id="{{ selfbreakapproach.title | truncatewords: 5 | slugify  }}">
+    {{ selfbreakapproach.title }} <span class="tags">In
+    
+    {% assign sortedselfbreakapproach = selfbreakapproach.tags | sort_natural  %}
+
+    {%- capture selfbreakapproachtags -%}
+      {%- for tag in sortedselfbreakapproach -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ selfbreakapproach.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selfbreakapproachtags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="look">Look</h3>
+
+{%- assign selfbreaks = site.posts | where: "selfbreak", "true" | sort: "selfbreakorder" -%}
+
+<ol>
+  {%- for selfbreak in selfbreaks -%}
+  <li id="{{ selfbreak.title | truncatewords: 5 | slugify  }}">
+    {{ selfbreak.title }} <span class="tags">In
+    
+    {% assign sortedselfbreak = selfbreak.tags | sort_natural  %}
+
+    {%- capture selfbreaktags -%}
+      {%- for tag in sortedselfbreak -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ selfbreak.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selfbreaktags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+{%- assign selfimmediatelys = site.posts | where: "selfimmediately", "true" | sort: "selfimmediatelyorder" -%}
+
+  {%- for selfimmediately in selfimmediatelys -%}
+  <p id="{{ selfimmediately.title | truncatewords: 5 | slugify  }}">
+    {{ selfimmediately.title }} <span class="tags">In
+    
+    {% assign sortedselfimmediately = selfimmediately.tags | sort_natural  %}
+
+    {%- capture selfimmediatelytags -%}
+      {%- for tag in sortedselfimmediately -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ selfimmediately.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selfimmediatelytags | remove_first: ", " }}.</span>
+  </p>
+  {%- endfor -%}
