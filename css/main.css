@@ -168,10 +168,16 @@ a:hover {
   color: #00e;
 }
 
-a:focus {
+a:focus,
+details:focus {
   text-decoration: none;
   color: #007;
   background-color: #bbf;
+  outline: 0.1em solid #630;
+}
+
+input:focus,
+button:focus {
   outline: 0.1em solid #630;
 }
 
@@ -235,6 +241,18 @@ li.thumbs-extra-small:last-child {
 
 .five-star .author, .five-star .rating {
   font-weight: bold;
+}
+
+summary {
+}
+
+details {
+  border: 1px solid;
+  padding: 0.5rem;
+}
+
+details form {
+  margin: 1rem;
 }
 
 /* ==========================================================================
