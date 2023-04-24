@@ -11,67 +11,80 @@
   {%- assign tagsrelatedtothistag = "" -%}
   {%- assign currenttagname = tag[0] -%}
 
-  <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> <a href="#{{ currenttagname }}">{%-
-  if currenttagname == "TMWT" -%}
-  {{ currenttagname }}
-  {%- else -%}
-  {{ currenttagname | capitalize }}
-  {%- endif -%}</a></h2>
+  <div id="{{ currenttagname }}" class="topic">
 
-    <ul>
-    {%- assign thinkingposts = site.posts | where: "categories", "thinking" -%}
-    {%- for post in thinkingposts -%}
-      <li id="{{ post.title | truncatewords: 5 | slugify  }}">
-        {% if post.star %}<strong>{% endif %}
-        {{ post.title }}
-      {% if post.star %}</strong>{% endif %}
+    <h2><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> <a href="#{{ currenttagname }}">{%-
+    if currenttagname == "TMWT" -%}
+    {{ currenttagname }}
+    {%- else -%}
+    {{ currenttagname | capitalize }}
+    {%- endif -%}</a></h2>
 
-        {%- assign numberoftags = post.tags | size -%}
-        {%- if numberoftags > 1 -%}
+      <ul>
+      {%- assign thinkingposts = tag[1] | where: "categories", "thinking" -%}
+      {%- for post in thinkingposts -%}
+        <li id="{{ post.title | truncatewords: 5 | slugify  }}">
+          {% if post.star %}<strong>{% endif %}
+          {{ post.title }}
+        {% if post.star %}</strong>{% endif %}
 
-          {%- assign sortedposttags = post.tags | sort_natural -%}
+          {%- assign numberoftags = post.tags | size -%}
+          {%- if numberoftags > 1 -%}
 
-          {%- capture tagsrelatedtothispost -%}
-          <span class="tags">Related:&nbsp;
-          {%- for taginpost in sortedposttags -%}
-            {%- unless taginpost == currenttagname -%}
-              , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
-            {%- endunless -%}
-          {%- endfor -%}
-          .
-          {%- endcapture -%}
-          {{ tagsrelatedtothispost | remove_first: ", " }}</span>
+            {%- assign sortedposttags = post.tags | sort_natural -%}
 
-        {%- endif -%}
-      </li>
+            {%- capture tagsrelatedtothispost -%}
+            <span class="tags">Related:&nbsp;
+            {%- for taginpost in sortedposttags -%}
+              {%- unless taginpost == currenttagname -%}
+                , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
+              {%- endunless -%}
+            {%- endfor -%}
+            .
+            {%- endcapture -%}
+            {{ tagsrelatedtothispost | remove_first: ", " }}</span>
 
-      {%- for tagfortagrelation in post.tags -%}
-        {%- unless tagfortagrelation == currenttagname -%}
-          {%- assign tagsrelatedtothistag = tagsrelatedtothistag | append: ", " | append: tagfortagrelation -%}
-        {%- endunless -%}
+          {%- endif -%}
+        </li>
+
+        {%- for tagfortagrelation in post.tags -%}
+          {%- unless tagfortagrelation == currenttagname -%}
+            {%- assign tagsrelatedtothistag = tagsrelatedtothistag | append: ", " | append: tagfortagrelation -%}
+          {%- endunless -%}
+        {%- endfor -%}
+
       {%- endfor -%}
+      </ul>
 
-    {%- endfor -%}
-    </ul>
+      {%- assign tagsrelatedtothistag = tagsrelatedtothistag | remove_first: ", " -%}
+      {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
+      {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
+      {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
+      {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | sort_natural %}
 
-    {%- assign tagsrelatedtothistag = tagsrelatedtothistag | remove_first: ", " -%}
-    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistag | split: ", " -%}
-    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | uniq -%}
-    {%- assign tagsrelatedtothistagarraysize = tagsrelatedtothistagarray | size -%}
-    {%- assign tagsrelatedtothistagarray = tagsrelatedtothistagarray | sort_natural %}
-
-    {%- unless tagsrelatedtothistagarraysize == 0 -%}
-      {%- capture tagsrelatedtothistagstring -%}
-      <p>Related to {{ currenttagname | capitalize }}:&nbsp;
-      {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
-        , <span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks] }}</span>&nbsp;<a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
-      {%- endfor -%}
-      .</p>
-      {%- endcapture -%}
-      {{ tagsrelatedtothistagstring | remove_first: ", " }}
-    {%- endunless -%}
+      {%- unless tagsrelatedtothistagarraysize == 0 -%}
+        {%- capture tagsrelatedtothistagstring -%}
+        <p>Related to {{ currenttagname | capitalize }}:&nbsp;
+        {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
+          , <span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks] }}</span>&nbsp;<a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
+        {%- endfor -%}
+        .</p>
+        {%- endcapture -%}
+        {{ tagsrelatedtothistagstring | remove_first: ", " }}
+      {%- endunless -%}
+  </div>
 
 {%- endfor -%}
 </div>
+
+<script>
+  (() => {
+    if (!window.location.hash) return;
+    const currenttopic = window.location.hash;
+    const topicdivs = document.querySelectorAll('.topic');
+    topicdivs.forEach(el => el.classList.add('sr-only'));
+    document.getElementById(currenttopic.substring(1)).classList.remove('sr-only');
+  })();
+</script>
 
 {% include footer.html %}
