@@ -1,4 +1,4 @@
 ---
 title: Curb your ambition.
-tags: slowness daoism human
+tags: slowness daoism
 ---

@@ -1,4 +1,4 @@
 ---
 title: Come home to the present.
-tags: mindfulness buddhism consciousness
+tags: mindfulness buddhism
 ---

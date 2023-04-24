@@ -1,4 +1,4 @@
 ---
 title: Patience is bitter, but its fruit is sweet.
-tags: human stoicism acceptance
+tags: stoicism acceptance slowness
 ---

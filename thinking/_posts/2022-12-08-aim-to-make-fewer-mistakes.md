@@ -1,4 +1,4 @@
 ---
-title: Aim to make fewer mistakes
-tags: human
+title: Aim to make fewer mistakes.
+tags: resilience
 ---

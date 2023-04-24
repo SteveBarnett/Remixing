@@ -1,4 +1,4 @@
 ---
 title: The map is not the territory.
-tags: consciousness
+tags: TMWT experience
 ---

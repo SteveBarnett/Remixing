@@ -1,6 +1,6 @@
 ---
 title: Take the backward step.
-tags: mindfulness buddhism consciousness
+tags: mindfulness buddhism
 selfbreakapproach: true
 selfbreakapproachorder: 1
 ---

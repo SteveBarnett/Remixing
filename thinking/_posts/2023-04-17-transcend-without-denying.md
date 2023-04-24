@@ -1,4 +1,4 @@
 ---
-title: Transcend without denying
-tags: consciousness self
+title: Transcend without denying.
+tags: self
 ---
