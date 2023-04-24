@@ -6,12 +6,12 @@ title: Art Archive
   {% assign sortedart = site.art | reverse %}
   {%- for thing in sortedart -%}
     <a href="{{ thing.url }}"><h2 id="{{ thing.slug }}">{{ thing.title }}</h2></a>
-      <ul>
+      <ul role="list" class="art">
       {%- for note in site.static_files -%}
         {%- if note.path contains thing.url -%}
-        <li>
+        <li role="listitem">
           <a href="{{ note.path }}">
-            {{ note.basename }}
+            {{- note.basename -}}
           </a>
         </li>
         {%- endif -%}

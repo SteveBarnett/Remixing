@@ -196,6 +196,15 @@ a:focus {
   text-transform: capitalize;
 }
 
+ul.art {
+padding-left: 0;
+}
+
+ul.art li {
+display: inline;
+margin-right: 1rem;
+}
+
 ul.thumbs-small,
 ul.thumbs-extra-small {
   display:  flex;
@@ -208,6 +217,11 @@ li.thumbs-small {
 
 li.thumbs-extra-small {
   flex: 1 1 10em;
+}
+
+li.thumbs-small:last-child,
+li.thumbs-extra-small:last-child {
+  flex-grow: 0;
 }
 
 .lede {
