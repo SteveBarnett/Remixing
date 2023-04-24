@@ -4,27 +4,23 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
-<p>There are also lists of <a href="/{{ page.currentcategory }}/">the starred items</a>, <a href="/{{ page.currentcategory }}/topics/">the topics</a>, and <a href="/{{ page.currentcategory }}/recently-added/">recently added items</a>.</p>
+<p>There are also lists of <a href="/thinking/">the starred items</a>, <a href="/thinking/topics/">the topics</a>, and <a href="/thinking/recently-added/">recently added items</a>.</p>
 
 {%- for tag in sortedtags -%}
 
-  {%- assign postsfilteredbycategory = tag[1] | where: "categories", page.currentcategory -%}
-  {%- assign numberofpostsfilteredbycategory = postsfilteredbycategory | size -%}
+  {%- assign tagsrelatedtothistag = "" -%}
+  {%- assign currenttagname = tag[0] -%}
 
-  {%- unless numberofpostsfilteredbycategory == 0 -%}
-
-    {%- assign tagsrelatedtothistag = "" -%}
-    {%- assign currenttagname = tag[0] -%}
-
-    <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> <a href="#{{ currenttagname }}">{%-
-    if currenttagname == "TMWT" -%}
-    {{ currenttagname }}
-    {%- else -%}
-    {{ currenttagname | capitalize }}
-    {%- endif -%}</a></h2>
+  <h2 id="{{ currenttagname }}"><span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span> <a href="#{{ currenttagname }}">{%-
+  if currenttagname == "TMWT" -%}
+  {{ currenttagname }}
+  {%- else -%}
+  {{ currenttagname | capitalize }}
+  {%- endif -%}</a></h2>
 
     <ul>
-    {%- for post in postsfilteredbycategory -%}
+    {%- assign thinkingposts = site.posts | where: "categories", "thinking" -%}
+    {%- for post in thinkingposts -%}
       <li id="{{ post.title | truncatewords: 5 | slugify  }}">
         {% if post.star %}<strong>{% endif %}
         {{ post.title }}
@@ -75,15 +71,7 @@
       {{ tagsrelatedtothistagstring | remove_first: ", " }}
     {%- endunless -%}
 
-    {%- assign postsfilteredbytheothercategory = tag[1] | where: "categories", page.othercategory -%}
-    {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
-
-    {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
-    <p>See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/{{ page.othercategory }}/all/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>.</p>
-    {%- endunless -%}
-
-  {%- endunless -%}
-
 {%- endfor -%}
+</div>
 
 {% include footer.html %}

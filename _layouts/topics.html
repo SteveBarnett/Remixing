@@ -2,7 +2,7 @@
 
 {{ content | markdownify }}
 
-<p>Below is an overview of the topics in <a href="/{{ page.currentcategory }}/">{{ page.currentcategory | capitalize }}</a>.</p>
+<p>Below is an overview of the topics.</p>
 
 {%- assign sortedtags = site.tags | sort -%}
 
@@ -22,7 +22,7 @@
 <ul>
 {%- for tag in sortedtags -%}
 
-  {%- assign postsfilteredbycategory = tag[1] | where: "categories", page.currentcategory -%}
+  {%- assign postsfilteredbycategory = tag[1] | where: "categories", "thinking" -%}
   {%- assign numberofpostsfilteredbycategory = postsfilteredbycategory | size -%}
 
   {%- unless numberofpostsfilteredbycategory == 0 -%}
@@ -31,7 +31,7 @@
     {%- assign currenttagname = tag[0] -%}
 
     <li id="{{ currenttagname }}">
-      <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
+      <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/thinking/all/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>
 
       <ul>
 
@@ -51,7 +51,7 @@
     
     {%- unless tagsrelatedtothistagarraysize == 0 -%}
       {%- capture tagsrelatedtothistagstring -%}
-          <p>Related:&nbsp;
+          <p>Connected to:&nbsp;
         {%- for tagsrelatedtothistaglinks in tagsrelatedtothistagarray -%}
           , <span class="tagmoji">{{ site.data.tagmoji[tagsrelatedtothistaglinks] }}</span>&nbsp;<a href="#{{ tagsrelatedtothistaglinks }}">{{ tagsrelatedtothistaglinks | capitalize }}</a>
         {%- endfor -%}
@@ -63,23 +63,11 @@
       </li>
     {%- endunless -%}
 
-    {%- assign postsfilteredbytheothercategory = tag[1] | where: "categories", page.othercategory -%}
-    {%- assign numberofpostsfilteredbytheothercategory = postsfilteredbytheothercategory | size -%}
-
-    {%- unless numberofpostsfilteredbytheothercategory == 0 -%}
-    <li>
-      <p>See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <span class="tagmoji">{{ site.data.tagmoji[currenttagname] }}</span>&nbsp;<a href="/{{ page.othercategory }}/#{{ currenttagname }}">{{ currenttagname | capitalize }}</a>.</p>
-    </li>
-    {%- endunless -%}
-
     </ul>
   </li>
   {%- endunless -%}
 
 {%- endfor -%}
 </ul>
-
-<p>See also: <a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a> → <a href="/{{ page.othercategory }}/topics/">Topics</a>.</p>
-
 
 {% include footer.html %}

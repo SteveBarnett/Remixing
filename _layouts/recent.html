@@ -2,12 +2,9 @@
 
 {{ content | markdownify }}
 
-{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
-{%- assign recentposts = currentcategoryposts -%}
-
 <ol>
 
-  {%- for recentpost in recentposts limit: 9 -%}
+  {%- for recentpost in site.posts limit: 9 -%}
   <li id="{{ recentpost.title | truncatewords: 5 | slugify  }}">
     {%- if recentpost.star -%}<strong>{%- endif -%}
     {{ recentpost.title }} 

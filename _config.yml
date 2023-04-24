@@ -6,8 +6,6 @@ collections:
     output: true
   thinking:
     output: true
-  doing:
-    output: true
 
 defaults:
   - scope:

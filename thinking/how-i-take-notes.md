@@ -18,4 +18,4 @@ The thing is... I am okay with this. I'm more interested in finding things that 
 - **Highlight themes and big ideas and bits that stand out.** I want to find my take, my interpretation, my emphasis on the ideas from the book. I often find I "rearrange" sections of a book. This is more about the ideas becoming sticky for me than about my version being more "correct."
 - **Leave it a few days.**
 - **Write up some index cards**. I try to keep it to a handful of cards for each book.
-- **Add any little bits to my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-ish store of [ideas](/thinking/) or [action](/doing/).** That's a bit of a mess at the moment. Kind of on purpose.
+- **Add any little bits to my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-ish store of [ideas](/thinking/).** That's a bit of a mess at the moment. Kind of on purpose.

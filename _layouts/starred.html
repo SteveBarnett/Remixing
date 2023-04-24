@@ -2,12 +2,10 @@
 
 {{ content | markdownify }}
 
-{%- assign currentcategoryposts = site.posts | where: "categories", page.currentcategory -%}
-
 <h2 id="short-form" tabindex="-1">Short form</h2>
 
 <h3 id="preamble">Preamble</h3>
-{%- assign preambleposts = currentcategoryposts | where: "preamble", "true" | sort: "order" -%}
+{%- assign preambleposts = site.posts | where: "preamble", "true" | sort: "order" -%}
 
 <ol>
   {%- for preamble in preambleposts -%}
@@ -18,7 +16,7 @@
 
     {%- capture preambletags -%}
       {%- for tag in sortedpreamble -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
@@ -28,7 +26,7 @@
 </ol>
 
 <h3 id="thebigidea">The Big Idea</h3>
-{%- assign thebigideaposts = currentcategoryposts | where: "thebigidea", "true" | sort: "order" -%}
+{%- assign thebigideaposts = site.posts | where: "thebigidea", "true" | sort: "order" -%}
 
 <ol>
   {%- for thebigidea in thebigideaposts -%}
@@ -39,7 +37,7 @@
 
     {%- capture thebigideatags -%}
       {%- for tag in sortedthebigidea -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
@@ -49,7 +47,7 @@
 </ol>
 
 <h3 id="reality">Reality</h3>
-{%- assign realityposts = currentcategoryposts | where: "reality", "true" | sort: "order" -%}
+{%- assign realityposts = site.posts | where: "reality", "true" | sort: "order" -%}
 
 <ol>
   {%- for reality in realityposts -%}
@@ -60,7 +58,7 @@
 
     {%- capture realitytags -%}
       {%- for tag in sortedreality -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
@@ -70,7 +68,7 @@
 </ol>
 
 <h3 id="perception">Perception</h3>
-{%- assign perceptionposts = currentcategoryposts | where: "perception", "true" | sort: "order" -%}
+{%- assign perceptionposts = site.posts | where: "perception", "true" | sort: "order" -%}
 
 <ol>
   {%- for perception in perceptionposts -%}
@@ -81,7 +79,7 @@
 
     {%- capture perceptiontags -%}
       {%- for tag in sortedperception -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
@@ -91,7 +89,7 @@
 </ol>
 
 <h3 id="concepts">Concepts</h3>
-{%- assign conceptsposts = currentcategoryposts | where: "concepts", "true" | sort: "order" -%}
+{%- assign conceptsposts = site.posts | where: "concepts", "true" | sort: "order" -%}
 
 <ol>
   {%- for conceptspost in conceptsposts -%}
@@ -102,7 +100,7 @@
 
     {%- capture conceptsposttags -%}
       {%- for tag in sortedconceptspost -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ page.currentcategory }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
@@ -110,6 +108,72 @@
   </li>
   {%- endfor -%}
 </ol>
+
+<h2 id="valued-action" tabindex="-1">Valued Action</h2>
+
+{%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
+{%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
+{%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
+
+<h3 id="loving" tabindex="-1">Loving</h3>
+
+<ul>
+  {%- for lovepost in loveposts -%}
+  <li id="{{ lovepost.title | truncatewords: 5 | slugify  }}">
+    {{ lovepost.title }} <span class="tags">In 
+    
+    {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
+
+    {%- capture loveposttags -%}
+      {%- for tag in sortedlovepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ loveposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="open" tabindex="-1">Opening</h3>
+
+<ul>
+  {%- for openpost in openposts -%}
+  <li id="{{ openpost.title | truncatewords: 5 | slugify  }}">
+    {{ openpost.title }} <span class="tags">In 
+    
+    {%- assign sortedopenpost = openpost.tags | sort_natural -%}
+
+    {%- capture openposttags -%}
+      {%- for tag in sortedopenpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ openposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="connect" tabindex="-1">Connecting</h3>
+
+<ul>
+  {%- for connectpost in connectposts -%}
+  <li id="{{ connectpost.title | truncatewords: 5 | slugify  }}">
+    {{ connectpost.title }} <span class="tags">In 
+    
+    {%- assign sortedconnectpost = connectpost.tags | sort_natural -%}
+
+    {%- capture connectposttags -%}
+      {%- for tag in sortedconnectpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ connectposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
 
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
 
@@ -139,10 +203,9 @@
 <h2>See also</h2>
 
 <ul>
-  <li><a href="/{{ page.currentcategory }}/topics/">{{ page.currentcategory | capitalize }} topics</a>;</li>
-  <li> <a href="/{{ page.currentcategory }}/all/">all {{ page.currentcategory | capitalize }} items</a>;</li>
-  <li><a href="/{{ page.currentcategory }}/recently-added/">recently added {{ page.currentcategory | capitalize }} items</a>;</li>
-  <li><a href="/{{ page.othercategory }}/">{{ page.othercategory | capitalize }}</a>.</li>
+  <li><a href="/thinking/topics/">topics</a>;</li>
+  <li> <a href="/thinking/all/">all items</a>;</li>
+  <li><a href="/thinking/recently-added/">recently added items</a>.
 </ul>
 
 {% include footer.html %}
