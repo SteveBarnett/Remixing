@@ -4,7 +4,7 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
-<p>There are also lists of <a href="/thinking/">the starred items</a>, <a href="/thinking/topics/">the topics</a>, and <a href="/thinking/recently-added/">recently added items</a>.</p>
+{% include thinking-links.html %}
 
 <details>
   <summary>Filter the page by a search term</summary>

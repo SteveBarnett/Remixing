@@ -1,0 +1,207 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+<h2 id="short-form" tabindex="-1">Short form</h2>
+
+<h3 id="preamble">Preamble</h3>
+{%- assign preambleposts = site.posts | where: "preamble", "true" | sort: "order" -%}
+
+<ol>
+  {%- for preamble in preambleposts -%}
+  <li id="{{ preamble.title | truncatewords: 5 | slugify  }}">
+    {{ preamble.title }} <span class="tags">In
+    
+    {% assign sortedpreamble = preamble.tags | sort_natural  %}
+
+    {%- capture preambletags -%}
+      {%- for tag in sortedpreamble -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ preambletags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="thebigidea">The Big Idea</h3>
+{%- assign thebigideaposts = site.posts | where: "thebigidea", "true" | sort: "order" -%}
+
+<ol>
+  {%- for thebigidea in thebigideaposts -%}
+  <li id="{{ thebigidea.title | truncatewords: 5 | slugify  }}">
+    {{ thebigidea.title }} <span class="tags">In
+    
+    {% assign sortedthebigidea = thebigidea.tags | sort_natural  %}
+
+    {%- capture thebigideatags -%}
+      {%- for tag in sortedthebigidea -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thebigideatags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="reality">Reality</h3>
+{%- assign realityposts = site.posts | where: "reality", "true" | sort: "order" -%}
+
+<ol>
+  {%- for reality in realityposts -%}
+  <li id="{{ reality.title | truncatewords: 5 | slugify  }}">
+    {{ reality.title }} <span class="tags">In
+    
+    {% assign sortedreality = reality.tags | sort_natural  %}
+
+    {%- capture realitytags -%}
+      {%- for tag in sortedreality -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ realitytags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="perception">Perception</h3>
+{%- assign perceptionposts = site.posts | where: "perception", "true" | sort: "order" -%}
+
+<ol>
+  {%- for perception in perceptionposts -%}
+  <li id="{{ perception.title | truncatewords: 5 | slugify  }}">
+    {{ perception.title }} <span class="tags">In
+    
+    {% assign sortedperception = perception.tags | sort_natural  %}
+
+    {%- capture perceptiontags -%}
+      {%- for tag in sortedperception -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ perceptiontags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h3 id="concepts">Concepts</h3>
+{%- assign conceptsposts = site.posts | where: "concepts", "true" | sort: "order" -%}
+
+<ol>
+  {%- for conceptspost in conceptsposts -%}
+  <li id="{{ conceptspost.title | truncatewords: 5 | slugify  }}">
+    {{ conceptspost.title }} <span class="tags">In
+    
+    {% assign sortedconceptspost = conceptspost.tags | sort_natural  %}
+
+    {%- capture conceptsposttags -%}
+      {%- for tag in sortedconceptspost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ conceptsposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="valued-action" tabindex="-1">Valued Action</h2>
+
+{%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
+{%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
+{%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
+
+<h3 id="loving" tabindex="-1">Loving</h3>
+
+<ul>
+  {%- for lovepost in loveposts -%}
+  <li id="{{ lovepost.title | truncatewords: 5 | slugify  }}">
+    {{ lovepost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
+
+    {%- capture loveposttags -%}
+      {%- for tag in sortedlovepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ loveposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="open" tabindex="-1">Opening</h3>
+
+<ul>
+  {%- for openpost in openposts -%}
+  <li id="{{ openpost.title | truncatewords: 5 | slugify  }}">
+    {{ openpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedopenpost = openpost.tags | sort_natural -%}
+
+    {%- capture openposttags -%}
+      {%- for tag in sortedopenpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ openposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="connect" tabindex="-1">Connecting</h3>
+
+<ul>
+  {%- for connectpost in connectposts -%}
+  <li id="{{ connectpost.title | truncatewords: 5 | slugify  }}">
+    {{ connectpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedconnectpost = connectpost.tags | sort_natural -%}
+
+    {%- capture connectposttags -%}
+      {%- for tag in sortedconnectpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ connectposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2 id="longer-form" tabindex="-1">Longer form</h2>
+
+<ul>
+  <li><a href="/thinking/layers/">Layers</a></li>
+  <li><a href="/thinking/reality-experience-interactions/">Reality, Experience, (Inter)actions</a></li>
+  <li><a href="/thinking/my-pattern-skillset-research-remix-replay/">My pattern / skillset: Research; Remix; Replay.</a>
+      <ul>
+        <li><a href="/thinking/how-i-take-notes/">How I take notes</a></li>
+      </ul>
+  </li>
+  <li><a href="/thinking/before-thoughts/">Before thoughts</a></li>
+</ul>
+
+<h2 id="collections">Collections</h2>
+
+<ul>
+  <li><a href="/thinking/buddhist-ideas/">Buddhist ideas</a></li>
+  <li><a href="/thinking/the-tao/">The Tao</a></li>
+  <li><a href="/thinking/free-will-and-self/">Free Will and Self</a></li>
+  <li><a href="/thinking/no-self/">No-Self</a></li>
+  <li><a href="/thinking/consciousness/">Consciousness</a></li>
+  <li><a href="/thinking/no-problem/">No Problem</a></li>
+  <li><a href="/thinking/the-palliative-society/">The Palliative Society</a></li>
+</ul>
+
+<h2>See also</h2>
+
+{% include thinking-links.html %}
+
+{% include footer.html %}
