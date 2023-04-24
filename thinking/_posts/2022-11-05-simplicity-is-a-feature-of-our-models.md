@@ -1,6 +1,6 @@
 ---
 title: Simplicity is a feature of our models, not reality.
-tags: concepts inspection TMWT context
+tags: TMWT
 star: true
 concepts: true
 order: 3

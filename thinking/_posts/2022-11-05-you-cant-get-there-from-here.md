@@ -1,4 +1,4 @@
 ---
 title: You can't get there from here.
-tags: self buddhism mindfulness waking-up
+tags: self buddhism waking-up
 ---

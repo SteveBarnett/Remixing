@@ -1,4 +1,4 @@
 ---
 title: Mindfulness brings concentration, concentration brings insight.
-tags: mindfulness buddhism inspection
+tags: mindfulness buddhism
 ---

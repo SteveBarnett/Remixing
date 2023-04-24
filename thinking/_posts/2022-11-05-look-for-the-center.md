@@ -1,4 +1,4 @@
 ---
 title: Look for the center of experience. It's not there.
-tags: experience consciousness buddhism waking-up
+tags: experience buddhism waking-up
 ---

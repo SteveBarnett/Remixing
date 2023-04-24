@@ -1,6 +1,6 @@
 ---
 title: Look for the edges.
-tags: experience self mindfulness waking-up
+tags: experience self waking-up
 consciousness: true
 order: 8
 selfbreak: true

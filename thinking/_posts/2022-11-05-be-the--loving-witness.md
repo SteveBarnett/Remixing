@@ -1,4 +1,4 @@
 ---
 title: Be the loving witness.
-tags: mindfulness buddhism acceptance consciousness
+tags: mindfulness buddhism acceptance
 ---

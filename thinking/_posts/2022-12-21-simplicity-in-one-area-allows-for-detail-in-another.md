@@ -1,4 +1,4 @@
 ---
 title: Simplicity in one area allows for detail in another.
-tags: opposites daoism context
+tags: opposites daoism
 ---

@@ -1,4 +1,4 @@
 ---
 title: Everyone's good qualities are partly luck and partly effort.
-tags: human buddhism self acceptance
+tags: human buddhism self
 ---

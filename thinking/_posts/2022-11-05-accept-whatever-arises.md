@@ -1,4 +1,4 @@
 ---
 title: Accept whatever arises.
-tags: acceptance experience buddhism resilience waking-up
+tags: acceptance experience buddhism waking-up
 ---

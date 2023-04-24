@@ -1,4 +1,4 @@
 ---
 title: In seeing, only the seen. There's no you.
-tags: experience buddhism consciousness waking-up
+tags: experience buddhism waking-up
 ---

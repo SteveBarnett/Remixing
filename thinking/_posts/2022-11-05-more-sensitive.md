@@ -1,4 +1,4 @@
 ---
 title: More sensitive to pleasure means more sensitive to pain.
-tags: human daoism buddhism self experience mindfulness
+tags: human daoism experience
 ---

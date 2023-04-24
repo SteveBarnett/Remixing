@@ -46,7 +46,7 @@
             <span class="tags">Related:&nbsp;
             {%- for taginpost in sortedposttags -%}
               {%- unless taginpost == currenttagname -%}
-                , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{{ taginpost | capitalize }}</a>
+                , <span class="tagmoji">{{ site.data.tagmoji[taginpost] }}</span>&nbsp;<a href="#{{ taginpost }}">{%- if taginpost == "TMWT" -%}{{ taginpost }}{%- else -%}{{ taginpost | capitalize }}{%- endif -%}</a>
               {%- endunless -%}
             {%- endfor -%}
             .

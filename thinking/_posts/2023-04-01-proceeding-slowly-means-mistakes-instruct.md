@@ -1,4 +1,4 @@
 ---
 title: Proceeding slowly means mistakes instruct.
-tags: slowness human inspection
+tags: slowness human mindfulness
 ---

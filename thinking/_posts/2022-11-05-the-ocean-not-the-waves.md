@@ -1,6 +1,6 @@
 ---
 title: The ocean, not the waves.
-tags: experience self buddhism mindfulness consciousness resilience
+tags: self buddhism mindfulness resilience
 star: true
 open: true
 order: 1

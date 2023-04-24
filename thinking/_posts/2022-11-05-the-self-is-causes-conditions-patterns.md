@@ -1,6 +1,6 @@
 ---
 title: The self is causes, conditions, patterns.
-tags: self buddhism mindfulness TMWT inspection waking-up
+tags: self buddhism TMWT waking-up
 self: true
 selforder: 1
 ---
