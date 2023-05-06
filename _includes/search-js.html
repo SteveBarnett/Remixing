@@ -13,11 +13,17 @@
     // if there's a s query param, only show those items
     const params = new URLSearchParams(window.location.search);
     const searchterm = params.get('s');
+    const searchformcontainer = document.getElementById('search-form-container');
+    const searchinput = document.getElementById('search');
 
     if(searchterm) {
+      // set search form box open
+      searchformcontainer.setAttribute('open', '');
+      searchinput.setAttribute('value', searchterm)
+
       // update title and h1
-      document.title = document.title.replace('All', 'All, filtered for "' + searchterm + '"');
-      document.querySelector('h1').textContent.replace('All', 'All, filtered for "' + searchterm + '"');
+      document.title = document.title + ', filtered for "' + searchterm + '"';
+      document.querySelector('h1').textContent = document.querySelector('h1').textContent + ', filtered for "' + searchterm + '"';
 
       const relatedto = document.querySelectorAll('.related-to');
       relatedto.forEach(el => el.remove());
