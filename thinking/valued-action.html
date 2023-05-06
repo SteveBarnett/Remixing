@@ -3,11 +3,30 @@ layout: page
 title: Valued Action
 ---
 
+{%- assign valuedactionposts = site.posts | where: "valuedaction", "true" | sort: "order" -%}
 {%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
 {%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
 {%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
 
-<h3 id="loving" tabindex="-1">Loving</h3>
+<p>
+  {%- for valuedactionpost in valuedactionposts -%}
+  <span id="{{ valuedactionpost.title | truncatewords: 5 | slugify  }}">
+    {{ valuedactionpost.title }} <span class="tags">(
+    
+    {%- assign sortedvaluedactionpost = valuedactionpost.tags | sort_natural -%}
+
+    {%- capture valuedactionposttags -%}
+      {%- for tag in sortedvaluedactionpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ valuedactionposttags | remove_first: ", " }}).</span>
+  </span>
+  {%- endfor -%}
+</p>
+
+<h2 id="loving" tabindex="-1">Loving</h2>
 
 <ul>
   {%- for lovepost in loveposts -%}
@@ -27,7 +46,7 @@ title: Valued Action
   {%- endfor -%}
 </ul>
 
-<h3 id="open" tabindex="-1">Opening</h3>
+<h2 id="open" tabindex="-1">Opening</h2>
 
 <ul>
   {%- for openpost in openposts -%}
@@ -47,7 +66,7 @@ title: Valued Action
   {%- endfor -%}
 </ul>
 
-<h3 id="connect" tabindex="-1">Connecting</h3>
+<h2 id="connect" tabindex="-1">Connecting</h2>
 
 <ul>
   {%- for connectpost in connectposts -%}
