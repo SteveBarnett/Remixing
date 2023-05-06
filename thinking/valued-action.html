@@ -1,0 +1,68 @@
+---
+layout: page
+title: Valued Action
+---
+
+{%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
+{%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
+{%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
+
+<h3 id="loving" tabindex="-1">Loving</h3>
+
+<ul>
+  {%- for lovepost in loveposts -%}
+  <li id="{{ lovepost.title | truncatewords: 5 | slugify  }}">
+    {{ lovepost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedlovepost = lovepost.tags | sort_natural -%}
+
+    {%- capture loveposttags -%}
+      {%- for tag in sortedlovepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ loveposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="open" tabindex="-1">Opening</h3>
+
+<ul>
+  {%- for openpost in openposts -%}
+  <li id="{{ openpost.title | truncatewords: 5 | slugify  }}">
+    {{ openpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedopenpost = openpost.tags | sort_natural -%}
+
+    {%- capture openposttags -%}
+      {%- for tag in sortedopenpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ openposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="connect" tabindex="-1">Connecting</h3>
+
+<ul>
+  {%- for connectpost in connectposts -%}
+  <li id="{{ connectpost.title | truncatewords: 5 | slugify  }}">
+    {{ connectpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedconnectpost = connectpost.tags | sort_natural -%}
+
+    {%- capture connectposttags -%}
+      {%- for tag in sortedconnectpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ connectposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
