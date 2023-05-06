@@ -6,14 +6,7 @@
 
 {% include thinking-links.html %}
 
-<details>
-  <summary>Filter the page by a search term</summary>
-  <form method="GET" action="">
-    <label for="search">Search term</label>
-    <input id="search" type="text" name="s">
-    <button>Search</button>
-  </form>
-</details>
+{% include search-form.html title=page.title %}
 
 {%- for tag in sortedtags -%}
 
@@ -62,45 +55,6 @@
 {%- endfor -%}
 </div>
 
-<script>
-  (() => {
-    if (!window.location.hash && !window.location.search) return;
-
-    // if there's a hash, only show that section
-    const currenttopic = window.location.hash;
-    if (currenttopic) {
-      const topicdivs = document.querySelectorAll('.topic');
-      topicdivs.forEach(el => el.classList.add('sr-only'));
-      document.getElementById(currenttopic.substring(1)).classList.remove('sr-only');
-    }
-
-    // if there's a s query param, only show those items
-    const params = new URLSearchParams(window.location.search);
-    const searchterm = params.get('s');
-
-    if(searchterm) {
-      // update title and h1
-      document.title = document.title.replace('Starred', 'Starred, filtered for "' + searchterm + '"');
-      document.querySelector('h1').textContent.replace('Starred', 'Starred, filtered for "' + searchterm + '"');
-
-      const relatedto = document.querySelectorAll('.related-to');
-      relatedto.forEach(el => el.remove());
-
-      const lis = document.querySelectorAll('main li');
-      lis.forEach(el => {
-        if (!el.textContent.toLowerCase().includes(searchterm)) {
-          el.remove();
-        }
-      });
-
-      const headings = document.querySelectorAll('h2');
-      headings.forEach(el => {
-        if (el.nextElementSibling.childElementCount == 0) {
-          el.remove();
-        }
-      });
-    }
-  })();
-</script>
+{% include search-js.html %}
 
 {% include footer.html %}
