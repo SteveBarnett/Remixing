@@ -239,7 +239,7 @@ li.thumbs-extra-small:last-child {
   margin-bottom: 1rem;
 }
 
-.five-star .author, .five-star .rating {
+.five-star .author, .five-star .title {
   font-weight: bold;
 }
 

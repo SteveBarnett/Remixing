@@ -11,7 +11,7 @@ layout: page
 {% for book in site.data.books2023 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -23,7 +23,7 @@ layout: page
 {% for book in site.data.books2022 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -35,7 +35,7 @@ layout: page
 {% for book in site.data.books2021 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -47,7 +47,7 @@ layout: page
 {% for book in site.data.books2020 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -59,7 +59,7 @@ layout: page
 {% for book in site.data.books2019 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -71,7 +71,7 @@ layout: page
 {% for book in site.data.books2018 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}
@@ -83,7 +83,7 @@ layout: page
 {% for book in site.data.books2017 %}
 	{%- if book.my_rating == 5 -%}
 	<li>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
 	</li>
 	{%- endif -%}
 {% endfor %}

@@ -12,7 +12,7 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 <ol reversed>
 {% for book in site.data.books2023 %}
 	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
-		<strong>{{ book.title }}</strong> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}
 		{%- if book.my_rating == 0 -%}
 		.
 		{%- else -%}
