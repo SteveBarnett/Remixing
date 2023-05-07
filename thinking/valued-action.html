@@ -3,7 +3,7 @@ layout: page
 title: Valued Action
 ---
 
-{%- assign valuedactionposts = site.posts | where: "valuedaction", "true" | sort: "order" -%}
+{%- assign valuedactionposts = site.posts | where: "valuedaction", "true" | sort: "valuedactionorder" -%}
 {%- assign loveposts = site.posts | where: "love", "true" | sort: "order" -%}
 {%- assign openposts = site.posts | where: "open", "true" | sort: "order" -%}
 {%- assign connectposts = site.posts | where: "connect", "true" | sort: "order" -%}
