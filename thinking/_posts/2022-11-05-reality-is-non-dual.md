@@ -1,4 +1,4 @@
 ---
-title: Reality is non-dual.
-tags: non-dual buddhism daoism
+title: Reality is nondual.
+tags: nondual buddhism daoism
 ---
