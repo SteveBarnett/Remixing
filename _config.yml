@@ -14,3 +14,7 @@ defaults:
     values:
       permalink: :categories/:title
       layout: music
+
+exclude:
+    - art-originals
+    - notes-originals
