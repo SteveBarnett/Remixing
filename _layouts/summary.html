@@ -109,6 +109,30 @@
   {%- endfor -%}
 </ol>
 
+{%- assign sohotrightnowposts = site.posts | where: "sohotrightnow", "true" | sort: "sohotrightnoworder" -%}
+
+<h2 id="sohotrightnow" tabindex="-1">So Hot Right Now</h2>
+
+<p>Some things that are top of mind for me at the moment.</p>
+
+<ul>
+  {%- for sohotrightnowpost in sohotrightnowposts -%}
+  <li id="{{ sohotrightnowpost.title | truncatewords: 5 | slugify  }}">
+    {{ sohotrightnowpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedsohotrightnowpost = sohotrightnowpost.tags | sort_natural -%}
+
+    {%- capture sohotrightnowposttags -%}
+      {%- for tag in sortedsohotrightnowpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ sohotrightnowposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
 
 <ul>
