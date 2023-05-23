@@ -4,4 +4,5 @@ tags: nondual TMWT
 star: true
 reality: true
 order: 1
+thewhole: true
 ---

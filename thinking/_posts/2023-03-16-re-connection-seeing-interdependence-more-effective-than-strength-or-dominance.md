@@ -3,4 +3,5 @@ title: (Re)connection, seeing interdependence, is more effective than strength o
 tags: human daoism
 connect: true
 order: 3
+thewhole: true
 ---
