@@ -1,0 +1,24 @@
+---
+layout: page
+title: Why can't it be both?
+---
+
+{%- assign wcibbposts = site.posts | where: "wcibb", "true" | sort: "wcibborder" -%}
+
+<ul>
+  {%- for wcibbpost in wcibbposts -%}
+  <li id="{{ wcibbpost.title | truncatewords: 5 | slugify  }}">
+    {{ wcibbpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedwcibbpost = wcibbpost.tags | sort_natural -%}
+
+    {%- capture wcibbposttags -%}
+      {%- for tag in sortedwcibbpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ wcibbposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
