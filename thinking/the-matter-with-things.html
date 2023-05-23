@@ -1,0 +1,88 @@
+---
+layout: page
+title: The Matter With Things
+---
+
+<h2 id="preamble">Preamble</h2>
+{%- assign preambleposts = site.posts | where: "preamble", "true" | sort: "order" -%}
+
+<ol>
+  {%- for preamble in preambleposts -%}
+  <li id="{{ preamble.title | truncatewords: 5 | slugify  }}">
+    {{ preamble.title }} <span class="tags">In
+    
+    {% assign sortedpreamble = preamble.tags | sort_natural  %}
+
+    {%- capture preambletags -%}
+      {%- for tag in sortedpreamble -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ preambletags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="thebigidea">The Big Idea</h2>
+{%- assign thebigideaposts = site.posts | where: "thebigidea", "true" | sort: "order" -%}
+
+<ol>
+  {%- for thebigidea in thebigideaposts -%}
+  <li id="{{ thebigidea.title | truncatewords: 5 | slugify  }}">
+    {{ thebigidea.title }} <span class="tags">In
+    
+    {% assign sortedthebigidea = thebigidea.tags | sort_natural  %}
+
+    {%- capture thebigideatags -%}
+      {%- for tag in sortedthebigidea -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thebigideatags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="reality">Reality</h2>
+{%- assign realityposts = site.posts | where: "reality", "true" | sort: "order" -%}
+
+<ol>
+  {%- for reality in realityposts -%}
+  <li id="{{ reality.title | truncatewords: 5 | slugify  }}">
+    {{ reality.title }} <span class="tags">In
+    
+    {% assign sortedreality = reality.tags | sort_natural  %}
+
+    {%- capture realitytags -%}
+      {%- for tag in sortedreality -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ realitytags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2 id="perception">Perception</h2>
+{%- assign perceptionposts = site.posts | where: "perception", "true" | sort: "order" -%}
+
+<ol>
+  {%- for perception in perceptionposts -%}
+  <li id="{{ perception.title | truncatewords: 5 | slugify  }}">
+    {{ perception.title }} <span class="tags">In
+    
+    {% assign sortedperception = perception.tags | sort_natural  %}
+
+    {%- capture perceptiontags -%}
+      {%- for tag in sortedperception -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ perceptiontags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
