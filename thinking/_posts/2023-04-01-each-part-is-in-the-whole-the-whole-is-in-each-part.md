@@ -1,5 +1,6 @@
 ---
 title: Each part is in the whole, the whole is in each part.
 tags: daoism TMWT
-thewhole: true
+thewholeone: true
+thewholeoneorder: 3
 ---

@@ -4,5 +4,6 @@ tags: opposites TMWT daoism
 star: true
 reality: true
 order: 3
-thewhole: true
+thewholeopposites: true
+thewholeoppositesorder: 2
 ---

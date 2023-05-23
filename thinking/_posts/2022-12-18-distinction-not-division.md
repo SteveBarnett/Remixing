@@ -1,5 +1,6 @@
 ---
 title: Many of the opposites we set up are false. There's distinction, but not division.
 tags: TMWT opposites 
-thewhole: true
+thewholeopposites: true
+thewholeoppositesorder: 3
 ---

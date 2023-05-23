@@ -1,5 +1,6 @@
 ---
 title: Accept the wider view of everything and its opposite.
 tags: daoism
-thewhole: true
+thewholeoao: true
+thewholeoaoorder: 3
 ---

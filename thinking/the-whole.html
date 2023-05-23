@@ -1,0 +1,72 @@
+---
+layout: page
+title: The Whole
+---
+
+<p>Some gathered ideas on reality as one moving whole, made up of pairs of (seeming) opposites.</p>
+
+{%- assign thewholeoneposts = site.posts | where: "thewholeone", "true" | sort: "thewholeoneorder" -%}
+
+<h2 id="one">One</h2>
+
+<ol>
+  {%- for thewholeonepost in thewholeoneposts -%}
+  <li id="{{ thewholeonepost.title | truncatewords: 5 | slugify  }}">
+    {{ thewholeonepost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedthewholeonepost = thewholeonepost.tags | sort_natural -%}
+
+    {%- capture thewholeoneposttags -%}
+      {%- for tag in sortedthewholeonepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thewholeoneposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+{%- assign thewholeoaoposts = site.posts | where: "thewholeoao", "true" | sort: "thewholeoaoorder" -%}
+
+<h2 id="one-and-opposites">One and Opposites</h2>
+
+<ol>
+  {%- for thewholeoaopost in thewholeoaoposts -%}
+  <li id="{{ thewholeoaopost.title | truncatewords: 5 | slugify  }}">
+    {{ thewholeoaopost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedthewholeoaopost = thewholeoaopost.tags | sort_natural -%}
+
+    {%- capture thewholeoaoposttags -%}
+      {%- for tag in sortedthewholeoaopost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thewholeoaoposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+{%- assign thewholeoppositesposts = site.posts | where: "thewholeopposites", "true" | sort: "thewholeoppositesorder" -%}
+
+<h2 id="opposites">Opposites</h2>
+
+<ol>
+  {%- for thewholeoppositespost in thewholeoppositesposts -%}
+  <li id="{{ thewholeoppositespost.title | truncatewords: 5 | slugify  }}">
+    {{ thewholeoppositespost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedthewholeoppositespost = thewholeoppositespost.tags | sort_natural -%}
+
+    {%- capture thewholeoppositesposttags -%}
+      {%- for tag in sortedthewholeoppositespost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thewholeoppositesposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>

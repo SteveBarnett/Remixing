@@ -2,28 +2,6 @@
 
 {{ content | markdownify }}
 
-{%- assign thewholeposts = site.posts | where: "thewhole", "true" | sort: "thewholeorder" -%}
-
-<h2 id="thewhole" tabindex="-1">The whole</h2>
-
-<ul>
-  {%- for thewholepost in thewholeposts -%}
-  <li id="{{ thewholepost.title | truncatewords: 5 | slugify  }}">
-    {{ thewholepost.title }} <span class="tags">In&nbsp;
-    
-    {%- assign sortedthewholepost = thewholepost.tags | sort_natural -%}
-
-    {%- capture thewholeposttags -%}
-      {%- for tag in sortedthewholepost -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {{ thewholeposttags | remove_first: ", " }}.</span>
-  </li>
-  {%- endfor -%}
-</ul>
-
 <h2 id="collections">Collections</h2>
 
 <ul>
@@ -36,6 +14,7 @@
   <li><a href="/thinking/consciousness/">Consciousness</a></li>
   <li><a href="/thinking/no-problem/">Not having a problem</a></li>
   <li><a href="/thinking/the-matter-with-things/">The Matter With Things</a></li>
+  <li><a href="/thinking/the-whole/">The Whole</a></li>
   <li><a href="/thinking/the-palliative-society/">The Palliative Society</a></li>
 </ul>
 
