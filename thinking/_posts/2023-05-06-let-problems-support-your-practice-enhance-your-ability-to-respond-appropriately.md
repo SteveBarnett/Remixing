@@ -1,6 +1,6 @@
 ---
 title: Let problems support your practice, enhance your ability to respond appropriately.
 tags: buddhism acceptance mindfulness
-sohotrightnow: true
-sohotrightnoworder: 5
+nothavingaproblem: true
+nothavingaproblemorder: 5
 ---
