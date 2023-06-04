@@ -12,7 +12,7 @@
 
     // if there's a s query param, only show those items
     const params = new URLSearchParams(window.location.search);
-    const searchterm = params.get('s');
+    const searchterm = params.get('s').toLowerCase().replace(/[.,!&;:\-()]/g,"");
     const searchformcontainer = document.getElementById('search-form-container');
     const searchinput = document.getElementById('search');
 
@@ -30,7 +30,7 @@
 
       const lis = document.querySelectorAll('main li');
       lis.forEach(el => {
-        if (!el.textContent.toLowerCase().includes(searchterm)) {
+        if (!el.textContent.toLowerCase().replace(/[.,!&;:\-()]/g,"").includes(searchterm)) {
           el.remove();
         }
       });
