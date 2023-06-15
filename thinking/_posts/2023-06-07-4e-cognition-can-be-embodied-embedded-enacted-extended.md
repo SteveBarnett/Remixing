@@ -1,4 +1,4 @@
 ---
-title: (4E) Cognition can be embodied, embedded, enacted, extended.
+title: "4E cognition. Cognition can can be embodied, embedded, enacted, extended."
 tags: human experience
 ---
