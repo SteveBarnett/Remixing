@@ -1,0 +1,24 @@
+---
+layout: page
+title: The Headless Way
+---
+
+{%- assign headlesses = site.posts | where: "headless", "true" | sort: "order" -%}
+
+<ol>
+  {%- for headless in headlesses -%}
+  <li id="{{ headless.title | truncatewords: 5 | slugify  }}">
+    {{ headless.title }} <span class="tags">In
+    
+    {% assign sortedheadless = headless.tags | sort_natural  %}
+
+    {%- capture headlesstags -%}
+      {%- for tag in sortedheadless -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ headless.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ headlesstags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
