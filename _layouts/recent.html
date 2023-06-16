@@ -4,7 +4,7 @@
 
 <ol>
 
-  {%- for recentpost in site.posts limit: 9 -%}
+  {%- for recentpost in site.posts limit: 13 -%}
   <li id="{{ recentpost.title | truncatewords: 5 | slugify  }}">
     {%- if recentpost.star -%}<strong>{%- endif -%}
     {{ recentpost.title }} 
