@@ -5,6 +5,26 @@ title: The Whole
 
 <p>Some gathered ideas on reality as one moving whole, made up of pairs of (seeming) opposites.</p>
 
+{%- assign thewholeposts = site.posts | where: "thewhole", "true" | sort: "thewholeorder" -%}
+
+<ol>
+  {%- for thewholepost in thewholeposts -%}
+  <li id="{{ thewholepost.title | truncatewords: 5 | slugify  }}">
+    {{ thewholepost.title }} <span class="tags">In&nbsp;
+
+    {%- assign sortedthewholepost = thewholepost.tags | sort_natural -%}
+
+    {%- capture thewholeposttags -%}
+      {%- for tag in sortedthewholepost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ thewholeposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
 {%- assign thewholeoneposts = site.posts | where: "thewholeone", "true" | sort: "thewholeoneorder" -%}
 
 <h2 id="one">One</h2>
