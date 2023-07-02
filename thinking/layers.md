@@ -9,6 +9,7 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
 - **Each layer offers a change in context, scale, and/or extent.** Each layer is worth reviewing on its own.
 - **The zoomed-out layers are bigger; they move and change more slowly.** All the layers are in constant motion. 
 - **The faster layers get our attention, but the slower layers have the power.** Slow and big controls fast and small by constraint and constancy. Fast and small instructs slow and big by accrued innovation and occasional revolution. The faster layers learn, the slower layers remember.
+- **The layer boundaries are fuzzy**. The boundaries are like tidemarks.
 
 ## References
 
