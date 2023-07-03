@@ -1,0 +1,24 @@
+---
+layout: page
+title: Competitiveness
+---
+
+{%- assign competitivenesposts = site.posts | where: "competitiveness", "true" | sort: "competitivenessorder" -%}
+
+<ol>
+  {%- for competitiveness in competitivenesposts -%}
+  <li id="{{ competitiveness.title | truncatewords: 5 | slugify  }}">
+    <strong>{{ competitiveness.competitivenessquadrant }}:</strong> {{ competitiveness.title }} <span class="tags">In
+    
+    {% assign sortedcompetitiveness = competitiveness.tags | sort_natural  %}
+
+    {%- capture competitivenesstags -%}
+      {%- for tag in sortedcompetitiveness -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ competitiveness.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ competitivenesstags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
