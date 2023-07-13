@@ -3,4 +3,5 @@ title: "Notice what you map to your sense of self. For example: anxiety vs indig
 tags: self mindfulness
 selfmaintain: true
 selfmaintainorder: 4
+star: true
 ---
