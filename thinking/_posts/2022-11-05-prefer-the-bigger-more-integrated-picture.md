@@ -6,5 +6,4 @@ preamble: true
 order: 3
 thewholeoao: true
 thewholeoaoorder: 1
-nondualpractice: true
 ---

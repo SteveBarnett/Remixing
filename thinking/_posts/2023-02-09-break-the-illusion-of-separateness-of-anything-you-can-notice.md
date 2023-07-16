@@ -8,5 +8,4 @@ selfbreakorder: 7
 competitiveness: true
 competitivenessorder: 2
 competitivenessquadrant: Thinking
-nondualpractice: true
 ---

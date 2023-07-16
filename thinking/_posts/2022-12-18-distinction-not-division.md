@@ -3,5 +3,4 @@ title: Many of the opposites we set up are false. There's distinction, but not d
 tags: TMWT opposites 
 thewholeopposites: true
 thewholeoppositesorder: 3
-nondualpractice: true
 ---

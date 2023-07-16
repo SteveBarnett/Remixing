@@ -3,23 +3,71 @@ layout: page
 title: Nondual practice
 ---
 
-{%- assign nondualpracticeposts = site.posts | where: "nondualpractice", "true" | sort: "nondualpracticeorder" -%}
+
+<h2>Nondoing</h2>
+
+{%- assign nondoingposts = site.posts | where: "nondoing", "true" | sort: "nondoingorder" -%}
 
 <ol>
-  {%- for nondualpractice in nondualpracticeposts -%}
-  <li id="{{ nondualpractice.title | truncatewords: 5 | slugify  }}">
-    <strong>{{ nondualpractice.nondualpracticeorder }}</strong>
-    {{ nondualpractice.title }} <span class="tags">In
+  {%- for nondoing in nondoingposts -%}
+  <li id="{{ nondoing.title | truncatewords: 5 | slugify  }}">
+    {{ nondoing.title }} <span class="tags">In
     
-    {% assign sortednondualpractice = nondualpractice.tags | sort_natural  %}
+    {% assign sortednondoing = nondoing.tags | sort_natural  %}
 
-    {%- capture nondualpracticetags -%}
-      {%- for tag in sortednondualpractice -%}
-      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ nondualpractice.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+    {%- capture nondoingtags -%}
+      {%- for tag in sortednondoing -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ nondoing.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
       {%- endfor -%}
     {%- endcapture -%}
 
-    {{ nondualpracticetags | remove_first: ", " }}.</span>
+    {{ nondoingtags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2>The Self</h2>
+
+{%- assign nondualselfposts = site.posts | where: "nondualself", "true" | sort: "nondualselforder" -%}
+
+
+<ol>
+  {%- for nondualself in nondualselfposts -%}
+  <li id="{{ nondualself.title | truncatewords: 5 | slugify  }}">
+    {{ nondualself.title }} <span class="tags">In
+    
+    {% assign sortednondualself = nondualself.tags | sort_natural  %}
+
+    {%- capture nondualselftags -%}
+      {%- for tag in sortednondualself -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ nondualself.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ nondualselftags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
+
+<h2>The Whole</h2>
+
+{%- assign nondualthewholeposts = site.posts | where: "nondualthewhole", "true" | sort: "nondualthewholeorder" -%}
+
+
+<ol>
+  {%- for nondualthewhole in nondualthewholeposts -%}
+  <li id="{{ nondualthewhole.title | truncatewords: 5 | slugify  }}">
+    {{ nondualthewhole.title }} <span class="tags">In
+    
+    {% assign sortednondualthewhole = nondualthewhole.tags | sort_natural  %}
+
+    {%- capture nondualthewholetags -%}
+      {%- for tag in sortednondualthewhole -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ nondualthewhole.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ nondualthewholetags | remove_first: ", " }}.</span>
   </li>
   {%- endfor -%}
 </ol>

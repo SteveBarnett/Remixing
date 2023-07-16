@@ -1,5 +1,6 @@
 ---
-title: Experiencing, before understanding, defining, or remembering.
+title: Experiencing before understanding, defining, or remembering.
 tags: experience nondual
-nondualpractice: true
+nondoing: true
+nondoingorder: 3
 ---

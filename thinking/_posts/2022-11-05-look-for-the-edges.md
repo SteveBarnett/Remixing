@@ -6,5 +6,4 @@ order: 8
 selfbreak: true
 selfbreakorder: 3
 headless: true
-nondualpractice: true
 ---

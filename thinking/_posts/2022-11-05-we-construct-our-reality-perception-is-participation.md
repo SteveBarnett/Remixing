@@ -4,5 +4,4 @@ tags: TMWT nondual experience
 star: true
 perception: true
 order: 1
-nondualpractice: true
 ---

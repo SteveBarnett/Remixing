@@ -4,5 +4,4 @@ tags: nondual buddhism TMWT waking-up
 star: true
 perception: true
 order: 2
-nondualpractice: true
 ---

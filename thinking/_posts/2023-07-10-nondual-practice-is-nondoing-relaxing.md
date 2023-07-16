@@ -2,5 +2,6 @@
 title: Nondual practice is nondoing, relaxing.
 tags: nondual experience
 star: true
-nondualpractice: true
+nondoing: true
+nondoingorder: 1
 ---

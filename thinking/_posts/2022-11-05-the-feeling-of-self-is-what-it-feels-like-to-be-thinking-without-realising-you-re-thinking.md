@@ -6,5 +6,4 @@ freewillandself: true
 order: 3
 selfmaintain: true
 selfmaintainorder: 5
-nondualpractice: true
 ---

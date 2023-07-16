@@ -1,5 +1,6 @@
 ---
 title: Notice and orient towards the underlying unity and wholeness.
 tags: experience nondual
-nondualpractice: true
+nondualthewhole: true
+nondualthewholeorder: 2
 ---
