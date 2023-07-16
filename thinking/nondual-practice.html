@@ -1,0 +1,25 @@
+---
+layout: page
+title: Nondual practice
+---
+
+{%- assign nondualpracticeposts = site.posts | where: "nondualpractice", "true" | sort: "nondualpracticeorder" -%}
+
+<ol>
+  {%- for nondualpractice in nondualpracticeposts -%}
+  <li id="{{ nondualpractice.title | truncatewords: 5 | slugify  }}">
+    <strong>{{ nondualpractice.nondualpracticeorder }}</strong>
+    {{ nondualpractice.title }} <span class="tags">In
+    
+    {% assign sortednondualpractice = nondualpractice.tags | sort_natural  %}
+
+    {%- capture nondualpracticetags -%}
+      {%- for tag in sortednondualpractice -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ nondualpractice.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ nondualpracticetags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>

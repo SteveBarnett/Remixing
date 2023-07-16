@@ -6,4 +6,5 @@ reality: true
 order: 1
 thewholeone: true
 thewholeoneorder: 1
+nondualpractice: true
 ---

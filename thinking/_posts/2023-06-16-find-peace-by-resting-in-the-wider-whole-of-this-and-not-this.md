@@ -4,4 +4,5 @@ tags: experience acceptance buddhism
 star: true
 thewhole: true
 thewholeorder: 2
+nondualpractice: true
 ---

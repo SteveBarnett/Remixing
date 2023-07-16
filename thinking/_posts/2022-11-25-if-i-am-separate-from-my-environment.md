@@ -4,4 +4,5 @@ tags: self nondual waking-up
 star: true
 freewillandself: true
 order: 2
+nondualpractice: true
 ---
