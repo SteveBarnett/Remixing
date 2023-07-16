@@ -1,0 +1,24 @@
+---
+layout: page
+title: Rest and peace
+---
+
+{%- assign restandpeaces = site.posts | where: "restandpeace", "true" | sort: "restandpeaceorder" -%}
+
+<ol>
+  {%- for restandpeace in restandpeaces -%}
+  <li id="{{ restandpeace.title | truncatewords: 5 | slugify  }}">
+    {{ restandpeace.title }} <span class="tags">In
+    
+    {% assign sortedrestandpeace = restandpeace.tags | sort_natural  %}
+
+    {%- capture restandpeacetags -%}
+      {%- for tag in sortedrestandpeace -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ restandpeace.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ restandpeacetags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>

@@ -4,4 +4,6 @@ tags: self nondual
 star: true
 nondoing: true
 nondoingorder: 2
+restandpeace: true
+restandpeaceorder: 2
 ---
