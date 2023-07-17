@@ -18,3 +18,5 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
 - [The Matter With Things](https://channelmcgilchrist.com/matter-with-things/)
 - [Shearing Layers](http://www.laputan.org/mud/mud.html#ShearingLayers)
 - [The Iceberg Model in Systems Thinking](https://donellameadows.org/systems-thinking-resources/)
+
+<p class="date-added">Added 30/01/23, updated 02/07/23.</p>

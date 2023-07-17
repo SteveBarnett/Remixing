@@ -5,6 +5,7 @@ title: Why can't it be both?
 
 {%- assign wcibbposts = site.posts | where: "wcibb", "true" | sort: "wcibborder" -%}
 
+
 <ul>
   {%- for wcibbpost in wcibbposts -%}
   <li id="{{ wcibbpost.title | truncatewords: 5 | slugify  }}">
@@ -22,3 +23,5 @@ title: Why can't it be both?
   </li>
   {%- endfor -%}
 </ul>
+
+<p class="date-added">Added 24/05/23.</p>
