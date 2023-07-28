@@ -4,40 +4,30 @@
 
 <h2 id="collections">Collections</h2>
 
+{%- assign thinkingposts = site.thinking | sort: "updated" | sort: "added" | reverse -%}
+
 <ul>
-  <li><a href="/thinking/why-cant-it-be-both/">Why can't it be both?</a></li>
-  <li><a href="/thinking/buddhist-ideas/">Buddhist ideas</a></li>
-  <li><a href="/thinking/the-tao/">The Tao</a></li>
-  <li><a href="/thinking/wu-wei/">Wu wei</a></li>
-  <li><a href="/thinking/free-will-and-self/">Free Will and Self</a></li>
-  <li><a href="/thinking/no-self/">No-Self</a></li>
-  <li><a href="/thinking/headless/">The Headless Way</a></li>
-  <li><a href="/thinking/consciousness/">Consciousness</a></li>
-  <li><a href="/thinking/no-problem/">Not having a problem</a></li>
-  <li><a href="/thinking/the-matter-with-things/">The Matter With Things</a></li>
-  <li><a href="/thinking/the-whole/">The Whole</a></li>
-  <li><a href="/thinking/the-palliative-society/">The Palliative Society</a></li>
-  <li><a href="/thinking/competitiveness/">Competitiveness</a></li>
-  <li><a href="/thinking/nondual-practice/">Nondual practice</a></li>
-  <li><a href="/thinking/rest-and-peace/">Rest and peace</a></li>
+{% for thinkingpost in thinkingposts %}
+  {% unless thinkingpost.longerform %}
+  <li>
+    <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
+    (added {{ thinkingpost.added }}{% if thinkingpost.updated %}, updated {{ thinkingpost.updated }}{% endif %})
+  </li>
+  {% endunless %}
+{% endfor %}
 </ul>
 
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
 
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | sort: "added" | reverse -%}
+
 <ul>
-  <li><a href="/thinking/layers/">Layers</a></li>
-  <li><a href="/thinking/reality-experience-interactions/">Reality, Experience, (Inter)actions</a></li>
-  <li><a href="/thinking/valued-action/">Valued Action</a></li>
-  <li><a href="/thinking/my-pattern-skillset-research-remix-replay/">My pattern / skillset: Research; Remix; Replay.</a>
-      <ul>
-        <li><a href="/thinking/how-i-take-notes/">How I take notes</a></li>
-      </ul>
+{% for longerformpost in longerformposts %}
+  <li>
+    <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
+    (added {{ longerformpost.added }}{% if longerformpost.updated %}, updated {{ longerformpost.updated }}{% endif %})
   </li>
-  <li><a href="/thinking/before-thoughts/">Before thoughts</a></li>
-  <li><a href="/thinking/money-and-companies/">Money and companies</a></li>
-  <li><a href="/thinking/ai-and-ethics/">AI and ethics</a></li>
-  <li><a href="/thinking/capitalism/">Capitalism</a></li>
-  <li><a href="/thinking/process-approach-big-ideas/">Process / Approach / Big Ideas</a></li>
+{% endfor %}
 </ul>
 
 <h2>See also</h2>

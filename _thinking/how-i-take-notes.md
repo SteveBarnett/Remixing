@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How I take notes
+longerform: true
 added: 2023-02-14
 ---
 

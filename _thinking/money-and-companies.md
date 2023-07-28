@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Money and companies
+longerform: true
 added: 2023-05-24
 ---
 

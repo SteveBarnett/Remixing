@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reality, Experience, (Inter)actions
+longerform: true
 added: 2023-04-24
 ---
 

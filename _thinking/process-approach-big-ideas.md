@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Process / Approach / Big Ideas
+longerform: true
 added: 2023-07-22
 ---
 

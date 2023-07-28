@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Before thoughts
+longerform: true
 added: 2023-03-23
 ---
 
