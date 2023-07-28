@@ -1,6 +1,8 @@
 ---
 layout: page
 title: AI and ethics
+added: 2023-06-23
+updated: 2023-07-01
 ---
 
 Things that I'm thinking about:
@@ -17,5 +19,3 @@ Things that I'm thinking about:
 - **Quality**. AI is good at quantity-related things, but bad at quality-related things.
 
 I'm keeping some notes in [my Ethics and Tech section](/notes/ethics-in-tech/).
-
-<p class="date-added">Added 25/06/23, updated 01/07/23.</p>

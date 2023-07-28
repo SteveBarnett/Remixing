@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Headless Way
+added: 2023-06-16
 ---
 
 {%- assign headlesses = site.posts | where: "headless", "true" | sort: "order" -%}
@@ -22,5 +23,3 @@ title: The Headless Way
   </li>
   {%- endfor -%}
 </ol>
-
-<p class="date-added">Added 16/06/23.</p>

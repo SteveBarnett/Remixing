@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Process / Approach / Big Ideas
+added: 2023-07-22
 ---
 
 
@@ -9,5 +10,3 @@ title: Process / Approach / Big Ideas
 - **Layers**. Boundaries and layers are useful but fuzzy and fuzzy.
 - **Bigger picture**. Go wider, see more of the whole.
 - **Work in spirals**. From one angle it looks like repetition, but it's revision, improvement.
-
-<p class="date-added">Added 22/07/23.</p>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Capitalism
+added: 2023-07-02
 ---
 
 
@@ -16,5 +17,3 @@ title: Capitalism
 
 
 (After rereading some old notes: [The Book Of Life: Capitalism](/notes/#the-book-of-life-capitalism))
-
-<p class="date-added">Added 02/07/23.</p>

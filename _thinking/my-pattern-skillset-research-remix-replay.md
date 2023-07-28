@@ -1,6 +1,6 @@
 ---
 title: My pattern / skillset
-tags: 
+added: 2023-04-24
 ---
 
 - **Research**. Take notes along the way. Look widely, look deeply.
@@ -8,5 +8,3 @@ tags:
 - **Replay**. Write up in a structured format.
 
 With waiting gaps in-between.
-
-<p class="date-added">Added 24/04/23.</p>

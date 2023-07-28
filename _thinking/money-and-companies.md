@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Money and companies
+added: 2023-05-24
 ---
 
 Money is the root of all evil, sort of.
@@ -31,5 +32,3 @@ There’s a hierarchy here. Of course money needs to be one of the slices. Perha
 ## Conclusion (sort of)
 
 Focusing on money in an unbalanced way is a sure way to make sure you lose money.
-
-<p class="date-added">Added 24/05/23.</p>

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Layers
+added: 2023-01-30
+updated: 2023-07-02
 ---
 
 Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers.
@@ -18,5 +20,3 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
 - [The Matter With Things](https://channelmcgilchrist.com/matter-with-things/)
 - [Shearing Layers](http://www.laputan.org/mud/mud.html#ShearingLayers)
 - [The Iceberg Model in Systems Thinking](https://donellameadows.org/systems-thinking-resources/)
-
-<p class="date-added">Added 30/01/23, updated 02/07/23.</p>

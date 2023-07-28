@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How I take notes
+added: 2023-02-14
 ---
 
 Notes:
@@ -19,6 +20,3 @@ The thing is... I am okay with this. I'm more interested in finding things that 
 - **Leave it a few days.**
 - **Write up some index cards**. I try to keep it to a handful of cards for each book.
 - **Add any little bits to my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-ish store of [ideas](/thinking/).** That's a bit of a mess at the moment. Kind of on purpose.
-
-
-<p class="date-added">Added 14/02/23, updated 24/04/23.</p>
