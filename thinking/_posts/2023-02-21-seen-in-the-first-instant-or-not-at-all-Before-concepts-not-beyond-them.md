@@ -3,4 +3,5 @@ title: Seen in the first instant, or not at all. Before concepts, not beyond the
 tags: mindfulness self
 selfimmediately: true
 selfimmediatelyorder: 1
+illusionofself: true
 ---

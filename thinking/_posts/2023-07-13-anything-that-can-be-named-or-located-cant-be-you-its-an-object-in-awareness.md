@@ -4,4 +4,5 @@ tags: self nondual experience
 star: true
 nondualself: true
 nondualselforder: 2
+illusionofself: true
 ---

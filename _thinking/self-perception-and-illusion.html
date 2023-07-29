@@ -1,0 +1,50 @@
+---
+layout: page
+title: "Self: perception and illusion"
+longerform: true
+added: 2023-07-29
+---
+
+<h2>Self as another perception</h2>
+
+<p>We know that our senses, our brains, already filter reality. This becomes especially clear when we compare our senses to other animals.</p>
+
+<ul>
+  <li>Our <strong>eyes</strong> can only <strong>see</strong> light in certain wavelengths.</li>
+  <li>Our <strong>ears</strong> can only <strong>hear</strong> sound in certain frequencies.</li>
+  <li>Our <strong>nose</strong> can only <strong>smell</strong> certain odours, and only at high enough concentrations.</li>
+  <li>Our <strong>tongue</strong> can only <strong>taste</strong> certain flavours, and only at high enough concentrations.</li>
+  <li>Our <strong>bodies</strong> can can only feel <strong>touch</strong> sensations at high enough levels of pressure and temperature.</li>
+</ul>
+
+<p>Perhaps it makes sense that our <strong>mind</strong> can only <strong>think</strong> certain thoughts. There are limitations that apply to the sense of thought. Our minds are constructing something, based on the available, limited, data.</p>
+
+<p>Buddhism suggests that the mind and the mental objects are another sense.</p>
+
+<h2 id="self-as-illusion">Self as illusion</h2>
+
+<p>If we do take mental objects as another sense-like phenomenon, it's easy to see how it might be an illusion. Or, at the least, not quite "true", not quite a representation of reality.</p>
+
+<p>Considering optical illusions and cognitive biases, it seems plausible that things our brains do can be "a bit off". Perhaps the sense of a concrete, fixed, separate, self is a bit off. Perhaps the self, if it's anything, is the context of awareness, and not its contents.</p>
+
+<h3 id="before-thought">Before thought</h3>
+
+{%- assign illusionofselfposts = site.posts | where: "illusionofself", "true" | sort: "order" -%}
+
+<ul>
+  {%- for illusionofself in illusionofselfposts -%}
+  <li id="{{ illusionofself.title | truncatewords: 5 | slugify  }}">
+    {{ illusionofself.title }} <span class="tags">In
+    
+    {% assign sortedillusionofself = illusionofself.tags | sort_natural  %}
+
+    {%- capture illusionofselftags -%}
+      {%- for tag in sortedillusionofself -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ illusionofself.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ illusionofselftags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
