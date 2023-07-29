@@ -1,23 +1,26 @@
-- title: "Sekiro: Shadows Die Twice"
-  platform: PS5
-  my_rating: 5
-  date_played: 2023-07
+# - title: "Sekiro: Shadows Die Twice"
+#   platform: PS5
+#   my_rating: 5
+#   date_played: 2023-07
 - title: "Final Fantasy 16"
   platform: PS5
   my_rating: 3
-  date_played: 2023-07 
+  date_played: 2023-07
 - title: "The Legend of Zelda: Tears of the Kingdom"
   platform: Nintendo Switch
   my_rating: 5
   date_played: 2023-05
+  tinyreview: "Huge, incredible, rich, immersive, world. Feels like a remix / remake / expansion of Breath of the Wild, but an exceptionally good one. The changes and additions make it feel fresh and exciting."
 - title: "Tunic"
   platform: PS5
   my_rating: 5
-  date_played: 2023-05 
+  date_played: 2023-05
+  tinyreview: 'Wonderfully and delightfully opaque. Modern love letter to old adventure games. Very cute protagonist! Rewards exploration and "Hmm, I wonder if..." playing and thinking.'
 - title: "Sifu"
   platform: PS5
   my_rating: 5
-  date_played: 2023-04 
+  date_played: 2023-04
+  tinyreview: "Intensely demanding and incredibly stylish kung-fu action. An audio-visual feast and a finely tuned rhythm action (fighting) game. Asks a lot of the player, but the sense of satisfaction goes deep."
 - title: "Resident Evil 3 Remake"
   platform: PS5
   my_rating: 3
@@ -29,7 +32,7 @@
 - title: "Immortals Fenyx Rising"
   platform: PS5
   my_rating: 4
-  date_played: 2023-01 
+  date_played: 2023-01
 - title: "Yakuza Zero"
   platform: PS5
   my_rating: 4
@@ -38,3 +41,4 @@
   platform: PS5
   my_rating: 5
   date_played: 2023-01
+  tinyreview: "Absolutely bonkers turn-based JRPG with lovable, flawed, realistic, ridiculous, heroes. An absolute blast to play, but pretty long to finish."

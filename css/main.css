@@ -142,6 +142,14 @@ h2 {
   border-bottom: 1px solid #333;
 }
 
+.review-header {
+  margin-bottom: 0;
+}
+
+.review-header + .review {
+  margin-top: 0;
+}
+
 div:target h1:before, div:target h2:before, div:target h3:before,
 h1:target:before, h2:target:before, h3:target:before {
   content: "→";
