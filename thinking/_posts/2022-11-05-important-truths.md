@@ -4,4 +4,5 @@ tags: TMWT
 star: true
 preamble: true
 order: 1
+collapse: true
 ---

@@ -1,0 +1,25 @@
+---
+layout: page
+title: Collapsing
+added: 2023-07-30
+---
+
+{%- assign collapsing = site.posts | where: "collapse", "true" | sort: "order" -%}
+
+<ol>
+  {%- for collapse in collapsing -%}
+  <li id="{{ collapse.title | truncatewords: 5 | slugify  }}">
+    {{ collapse.title }} <span class="tags">In
+    
+    {% assign sortedcollapse = collapse.tags | sort_natural  %}
+
+    {%- capture collapsetags -%}
+      {%- for tag in sortedcollapse -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ collapse.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ collapsetags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
