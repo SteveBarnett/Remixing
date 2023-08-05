@@ -1,0 +1,88 @@
+---
+title: Reading – since 2017
+layout: page
+---
+
+{% include search-form.html title=page.title %}
+
+<ol reversed>
+{% for book in site.data.books2023 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2022 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2021 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2020 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2019 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2018 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+{% for book in site.data.books2017 %}
+	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		Read {{ book. date_read | date: "%d-%m-%Y" }}
+		{%- if book.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, rated {{ book.my_rating }}/5.
+		{%- endif-%}
+	</li>
+{% endfor %}
+</ol>
+
+{% include search-js.html %}

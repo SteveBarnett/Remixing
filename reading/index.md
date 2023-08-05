@@ -32,3 +32,5 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 	<li><a href="/reading/2018">2018</a></li>
 	<li><a href="/reading/2017">2017</a></li>
 </ul>
+
+<p>Long list of <a href="/reading/all">all the books I've read since 2017</a>.</p>
