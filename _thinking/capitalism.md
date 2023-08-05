@@ -3,6 +3,7 @@ layout: page
 title: Capitalism
 longerform: true
 added: 2023-07-02
+updated: 2023-07-02
 ---
 
 

@@ -4,14 +4,14 @@
 
 <h2 id="collections">Collections</h2>
 
-{%- assign thinkingposts = site.thinking | sort: "updated" | sort: "added" | reverse -%}
+{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
 
 <ul>
 {% for thinkingpost in thinkingposts %}
   {% unless thinkingpost.longerform %}
   <li>
     <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
-    (added {{ thinkingpost.added }}{% if thinkingpost.updated %}, updated {{ thinkingpost.updated }}{% endif %})
+    (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
   </li>
   {% endunless %}
 {% endfor %}
@@ -19,13 +19,13 @@
 
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
 
-{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | sort: "added" | reverse -%}
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
 
 <ul>
 {% for longerformpost in longerformposts %}
   <li>
     <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
-    (added {{ longerformpost.added }}{% if longerformpost.updated %}, updated {{ longerformpost.updated }}{% endif %})
+    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
   </li>
 {% endfor %}
 </ul>

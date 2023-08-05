@@ -3,6 +3,7 @@ layout: page
 title: Before thoughts
 longerform: true
 added: 2023-03-23
+updated: 2023-03-23
 ---
 
 Thoughts are important. But they are additions on top of what is, and on top of who we are. The truth of reality, and of our self, is before thoughts, not beyond them.

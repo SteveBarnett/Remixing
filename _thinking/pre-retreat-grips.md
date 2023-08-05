@@ -3,6 +3,7 @@ layout: page
 title: Pre-retreat grips
 longerform: true
 added: 2023-07-28
+updated: 2023-07-28
 ---
 
 - **Mind the gap**

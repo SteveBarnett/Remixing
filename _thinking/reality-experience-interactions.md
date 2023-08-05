@@ -3,6 +3,7 @@ layout: page
 title: Reality, Experience, (Inter)actions
 longerform: true
 added: 2023-04-24
+updated: 2023-04-24
 ---
 
 Reality, Experience, and (Inter)actions are [layers](/layers/).

@@ -3,6 +3,7 @@ layout: page
 title: Money and companies
 longerform: true
 added: 2023-05-24
+updated: 2023-05-24
 ---
 
 Money is the root of all evil, sort of.

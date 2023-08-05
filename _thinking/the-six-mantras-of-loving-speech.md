@@ -3,6 +3,7 @@ layout: page
 title: The six mantras of Loving Speech
 longerform: true
 added: 2023-08-02
+updated: 2023-08-02
 ---
 
 1. I am here for you.
