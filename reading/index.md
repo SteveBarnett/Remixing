@@ -3,7 +3,7 @@ title: Reading
 layout: page
 ---
 
-This is a copy of [my goodreads list](https://www.goodreads.com/max_barners).
+This is a copy (and slight extension) of [my goodreads list](https://www.goodreads.com/max_barners).
 
 My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
 
@@ -17,6 +17,9 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 		.
 		{%- else -%}
 		, <span class="rating">rated {{ book.my_rating }}/5</span>.
+		{%- endif-%}
+		{%- if book.my_notes -%}
+		&nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
 		{%- endif-%}
 	</li>
 {% endfor %}

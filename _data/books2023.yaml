@@ -2,10 +2,12 @@
   author: "Hanh, Thich Nhat"
   my_rating: 4
   date_read: 02/08/2023
+  my_notes: /notes/zen/true%20love%20-%20thich%20nhat%20hanh.jpg
 - title: "Principles of Zen "
   author: "Batchelor, Martine"
   my_rating: 4
   date_read: 30/07/2023
+  my_notes: /notes/zen/principles%20of%20zen%20-%20martne%20bachelor.jpg
 - title: "Timequake"
   author: "Vonnegut Jr., Kurt"
   my_rating: 4
@@ -22,6 +24,7 @@
   author: "Fogg, B.J."
   my_rating: 4
   date_read: 13/07/2023
+  my_notes: /notes/process/tiny%20habits.jpg
 - title: "If Else Paradise"
   author: "Sriduangkaew, Benjanun"
   my_rating: 4
@@ -34,6 +37,7 @@
   author: "Littleton, C. Scott"
   my_rating: 3
   date_read: 01/07/2023
+  my_notes: /notes/personal-philosophy/the%20sacred%20east.jpg
 - title: "Always Italicise: How to Write While Colonised"
   author: "Somerville, Alice Te Punga"
   my_rating: 5
@@ -66,10 +70,12 @@
   author: "Rizzetto, Diane Eshin"
   my_rating: 5
   date_read: 24/06/2023
+  my_notes: /notes/zen/waking%20up%20to%20what%20you%20do.jpg
 - title: "Shinto: The Kami Way  "
   author: "Ono, Sokyo"
   my_rating: 5
   date_read: 17/06/2023
+  my_notes: /notes/personal-philosophy/shinto%20-%20the%20kami%20way.jpg
 - title: "Personal Velocity"
   author: "Miller, Rebecca"
   my_rating: 5
@@ -86,10 +92,12 @@
   author: "Monteiro, Mike"
   my_rating: 5
   date_read: 10/06/2023
+  my_notes: https://naga.co.za/2023/06/16/book-notes-ruined-by-design/
 - title: "The Integral Vision: A Very Short Introduction  "
   author: "Wilber, Ken"
   my_rating: 5
   date_read: 06/06/2023
+  my_notes: /notes/#integral
 - title: "Season of Skulls (New Management #3)  "
   author: "Stross, Charles"
   my_rating: 5
@@ -101,6 +109,7 @@
 - title: "How to Say No: An Ancient Guide to the Art of Cynicism"
   author: "Usher, M D"
   my_rating: 3
+  my_notes: /notes/stoics-and-cynics/how%20to%20say%20no%20(the%20cynics).jpg
   date_read: 01/06/2023
 - title: "People Person"
   author: "Cho, Joanna"
@@ -118,10 +127,12 @@
   author: "Niebauer, Chris"
   my_rating: 5
   date_read: 03/05/2023
+  my_notes: /notes/mindfulness/no%20self%20no%20problem%20workbook.jpg
 - title: "A Theory of Everything"
   author: "Wilber, Ken"
   my_rating: 5
   date_read: 02/05/2023
+  my_notes: /notes/integral/a%20theory%20of%20everything%20-%20ken%20wilber.jpg
 - title: "A House with Good Bones"
   author: "Kingfisher, T."
   my_rating: 4
@@ -130,6 +141,7 @@
   author: "Beck, Charlotte Joko"
   my_rating: 5
   date_read: 24/04/2023
+  my_notes: /notes/zen/nothing%20special%20-%20charlotte%20joko%20beck.jpg
 - title: "A stone seat and a shadow tree"
   author: "Jansen, Adrienne"
   my_rating: 4
@@ -142,14 +154,17 @@
   author: "Harris, Sam"
   my_rating: 5
   date_read: 19/04/2023
+  my_notes: /notes/waking-up/waking%20up%20(book)%20-%20sam%20harris.jpg
 - title: "The Collected Works of Ramana Maharshi "
   author: "Maharshi, Ramana"
   my_rating: 4
   date_read: 17/04/2023
+  my_notes: /notes/philosophy/ramana%20maharshi%20-%20collected%20works.jpg
 - title: "Zhuangzi: Basic Writings"
   author: "Zhuangzi"
   my_rating: 5
   date_read: 13/04/2023
+  my_notes: /notes/daoism/zhuangzi.jpg
 - title: "Furies"
   author: "Various authors"
   my_rating: 4
@@ -170,6 +185,7 @@
   author: "Schwenk, Theodor"
   my_rating: 4
   date_read: 01/04/2023
+  my_notes: /notes/systems-thinking/sensitive%20chaos.jpg
 - title: "Really Good, Actually"
   author: "Heisey, Monica"
   my_rating: 5
@@ -182,6 +198,7 @@
   author: "Hanh, Thich Nhat"
   my_rating: 4
   date_read: 19/03/2023
+  my_notes: /notes/zen/how%20to%20focus%20-%20thich%20naht%20hanh.jpg
 - title: "Tributary"
   author: "Varcoe, Rae"
   my_rating: 4
@@ -190,6 +207,7 @@
   author: "Harding, Douglas"
   my_rating: 4
   date_read: 17/03/2023
+  my_notes: /notes/zen/zen%20experience%20douglas%20harding.jpg
 - title: "Old Babes in the Wood"
   author: "Atwood, Margaret"
   my_rating: 5
@@ -198,6 +216,7 @@
   author: "Puett, Michael"
   my_rating: 5
   date_read: 09/03/2023
+  my_notes: /notes/philosophy/the%20path.jpg
 - title: "Children of Time"
   author: "Tchaikovsky, Adrian"
   my_rating: 5
@@ -206,6 +225,7 @@
   author: "Han, Byung-Chul"
   my_rating: 4
   date_read: 05/03/2023
+  my_notes: /notes/zen/the%20philosophy%20of%20zen.jpg
 - title: "Far from the Light of Heaven"
   author: "Thompson, Tade"
   my_rating: 3
@@ -226,6 +246,7 @@
   author: "Willard, Mary Beth"
   my_rating: 4
   date_read: 27/02/2023
+  my_notes: /notes/philosophy/why%20its%20okay%20to%20enjoy%20the%20work%20of%20immoral%20artists.jpg
 - title: "Death at Intervals"
   author: "Saramago, José"
   my_rating: 4
@@ -234,6 +255,7 @@
   author: "Han, Byung-Chul"
   my_rating: 5
   date_read: 20/02/2023
+  my_notes: /notes/philosophy/the%20palliative%20society.jpg
 - title: "Scale"
   author: "Egan, Greg"
   my_rating: 4
@@ -246,10 +268,12 @@
   author: "Harding, Douglas E."
   my_rating: 4
   date_read: 15/02/2023
+  my_notes: /notes/zen/on%20having%20no%20head%20-%20douglas%20harding.jpg
 - title: "Reasons to Be Hopeful"
   author: "The School of Life"
   my_rating: 5
   date_read: 13/02/2023
+  my_notes: /notes/the-school-of-life-and-alain-de-botton/reasons%20to%20be%20hopeful%20-%20the%20school%20of%20life.jpg
 - title: "Total"
   author: "Miller, Rebecca"
   my_rating: 4
@@ -262,10 +286,12 @@
   author: "Chödrön, Pema"
   my_rating: 4
   date_read: 10/02/2023
+  my_notes: /notes/zen/becoming%20boddhisattvas%20-%20pema%20chodron.jpg
 - title: "Fragments"
   author: "Heraclitus"
   my_rating: 4
   date_read: 8/02/2023
+  my_notes: /notes/daoism/heraticlus%20-%20fragments.jpg
 - title: "Nine Horses"
   author: "Collins, Billy"
   my_rating: 5
@@ -290,6 +316,7 @@
   author: "Whyte, David"
   my_rating: 2
   date_read: 01/2023
+  my_notes: /notes/personal-philosophy/the%20three%20marriages%20-%20david%20whyte.jpg
 - title: "Findings"
   author: "Jamie, Kathleen"
   my_rating: 5
@@ -298,6 +325,7 @@
   author: "Dillo, Christian"
   my_rating: 4
   date_read: 07/01/2023
+  my_notes: /notes/zen/the%20path%20of%20aliveness.jpg
 - title: "Further Fables for Our Time"
   author: Thurber, James
   my_rating: 4   
