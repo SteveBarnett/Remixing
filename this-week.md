@@ -91,6 +91,13 @@ layout: page
           <a href="{{ note.path }}">
             {{ note.basename }}
           </a>
+          <span class="hidden">
+            currentYear: {{ currentYear }},
+            currentNoteYear: {{ currentNoteYear}},
+            currentWeek: {{ currentWeek }},
+            currentNoteWeek: {{ currentNoteWeek}},
+            note.modified_time: {{ note.modified_time }}
+          </span>
         </li>
         {%- endif -%}
     {%- endfor -%}
