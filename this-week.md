@@ -6,6 +6,29 @@ layout: page
 {% assign currentYear = site.time | date: "%Y" %}
 {% assign currentWeek = site.time | date: "%U" %}
 
+Week {{ currentWeek }} of {{ currentYear }}.
+
+<h2 id="reading">Reading</h2>
+
+<ol>
+{%- for book in site.data.books2023 -%}
+    {%- assign currentBookWeek = book.date_read | date: "%U" -%}
+    {%- if currentWeek == currentBookWeek -%}
+        <li>
+            {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
+            {%- if book.my_rating == 0 -%}
+            .
+            {%- else -%}
+            , rated {{ book.my_rating }}/5.
+            {%- endif-%}
+            {%- if book.my_notes -%}
+            &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
+            {%- endif-%}
+        </li>
+    {%- endif-%}
+{%- endfor -%}
+</ol>
+
 <h2 id="thinking">Thinking</h2>
 
 <ol>
@@ -75,51 +98,4 @@ layout: page
     
 {%- endfor -%}
 
-</ol>
-
-<h2 id="noting">Noting</h2>
-
-<ul>
-
-{%- assign notes = site.static_files | sort: "modified_time" | reverse | where_exp: "file", "file.path contains '/notes/'" -%}
-    {%- for note in notes -%}
-        {%- assign currentNoteYear = note.modified_time | date: "%Y" -%}
-        {%- assign currentNoteWeek = note.modified_time | date: "%U" -%}
-
-        {%- if currentYear == currentNoteYear and currentWeek == currentNoteWeek -%}
-        <li>
-          <a href="{{ note.path }}">
-            {{ note.basename }}
-          </a>
-          <span class="hidden">
-            currentYear: {{ currentYear }},
-            currentNoteYear: {{ currentNoteYear}},
-            currentWeek: {{ currentWeek }},
-            currentNoteWeek: {{ currentNoteWeek}},
-            note.modified_time: {{ note.modified_time }}
-          </span>
-        </li>
-        {%- endif -%}
-    {%- endfor -%}
-</ul>
-
-<h2 id="reading">Reading</h2>
-
-<ol>
-{%- for book in site.data.books2023 -%}
-    {%- assign currentBookWeek = book.date_read | date: "%U" -%}
-    {%- if currentWeek == currentBookWeek -%}
-        <li>
-            {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-            {%- if book.my_rating == 0 -%}
-            .
-            {%- else -%}
-            , rated {{ book.my_rating }}/5.
-            {%- endif-%}
-            {%- if book.my_notes -%}
-            &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
-            {%- endif-%}
-        </li>
-    {%- endif-%}
-{%- endfor -%}
 </ol>
