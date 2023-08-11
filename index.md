@@ -5,7 +5,7 @@ layout: page
 
 Hi, I’m Steve Barnett. Here are some of the things I do.
 
-I tend to be quite reflective. Here's [a short review of my 2022](/review/2022/).
+I tend to be quite reflective. Here's [a short review of my 2022](/review/2022/). Here's [what I've been up to this week](/this-week/).
 
 ## Personal
 
