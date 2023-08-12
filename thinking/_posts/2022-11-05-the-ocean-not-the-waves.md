@@ -6,4 +6,5 @@ open: true
 order: 1
 selfbreakapproach: true
 selfbreakapproachorder: 2
+selfcompassion: true
 ---
