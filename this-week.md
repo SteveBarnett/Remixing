@@ -13,6 +13,8 @@ Week {{ currentWeek }} of {{ currentYear }}.
 <ol>
 {%- for book in site.data.books2023 -%}
     {%- assign currentBookWeek = book.date_read | date: "%U" -%}
+    {%- assign currentBookCount = 0 -%}
+
     {%- if currentWeek == currentBookWeek -%}
         <li>
             {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
@@ -25,8 +27,16 @@ Week {{ currentWeek }} of {{ currentYear }}.
             &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
             {%- endif-%}
         </li>
+
+    {%- assign currentBookCount = currentBookCount | plus: 1 -%}
+
     {%- endif-%}
+
 {%- endfor -%}
+
+{%-if currentBookCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
 </ol>
 
 <h2 id="thinking">Thinking</h2>
@@ -40,12 +50,16 @@ Week {{ currentWeek }} of {{ currentYear }}.
 
     {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
     {%- assign thinkingPostWeek = thinkingpost.updated | date: "%U" -%}
+    {%- assign currentThinkingCount = 0 -%}
 
     {%- if currentYear == thinkingPostYear and currentWeek == thinkingPostWeek -%}
         <li>
             <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
             (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
         </li>
+
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
     {% endif %}
 
     {% endunless %}
@@ -65,7 +79,9 @@ Week {{ currentWeek }} of {{ currentYear }}.
         (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
     </li>
 
-  {% endif %}
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
+    {% endif %}
 {% endfor %}
 
 {%- assign recentposts = site.posts | limit: 50 -%}
@@ -94,8 +110,15 @@ Week {{ currentWeek }} of {{ currentYear }}.
 
         {{ recentposttags | remove_first: ", " }}. Added {{ recentpost.date | date: "%d-%m-%Y" }}.</span>
     </li>
+
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
     {%- endif -%}
     
 {%- endfor -%}
+
+{%-if currentThinkingCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
 
 </ol>
