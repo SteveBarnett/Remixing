@@ -11,7 +11,7 @@ updated: 2023-08-13
 <ol>
 	<li>For behaviour, there's the expected, the observed, and the interpreted.
 		<ul>
-		  	<li>The expected, the "should", is not set as high as you think. Discount for perfectionism and people-pleasing tendencies.</li>
+		  	<li>The expected, the "should", is set lower than you think. Allow for perfectionism and people-pleasing tendencies.</li>
 		 	<li>The Inner Critic's interpretation is set much lower than the observed.</li>
 	 	</ul>
 	</li>
