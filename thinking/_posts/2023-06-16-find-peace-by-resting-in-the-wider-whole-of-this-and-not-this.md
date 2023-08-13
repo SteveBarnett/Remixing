@@ -8,4 +8,5 @@ nondualthewhole: true
 nondualthewholeorder: 3
 restandpeace: true
 restandpeaceorder: 4
+selfacceptance: true
 ---
