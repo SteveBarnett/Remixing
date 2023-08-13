@@ -11,10 +11,11 @@ Week {{ currentWeek }} of {{ currentYear }}.
 <h2 id="reading">Reading</h2>
 
 <ol>
+{%- assign currentBookCount = 0 -%}
+
 {%- for book in site.data.books2023 -%}
     {%- assign currentBookWeek = book.date_read | date: "%U" -%}
-    {%- assign currentBookCount = 0 -%}
-
+    
     {%- if currentWeek == currentBookWeek -%}
         <li>
             {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
@@ -26,15 +27,15 @@ Week {{ currentWeek }} of {{ currentYear }}.
             {%- if book.my_notes -%}
             &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
             {%- endif-%}
-        </li>
 
+        </li>
     {%- assign currentBookCount = currentBookCount | plus: 1 -%}
 
     {%- endif-%}
 
 {%- endfor -%}
 
-{%-if currentBookCount == 0 -%}
+{%- if currentBookCount == 0 -%}
     <li>Nothing yet!</li>
 {%- endif-%}
 </ol>
@@ -44,13 +45,13 @@ Week {{ currentWeek }} of {{ currentYear }}.
 <ol>
 
 {%- assign thinkingposts = site.thinking | limit: 50 | sort: "updated" | reverse -%}
+{%- assign currentThinkingCount = 0 -%}
 
 {% for thinkingpost in thinkingposts %}
     {% unless thinkingpost.longerform %}
 
     {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
     {%- assign thinkingPostWeek = thinkingpost.updated | date: "%U" -%}
-    {%- assign currentThinkingCount = 0 -%}
 
     {%- if currentYear == thinkingPostYear and currentWeek == thinkingPostWeek -%}
         <li>
@@ -117,7 +118,7 @@ Week {{ currentWeek }} of {{ currentYear }}.
     
 {%- endfor -%}
 
-{%-if currentThinkingCount == 0 -%}
+{%- if currentThinkingCount == 0 -%}
     <li>Nothing yet!</li>
 {%- endif-%}
 

@@ -11,10 +11,10 @@ Week {{ lastWeek }} of {{ currentYear }}.
 <h2 id="reading">Reading</h2>
 
 <ol>
-{%- for book in site.data.books2023 -%}
-    {%- assign lastBookWeek = book.date_read | date: "%U" -%}
-    {%- assign currentBookCount = 0 -%}
+{%- assign currentBookCount = 0 -%}
 
+{%- for book in site.data.books2023 -%}
+    {%- assign lastBookWeek = book.date_read | date: "%U" | minus: 0  -%}
     {%- if lastWeek == lastBookWeek -%}
         <li>
             {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
@@ -44,13 +44,13 @@ Week {{ lastWeek }} of {{ currentYear }}.
 <ol>
 
 {%- assign thinkingposts = site.thinking | limit: 50 | sort: "updated" | reverse -%}
+{%- assign currentThinkingCount = 0 -%}
 
 {% for thinkingpost in thinkingposts %}
     {% unless thinkingpost.longerform %}
 
     {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
-    {%- assign lastThinkingPostWeek = thinkingpost.updated | date: "%U" -%}
-    {%- assign currentThinkingCount = 0 -%}
+    {%- assign lastThinkingPostWeek = thinkingpost.updated | date: "%U" | minus: 0 -%}
 
     {%- if currentYear == thinkingPostYear and lastWeek == lastThinkingPostWeek -%}
         <li>
@@ -70,7 +70,7 @@ Week {{ lastWeek }} of {{ currentYear }}.
 {% for longerformpost in longerformposts %}
 
     {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" -%}
-    {%- assign lastLongerFormPostWeek = longerformpost.updated | date: "%U" -%}
+    {%- assign lastLongerFormPostWeek = longerformpost.updated | date: "%U" | minus: 0 -%}
 
     {%- if currentYear == longerFormPostYear and lastWeek == lastLongerFormPostWeek -%}
 
@@ -90,7 +90,7 @@ Week {{ lastWeek }} of {{ currentYear }}.
 {%- for recentpost in reversedRecentPosts -%}
     
 	{%- assign recentPostYear = recentpost.date | date: "%Y" -%}
-	{%- assign lastRecentPostWeek = recentpost.date | date: "%U" -%}
+	{%- assign lastRecentPostWeek = recentpost.date | date: "%U" | minus: 0 -%}
 
     {%- if currentYear == recentPostYear and lastWeek == lastRecentPostWeek -%}
 
