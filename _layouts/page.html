@@ -2,10 +2,6 @@
 
 {{ content }}
 
-{% if page.updated %}
-<p class="date-added">Added {{ page.added }}, updated {{ page.updated }}.</p>
-{% elsif page.added %}
-<p class="date-added">Added {{ page.added }}.</p>
-{% endif %}
+<p class="date-added">Added {{ page.added }}{% if page.updated != page.added %}, updated {{ page.updated }}{% endif %}.</p>
 
 {% include footer.html %}
