@@ -1,7 +1,16 @@
-# - title: "Sekiro: Shadows Die Twice"
-#   platform: PS5
-#   my_rating: 5
-#   date_played: 2023-07
+- title: "Vampire Survivors"
+  platform: Switch
+  my_rating: 4
+  date_played: 2023-08
+- title: "Pikmin 4"
+  platform: Switch
+  my_rating: 4
+  date_played: 2023-08
+- title: "Sekiro: Shadows Die Twice"
+  platform: PS5
+  my_rating: 5
+  date_played: 2023-07
+  tinyreview: "Gorgeous rugged mythical Japanese landscapes. Brutal but rewarding and musical, rhythmical, fast-paced, sword-fighting. The rewards come the player becoming better, not the character."
 - title: "Final Fantasy 16"
   platform: PS5
   my_rating: 3
