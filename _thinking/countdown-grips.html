@@ -1,0 +1,26 @@
+---
+layout: page
+title: Countdown grips
+added: 2023-08-20
+updated: 2023-08-20
+---
+
+{%- assign fwcposts = site.posts | where: "fwc", "true" | sort: "fwcorder" -%}
+
+<ol>
+  {%- for fwc in fwcposts -%}
+  <li id="{{ fwc.title | truncatewords: 5 | slugify  }}">
+    {{ fwc.title }} <span class="tags">In
+    
+    {% assign sortedfwc = fwc.tags | sort_natural  %}
+
+    {%- capture fwctags -%}
+      {%- for tag in sortedfwc -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ fwc.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ fwctags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
