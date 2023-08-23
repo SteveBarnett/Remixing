@@ -6,7 +6,7 @@
 
 {%- assign sortedtags = site.tags | sort -%}
 
-<h2>The topics</h2>
+<h2 id="the-topics">The topics</h2>
 
 {%- capture listoftags -%}
   {%- for tag in sortedtags -%}
@@ -17,7 +17,7 @@
 
 {{ listoftags | remove_first: ", " }}.
 
-<h2>The connections</h2>
+<h2 id="the-connections">The connections</h2>
 
 <ul>
 {%- for tag in sortedtags -%}
