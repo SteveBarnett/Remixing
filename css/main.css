@@ -156,17 +156,6 @@ h1:target:before, h2:target:before, h3:target:before {
   margin-right: 0.25em;
 }
 
-li:target {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  font-size: 2em;
-}
-
-li:target .tags {
-  font-size: 0.5em;
-  display: block;
-}
-
 a {
   color: #00a;
 }
