@@ -12,12 +12,10 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 <ol reversed>
 {% for book in site.data.books2023 %}
 	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
-		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}
-		{%- if book.my_rating == 0 -%}
-		.
-		{%- else -%}
-		, <span class="rating">rated {{ book.my_rating }}/5</span>.
-		{%- endif-%}
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
+		<span class="genre">{{ book.genre }}</span>.
+		<span class="read">Read {{ book. date_read | date: "%d-%m-%Y" }}.</span>
+		<span class="rating">rated {{ book.my_rating }}/5</span>.
 		{%- if book.my_notes -%}
 		&nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
 		{%- endif-%}
