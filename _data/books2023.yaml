@@ -1,372 +1,458 @@
-- title: "Trouble with Lichen: Classic Science Fiction "
+- title: "Trouble with Lichen"
   author: "Wyndham, John"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 25/08/2023
 - title: "Revenge Body"
   author: "Wiley, Rachel"
+  genre: "Poetry"
   my_rating: 4
   date_read: 24/08/2023
 - title: "Middle Youth"
   author: "Bach, Morgan"
+  genre: "Poetry"
   my_rating: 4
   date_read: 20/08/2023
 - title: "Patterns in Nature"
   author: "Ball, Philip"
+  genre: "Science"
   my_rating: 5
   date_read: 20/08/2023
 - title: "Thornhedge"
   author: "Kingfisher, T."
+  genre: "Fantasy"
   my_rating: 5
   date_read: 18/08/2023
 - title: "Taoism for Beginners: A Guide to Balanced Living "
   author: "Simpkins, C Alexander"
+  genre: "Taoism"
   my_rating: 4
   date_read: 16/08/2023
 - title: "Translation State"
   author: "Leckie, Ann"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 16/08/2023
 - title: "Saga"
   author: "Mettner, Hannah"
+  genre: "Poetry"
   my_rating: 4
   date_read: 10/08/2023
 - title: "True Love"
   author: "Hanh, Thich Nhat"
+  genre: "Zen"
   my_rating: 4
   date_read: 02/08/2023
   my_notes: /notes/zen/true%20love%20-%20thich%20nhat%20hanh.jpg
 - title: "Principles of Zen"
   author: "Batchelor, Martine"
+  genre: "Zen"
   my_rating: 4
   date_read: 30/07/2023
   my_notes: /notes/zen/principles%20of%20zen%20-%20martne%20bachelor.jpg
 - title: "Timequake"
   author: "Vonnegut Jr., Kurt"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 29/07/2023
 - title: "Wonders of Life "
   author: "Cox, Brian"
+  genre: "Science"
   my_rating: 4
   date_read: 29/07/2023
 - title: "Hera Lindsay Bird "
   author: "Bird, Hera Lindsay"
+  genre: "Poetry"
   my_rating: 5
   date_read: 25/07/2023
 - title: "Tiny Habits"
   author: "Fogg, B.J."
+  genre: "Nonfiction"
   my_rating: 4
   date_read: 13/07/2023
   my_notes: /notes/process/tiny%20habits.jpg
 - title: "If Else Paradise"
   author: "Sriduangkaew, Benjanun"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 08/07/2023
 - title: "Titanium Noir"
   author: "Harkaway, Nick"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 03/07/2023
 - title: "The Sacred East"
   author: "Littleton, C. Scott"
+  genre: "Philosophy"
   my_rating: 3
   date_read: 01/07/2023
   my_notes: /notes/personal-philosophy/the%20sacred%20east.jpg
 - title: "Always Italicise: How to Write While Colonised"
   author: "Somerville, Alice Te Punga"
+  genre: "Poetry"
   my_rating: 5
   date_read: 30/06/2023
 - title: "How It Unfolds (The Far Reaches, #1)"
   author: "Corey, James S.A."
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 29/06/2023
 - title: "Falling Bodies (The Far Reaches, #3)  "
   author: "Roanhorse, Rebecca"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 28/06/2023
 - title: "The Long Game (The Far Reaches, #4)"
   author: "Leckie, Ann"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 28/06/2023
 - title: "Void (The Far Reaches, #2)"
   author: "Roth, Veronica"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 27/06/2023
 - title: "Slow Time Between the Stars (The Far Reaches, #6)"
   author: "Scalzi, John"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 27/06/2023
 - title: "Just Out of Jupiter's Reach (The Far Reaches, #5) "
   author: "Okorafor, Nnedi"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 27/06/2023
 - title: "Waking Up to What You Do"
   author: "Rizzetto, Diane Eshin"
+  genre: "Zen"
   my_rating: 5
   date_read: 24/06/2023
   my_notes: /notes/zen/waking%20up%20to%20what%20you%20do.jpg
-- title: "Shinto: The Kami Way  "
+- title: "Shinto: The Kami Way"
   author: "Ono, Sokyo"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 17/06/2023
   my_notes: /notes/personal-philosophy/shinto%20-%20the%20kami%20way.jpg
 - title: "Personal Velocity"
   author: "Miller, Rebecca"
+  genre: "Fiction"
   my_rating: 5
   date_read: 16/06/2023
 - title: "Sleep and the Soul"
   author: "Egan, Greg"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 16/06/2023
 - title: "The Trouble with Poetry and Other Poems"
   author: "Collins, Billy"
+  genre: "Poetry"
   my_rating: 5
   date_read: 12/06/2023
 - title: "Ruined by Design"
   author: "Monteiro, Mike"
+  genre: "Design"
   my_rating: 5
   date_read: 10/06/2023
   my_notes: https://naga.co.za/2023/06/16/book-notes-ruined-by-design/
-- title: "The Integral Vision: A Very Short Introduction  "
+- title: "The Integral Vision: A Very Short Introduction"
   author: "Wilber, Ken"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 06/06/2023
   my_notes: /notes/#integral
-- title: "Season of Skulls (New Management #3)  "
+- title: "Season of Skulls (New Management #3)"
   author: "Stross, Charles"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 06/06/2023
 - title: "Tempest, Kae"
-  author: "On Connection "
+  author: "On Connection"
+  genre: "Nonfiction"
   my_rating: 4
   date_read: 05/06/2023
 - title: "How to Say No: An Ancient Guide to the Art of Cynicism"
   author: "Usher, M D"
+  genre: "Philosophy"
   my_rating: 3
   my_notes: /notes/stoics-and-cynics/how%20to%20say%20no%20(the%20cynics).jpg
   date_read: 01/06/2023
 - title: "People Person"
   author: "Cho, Joanna"
+  genre: "Poetry"
   my_rating: 4
   date_read: 30/05/2023
 - title: "40 Artists' Ideas for Planet Earth"
   author: "Obrist, Hans Ulrich"
+  genre: "Nonfiction"
   my_rating: 4
   date_read: 29/05/2023
 - title: "Chain-Gang All-Stars"
   author: "Adjei-Brenyah, Nana Kwame"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 19/05/2023
 - title: "The No Self, No Problem Workbook"
   author: "Niebauer, Chris"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 03/05/2023
   my_notes: /notes/mindfulness/no%20self%20no%20problem%20workbook.jpg
 - title: "A Theory of Everything"
   author: "Wilber, Ken"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 02/05/2023
   my_notes: /notes/integral/a%20theory%20of%20everything%20-%20ken%20wilber.jpg
 - title: "A House with Good Bones"
   author: "Kingfisher, T."
+  genre: "Fantasy"
   my_rating: 4
   date_read: 28/04/2023
 - title: "Nothing Special"
   author: "Beck, Charlotte Joko"
+  genre: "Zen"
   my_rating: 5
   date_read: 24/04/2023
   my_notes: /notes/zen/nothing%20special%20-%20charlotte%20joko%20beck.jpg
 - title: "A stone seat and a shadow tree"
   author: "Jansen, Adrienne"
+  genre: "Poetry"
   my_rating: 4
   date_read: 21/04/2023
 - title: "And Put Away Childish Things "
   author: "Tchaikovsky, Adrian"
+  genre: "Fantasy"
   my_rating: 4
   date_read: 20/04/2023
 - title: "Waking Up"
   author: "Harris, Sam"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 19/04/2023
   my_notes: /notes/waking-up/waking%20up%20(book)%20-%20sam%20harris.jpg
-- title: "The Collected Works of Ramana Maharshi "
+- title: "The Collected Works of Ramana Maharshi"
   author: "Maharshi, Ramana"
+  genre: "Philosophy"
   my_rating: 4
   date_read: 17/04/2023
   my_notes: /notes/philosophy/ramana%20maharshi%20-%20collected%20works.jpg
 - title: "Zhuangzi: Basic Writings"
   author: "Zhuangzi"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 13/04/2023
   my_notes: /notes/daoism/zhuangzi.jpg
 - title: "Furies"
   author: "Various authors"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 08/04/2023
 - title: "The Cosmic Dance"
   author: "Ellcock, Stephen"
+  genre: "Nonfiction"
   my_rating: 5
   date_read: 09/04/2023
 - title: "This folding map"
   author: "Riach, Alan"
+  genre: "Poetry"
   my_rating: 3
   date_read: 04/04/2023
 - title: "The Martian Chronicles"
   author: "Bradury, Ray"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 02/04/2023
 - title: "Sensitive Chaos"
   author: "Schwenk, Theodor"
+  genre: "Science"
   my_rating: 4
   date_read: 01/04/2023
   my_notes: /notes/systems-thinking/sensitive%20chaos.jpg
 - title: "Really Good, Actually"
   author: "Heisey, Monica"
+  genre: "Fiction"
   my_rating: 5
   date_read: 25/03/2023
 - title: "Wintering"
   author: "May, Katherine"
+  genre: "Nonfiction"
   my_rating: 3
   date_read: 24/03/2023
 - title: "How to Focus"
   author: "Hanh, Thich Nhat"
+  genre: "Zen"
   my_rating: 4
   date_read: 19/03/2023
   my_notes: /notes/zen/how%20to%20focus%20-%20thich%20naht%20hanh.jpg
 - title: "Tributary"
   author: "Varcoe, Rae"
+  genre: "Poetry"
   my_rating: 4
   date_read: 19/03/2023
 - title: "Zen Experience"
   author: "Harding, Douglas"
+  genre: "Zen"
   my_rating: 4
   date_read: 17/03/2023
   my_notes: /notes/zen/zen%20experience%20douglas%20harding.jpg
 - title: "Old Babes in the Wood"
   author: "Atwood, Margaret"
+  genre: "Fiction"
   my_rating: 5
   date_read: 14/03/2023
 - title: "The Path: A New Way to Think About Everything"
   author: "Puett, Michael"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 09/03/2023
   my_notes: /notes/philosophy/the%20path.jpg
 - title: "Children of Time"
   author: "Tchaikovsky, Adrian"
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 08/03/2023
 - title: "The Philosophy of Zen Buddhism"
   author: "Han, Byung-Chul"
+  genre: "Zen"
   my_rating: 4
   date_read: 05/03/2023
   my_notes: /notes/zen/the%20philosophy%20of%20zen.jpg
 - title: "Far from the Light of Heaven"
   author: "Thompson, Tade"
+  genre: "Science Fiction"
   my_rating: 3
   date_read: 04/03/2023
 - title: "The Gate to Women's Country"
   author: "Tepper, Sheri S."
+  genre: "Science Fiction"
   my_rating: 5
   date_read: 02/03/2023
 - title: "Zen Flesh, Zen Bones"
   author: "Reps, Paul"
+  genre: "Zen"
   my_rating: 4
   date_read: 28/02/2023
 - title: "Secrets Of The Sea"
   author: "Barthelemy, Georgette"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 28/02/2023
 - title: "Why It's OK to Enjoy the Work of Immoral Artists"
   author: "Willard, Mary Beth"
+  genre: "Nonfiction"
   my_rating: 4
   date_read: 27/02/2023
   my_notes: /notes/philosophy/why%20its%20okay%20to%20enjoy%20the%20work%20of%20immoral%20artists.jpg
 - title: "Death at Intervals"
   author: "Saramago, José"
+  genre: "Fiction"
   my_rating: 4
   date_read: 25/02/2023
 - title: "The Palliative Society: Pain Today"
   author: "Han, Byung-Chul"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 20/02/2023
   my_notes: /notes/philosophy/the%20palliative%20society.jpg
 - title: "Scale"
   author: "Egan, Greg"
+  genre: "Science Fiction"
   my_rating: 4
   date_read: 20/02/2023
 - title: "The Practice of Not Thinking"
   author: "Koike, Ryūnosuke"
+  genre: "Philosophy"
   my_rating: 3
   date_read: 18/02/2023
 - title: "On Having No Head"
   author: "Harding, Douglas E."
+  genre: "Zen"
   my_rating: 4
   date_read: 15/02/2023
   my_notes: /notes/zen/on%20having%20no%20head%20-%20douglas%20harding.jpg
 - title: "Reasons to Be Hopeful"
   author: "The School of Life"
+  genre: "Philosophy"
   my_rating: 5
   date_read: 13/02/2023
   my_notes: /notes/the-school-of-life-and-alain-de-botton/reasons%20to%20be%20hopeful%20-%20the%20school%20of%20life.jpg
 - title: "Total"
   author: "Miller, Rebecca"
+  genre: "Fiction"
   my_rating: 4
   date_read: 11/02//2023
 - title: "How People Lived"
   author: "Pipe, Jim"
+  genre: "Nonfiction"
   my_rating: 4
   date_read: 10/02/2023
 - title: "Becoming Bodhisattvas"
   author: "Chödrön, Pema"
+  genre: "Zen"
   my_rating: 4
   date_read: 10/02/2023
   my_notes: /notes/zen/becoming%20boddhisattvas%20-%20pema%20chodron.jpg
 - title: "Fragments"
   author: "Heraclitus"
+  genre: "Philosophy"
   my_rating: 4
   date_read: 8/02/2023
   my_notes: /notes/daoism/heraticlus%20-%20fragments.jpg
 - title: "Nine Horses"
   author: "Collins, Billy"
+  genre: "Poetry"
   my_rating: 5
   date_read: 07/02/2023
 - title: "Tale Of The Unknown Island"
   author: "Saramago, José"
+  genre: "Fiction"
   my_rating: 4
   date_read: 07/02/2023
 - title: "Stella Maris"
   author: "McCarthy, Cormac"
+  genre: "Fiction"
   my_rating: 5
   date_read: 04/02/2023
 - title: "The Passenger"
   author: "McCarthy, Cormac"
+  genre: "Fiction"
   my_rating: 5
   date_read: 24/01/2023
 - title: "World Words"
   author: "Cudby, Kevin"
+  genre: "Poetry"
   my_rating: 4
   date_read: 21/01/2023
 - title: "The Three Marriages"
   author: "Whyte, David"
+  genre: "Nonfiction"
   my_rating: 2
   date_read: 01/2023
   my_notes: /notes/personal-philosophy/the%20three%20marriages%20-%20david%20whyte.jpg
 - title: "Findings"
   author: "Jamie, Kathleen"
+  genre: "Nature"
   my_rating: 5
   date_read: 13/01/2023
 - title: "The Path of Aliveness"
   author: "Dillo, Christian"
+  genre: "Philosophy"
   my_rating: 4
   date_read: 07/01/2023
   my_notes: /notes/zen/the%20path%20of%20aliveness.jpg
 - title: "Further Fables for Our Time"
   author: Thurber, James
+  genre: "Fiction"
   my_rating: 4   
   date_read: 06/01/2023
 - title: "Tomorrow, and Tomorrow, and Tomorrow"
   author: Zevin, Gabrielle
+  genre: "Fiction"
   my_rating: 5   
   date_read: 05/01/2023
 - title: "Illuminations"
   author: Kingfisher, T.
+  genre: "Fantasy"
   my_rating: 4   
   date_read: 01/01/2023
