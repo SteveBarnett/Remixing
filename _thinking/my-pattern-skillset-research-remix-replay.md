@@ -1,4 +1,5 @@
 ---
+layout: page
 title: My pattern / skillset
 longerform: true
 added: 2023-04-24
