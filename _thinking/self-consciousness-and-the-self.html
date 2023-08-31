@@ -1,0 +1,26 @@
+---
+layout: page
+title: Self-consciousness and the self
+added: 2023-09-01
+updated: 2023-09-01
+---
+
+{%- assign selfconsciousnessposts = site.posts | where: "selfconsciousness", "true" | sort: "order" -%}
+
+<ol>
+  {%- for selfconsciousness in selfconsciousnessposts -%}
+  <li id="{{ selfconsciousness.title | truncatewords: 5 | slugify  }}">
+    {{ selfconsciousness.title }} <span class="tags">In
+    
+    {% assign sortedselfconsciousness = selfconsciousness.tags | sort_natural  %}
+
+    {%- capture selfconsciousnesstags -%}
+      {%- for tag in sortedselfconsciousness -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/{{ selfconsciousness.categories[0] }}/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ selfconsciousnesstags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ol>
