@@ -65,6 +65,10 @@ video {
   vertical-align: middle;
 }
 
+img {
+  max-width: 100%;
+}
+
 /*
  * Remove default fieldset styles.
  */
@@ -140,6 +144,10 @@ nav a[aria-current="page"] {
 h1,
 h2 {
   border-bottom: 1px solid #333;
+}
+
+h1 {
+  line-height: 1;
 }
 
 .review-header {
@@ -256,6 +264,19 @@ details form {
   border-top: 1px solid #666;
   padding-top: 1rem;
   margin-top: 4rem;
+}
+
+.boxout {
+  border: 1px solid #333;
+  padding: 0.5em;
+  border-top-color: #999;
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+.todo {
+  color: darkred;
+  background-color: transparent;
 }
 
 /* ==========================================================================

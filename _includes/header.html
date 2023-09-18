@@ -14,7 +14,7 @@
 
     <link href="https://use.typekit.net/ven2qwv.css" rel="stylesheet" />
     <link href="/css/normalize.css" rel="stylesheet" />
-    <link href="/css/main.css?v=20230824" rel="stylesheet" />
+    <link href="/css/main.css?v=20230917" rel="stylesheet" />
 
     <meta content="#fafafa" name="theme-color" />
   </head>
@@ -23,7 +23,9 @@
 
     <a href="#main" class="sr-only focusable">Skip to main content</a>
 
+    {% unless page.hidenav == true %}
     {% include nav.html %}
+    {% endunless %}
 
     <main id="main" tabindex="-1">
 
