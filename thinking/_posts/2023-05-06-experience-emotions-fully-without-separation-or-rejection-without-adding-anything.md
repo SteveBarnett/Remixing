@@ -4,4 +4,5 @@ tags: buddhism acceptance mindfulness
 nothavingaproblem: true
 nothavingaproblemorder: 4
 selfacceptancepain: true
+va202309open: true
 ---

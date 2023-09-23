@@ -4,4 +4,5 @@ tags: buddhism stoicism slowness love
 star: true
 love: true
 order: 2
+va202309relaxed: true
 ---

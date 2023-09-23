@@ -1,0 +1,41 @@
+---
+layout: page
+title: Valued Action, September 2023
+longerform: true
+added: 2023-09-03
+updated: 2023-09-24
+---
+
+<p>I'm trying to be more:</p>
+
+{%- assign va202309relaxedposts = site.posts | where: "va202309relaxed", "true" -%}
+{%- assign va202309openposts = site.posts | where: "va202309open", "true" -%}
+{%- assign va202309kindposts = site.posts | where: "va202309kind", "true" -%}
+
+<ul>
+	<li><strong>Relaxed</strong>. Something like: Welcoming, Tentative, Patient, Connected, Content.
+		<ul>
+			{%- for va202309relaxed in va202309relaxedposts -%}
+  			<li>{{ va202309relaxed.title }}</li>
+  			{%- endfor -%}
+		</ul>
+	</li>
+	<li><strong>Open</strong>. Something like: Inclusive, Flexible, Positive, Inclusive, Spacious, Tentative, Curious.
+		<ul>
+			{%- for va202309open in va202309openposts -%}
+  			<li>{{ va202309open.title }}</li>
+			{%- endfor -%}
+		</ul>
+	</li>
+	<li><strong>Kind</strong>. Something like: Empathetic, Generous, Supportive, Forgiving, Gentle.</li>
+		<ul>
+			{%- for va202309kind in va202309kindposts -%}
+  			<li>{{ va202309kind.title }}</li>
+  			{%- endfor -%}
+		</ul>
+	</li>
+</ul>
+
+<p>The <em>more</em> is an important part for me. It's not like there's a score I can achieve and be "done". It's an ongoing process. These values are more like navigational headings, directions, than a destination, a target.</p>
+
+<p>It's not that I don't think about other values, just that these are ones I want to keep front of mind at the moment.</p>
