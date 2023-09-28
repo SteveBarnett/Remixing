@@ -1,12 +1,10 @@
 ---
-title: This week
+title: This month
 layout: page
 ---
 
 {% assign currentYear = site.time | date: "%Y" %}
-{% assign currentWeek = site.time | date: "%U" %}
-
-Week {{ currentWeek }} of {{ currentYear }}.
+{% assign currentMonth = site.time | date: "%m" %}
 
 <h2 id="reading">Reading</h2>
 
@@ -14,9 +12,9 @@ Week {{ currentWeek }} of {{ currentYear }}.
 {%- assign currentBookCount = 0 -%}
 
 {%- for book in site.data.books2023 -%}
-    {%- assign currentBookWeek = book.date_read | date: "%U" -%}
+    {%- assign currentBookMonth = book.date_read | date: "%m" -%}
     
-    {%- if currentWeek == currentBookWeek -%}
+    {%- if currentMonth == currentBookMonth -%}
         <li>
             {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
             {%- if book.my_rating == 0 -%}
@@ -51,9 +49,9 @@ Week {{ currentWeek }} of {{ currentYear }}.
     {% unless thinkingpost.longerform %}
 
     {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
-    {%- assign thinkingPostWeek = thinkingpost.updated | date: "%U" -%}
+    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" -%}
 
-    {%- if currentYear == thinkingPostYear and currentWeek == thinkingPostWeek -%}
+    {%- if currentYear == thinkingPostYear and currentMonth == thinkingPostMonth -%}
         <li>
             <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
             (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
@@ -71,9 +69,9 @@ Week {{ currentWeek }} of {{ currentYear }}.
 {% for longerformpost in longerformposts %}
 
     {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" -%}
-    {%- assign longerFormPostWeek = longerformpost.updated | date: "%U" -%}
+    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" -%}
 
-    {%- if currentYear == longerFormPostYear and currentWeek == longerFormPostWeek -%}
+    {%- if currentYear == longerFormPostYear and currentMonth == longerFormPostMonth -%}
 
     <li>
         <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
@@ -91,9 +89,9 @@ Week {{ currentWeek }} of {{ currentYear }}.
 {%- for recentpost in reversedRecentPosts -%}
     
 	{%- assign recentPostYear = recentpost.date | date: "%Y" -%}
-	{%- assign recentPostWeek = recentpost.date | date: "%U" -%}
+	{%- assign recentPostMonth = recentpost.date | date: "%m" -%}
 
-    {%- if currentYear == recentPostYear and currentWeek == recentPostWeek -%}
+    {%- if currentYear == recentPostYear and currentMonth == recentPostMonth -%}
 
     <li>
         {%- if recentpost.star -%}<strong>{%- endif -%}
@@ -123,7 +121,3 @@ Week {{ currentWeek }} of {{ currentYear }}.
 {%- endif-%}
 
 </ol>
-
-<h2>See also</h2>
-
-<p><a href="/last-week">Last week</a>.</p>
