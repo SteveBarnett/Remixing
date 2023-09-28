@@ -1,3 +1,14 @@
+- title: "Children of Ruin"
+  author: "Tchaikovsky, Adrian"
+  genre: "Science Fiction"
+  my_rating: 5
+  date_read: 26/09/2023
+- title: " Being Aware of Being Aware"
+  author: "Spira, Rupert"
+  genre: "Philosophy"
+  my_rating: 4
+  date_read: 18/09/2023
+  my_notes: /notes/rupert-spira/being%20aware%20of%20being%20aware%20-%20rupert%20spira.jpg
 - title: "Mammoths at the Gates"
   author: "Vo, Nghi"
   genre: "Fantasy" 
@@ -18,6 +29,7 @@
   genre: "Buddhism"
   my_rating: 5
   date_read: 05/09/2023
+  my_notes: /notes/philosophy/wake%20up%20now%20-stephan%20bodian.jpg
 - title: "Super Model Minority"
   author: "Tse, Chris"
   genre: "Poetry"
