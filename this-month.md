@@ -16,7 +16,13 @@ layout: page
     
     {%- if currentMonth == currentBookMonth -%}
         <li>
-            {{ book.title }} by {{ book.author }}. Read {{ book. date_read | date: "%d-%m-%Y" }}
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.title }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}
+            &nbsp;by&nbsp;
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.author }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}. Read {{ book. date_read | date: "%d-%m-%Y" }}
             {%- if book.my_rating == 0 -%}
             .
             {%- else -%}
