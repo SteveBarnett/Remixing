@@ -121,3 +121,31 @@ layout: page
 {%- endif-%}
 
 </ol>
+
+<h2 id="musicing">Musicing</h2>
+
+{%- assign currentMusicCount = 0 -%}
+
+{%- assign musictracks = site.posts | where: "categories", "music" -%}
+
+<ol class="music" reversed>
+{%- for musictrack in musictracks -%}
+    {%- assign musicPostYear = musictrack.date | date: "%Y" -%}
+    {%- assign musicPostMonth = musictrack.date | date: "%m" -%}
+
+    {%- if currentYear == musicPostYear and currentMonth == musicPostMonth -%}
+<li>
+    <audio controls src="{{ musictrack.url | replace: "-", " " }}.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+    </audio>
+    <a href="{{ musictrack.url }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
+</li>
+    {%- endif-%}
+{%- endfor -%}
+
+{%- if currentMusicCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
+
+</ol>
