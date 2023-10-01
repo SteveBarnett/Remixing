@@ -1,0 +1,197 @@
+---
+title: Last month
+layout: page
+permanlink: /last-month/
+---
+
+{%- assign currentYear = site.time | date: "%Y"  -%}
+{%- assign currentMonth = site.time | date: "%m" | minus: 1 | prepend: "0" -%}
+{%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
+
+<h2 id="reading">Reading</h2>
+
+<ol>
+{%- assign currentBookCount = 0 -%}
+
+{%- for book in site.data.books2023 -%}
+    {%- assign currentBookMonth = book.date_read | date: "%m" -%}
+    
+    {%- if currentMonth == currentBookMonth -%}
+        <li>
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.title }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}
+            &nbsp;by&nbsp;
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.author }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}. Read {{ book. date_read | date: "%d-%m-%Y" }}
+            {%- if book.my_rating == 0 -%}
+            .
+            {%- else -%}
+            , rated {{ book.my_rating }}/5.
+            {%- endif-%}
+            {%- if book.my_notes -%}
+            &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
+            {%- endif-%}
+
+        </li>
+    {%- assign currentBookCount = currentBookCount | plus: 1 -%}
+
+    {%- endif-%}
+
+{%- endfor -%}
+
+{%- if currentBookCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
+</ol>
+
+<h2 id="thinking">Thinking</h2>
+
+<ol>
+
+{%- assign thinkingposts = site.thinking | limit: 50 | sort: "updated" | reverse -%}
+{%- assign currentThinkingCount = 0 -%}
+
+{% for thinkingpost in thinkingposts %}
+    {% unless thinkingpost.longerform %}
+
+    {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
+    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" -%}
+
+    {%- if currentYear == thinkingPostYear and currentMonth == thinkingPostMonth -%}
+        <li>
+            <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
+            (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
+        </li>
+
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
+    {% endif %}
+
+    {% endunless %}
+{% endfor %}
+
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
+
+{% for longerformpost in longerformposts %}
+
+    {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" -%}
+    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" -%}
+
+    {%- if currentYear == longerFormPostYear and currentMonth == longerFormPostMonth -%}
+
+    <li>
+        <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
+        (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+    </li>
+
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
+    {% endif %}
+{% endfor %}
+
+{%- assign recentposts = site.posts | limit: 50 -%}
+{%- assign reversedRecentPosts = recentposts | reverse -%}
+
+{%- for recentpost in reversedRecentPosts -%}
+    
+	{%- assign recentPostYear = recentpost.date | date: "%Y" -%}
+	{%- assign recentPostMonth = recentpost.date | date: "%m" -%}
+
+    {%- if currentYear == recentPostYear and currentMonth == recentPostMonth -%}
+
+    <li>
+        {%- if recentpost.star -%}<strong>{%- endif -%}
+        {{ recentpost.title }} 
+        {%- if recentpost.star -%}</strong>{%- endif -%}
+        <span class="tags">&nbsp;In&nbsp;
+
+        {%- assign sortedrecentposttags = recentpost.tags | sort_natural -%}
+
+        {%- capture recentposttags -%}
+          {%- for tag in sortedrecentposttags -%}
+          , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+          {%- endfor -%}
+        {%- endcapture -%}
+
+        {{ recentposttags | remove_first: ", " }}. Added {{ recentpost.date | date: "%d-%m-%Y" }}.</span>
+    </li>
+
+    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+
+    {%- endif -%}
+    
+{%- endfor -%}
+
+{%- if currentThinkingCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
+
+</ol>
+
+<h2 id="musicing">Musicing</h2>
+
+{%- assign currentMusicCount = 0 -%}
+
+{%- assign musictracks = site.posts | where: "categories", "music" -%}
+
+<ol class="music" reversed>
+{%- for musictrack in musictracks -%}
+    {%- assign musicPostYear = musictrack.date | date: "%Y" -%}
+    {%- assign musicPostMonth = musictrack.date | date: "%m" -%}
+
+    {%- if currentYear == musicPostYear and currentMonth == musicPostMonth -%}
+<li>
+    <audio controls src="{{ musictrack.url | replace: "-", " " }}.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+    </audio>
+    <a href="{{ musictrack.url }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
+</li>
+
+    {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
+    {%- endif-%}
+{%- endfor -%}
+
+{%- if currentMusicCount == 0 -%}
+    <li>Nothing yet!</li>
+{%- endif-%}
+
+</ol>
+
+<h2 id="musicing">Arting</h2>
+
+{%- assign currentArtCount = 0 -%}
+
+    {% assign sortedart = site.art | reverse %}
+
+    {%- for art in sortedart -%}
+
+        {%- assign artSlugYearMonth = art.slug | slice: 0, 7 -%}
+    
+        {%- if artSlugYearMonth == currentYearMonth -%}
+
+<h3 id="{{ art.slug }}"><a href="{{ art.url }}">{{ art.title }}</a></h3>
+  <ul role="list" class="art">
+  {%- for note in site.static_files -%}
+    {%- if note.path contains art.url -%}
+    <li role="listitem">
+      <a href="{{ note.path }}">
+        {{- note.basename -}}
+      </a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+
+        {%- assign currentArtCount = currentArtCount | plus: 1 -%}
+
+        {%- endif-%}
+
+    {%- endfor -%}
+
+{%- if currentArtCount == 0 -%}
+    <p>Nothing yet!</p>
+{%- endif-%}
+
