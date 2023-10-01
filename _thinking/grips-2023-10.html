@@ -1,0 +1,14 @@
+---
+layout: page
+title: Grips, October 2023
+added: 2023-10-01
+updated: 2023-10-01
+---
+
+{%- assign grips202310 = site.posts | where: "grips202310", "true" | sort: "grips202310order" -%}
+
+<ul>
+	{%- for grip202310 in grips202310 -%}
+		<li>{{ grip202310.title }}</li>
+		{%- endfor -%}
+</ul>
