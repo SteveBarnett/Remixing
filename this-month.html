@@ -1,10 +1,12 @@
 ---
 title: This month
 layout: page
+permanlink: /this-month/
 ---
 
 {% assign currentYear = site.time | date: "%Y" %}
 {% assign currentMonth = site.time | date: "%m" %}
+{%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
 
 <h2 id="reading">Reading</h2>
 
@@ -147,6 +149,8 @@ layout: page
     </audio>
     <a href="{{ musictrack.url }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
 </li>
+
+    {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
     {%- endif-%}
 {%- endfor -%}
 
@@ -155,3 +159,39 @@ layout: page
 {%- endif-%}
 
 </ol>
+
+<h2 id="musicing">Arting</h2>
+
+{%- assign currentArtCount = 0 -%}
+
+    {% assign sortedart = site.art | reverse %}
+
+    {%- for art in sortedart -%}
+
+        {%- assign artSlugYearMonth = art.slug | slice: 0, 7 -%}
+    
+        {%- if artSlugYearMonth == currentYearMonth -%}
+
+<h3 id="{{ art.slug }}"><a href="{{ art.url }}">{{ art.title }}</a></h3>
+  <ul role="list" class="art">
+  {%- for note in site.static_files -%}
+    {%- if note.path contains art.url -%}
+    <li role="listitem">
+      <a href="{{ note.path }}">
+        {{- note.basename -}}
+      </a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+
+        {%- assign currentArtCount = currentArtCount | plus: 1 -%}
+
+        {%- endif-%}
+
+    {%- endfor -%}
+
+{%- if currentArtCount == 0 -%}
+    <p>Nothing yet!</p>
+{%- endif-%}
+
