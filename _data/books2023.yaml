@@ -1,9 +1,19 @@
+- title: "Everyday Zen"
+  author: "Beck, Charlotte Joko"
+  genre: "Zen"
+  my_rating: 5
+  date_read: 08/10/2023
+- title: "Starter Villain"
+  author: "Scalzi, John"
+  genre: "Science Fiction"
+  my_rating: 4
+  date_read: 29/09/2023
 - title: "Children of Ruin"
   author: "Tchaikovsky, Adrian"
   genre: "Science Fiction"
   my_rating: 5
   date_read: 26/09/2023
-- title: " Being Aware of Being Aware"
+- title: "Being Aware of Being Aware"
   author: "Spira, Rupert"
   genre: "Philosophy"
   my_rating: 4
