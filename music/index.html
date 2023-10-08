@@ -15,11 +15,11 @@ title: Table of contents
 <ol reversed class="music">
   {%- for track in category[1] -%}
     <li>
-      <audio controls src="{{ track.url | replace: "-", " " }}.mp3">
+      <audio controls preload="none" src="{{ track.url | replace: "-", " " | downcase }}.mp3">
           Your browser does not support the
           <code>audio</code> element.
       </audio>
-      <a href="{{ track.url }}">{{ track.title }}</a> ({{ track.date | date: "%Y-%m-%d" }})
+      <a href="{{ track.url | downcase }}.mp3">{{ track.title }}</a> ({{ track.date | date: "%Y-%m-%d" }})
   </li>
   {%- endfor -%}
 </ol>

@@ -1,6 +1,6 @@
 {% include header.html %}
   
-<audio controls src="{{ page.url | replace: "-", " " }}.mp3">
+<audio controls preload="none" src="{{ page.url | replace: "-", " " | downcase }}.mp3">
     Your browser does not support the
     <code>audio</code> element.
 </audio>
