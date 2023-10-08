@@ -143,11 +143,11 @@ permanlink: /this-month/
 
     {%- if currentYear == musicPostYear and currentMonth == musicPostMonth -%}
 <li>
-    <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " | downcase }}.mp3">
+    <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " }}.mp3">
         Your browser does not support the
         <code>audio</code> element.
     </audio>
-    <a href="{{ musictrack.url }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
+    <a href="{{ musictrack.url | replace: "-", " " }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
 </li>
 
     {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
