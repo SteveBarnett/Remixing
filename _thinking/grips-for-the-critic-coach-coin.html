@@ -1,0 +1,36 @@
+---
+layout: page
+title: Grips for the Critic / Coach coin
+added: 2023-10-10
+updated: 2023-10-10
+---
+
+{%- assign cccoingripsclear = site.posts | where: "cccoingripsclear", "true" -%}
+
+<h2>Clear</h2>
+
+<ul>
+	{%- for cccoingripclear in cccoingripsclear -%}
+	<li>{{ cccoingripclear.title }}</li>
+	{%- endfor -%}
+</ul>
+
+<h2>Open</h2>
+
+{%- assign cccoingripsopen = site.posts | where: "cccoingripsopen", "true" -%}
+
+<ul>
+	{%- for cccoingripopen in cccoingripsopen -%}
+	<li>{{ cccoingripopen.title }}</li>
+	{%- endfor -%}
+</ul>
+
+<h2>Forgiving</h2>
+
+{%- assign cccoingripsforgiving = site.posts | where: "cccoingripsforgiving", "true" -%}
+
+<ul>
+	{%- for cccoingripforgiving in cccoingripsforgiving -%}
+	<li>{{ cccoingripforgiving.title }}</li>
+	{%- endfor -%}
+</ul>
