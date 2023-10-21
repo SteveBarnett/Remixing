@@ -1,3 +1,19 @@
+- title: "Chinese Fish"
+  author: "Yee, Grace"
+  genre: "Poetry"
+  my_rating: 5
+  date_read: 16/10/2023
+- title: "Children of Memory"
+  author: "Tchaikovsky, Adrian"
+  genre: "Science Fiction"
+  my_rating: 4
+  date_read: 13/10/2023
+- title: "Know Yourself"
+  author: "Twinch, Cecilia"
+  genre: "Philosophy"
+  my_rating: 4
+  date_read: 10/10/2023
+  my_notes: /notes/rupert-spira/know%20yourself.jpg
 - title: "Until the Last of Me"
   author: "Neuvel, Sylvain"
   genre: "Science Fiction"
@@ -8,6 +24,7 @@
   genre: "Zen"
   my_rating: 5
   date_read: 08/10/2023
+  my_notes: /notes/zen/everyday zen - charlotte joko beck.jpg
 - title: "Starter Villain"
   author: "Scalzi, John"
   genre: "Science Fiction"
@@ -80,6 +97,7 @@
   genre: "Taoism"
   my_rating: 4
   date_read: 16/08/2023
+  my_notes: /notes/daoism/taoism%20for%20beginners.jpg
 - title: "Translation State"
   author: "Leckie, Ann"
   genre: "Science Fiction"
