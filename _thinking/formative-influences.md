@@ -21,8 +21,12 @@ Small lists of things that have had big influences on me.
 - [The School of Life](https://www.theschooloflife.com/), especially [the articles](https://www.theschooloflife.com/articles/).
 - Buddhism, especially Zen and Dzogchen.
 	- Also Daoism, especially the Tao Te Ching.
-- [Sam Harris](https://www.samharris.org/)'s work, especially the [Waking Up app](https://www.wakingup.com/).
-- [Ian McGilchrist](https://channelmcgilchrist.com/)'s work, especially [The Matter With Things](https://channelmcgilchrist.com/matter-with-things/).
+
+## People
+
+- [Sam Harris](https://www.samharris.org/), especially the [Waking Up app](https://www.wakingup.com/).
+- [Tara Brach](https://www.tarabrach.com/), especially [RAIN](https://www.tarabrach.com/rain/).
+- [Ian McGilchrist](https://channelmcgilchrist.com/), especially [The Matter With Things](https://channelmcgilchrist.com/matter-with-things/).
 
 ## Practices
 
