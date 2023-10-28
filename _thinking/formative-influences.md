@@ -32,4 +32,8 @@ Small lists of things that have had big influences on me.
 
 - Daily reflections, especially recommitting to valued action.
 - Meditation, especially nondual awareness.
+- Paying more attention:
+	- to the world around me (especially nature) and taking joy in it;
+	- to what I'm thinking and feeling;
+	- to what and how other people are communicating.
 - Using a commonplace book, especially one I always have with me.
