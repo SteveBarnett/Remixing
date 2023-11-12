@@ -1,0 +1,94 @@
+---
+layout: page
+title: Inaction and Underneathness
+added: 2023-11-13
+updated: 2023-11-13
+---
+
+<h2>Inaction: Why</h2>
+
+{%- assign inactionwhyposts = site.posts | where: "inactionwhy", "true" | sort: "inactionwhyorder" -%}
+
+<ul>
+  {%- for inactionwhypost in inactionwhyposts -%}
+  <li id="{{ inactionwhypost.title | truncatewords: 5 | slugify  }}">
+    {{ inactionwhypost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedinactionwhypost = inactionwhypost.tags | sort_natural -%}
+
+    {%- capture inactionwhyposttags -%}
+      {%- for tag in sortedinactionwhypost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ inactionwhyposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2>Inaction: What</h2>
+
+{%- assign inactionposts = site.posts | where: "inaction", "true" | sort: "inactionorder" -%}
+
+<ul>
+  {%- for inactionpost in inactionposts -%}
+  <li id="{{ inactionpost.title | truncatewords: 5 | slugify  }}">
+    {{ inactionpost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedinactionpost = inactionpost.tags | sort_natural -%}
+
+    {%- capture inactionposttags -%}
+      {%- for tag in sortedinactionpost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ inactionposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2>Underneathness: Why</h2>
+
+{%- assign underneathnesswhyposts = site.posts | where: "underneathnesswhy", "true" | sort: "underneathnesswhyorder" -%}
+
+<ul>
+  {%- for underneathnesswhypost in underneathnesswhyposts -%}
+  <li id="{{ underneathnesswhypost.title | truncatewords: 5 | slugify  }}">
+    {{ underneathnesswhypost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedunderneathnesswhypost = underneathnesswhypost.tags | sort_natural -%}
+
+    {%- capture underneathnesswhyposttags -%}
+      {%- for tag in sortedunderneathnesswhypost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ underneathnesswhyposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<h2>Underneathness: What</h2>
+
+{%- assign underneathnessposts = site.posts | where: "underneathness", "true" | sort: "underneathnessorder" -%}
+
+<ul>
+  {%- for underneathnesspost in underneathnessposts -%}
+  <li id="{{ underneathnesspost.title | truncatewords: 5 | slugify  }}">
+    {{ underneathnesspost.title }} <span class="tags">In&nbsp;
+    
+    {%- assign sortedunderneathnesspost = underneathnesspost.tags | sort_natural -%}
+
+    {%- capture underneathnessposttags -%}
+      {%- for tag in sortedunderneathnesspost -%}
+      , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {{ underneathnessposttags | remove_first: ", " }}.</span>
+  </li>
+  {%- endfor -%}
+</ul>
