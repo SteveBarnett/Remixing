@@ -5,13 +5,12 @@ added: 2023-11-13
 updated: 2023-11-13
 ---
 
-<h2>Inaction: Why</h2>
+<h2>Inaction</h2>
 
 {%- assign inactionwhyposts = site.posts | where: "inactionwhy", "true" | sort: "inactionwhyorder" -%}
 
-<ul>
   {%- for inactionwhypost in inactionwhyposts -%}
-  <li id="{{ inactionwhypost.title | truncatewords: 5 | slugify  }}">
+  <p>
     {{ inactionwhypost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedinactionwhypost = inactionwhypost.tags | sort_natural -%}
@@ -23,17 +22,14 @@ updated: 2023-11-13
     {%- endcapture -%}
 
     {{ inactionwhyposttags | remove_first: ", " }}.</span>
-  </li>
+  </p>
   {%- endfor -%}
-</ul>
-
-<h2>Inaction: What</h2>
 
 {%- assign inactionposts = site.posts | where: "inaction", "true" | sort: "inactionorder" -%}
 
 <ul>
   {%- for inactionpost in inactionposts -%}
-  <li id="{{ inactionpost.title | truncatewords: 5 | slugify  }}">
+  <li>
     {{ inactionpost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedinactionpost = inactionpost.tags | sort_natural -%}
@@ -49,13 +45,12 @@ updated: 2023-11-13
   {%- endfor -%}
 </ul>
 
-<h2>Underneathness: Why</h2>
+<h2>Underneathness</h2>
 
 {%- assign underneathnesswhyposts = site.posts | where: "underneathnesswhy", "true" | sort: "underneathnesswhyorder" -%}
 
-<ul>
   {%- for underneathnesswhypost in underneathnesswhyposts -%}
-  <li id="{{ underneathnesswhypost.title | truncatewords: 5 | slugify  }}">
+  <p>
     {{ underneathnesswhypost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedunderneathnesswhypost = underneathnesswhypost.tags | sort_natural -%}
@@ -67,17 +62,14 @@ updated: 2023-11-13
     {%- endcapture -%}
 
     {{ underneathnesswhyposttags | remove_first: ", " }}.</span>
-  </li>
+  </p>
   {%- endfor -%}
-</ul>
-
-<h2>Underneathness: What</h2>
 
 {%- assign underneathnessposts = site.posts | where: "underneathness", "true" | sort: "underneathnessorder" -%}
 
 <ul>
   {%- for underneathnesspost in underneathnessposts -%}
-  <li id="{{ underneathnesspost.title | truncatewords: 5 | slugify  }}">
+  <li>
     {{ underneathnesspost.title }} <span class="tags">In&nbsp;
     
     {%- assign sortedunderneathnesspost = underneathnesspost.tags | sort_natural -%}
