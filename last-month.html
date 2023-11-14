@@ -5,8 +5,9 @@ permanlink: /last-month/
 ---
 
 {%- assign currentYear = site.time | date: "%Y"  -%}
-{%- assign currentMonth = site.time | date: "%m" | minus: 1 | prepend: "0" -%}
-{%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
+{%- assign lastMonth = site.time | date: "%m" | minus: 1 -%}
+{%- assign currentYearMonth = currentYear | append: "-" | append: lastMonth -%}
+
 
 <h2 id="reading">Reading</h2>
 
@@ -14,9 +15,9 @@ permanlink: /last-month/
 {%- assign currentBookCount = 0 -%}
 
 {%- for book in site.data.books2023 -%}
-    {%- assign currentBookMonth = book.date_read | date: "%m" -%}
+    {%- assign currentBookMonth = book.date_read | date: "%m" | minus: 0 -%}
     
-    {%- if currentMonth == currentBookMonth -%}
+    {%- if lastMonth == currentBookMonth -%}
         <li>
             {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
             {{ book.title }}
@@ -57,9 +58,9 @@ permanlink: /last-month/
     {% unless thinkingpost.longerform %}
 
     {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
-    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" -%}
+    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" | minus: 0 -%}
 
-    {%- if currentYear == thinkingPostYear and currentMonth == thinkingPostMonth -%}
+    {%- if currentYear == thinkingPostYear and lastMonth == thinkingPostMonth -%}
         <li>
             <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
             (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
@@ -77,9 +78,9 @@ permanlink: /last-month/
 {% for longerformpost in longerformposts %}
 
     {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" -%}
-    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" -%}
+    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" | minus: 0 -%}
 
-    {%- if currentYear == longerFormPostYear and currentMonth == longerFormPostMonth -%}
+    {%- if currentYear == longerFormPostYear and lastMonth == longerFormPostMonth -%}
 
     <li>
         <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
@@ -97,9 +98,9 @@ permanlink: /last-month/
 {%- for recentpost in reversedRecentPosts -%}
     
 	{%- assign recentPostYear = recentpost.date | date: "%Y" -%}
-	{%- assign recentPostMonth = recentpost.date | date: "%m" -%}
+	{%- assign recentPostMonth = recentpost.date | date: "%m" | minus: 0 -%}
 
-    {%- if currentYear == recentPostYear and currentMonth == recentPostMonth -%}
+    {%- if currentYear == recentPostYear and lastMonth == recentPostMonth -%}
 
     <li>
         {%- if recentpost.star -%}<strong>{%- endif -%}
@@ -139,9 +140,9 @@ permanlink: /last-month/
 <ol class="music" reversed>
 {%- for musictrack in musictracks -%}
     {%- assign musicPostYear = musictrack.date | date: "%Y" -%}
-    {%- assign musicPostMonth = musictrack.date | date: "%m" -%}
+    {%- assign musicPostMonth = musictrack.date | date: "%m" | minus: 0 -%}
 
-    {%- if currentYear == musicPostYear and currentMonth == musicPostMonth -%}
+    {%- if currentYear == musicPostYear and lastMonth == musicPostMonth -%}
 <li>
     <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " }}.mp3">
         Your browser does not support the
