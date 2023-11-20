@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mindfulness for the exhausted
+title: Mindfulness for exhausted people
 longerform: true
 added: 2023-11-18
 updated: 2023-11-19
