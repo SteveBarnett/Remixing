@@ -3,4 +3,6 @@ title: Let problems support your practice, enhance your ability to respond appro
 tags: buddhism acceptance mindfulness
 nothavingaproblem: true
 nothavingaproblemorder: 5
+acceptance: true
+aandrorder: 1
 ---
