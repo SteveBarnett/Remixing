@@ -294,6 +294,7 @@ th, td {
 blockquote {
   padding-left: 1rem;
   margin-left: 1rem;
+  border: 1px solid #666;
   border-left: 3px solid #666;
 }
 
