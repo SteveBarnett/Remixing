@@ -8,47 +8,11 @@
 
 <h1>Archive for {{ currentYearMonth }}</h1>
 
-<h2 id="reading">Reading</h2>
-
-<ol>
-{%- assign currentBookCount = 0 -%}
-
-{%- for book in site.data.books2023 -%}
-    {%- assign currentBookMonth = book.date_read | date: "%m" | plus: 0 -%}
-    {%- if currentMonth == currentBookMonth -%}
-        <li>
-            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
-            {{ book.title }}
-            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}
-            &nbsp;by&nbsp;
-            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
-            {{ book.author }}
-            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}. Read {{ book. date_read | date: "%d-%m-%Y" }}
-            {%- if book.my_rating == 0 -%}
-            .
-            {%- else -%}
-            , rated {{ book.my_rating }}/5.
-            {%- endif-%}
-            {%- if book.my_notes -%}
-            &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
-            {%- endif-%}
-
-        </li>
-    {%- assign currentBookCount = currentBookCount | plus: 1 -%}
-
-    {%- endif-%}
-
-{%- endfor -%}
-
-{%- if currentBookCount == 0 -%}
-    <li>Nothing this month.</li>
-{%- endif-%}
-</ol>
-
 <h2 id="thinking">Thinking</h2>
 
-<ol>
+<h3 id="collections">Collections</h3>
 
+<ol>
 {%- assign thinkingposts = site.thinking | limit: 50 | sort: "updated" | reverse -%}
 {%- assign currentThinkingCount = 0 -%}
 
@@ -70,7 +34,11 @@
 
     {% endunless %}
 {% endfor %}
+</ol>
 
+<h3 id="longer-form">Longer form</h3>
+
+<ol>
 {%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
 
 {% for longerformpost in longerformposts %}
@@ -89,7 +57,11 @@
 
     {% endif %}
 {% endfor %}
+</ol>
 
+<h3 id="posts">Posts</h3>
+
+<ol>
 {%- assign recentposts = site.posts | limit: 50 -%}
 {%- assign reversedRecentPosts = recentposts | reverse -%}
 
@@ -122,12 +94,48 @@
     {%- endif -%}
     
 {%- endfor -%}
+</ol>
 
 {%- if currentThinkingCount == 0 -%}
-    <li>Nothing this month.</li>
+<p>Nothing this month.</p>
 {%- endif-%}
 
+<h2 id="reading">Reading</h2>
+
+<ol>
+{%- assign currentBookCount = 0 -%}
+
+{%- for book in site.data.books2023 -%}
+    {%- assign currentBookMonth = book.date_read | date: "%m" | plus: 0 -%}
+    {%- if currentMonth == currentBookMonth -%}
+        <li>
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.title }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}
+            &nbsp;by&nbsp;
+            {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ book.author }}
+            {%- if book.my_rating == 5 -%}</strong>{%- endif-%}. Read {{ book. date_read | date: "%d-%m-%Y" }}
+            {%- if book.my_rating == 0 -%}
+            .
+            {%- else -%}
+            , rated {{ book.my_rating }}/5.
+            {%- endif-%}
+            {%- if book.my_notes -%}
+            &nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
+            {%- endif-%}
+
+        </li>
+    {%- assign currentBookCount = currentBookCount | plus: 1 -%}
+
+    {%- endif-%}
+
+{%- endfor -%}
 </ol>
+
+{%- if currentBookCount == 0 -%}
+<p>Nothing this month.</p>
+{%- endif-%}
 
 <h2 id="musicing">Musicing</h2>
 
@@ -152,12 +160,12 @@
     {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
     {%- endif-%}
 {%- endfor -%}
+</ol>
 
 {%- if currentMusicCount == 0 -%}
-    <li>Nothing this month.</li>
+<p>Nothing this month.</p>
 {%- endif-%}
 
-</ol>
 
 <h2 id="musicing">Arting</h2>
 
@@ -191,7 +199,7 @@
     {%- endfor -%}
 
 {%- if currentArtCount == 0 -%}
-    <p>Nothing this month.</p>
+<p>Nothing this month.</p>
 {%- endif-%}
 
 
