@@ -100,12 +100,27 @@
 <p>Nothing this month.</p>
 {%- endif-%}
 
+<h2 id="noting">Noting</h2>
+{%- assign currentBookNoteCount = 0 -%}
+
+{%- for booknote in site.data[page.booksdata] -%}
+    {%- if booknote.my_notes -%}
+        {%- assign currentBookMonth = book.date_read | date: "%m" | plus: 0 -%}
+        {%- if currentMonth == currentBookMonth -%}
+            <li>
+                <a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
+            </li>
+        {%- assign currentBookNoteCount = currentBookNoteCount | plus: 1 -%}
+        {%- endif-%}
+    {%- endif-%}
+{%- endfor -%}
+
 <h2 id="reading">Reading</h2>
 
-<ol>
+<ol reversed>
 {%- assign currentBookCount = 0 -%}
 
-{%- for book in site.data.books2023 -%}
+{%- for book in site.data[page.booksdata] -%}
     {%- assign currentBookMonth = book.date_read | date: "%m" | plus: 0 -%}
     {%- if currentMonth == currentBookMonth -%}
         <li>
