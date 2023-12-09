@@ -1,13 +1,12 @@
 ---
-title: Last month
 layout: page
-permanlink: /last-month/
 ---
 
-{%- assign currentYear = site.time | date: "%Y"  -%}
-{%- assign lastMonth = site.time | date: "%m" | minus: 1 -%}
-{%- assign currentYearMonth = currentYear | append: "-" | append: lastMonth -%}
+{%- assign currentYear = page.year | plus: 0 -%}
+{%- assign currentMonth = page.month | plus: 0 -%}
+{%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
 
+<h1>Archive for {{ currentYearMonth }}</h1>
 
 <h2 id="reading">Reading</h2>
 
@@ -15,9 +14,8 @@ permanlink: /last-month/
 {%- assign currentBookCount = 0 -%}
 
 {%- for book in site.data.books2023 -%}
-    {%- assign currentBookMonth = book.date_read | date: "%m" | minus: 0 -%}
-    
-    {%- if lastMonth == currentBookMonth -%}
+    {%- assign currentBookMonth = book.date_read | date: "%m" | plus: 0 -%}
+    {%- if currentMonth == currentBookMonth -%}
         <li>
             {%- if book.my_rating == 5 -%}<strong>{%- endif-%}
             {{ book.title }}
@@ -43,7 +41,7 @@ permanlink: /last-month/
 {%- endfor -%}
 
 {%- if currentBookCount == 0 -%}
-    <li>Nothing yet!</li>
+    <li>Nothing this month.</li>
 {%- endif-%}
 </ol>
 
@@ -57,10 +55,10 @@ permanlink: /last-month/
 {% for thinkingpost in thinkingposts %}
     {% unless thinkingpost.longerform %}
 
-    {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" -%}
-    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" | minus: 0 -%}
+    {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" | plus: 0 -%}
+    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" | plus: 0 -%}
 
-    {%- if currentYear == thinkingPostYear and lastMonth == thinkingPostMonth -%}
+    {%- if currentYear == thinkingPostYear and currentMonth == thinkingPostMonth -%}
         <li>
             <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
             (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
@@ -77,10 +75,10 @@ permanlink: /last-month/
 
 {% for longerformpost in longerformposts %}
 
-    {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" -%}
-    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" | minus: 0 -%}
+    {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" | plus: 0 -%}
+    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" | plus: 0 -%}
 
-    {%- if currentYear == longerFormPostYear and lastMonth == longerFormPostMonth -%}
+    {%- if currentYear == longerFormPostYear and currentMonth == longerFormPostMonth -%}
 
     <li>
         <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
@@ -97,10 +95,10 @@ permanlink: /last-month/
 
 {%- for recentpost in reversedRecentPosts -%}
     
-	{%- assign recentPostYear = recentpost.date | date: "%Y" -%}
-	{%- assign recentPostMonth = recentpost.date | date: "%m" | minus: 0 -%}
+	{%- assign recentPostYear = recentpost.date | date: "%Y" | plus: 0 -%}
+	{%- assign recentPostMonth = recentpost.date | date: "%m" | plus: 0 -%}
 
-    {%- if currentYear == recentPostYear and lastMonth == recentPostMonth -%}
+    {%- if currentYear == recentPostYear and currentMonth == recentPostMonth -%}
 
     <li>
         {%- if recentpost.star -%}<strong>{%- endif -%}
@@ -126,7 +124,7 @@ permanlink: /last-month/
 {%- endfor -%}
 
 {%- if currentThinkingCount == 0 -%}
-    <li>Nothing yet!</li>
+    <li>Nothing this month.</li>
 {%- endif-%}
 
 </ol>
@@ -139,10 +137,10 @@ permanlink: /last-month/
 
 <ol class="music" reversed>
 {%- for musictrack in musictracks -%}
-    {%- assign musicPostYear = musictrack.date | date: "%Y" -%}
-    {%- assign musicPostMonth = musictrack.date | date: "%m" | minus: 0 -%}
+    {%- assign musicPostYear = musictrack.date | date: "%Y" | plus: 0 -%}
+    {%- assign musicPostMonth = musictrack.date | date: "%m" | plus: 0 -%}
 
-    {%- if currentYear == musicPostYear and lastMonth == musicPostMonth -%}
+    {%- if currentYear == musicPostYear and currentMonth == musicPostMonth -%}
 <li>
     <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " }}.mp3">
         Your browser does not support the
@@ -156,7 +154,7 @@ permanlink: /last-month/
 {%- endfor -%}
 
 {%- if currentMusicCount == 0 -%}
-    <li>Nothing yet!</li>
+    <li>Nothing this month.</li>
 {%- endif-%}
 
 </ol>
@@ -193,6 +191,6 @@ permanlink: /last-month/
     {%- endfor -%}
 
 {%- if currentArtCount == 0 -%}
-    <p>Nothing yet!</p>
+    <p>Nothing this month.</p>
 {%- endif-%}
 

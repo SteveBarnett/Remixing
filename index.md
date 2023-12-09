@@ -3,9 +3,11 @@ title: Steve Barnett dot me
 layout: page
 ---
 
-Hi, I’m Steve Barnett. Here are some of the things I do.
+Hi, I’m Steve Barnett.
 
-I tend to be quite reflective. Here's [a short review of my 2022](/review/2022/). Here's [what I've been up to this month](/this-month/) and [last month](/last-month).
+I tend to be quite reflective. Here's [a short review of my 2022](/review/2022/).
+
+And here's what I've been up to the past few months: [December 2023](/2023/12/), [November 2023](/2023/11/), [October 2023](/2023/10/).
 
 ## Personal
 
