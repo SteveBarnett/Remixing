@@ -101,6 +101,8 @@
 {%- endif-%}
 
 <h2 id="noting">Noting</h2>
+
+<h3>Book notes</h3>
 {%- assign currentBookNoteCount = 0 -%}
 
 <ol reversed>
@@ -116,8 +118,18 @@
         {%- endif-%}
     {%- endif-%}
 {%- endfor -%}
+</ol>
+
+{%- if currentBookNoteCount == 0 -%}
+<p>Nothing this month.</p>
+{%- endif-%}
 
 {%- if page.notesdata -%}
+
+<h3>Other notes</h3>
+{%- assign currentOtherNoteCount = 0 -%}
+
+<ol reversed>
     {%- for notesnote in site.data[page.notesdata] -%}
 
         {%- assign currentnotesnoteMonth = notesnote.date_added | date: "%m" | plus: 0 -%}
@@ -126,16 +138,18 @@
             <li>
                 <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>.
             </li>
-        {%- assign currentBookNoteCount = currentBookNoteCount | plus: 1 -%}
+        {%- assign currentOtherNoteCount = currentOtherNoteCount | plus: 1 -%}
         {%- endif-%}
     {%- endfor -%}
-{%- endif-%}
-
 </ol>
 
-{%- if currentBookNoteCount == 0 -%}
+{%- if currentOtherNoteCount == 0 -%}
 <p>Nothing this month.</p>
 {%- endif-%}
+
+{%- endif-%}
+
+
 
 <h2 id="reading">Reading</h2>
 
