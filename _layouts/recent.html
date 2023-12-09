@@ -5,9 +5,9 @@
 <ol>
 
   {%- for recentpost in site.posts limit: 13 -%}
-  <li id="{{ recentpost.title | truncatewords: 5 | slugify  }}">
+  <li data-url="{{ recentpost.url }}">
     {%- if recentpost.star -%}<strong>{%- endif -%}
-    {{ recentpost.title }} 
+    {{ recentpost.title }}
     {%- if recentpost.star -%}</strong>{%- endif -%}
     <span class="tags">&nbsp;In&nbsp;
     

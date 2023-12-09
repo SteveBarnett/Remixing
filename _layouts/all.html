@@ -25,7 +25,7 @@
       <ul>
       {%- assign thinkingposts = tag[1] | where: "categories", "thinking" -%}
       {%- for post in thinkingposts -%}
-        <li>
+        <li data-url="{{ post.url }}">
           {% if post.star %}<strong>{% endif %}
           {{ post.title }}
         {% if post.star %}</strong>{% endif %}

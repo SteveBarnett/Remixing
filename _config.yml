@@ -14,6 +14,11 @@ defaults:
     values:
       permalink: :categories/:title
       layout: music
+  - scope:
+      type: posts
+      category: thinking
+    values:
+      layout: focus
 
 exclude:
     - art-originals
