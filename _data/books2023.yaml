@@ -28,6 +28,7 @@
   genre: "Buddhism"
   my_rating: 4
   date_read: 16/11/2023
+  my_notes: /notes/zen/the%20vow%20powered%20life.jpg
 - title: "Āria"
   author: "Hinerangi, Jessica"
   genre: "Poetry"
@@ -43,6 +44,7 @@
   genre: "Philosophy"
   my_rating: 5
   date_read: 03/11/2023
+  my_notes: /notes/daoism/the%20tao%20of%20physics.jpg
 - title: "Deleted Scenes for Lovers"
   author: "Slaughter, Tracey"
   genre: "Fiction"
@@ -53,6 +55,7 @@
   genre: "Nonfiction"
   my_rating: 4
   date_read: 23/10/2023
+  my_notes: /notes/rest/rest%20is%20resistance.jpg
 - title: "Ascension"
   author: "Binge, Nicholas"
   genre: "Science Fiction"
@@ -63,6 +66,7 @@
   genre: "Nonfiction"
   my_rating: 5
   date_read: 21/10/2023
+  my_notes: /notes/personal-philosophy/imagining%20decolonisation.jpg
 - title: "Chinese Fish"
   author: "Yee, Grace"
   genre: "Poetry"
