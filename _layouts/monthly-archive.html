@@ -103,6 +103,7 @@
 <h2 id="noting">Noting</h2>
 {%- assign currentBookNoteCount = 0 -%}
 
+<ol reversed>
 {%- for booknote in site.data[page.booksdata] -%}
     {%- if booknote.my_notes -%}
         {%- assign currentBookNoteMonth = booknote.date_read | date: "%m" | plus: 0 -%}
@@ -115,6 +116,22 @@
         {%- endif-%}
     {%- endif-%}
 {%- endfor -%}
+
+{%- if page.notesdata -%}
+    {%- for notesnote in site.data[page.notesdata] -%}
+
+        {%- assign currentnotesnoteMonth = notesnote.date_added | date: "%m" | plus: 0 -%}
+
+        {%- if currentMonth == currentnotesnoteMonth -%}
+            <li>
+                <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>.
+            </li>
+        {%- assign currentBookNoteCount = currentBookNoteCount | plus: 1 -%}
+        {%- endif-%}
+    {%- endfor -%}
+{%- endif-%}
+
+</ol>
 
 {%- if currentBookNoteCount == 0 -%}
 <p>Nothing this month.</p>
