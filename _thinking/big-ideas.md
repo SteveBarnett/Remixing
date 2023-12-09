@@ -12,7 +12,7 @@ updated: 2023-10-28
 	- Concepts create division, layers, stages.
 		- Notice the bigger, more integrated, picture.
 		- Look for the edges.
-		- Stop diving things up.
+		- Stop dividing things up.
 - Reality is complex, deep, rich.
 	- Concepts simplify, exclude.	
 		- Notice complexity.
