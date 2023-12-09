@@ -3,10 +3,14 @@
   <head>
     <meta charset="utf-8" />
     <title>
+    {%- if page.title -%}
     {{ page.title }}
-    {% unless page.url == "/" %}
-    – Steve Barnett dot me
-    {% endunless %}
+    {%- else -%}
+    {{ include.title }}
+    {%- endif -%}
+    {%- unless page.url == "/" -%}
+    &nbsp;–&nbsp;Steve Barnett dot me
+    {%- endunless -%}
     </title>
     <meta content="" name="description" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />

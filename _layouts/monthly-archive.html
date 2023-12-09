@@ -1,10 +1,10 @@
----
-layout: page
----
-
 {%- assign currentYear = page.year | plus: 0 -%}
 {%- assign currentMonth = page.month | plus: 0 -%}
 {%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
+
+{%- assign monthlyArchivePageTitle = "Archive for " | append: currentYearMonth -%}
+
+{% include header.html title=monthlyArchivePageTitle %}
 
 <h1>Archive for {{ currentYearMonth }}</h1>
 
@@ -194,3 +194,5 @@ layout: page
     <p>Nothing this month.</p>
 {%- endif-%}
 
+
+{% include footer.html %}
