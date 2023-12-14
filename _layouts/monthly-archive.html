@@ -136,7 +136,9 @@
 
         {%- if currentMonth == currentnotesnoteMonth -%}
             <li>
-                <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>.
+                <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>{%- if notesnote.source -%}
+                &nbsp;from <a href="{{ notesnote.source }}">{{ notesnote.source_name }}</a>
+                {%- endif -%}.
             </li>
         {%- assign currentOtherNoteCount = currentOtherNoteCount | plus: 1 -%}
         {%- endif-%}

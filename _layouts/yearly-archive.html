@@ -113,7 +113,9 @@
 <ol reversed>
 {%- for notesnote in site.data[page.notesdata] -%}
         <li>
-            <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>.
+            <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>{%- if notesnote.source -%}
+                &nbsp;from <a href="{{ notesnote.source }}">{{ notesnote.source_name }}</a>
+                {%- endif -%}.
         </li>
     {%- assign currentBookNoteCount = currentBookNoteCount | plus: 1 -%}
 {%- endfor -%}
