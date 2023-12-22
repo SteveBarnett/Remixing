@@ -4,7 +4,7 @@
 {%- assign pagetitle = page.topic | capitalize -%}
 {% include header.html title=pagetitle %}
 
-<h1>{{ pagetitle }}</h1>
+<h1><span aria-hidden="true">{{ site.data.tagmoji[page.topic] }} </span>{{ pagetitle }}</h1>
 
 {%- assign topicposts = site.tags[page.topic] -%}
 

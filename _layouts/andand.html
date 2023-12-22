@@ -4,7 +4,7 @@
 {%- assign pagetitle = page.topic | capitalize | append: " and and ..." -%}
 {% include header.html title=pagetitle %}
 
-<h1>{{ pagetitle }}</h1>
+<h1><span aria-hidden="true">{{ site.data.tagmoji[page.topic] }} </span>{{ pagetitle }}</h1>
 
 {%- assign sortedtags = site.tags | sort -%}
 
@@ -16,7 +16,8 @@
     {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
 
     {%- unless plustagposts.size == 0 -%}
-    <li><a href="/thinking/topics/{{ page.topic }}/and/#{{ page.topic }}-and-{{ tag[0] }}">{{ tag[0] | capitalize }}</a> and 
+    {%- assign tagzero = tag[0] -%}
+    <li><span aria-hidden="true">{{ site.data.tagmoji[tagzero] }} </span><a href="/thinking/topics/{{ page.topic }}/and/#{{ page.topic }}-and-{{ tag[0] }}">{{ tag[0] | capitalize }}</a> and 
 
       <ul>
       {% for plusplustag in sortedtags %}
@@ -27,7 +28,8 @@
         {%- assign plusplustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] | where: "tags", plusplustag[0] -%}
 
         {%- unless plusplustagposts.size == 0 -%}
-          <li><a href="#{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}">{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</a></li>
+          {%- assign plusplustagzero = plusplustag[0] -%}
+          <li><span aria-hidden="true">{{ site.data.tagmoji[plusplustagzero] }} </span><a href="#{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}">{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</a></li>
         {%- endunless -%}
 
       {% endfor %}
@@ -46,7 +48,8 @@
     {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
 
     {%- unless plustagposts.size == 0 -%}
-    <h2 id="{{ page.topic }}-and-{{ tag[0] }}">{{ pagetitle }} and {{ tag[0] | capitalize }} and </h2>
+    {%- assign tagzero = tag[0] -%}
+    <h2 id="{{ page.topic }}-and-{{ tag[0] }}"><span aria-hidden="true">{{ site.data.tagmoji[page.topic] }} </span>{{ page.topic | capitalize }} and <span aria-hidden="true">{{ site.data.tagmoji[tagzero] }} </span>{{ tag[0] | capitalize }} and </h2>
 
       {% for plusplustag in sortedtags %}
 
@@ -57,7 +60,8 @@
 
         {%- unless plusplustagposts.size == 0 -%}
 
-          <h3 id="{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}">{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</h3>
+          {%- assign plusplustagzero = plusplustag[0] -%}
+          <h3 id="{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}"><span aria-hidden="true">{{ site.data.tagmoji[plusplustagzero] }} </span>{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</h3>
 
           <ul>
             {% for plusplustagpost in plusplustagposts %}
