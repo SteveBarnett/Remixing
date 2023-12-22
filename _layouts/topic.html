@@ -1,0 +1,19 @@
+---
+---
+
+{%- assign pagetitle = page.topic | capitalize -%}
+{% include header.html title=pagetitle %}
+
+<h1>{{ pagetitle }}</h1>
+
+{%- assign topicposts = site.tags[page.topic] -%}
+
+<ul>
+  {% for topicpost in topicposts %}
+  <li>{{ topicpost.title }}</li>
+  {% endfor %}
+</ul>
+
+<p><a href="/thinking/topics/{{ page.topic }}/and/">{{ pagetitle }} and ...</a></p>
+
+{% include footer.html %}

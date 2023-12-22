@@ -1,0 +1,47 @@
+---
+---
+
+{%- assign pagetitle = page.topic | capitalize | append: " and ..." -%}
+{% include header.html title=pagetitle %}
+
+<h1>{{ pagetitle }}</h1>
+
+{%- assign sortedtags = site.tags | sort -%}
+
+<ul>
+{% for tag in sortedtags %}
+
+  {%- if tag[0] == page.topic -%}{% continue %}{%- endif -%}
+
+  {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
+
+  {%- unless plustagposts.size == 0 -%}
+    <li><a href="#{{ page.topic }}-and-{{ tag[0] }}">{{ tag[0] | capitalize }} ({{ plustagposts.size }})</a></li>
+  {%- endunless -%}
+
+{% endfor %}
+</ul>
+
+{% for tag in sortedtags %}
+
+  {%- if tag[0] == page.topic -%}{% continue %}{%- endif -%}
+
+  {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
+
+  {%- unless plustagposts.size == 0 -%}
+
+    <h3 id="{{ page.topic }}-and-{{ tag[0] }}">{{ pagetitle }} and {{ tag[0] | capitalize }}</h3>
+
+    <ul>
+      {% for plustagpost in plustagposts %}
+      <li>{{ plustagpost.title }}</li>
+      {% endfor %}
+    </ul>
+
+    <p><a href="/thinking/topics/{{ page.topic }}/and/and/#{{ page.topic }}-and-{{ tag[0] }}">{{ pagetitle }} and {{ tag[0] | capitalize }} and ...</a></p>
+
+  {%- endunless -%}
+
+{% endfor %}
+
+{% include footer.html %}

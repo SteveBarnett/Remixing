@@ -37,7 +37,15 @@
 
     {% unless page.layout == "focus" %}
     {% unless page.layout == "monthly-archive" %}
+    {% unless page.layout == "yearly-archive" %}
+    {% unless page.layout == "topic" %}
+    {% unless page.layout == "and" %}
+    {% unless page.layout == "andand" %}
     <h1>{{ page.title }}</h1>
+    {% endunless %}
+    {% endunless %}
+    {% endunless %}
+    {% endunless %}
     {% endunless %}
     {% endunless %}
   

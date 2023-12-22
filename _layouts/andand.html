@@ -1,0 +1,76 @@
+---
+---
+
+{%- assign pagetitle = page.topic | capitalize | append: " and and ..." -%}
+{% include header.html title=pagetitle %}
+
+<h1>{{ pagetitle }}</h1>
+
+{%- assign sortedtags = site.tags | sort -%}
+
+<ul>
+{% for tag in sortedtags %}
+
+  {%- if tag[0] == page.topic -%}{% continue %}{%- endif -%}
+
+    {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
+
+    {%- unless plustagposts.size == 0 -%}
+    <li><a href="/thinking/topics/{{ page.topic }}/and/#{{ page.topic }}-and-{{ tag[0] }}">{{ tag[0] | capitalize }}</a> and 
+
+      <ul>
+      {% for plusplustag in sortedtags %}
+
+        {%- if plusplustag[0] == page.topic -%}{% continue %}{%- endif -%}
+        {%- if plusplustag[0] == tag[0] -%}{% continue %}{%- endif -%}
+
+        {%- assign plusplustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] | where: "tags", plusplustag[0] -%}
+
+        {%- unless plusplustagposts.size == 0 -%}
+          <li><a href="#{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}">{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</a></li>
+        {%- endunless -%}
+
+      {% endfor %}
+      </ul>
+
+    </li>
+    {%- endunless -%}
+
+{% endfor %}
+</ul>
+
+{% for tag in sortedtags %}
+
+  {%- if tag[0] == page.topic -%}{% continue %}{%- endif -%}
+
+    {%- assign plustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] -%}
+
+    {%- unless plustagposts.size == 0 -%}
+    <h2 id="{{ page.topic }}-and-{{ tag[0] }}">{{ pagetitle }} and {{ tag[0] | capitalize }} and </h2>
+
+      {% for plusplustag in sortedtags %}
+
+        {%- if plusplustag[0] == page.topic -%}{% continue %}{%- endif -%}
+        {%- if plusplustag[0] == tag[0] -%}{% continue %}{%- endif -%}
+
+        {%- assign plusplustagposts = site.posts | where: "tags", page.topic | where: "tags", tag[0] | where: "tags", plusplustag[0] -%}
+
+        {%- unless plusplustagposts.size == 0 -%}
+
+          <h3 id="{{ page.topic }}-and-{{ tag[0] }}-and-{{ plusplustag[0] }}">{{ plusplustag[0] | capitalize }} ({{ plusplustagposts.size }})</h3>
+
+          <ul>
+            {% for plusplustagpost in plusplustagposts %}
+            <li>{{ plusplustagpost.title }}</li>
+            {% endfor %}
+          </ul>
+
+        {%- endunless -%}
+
+      {% endfor %}
+
+    {%- endunless -%}
+
+{% endfor %}
+
+{% include footer.html %}
