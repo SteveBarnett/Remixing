@@ -10,7 +10,16 @@
 
 <ul>
   {% for topicpost in topicposts %}
-  <li>{{ topicpost.title }}</li>
+  <li>
+    {{ topicpost.title }} Also in: &nbsp;
+    {%- assign topicposttags = topicpost.tags -%}
+
+    {%- capture topicposttagsprint -%}
+    {% for topicposttag in topicposttags %}, <span aria-hidden="true">{{ site.data.tagmoji[topicposttag] }} </span>{{ topicposttag | capitalize }}{% endfor %}
+    {%- endcapture -%}
+    {{ topicposttagsprint | remove_first: ", "  }}.
+
+  </li>
   {% endfor %}
 </ul>
 
