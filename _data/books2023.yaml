@@ -13,11 +13,19 @@
   genre: "Zen"
   my_rating: 5
   date_read: 16/12/2023
+  my_notes: /notes/zen/trust%20in%20awakening%20-%20stephen%20snyder.jpg
+- title: "The Dangerous Life and Ideas of Diogenes the Cynic"
+  author: "Roubineau, Jean-Manuel"
+  genre: "Philosophy"
+  my_rating: 3
+  date_read: 12/12/2023  
+  my_notes: /notes/stoics-and-cynics/the%20dangerous%20life%20and%20ideas%20of%20diogenes%20the%20cynic.jpg
 - title: "Radically Condensed Instructions for Being Just as You Are"
   author: "Matthews, J. Jennifer"
   genre: "Philosophy"
   my_rating: 5
   date_read: 08/12/2023
+  my_notes: /notes/mindfulness/radicall%20condensed%20instructions%20for%20being%20just%20as%20you%20are.jpg
 - title: "Returning to Silence: Zen Practice in Everyday Life"
   author: "Katagiri, Dainin"
   genre: "Zen"
