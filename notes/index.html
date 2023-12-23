@@ -48,9 +48,7 @@ layout: notes-archive
       {%- for note in site.static_files -%}
         {%- if note.path contains philosophynote.url -%}
         <li>
-          <a href="{{ note.path }}">
-            {{ note.basename }}
-          </a>
+          <a href="{{ note.path }}">{{ note.basename }}</a>
         </li>
         {%- endif -%}
       {%- endfor -%}
@@ -65,9 +63,7 @@ layout: notes-archive
       {%- for note in site.static_files -%}
         {%- if note.path contains psychologynote.url -%}
         <li>
-          <a href="{{ note.path }}">
-            {{ note.basename }}
-          </a>
+          <a href="{{ note.path }}">{{ note.basename }}</a>
         </li>
         {%- endif -%}
       {%- endfor -%}
@@ -82,9 +78,7 @@ layout: notes-archive
       {%- for note in site.static_files -%}
         {%- if note.path contains worknote.url -%}
         <li>
-          <a href="{{ note.path }}">
-            {{ note.basename }}
-          </a>
+          <a href="{{ note.path }}">{{ note.basename }}</a>
         </li>
         {%- endif -%}
       {%- endfor -%}
