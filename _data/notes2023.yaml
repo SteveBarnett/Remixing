@@ -1,10 +1,42 @@
-- note: "philosophical systems.jpg"
+- note: "stoicism and tests, challenges"
   extension: "jpg"
-  section: "personal-philosophy"
+  section: "stoics-and-cynics"
+  date_added: 23/12/2023
+- note: "why you are lonely and how to make friends - kurzgesagt"
+  extension: "jpg"
+  section: "relationships"
+  date_added: 23/12/2023
+  source_name: "Why You Are Lonely and How to Make Friends"
+  source: https://www.youtube.com/watch?v=I9hJ_Rux9y0
+- note: "henry shukman - practice email - three poisons.jpg"
+  extension: "jpg"
+  section: "zen"
+  date_added: 23/12/2023
+- note: "sowing anachronism - the school of the unconformed"
+  extension: "jpg"
+  section: "philosophy-systems"
+  date_added: 23/12/2023
+  source_name: "Sowing Anachronism: How to be Weird in Public, and Private"
+  source: https://schooloftheunconformed.substack.com/p/sowing-anachronism-how-to-be-weird
+- note: "is love the source and sustenance - ian mcg"
+  extension: "jpg"
+  section: "the-matter-with-things"
+  date_added: 23/12/2023
+  source_name: "Iain McGilchrist and D C Schindler: Is Love the Source and Sustenance of Everything in the Universe?"
+  source: https://www.youtube.com/watch?v=q0MmNYp1sF4
+- note: "the medicine of emptiness when witnessing suffering and injustice - zen studies"
+  extension: "jpg"
+  section: "zen"
+  date_added: 23/12/2023
+  source_name: "The Medicine of Emptiness When Witnessing Suffering and Injustice"
+  source: https://zenstudiespodcast.com/medicine-of-emptiness/
+- note: "philosophical systems"
+  extension: "jpg"
+  section: "philosophy-systems"
   date_added: 14/12/2023
   source_name: "500 word philosophy"
   source: https://lessfoolish.substack.com/p/500-word-philosophy
-- note: "lao tzu - taoism - ways to be in flow with your life.jpg"
+- note: "lao tzu - taoism - ways to be in flow with your life"
   extension: "jpg"
   section: "daoism"
   date_added: 14/12/2023
