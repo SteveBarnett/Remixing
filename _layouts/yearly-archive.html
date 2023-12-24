@@ -6,6 +6,8 @@
 
 <h1>Archive for {{ currentYear }}</h1>
 
+{{ content | markdownify }}
+
 <h2 id="thinking">Thinking</h2>
 
 <h3 id="collections">Collections</h3>
@@ -58,7 +60,7 @@
 <h3 id="posts">Posts</h3>
 
 <ol reversed>
-{%- assign recentposts = site.posts -%}
+{%- assign recentposts = site.posts | where: "categories", "thinking" -%}
 {%- assign reversedRecentPosts = recentposts -%}
 
 {%- for recentpost in reversedRecentPosts -%}
@@ -77,7 +79,7 @@
 
         {%- capture recentposttags -%}
           {%- for tag in sortedrecentposttags -%}
-          , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+          , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/topics/{{ tag }}/">{{ tag | capitalize }}</a>
           {%- endfor -%}
         {%- endcapture -%}
 

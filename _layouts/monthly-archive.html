@@ -1,19 +1,33 @@
 {%- assign currentYear = page.year | plus: 0 -%}
 {%- assign currentMonth = page.month | plus: 0 -%}
-{%- assign currentYearMonth = currentYear | append: "-" | append: currentMonth -%}
+
+{%- assign printMonth = currentMonth -%}
+{%- if currentMonth < 10 -%}
+{%- assign printMonth = printMonth | prepend: "0" -%}
+{%- endif -%}
+
+{%- assign currentYearMonth = currentYear | append: "-" | append: printMonth -%}
 
 {%- assign monthlyArchivePageTitle = "Archive for " | append: currentYearMonth -%}
 
 {% include header.html title=monthlyArchivePageTitle %}
 
+
 <h1>Archive for {{ currentYearMonth }}</h1>
+
+{%- if content.size > 0 -%}
+<h2>Summary and highlights</h2>
+
+{{ content | markdownify }}
+{%- endif -%}
+
 
 <h2 id="thinking">Thinking</h2>
 
 <h3 id="collections">Collections</h3>
 
 <ol>
-{%- assign thinkingposts = site.thinking | limit: 50 | sort: "updated" | reverse -%}
+{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
 {%- assign currentThinkingCount = 0 -%}
 
 {% for thinkingpost in thinkingposts %}
@@ -62,7 +76,7 @@
 <h3 id="posts">Posts</h3>
 
 <ol>
-{%- assign recentposts = site.posts | limit: 50 -%}
+{%- assign recentposts = site.posts | where: "categories", "thinking"  -%}
 {%- assign reversedRecentPosts = recentposts | reverse -%}
 
 {%- for recentpost in reversedRecentPosts -%}
@@ -82,7 +96,7 @@
 
         {%- capture recentposttags -%}
           {%- for tag in sortedrecentposttags -%}
-          , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/all/#{{ tag }}">{{ tag | capitalize }}</a>
+          , <span class="tagmoji">{{ site.data.tagmoji[tag] }}</span>&nbsp;<a href="/thinking/topics/{{ tag }}/">{{ tag | capitalize }}</a>
           {%- endfor -%}
         {%- endcapture -%}
 
