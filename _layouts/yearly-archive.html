@@ -149,32 +149,7 @@
 {%- endfor -%}
 </ol>
 
-<h2 id="musicing">Musicing</h2>
-
-{%- assign currentMusicCount = 0 -%}
-
-{%- assign musictracks = site.posts | where: "categories", "music" -%}
-
-<ol class="music" reversed>
-{%- for musictrack in musictracks -%}
-    {%- assign musicPostYear = musictrack.date | date: "%Y" | plus: 0 -%}
-
-    {%- if currentYear == musicPostYear -%}
-<li>
-    <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " }}.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
-    </audio>
-    <a href="{{ musictrack.url | replace: "-", " " }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
-</li>
-
-    {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
-    {%- endif-%}
-{%- endfor -%}
-</ol>
-
-
-<h2 id="musicing">Arting</h2>
+<h2 id="arting">Arting</h2>
 
 {%- assign currentArtCount = 0 -%}
 
@@ -205,5 +180,44 @@
 
     {%- endfor -%}
 
+<h2 id="gaming">Gaming</h2>
+
+<ol reversed>
+{%- for game in site.data[page.gamesdata] -%}
+        <li>
+            {%- if game.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ game.title }}
+            {%- if game.my_rating == 5 -%}</strong>{%- endif-%}
+            &nbsp;on&nbsp;
+            {%- if game.my_rating == 5 -%}<strong>{%- endif-%}
+            {{ game.platform }}
+            {%- if game.my_rating == 5 -%}</strong>{%- endif-%}. Played {{ game.date_played }}, rated {{ game.my_rating }}/5.
+        </li>
+{%- endfor -%}
+</ol>
+
+<h2 id="musicing">Musicing</h2>
+
+{%- assign currentMusicCount = 0 -%}
+
+{%- assign musictracks = site.posts | where: "categories", "music" -%}
+
+<ol class="music" reversed>
+{%- for musictrack in musictracks -%}
+    {%- assign musicPostYear = musictrack.date | date: "%Y" | plus: 0 -%}
+
+    {%- if currentYear == musicPostYear -%}
+<li>
+    <audio controls preload="none" src="{{ musictrack.url | replace: "-", " " }}.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+    </audio>
+    <a href="{{ musictrack.url | replace: "-", " " }}">{{ musictrack.title }}</a> ({{ musictrack.date | date: "%Y-%m-%d" }})
+</li>
+
+    {%- assign currentMusicCount = currentMusicCount | plus: 1 -%}
+    {%- endif-%}
+{%- endfor -%}
+</ol>
 
 {% include footer.html %}
