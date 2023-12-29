@@ -10,6 +10,6 @@ updated: 2023-12-14
 - Aesthetics. What is beautiful?
 - Ethics. What is good?
 - Metaphysics. What is real?
-- Epistemology? What is true?
+- Epistemology. What is true?
 
 From: [500-Word Philosophy - by Peter N Limberg - Less Foolish](https://lessfoolish.substack.com/p/500-word-philosophy)
