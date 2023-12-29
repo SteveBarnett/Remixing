@@ -310,6 +310,16 @@ blockquote.alt {
   padding: 2rem;
 }
 
+.flag {
+  color: red;
+  font-weight: bold;
+/*  outline: 2px solid red;*/
+/*  outline-offset: 2px;*/
+/*  border-right: 10px solid red;*/
+  border-left: 10px solid red;
+  padding-left: 0.25rem;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
