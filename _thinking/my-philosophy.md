@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 500 word philosophy
+title: My philosophy
 longerform: true
 added: 2023-12-29
-updated: 2023-12-29
+updated: 2023-12-30
 ---
 
 A first attempt at something like metaphysics (what is real?) and epistemology (what is true?).
@@ -44,7 +44,7 @@ A first attempt at something like metaphysics (what is real?) and epistemology (
 
 > Concepts are a map, not the territory.
 
-- Things are empty, aggregates, exist only by convention.
+- All phenomena are empty, aggregates, exist only by convention.
 - Layers, divisions, states, stages, are all creations of reality, not descriptions of Reality.
 	- What we call things depends on the range of the observer.
 	- In particular: opposites reveal, create, support, define each other.
@@ -53,6 +53,8 @@ A first attempt at something like metaphysics (what is real?) and epistemology (
 	- Grasping creates dualities.
 	- Grasping causes suffering.
 - Concepts are many, simple, static. Reality is one, complex, flow.
+- Reason and debate to end yours and others' suffering are a means to an end.
+	- Even though they're empty too.
 
 ### Our true nature / No-self
 
@@ -65,3 +67,7 @@ A first attempt at something like metaphysics (what is real?) and epistemology (
 - Our true nature is "I am" before adding anything, before looking backwards or forwards, before classification, measuring, labelling, before concepts.
 	- It's open, spacious, empty, luminous, formless, boundless.
 - This truth is: simple, not complex; close, not far away; do less, not do more; on the surface, not deep; before thoughts, not beyond them; immediate, not prolonged.
+
+---
+
+This is a riff on [500-Word Philosophy on Less Foolish](https://lessfoolish.substack.com/p/500-word-philosophy).
