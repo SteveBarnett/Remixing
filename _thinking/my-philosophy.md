@@ -17,8 +17,8 @@ A first attempt at something like metaphysics (what is real?) and epistemology (
 	- Every thing is deeply interdependent.
 	- It's composed of wholes that are parts of other wholes.
 - Reality is flow, motion, process. 
-		- Life is movement.
-		- Resistance to the flow is what brings complexity, forms.
+	- Life is movement.
+	- Resistance to the flow is what brings complexity, forms.
 - Reality is complex, deep, rich.
 	- It's fractal. Looking more closely reveals new, more, detail.
 	- There are no straight lines in nature.
