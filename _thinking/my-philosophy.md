@@ -3,10 +3,16 @@ layout: page
 title: My philosophy
 longerform: true
 added: 2023-12-29
-updated: 2023-12-30
+updated: 2023-12-31
 ---
 
 A first attempt at something like metaphysics (what is real?) and epistemology (what is true?).
+
+- **Reality is one, complex, flow.**
+- Our experience creates our reality, it doesn't describe Reality.
+	- Perception is participation.
+	- Concepts are a map, not the territory.
+	- **Our true nature is the context of consciousness, not the contents.**
 
 ## Reality
 
