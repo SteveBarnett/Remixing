@@ -3,7 +3,7 @@ layout: page
 title: Valued action for January 2024
 longerform: true
 added: 2023-12-31
-updated: 2023-12-31
+updated: 2024-01-01
 ---
 
 Something that's important to me is valued action: being committed to aligning my actions with values. It's a way to be a better human for myself and for the humans around me. In part, by having more energy, more space, more peace.
@@ -31,14 +31,18 @@ I will act to increase kindness in the world, in myself and in the people around
 
 As an individual, and as part of a collective. In the interior and in the exterior.
 
-### Key practices for each value
+### In messy word bundles
 
-What's one thing that really helps with embodying each value?
-
-Make one long sentence, then edit it.
-{: .flag }
+What helps with embodying each value?
 
 - **Relaxed.** Slow your tempo. Wait a little. Yield, get underneath. Accept the invitation to rest. Rest in this and not-this. Curb your ambition. Don't push, don't pull. Just leave everything in its place.
 - **Open.** Acceptance, let go. Give everything a warm welcome. No separation, no rejection. Don't add anything. Focus on what connects, not what divides. Everything is allowed, even resistance. 
 - **Clear.** See the bigger, more inclusive, picture. Learn, iterate in spirals. Pay more attention, be more interested in what's happening. The ocean, not the waves. The sky, not the clouds. The context of consciousness, not the contents. See the spectrum, not the binary. The self is causes, conditions, patterns. Imperfections are normal, natural, human.
 - **Kind.** Give Benefits, freely and easily. Begin Again. Be forgiving, even to yourself. See the paths of least resistance. Listen with lovingkindess. Be the coach not the critic. Reframe. Do regular Metta practice.
+
+### In arrows ↓↑→←
+
+- **Relaxed.** Slow down.
+- **Open.** Open up.
+- **Clear.** Widen out.
+- **Kind.** Bring in.
