@@ -3,18 +3,53 @@ layout: page
 title: Self-compassion
 longerform: true
 added: 2023-08-13
-updated: 2023-08-13
+updated: 2024-01-04
 ---
 
 {%- assign selfcompassionposts = site.posts | where: "selfcompassion", "true" | sort: "order" -%}
 
+<blockquote class="alt"><p>Mind the gap (between target behaviour and actual behaviour).</p></blockquote>
+
 <ol>
-	<li>For behaviour, there's the expected, the observed, and the interpreted.
-		<ul>
-		  	<li>The expected, the "should", is set lower than you think. Allow for perfectionism and people-pleasing tendencies.</li>
-		 	<li>The Inner Critic's interpretation is set much lower than the observed.</li>
-	 	</ul>
-	</li>
+	<li>The People-Pleaser frames the target as a requirement for worthiness.</li>
+	<li>The Perfectionist moves the target value unrealistically high.</li>
+	<li>The Critic moves the actual value lower than it really is.</li>
+</ol>
+
+<p>The gap now appears very big.</p>
+
+<ol>
+	<li>The People-Pleaser says: not meeting requirements / expectations means you're unworthy.</li>
+	<li>The Perfectionist says: the target was the minimum, so this counts as a failure.</li>
+	<li>The Critic says: failure deserves punishment.</li>
+</ol>
+
+<p><strong>Oof!</strong> 😅</p>
+
+<p>All models are wrong, but some are useful. I was poking around at <a href="https://en.wikipedia.org/wiki/Enneagram_of_Personality">the Enneagram of Personality</a> again the other day, and I've got an <a href="https://ifs-institute.com/">IFS</a> (Internal Family Systems) book (<a href="https://www.goodreads.com/book/show/55384168-no-bad-parts">No Bad Parts</a>) on my reading list. These two together prompted me to update this page.</p>
+
+<h2>Potential roots</h2>
+
+<ul>
+	<li>The People-Pleaser perhaps formed as a increase-the-feedback-loop reaction to a model of quiet, subtle, praise.</li>
+	<li>The Perfectionist perhaps formed as a bit of a clarity-based complementary-opposite-reaction to a model of quietness and indirectness.</li>
+	<li>The Critic is perhaps part of my natural tendency for analysis.</li>
+</ul>
+
+<h2>Practice approach</h2>
+
+<h3>Somatic</h3>
+
+<p>A riff on RAIN.</p>
+
+<ol>
+	<li>Notice the somatic experience associated with the mental experience.</li>
+	<li>Watch the somatic experience (arise and) pass away.</li>
+</ol>
+
+<h3>Conceptual</h3>
+
+<ul>
 	{%- for selfcompassionpost in selfcompassionposts -%}
 		<li>
 		{{ selfcompassionpost.title }} <span class="tags">In
@@ -30,4 +65,4 @@ updated: 2023-08-13
 		{{ selfcompassionposttags | remove_first: ", " }}.</span>
 		</li>
 	{%- endfor -%}
-</ol>
+</ul>
