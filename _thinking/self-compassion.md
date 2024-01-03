@@ -38,16 +38,28 @@ updated: 2024-01-04
 
 <h2>Practice approach</h2>
 
-<h3>Somatic</h3>
-
 <p>A riff on RAIN.</p>
 
 <ol>
 	<li>Notice the somatic experience associated with the mental experience.</li>
 	<li>Watch the somatic experience (arise and) pass away.</li>
+	<li>Notice the emptiness of the mental experience.</li>
 </ol>
 
 <h3>Conceptual</h3>
+
+<p>You can't make The People-Pleaser, The Perfectionist, and The Critic shut up. But you don't have to listen to them. And the less you listen, the more they quiet down.</p>
+
+<ol>
+	<li>What is the gap for? Maybe a figment.</li>
+	<li>What is the expected value? Probably lower.</li>
+	<li>What is the actual value? Probably higher.</li>
+	<li>Compare base to actual, not actual to expected.</li>
+	<li>Coach not Critic is better for improvement.</li>
+</ol>
+
+
+<h3>Aphorismical (‽)</h3>
 
 <ul>
 	{%- for selfcompassionpost in selfcompassionposts -%}
