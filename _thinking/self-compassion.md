@@ -24,9 +24,13 @@ updated: 2024-01-04
 	<li>The Critic says: failure deserves punishment.</li>
 </ol>
 
+<p>The Perfectionist and The Critic also team up to tilt towards shame (I am bad) and away from guilt (I did bad).</p>
+
 <p><strong>Oof!</strong> 😅</p>
 
 <p>All models are wrong, but some are useful. I was poking around at <a href="https://en.wikipedia.org/wiki/Enneagram_of_Personality">the Enneagram of Personality</a> again the other day, and I've got an <a href="https://ifs-institute.com/">IFS</a> (Internal Family Systems) book (<a href="https://www.goodreads.com/book/show/55384168-no-bad-parts">No Bad Parts</a>) on my reading list. These two together prompted me to update this page.</p>
+
+<p></p>
 
 <h2>Potential roots</h2>
 
@@ -37,6 +41,14 @@ updated: 2024-01-04
 </ul>
 
 <h2>Practice approach</h2>
+
+<blockquote class="alt">
+	<ul>
+		<li>Notice it's a moment of suffering.</li>
+		<li>Watch the feeling and the feeling tone arise and pass away.</li>
+		<li>Notice the emptiness of the three aspects.</li>
+	</ul>
+</blockquote>
 
 <p>A riff on RAIN.</p>
 
@@ -58,6 +70,7 @@ updated: 2024-01-04
 	<li>Coach not Critic is better for improvement.</li>
 </ol>
 
+<p>And! The three aspects are empty (in the Buddhist sense). They conditionally co-arise. They interact with and change each other. They go around in a circle, reinforcing each other and backing each other up. But digging into them, you can't find anything solid or fixed or really Real.</p>
 
 <h3>Aphorismical (‽)</h3>
 
