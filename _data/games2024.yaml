@@ -2,4 +2,8 @@
   platform: PS5
   my_rating: 4
   date_played: 2024-01
-  tinyreview: "An excellent games to add to my list of Soulslikes. "
+  tinyreview: "An excellent games to add to my list of Soulslikes."
+- title: "Super Mario Bros Wonder"
+  platform: Switch
+  my_rating: 5
+  date_played: 2014-01
