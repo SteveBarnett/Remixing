@@ -7,10 +7,10 @@ This is a copy (and slight extension) of [my goodreads list](https://www.goodrea
 
 My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
 
-<h2>2023</h2>
+<h2>2024</h2>
 
 <ol reversed>
-{% for book in site.data.books2023 %}
+{% for book in site.data.books2024 %}
 	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
 		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
 		<span class="genre">{{ book.genre }}</span>.
@@ -26,6 +26,7 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 <h2>Earlier</h2>
 
 <ul>
+	<li><a href="/reading/2023">2023</a></li>
 	<li><a href="/reading/2022">2022</a></li>
 	<li><a href="/reading/2021">2021</a></li>
 	<li><a href="/reading/2020">2020</a></li>
