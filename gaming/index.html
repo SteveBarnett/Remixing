@@ -5,6 +5,31 @@ layout: page
 
 <p>My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose.</p>
 
+<h2 id="2024">2024</h2>
+
+<ol reversed>
+{% for game in site.data.games2024 %}
+	<li {% if game.my_rating == 5 %}class="five-star"{% endif %}>
+		<span class="title">{{ game.title }}</span> on <span class="platform">{{ game.platform }}</span>. Played {{ game. date_played | date: "%d-%m-%Y" }}
+		{%- if game.my_rating == 0 -%}
+		.
+		{%- else -%}
+		, <span class="rating">rated {{ game.my_rating }}/5</span>.
+		{%- endif -%}
+	</li>
+{% endfor %}
+</ol>
+
+<!--
+<h3 id="tiny-reviews-2024">Tiny Reviews of 5/5 games</h3>
+
+{% for game in site.data.games2024 %}
+	{% if game.tinyreview %}
+	<h4 class="review-header"><span class="title">{{ game.title }}</span> on <span class="platform">{{ game.platform }}</span></h4>
+	<p class="review">{{ game.tinyreview }}</p>
+	{%- endif -%}
+{% endfor %}
+ -->
 <h2 id="2023">2023</h2>
 
 <ol reversed>
@@ -20,19 +45,11 @@ layout: page
 {% endfor %}
 </ol>
 
-<!--
-<h2>Earlier</h2>
-
-<ul>
-	<li><a href="/reading/2023">2023</a></li>
-</ul>
--->
-
-<h2 id="tiny-reviews">Tiny Reviews of 5/5 games</h2>
+<h3 id="tiny-reviews-2023">Tiny Reviews of 5/5 games</h3>
 
 {% for game in site.data.games2023 %}
 	{% if game.tinyreview %}
-	<h3 class="review-header"><span class="title">{{ game.title }}</span> on <span class="platform">{{ game.platform }}</span></h3>
+	<h4 class="review-header"><span class="title">{{ game.title }}</span> on <span class="platform">{{ game.platform }}</span></h4>
 	<p class="review">{{ game.tinyreview }}</p>
 	{%- endif -%}
 {% endfor %}
