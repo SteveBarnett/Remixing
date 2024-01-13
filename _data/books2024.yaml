@@ -1,10 +1,24 @@
-- title: "For the First Time, Again"
-  author: "Neuvel, Sylvain"
-  genre: "Science Fiction"
+- title:  "Rational Zen: The Mind of Dogen Zenji"
+  author: Cleary, Thomas
+  genre: Zen
+  my_rating: 5
+  date_read: 13/01/2024
+  format: Paperback
+- title: Fireworks
+  author: Carter, Angela
+  genre: Fiction
+  my_rating: 5
+  date_read: 08/01/2024
+- title: For the First Time, Again
+  author: Neuvel, Sylvain
+  genre: Science Fiction
   my_rating: 4
   date_read: 04/01/2024
-- title: "Radical Honesty"
-  author: "Blanton, Brad"
-  genre: "Nonfiction"
+  format: Libby
+- title: Radical Honesty
+  author: Blanton, Brad
+  genre: Nonfiction
   my_rating: 4
   date_read: 02/01/2024
+  format: Kindle
+  format: Paperback
