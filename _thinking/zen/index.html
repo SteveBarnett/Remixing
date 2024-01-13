@@ -1,0 +1,19 @@
+---
+layout: page
+title: Zen
+added: 2024-01-10
+updated: 2024-01-10
+permalink: /thinking/zen/
+---
+
+<h2>Zen in the Art of Archery</h2>
+
+{%- assign zenposts = site.data.zen2024 | where: "source", "Zen in the Art of Archery" -%}
+
+<ul>
+  {% for zenpost in zenposts %}
+  <li>
+    {%- if zenpost.star -%}<strong>{%- endif -%}{{ zenpost.text }}{%- if zenpost.star -%}</strong>{%- endif -%}
+  </li>
+  {% endfor %}
+</ul>
