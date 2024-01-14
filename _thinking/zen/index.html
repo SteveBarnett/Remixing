@@ -2,13 +2,49 @@
 layout: page
 title: Zen
 added: 2024-01-10
-updated: 2024-01-10
+updated: 2024-01-14
 permalink: /thinking/zen/
 ---
 
 <h2>Zen in the Art of Archery</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "Zen in the Art of Archery" -%}
+
+<ul>
+  {% for zenpost in zenposts %}
+  <li>
+    {%- if zenpost.star -%}<strong>{%- endif -%}{{ zenpost.text }}{%- if zenpost.star -%}</strong>{%- endif -%}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Rational Zen - Intro</h2>
+
+{%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Intro" -%}
+
+<ul>
+  {% for zenpost in zenposts %}
+  <li>
+    {%- if zenpost.star -%}<strong>{%- endif -%}{{ zenpost.text }}{%- if zenpost.star -%}</strong>{%- endif -%}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Rational Zen - Universal Book of Eternal Peace</h2>
+
+{%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Universal Book of Eternal Peace" -%}
+
+<ul>
+  {% for zenpost in zenposts %}
+  <li>
+    {%- if zenpost.star -%}<strong>{%- endif -%}{{ zenpost.text }}{%- if zenpost.star -%}</strong>{%- endif -%}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Rational Zen - Treasury of Eyes of True Teaching</h2>
+
+{%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Treasury of Eyes of True Teaching" -%}
 
 <ul>
   {% for zenpost in zenposts %}
