@@ -1,4 +1,4 @@
 ---
-title: 'Ask yourself: "what would be enough?'
+title: 'Ask yourself: "what would be enough?"'
 tags: acceptance human mindfulness
 ---
