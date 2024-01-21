@@ -38,22 +38,22 @@ I'm aiming for a specific topic for each month, to keep myself focused.
 
 ### January
 
-- Study: the basics.
-	- Studying the basics of Zen: a bunch of introduction, instruction, and overview books.
+- Rest
+	- Trying longer sits.
 - Health: flexibility.
 	- Wing Chun stretches.
 - Art: music.
 	- Making longer, ambient-style, bits of music.
 - Mindfulness: sacredness of the everyday.
+	- Studying the basics of Zen: a bunch of introduction, instruction, and overview books.
 	- Cleaning up the kitchen immediately after cooking, before eating.
 	- Making the bed immediately after getting up.
 
 ### February and onwards
 
-- Study
-	- Reading some sutras and guides to sutras.
-	- Picking and working with a koan.
-	- Reading some books by Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
+- Rest
+	- Learning and cooking some new recipes.
+	- Joining some Urban Sketchers meetups.
 - Health
 	- More frequent walking, preferably in nature.
 	- Wing Chun exercises.
@@ -63,6 +63,9 @@ I'm aiming for a specific topic for each month, to keep myself focused.
 	- Practising abstract forms with a brush.
 	- Making more music.
 - Mindfulness
+	- Reading some sutras and guides to sutras.
+	- Picking and working with a koan.
+	- Reading some books by Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
 	- Being more mindful at work.
 	- Meditating in nature.
 	- Staring at the sea.
