@@ -7,7 +7,7 @@ Hi, I’m Steve Barnett.
 
 I tend to be quite reflective. Here's [a short review of my 2023](/review/2023/).
 
-And here's what I've been up to the past few months: [December 2023](/2023/12/), [November 2023](/2023/11/), [October 2023](/2023/10/).
+And here's what I've been up to the past few months: [January 2024](/2024/01/), [December 2023](/2023/12/), [November 2023](/2023/11/), [October 2023](/2023/10/).
 
 ## Personal
 
