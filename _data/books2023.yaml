@@ -3,6 +3,7 @@
   genre: "Zen"
   my_rating: 4
   date_read: 30/12/2023
+  my_notes: /notes/zen/zen%20in%20the%20art%20of%20archery.jpg
 - title: "Paladin's Faith"
   author: "Kingfisher, T."
   genre: "Fantasy"
@@ -13,11 +14,13 @@
   genre: "Nonfiction"
   my_rating: 4
   date_read: 29/12/2023
+  my_notes: /notes/waking-up/sam%20harris%20-%20lying.jpg
 - title: "The Gifts of Imperfection"
   author: "Brown, Brené"
   genre: "Nonfiction"
   my_rating: 4
   date_read: 29/12/2023
+  my_notes: /notes/self-talk/the%20gifts%20of%20imperfection%20-%20brene%20brown.jpg
 - title: "Sailing Alone Around the Room"
   author: "Collins, Billy"
   genre: "Poetry"
@@ -28,11 +31,13 @@
   genre: "Nonfiction"
   my_rating: 4
   date_read: 25/12/2023
+  my_notes: /notes/writing/elements%20of%20style.jpg
 - title: "Nonduality: In Buddhism and Beyond"
   author: "Loy, David R."
   genre: "Nonduality"
   my_rating: 4
   date_read: 25/12/2023
+  my_notes: /notes/no-self/nonduality%20in%20buddhism%20and%20beyond.jpg
 - title: "On the Fox Roads"
   author: "Vo, Nghi"
   genre: "Fantasy"
