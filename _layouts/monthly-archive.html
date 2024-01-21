@@ -243,8 +243,12 @@
 
 <ol reversed>
 {%- for game in site.data[page.gamesdata] -%}
-
 {%- assign gameMonth = game.date_played | slice: 5, 2 | plus: 0 -%}
+
+{%- if currentMonth < 10 -%}
+{%- assign gameMonth = gameMonth | prepend: "0" -%}
+{%- endif -%}
+
 {% if gameMonth == printMonth %}
         <li>
             {%- if game.my_rating == 5 -%}<strong>{%- endif-%}
