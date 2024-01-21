@@ -139,7 +139,7 @@
 {%- endif-%}
 
 {%- if currentYear == 2024 -%}
-<p>2024 is a year of Zen for me. Many book notes will go to <a href="/thinking/zen/">the Zen page</a>.</p>
+<p>2024 is a year of Zen for me. most of my book notes will probably go to <a href="/thinking/zen/">the Zen page</a>.</p>
 {%- endif-%}
 
 {%- if page.notesdata -%}
@@ -154,8 +154,8 @@
 
         {%- if currentMonth == currentnotesnoteMonth -%}
             <li>
-                <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.section }} – {{ notesnote.note }}</a>{%- if notesnote.source -%}
-                &nbsp;from <a href="{{ notesnote.source }}">{{ notesnote.source_name }}</a>
+                <a href="/notes/{{ notesnote.section }}/{{ notesnote.note }}.{{ notesnote.extension }}">{{ notesnote.note }}</a> in {{ notesnote.section }}{%- if notesnote.source -%}
+                , from <a href="{{ notesnote.source }}">{{ notesnote.source_name }}</a>
                 {%- endif -%}.
             </li>
         {%- assign currentOtherNoteCount = currentOtherNoteCount | plus: 1 -%}
