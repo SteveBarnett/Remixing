@@ -2,7 +2,7 @@
 layout: page
 title: Wider RAIN practice
 added: 2023-12-04
-updated: 2024-01-15
+updated: 2024-01-23
 ---
 
 I'm a big fan of [Tara Brach's RAIN meditation](https://www.tarabrach.com/category/rain/) (Recognize, Allow, Investigate, Nurture) and it's companion "[After the RAIN](https://www.tarabrach.com/after-the-rain-i/)".
@@ -43,6 +43,17 @@ Sometimes something RAIN-worthy comes up while you're in the thick of it. There'
 	- Find a sense of what would be comforting right now.
 
 When you have trouble with the N of RAIN, go back to the I. Look more closely for what and where it's hurting.
+
+## Heavy RAIN
+
+- **Recognize.**
+- **Allow.**
+- **Investigate.**
+	- What are trying to protect yourself from?
+	- What are you unwilling to feel?
+	- What are you numbing or distracting yourself from?
+	- If you dropped the story you're adding, what would you be doing instead?
+- **Nurture.**
 
 ## After the RAIN
 
