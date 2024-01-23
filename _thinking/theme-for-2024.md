@@ -63,6 +63,7 @@ I'm aiming for a specific topic for each month, to keep myself focused.
 	- Practising abstract forms with a brush.
 	- Making more music.
 - Mindfulness
+	- Reading a little on the wider context of Zen (Buddhism, Daoism, Chinese thought more broadly).
 	- Reading some sutras and guides to sutras.
 	- Picking and working with a koan.
 	- Reading some books by Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
