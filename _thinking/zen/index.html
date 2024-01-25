@@ -2,11 +2,20 @@
 layout: page
 title: Zen
 added: 2024-01-10
-updated: 2024-01-20
+updated: 2024-01-25
 permalink: /thinking/zen/
 ---
 
-<h2>Zen in the Art of Archery</h2>
+{%- assign summaryposts = site.data.zen2024 | where: "source", "summary" -%}
+
+<ul>
+  {% for summarypost in summaryposts %}
+  <li>{{ summarypost.text }}</li>
+  {% endfor %}
+</ul>
+
+
+<h2 id="zen-in-the-art-of-archery">Zen in the Art of Archery</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "Zen in the Art of Archery" -%}
 
@@ -18,7 +27,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>Rational Zen - Intro</h2>
+<h2 id="rational-zen-intro">Rational Zen - Intro</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Intro" -%}
 
@@ -30,7 +39,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>Rational Zen - Universal Book of Eternal Peace</h2>
+<h2 id="rational-zen-universal-book-of-eternal-peace">Rational Zen - Universal Book of Eternal Peace</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Universal Book of Eternal Peace" -%}
 
@@ -42,7 +51,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>Rational Zen - Treasury of Eyes of True Teaching</h2>
+<h2 id="rational-zen-treasury-of-eyes-of-true-teaching">Rational Zen - Treasury of Eyes of True Teaching</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "Rational Zen - Treasury of Eyes of True Teaching" -%}
 
@@ -54,7 +63,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen - Introduction</h2>
+<h2 id="the-eight-gates-of-zen-introduction">The Eight Gates of Zen - Introduction</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - Introduction" -%}
 
@@ -66,7 +75,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen - The Teachings of Mountains and Rivers</h2>
+<h2 id="the-eight-gates-of-zen-the-teachings-of-mountains-and-rivers">The Eight Gates of Zen - The Teachings of Mountains and Rivers</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - The Teachings of Mountains and Rivers" -%}
 
@@ -78,7 +87,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen - Shakyamuni's Flower</h2>
+<h2 id="the-eight-gates-of-zen-shakyamunis-flower">The Eight Gates of Zen - Shakyamuni's Flower</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - Shakyamuni's Flower" -%}
 
@@ -90,7 +99,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen - The Seal of Enlightenment</h2>
+<h2 id="the-eight-gates-of-zen-the-seal-of-enlightenment">The Eight Gates of Zen - The Seal of Enlightenment</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - The Seal of Enlightenment" -%}
 
@@ -102,7 +111,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen</h2>
+<h2 id="the-eight-gates-of-zen">The Eight Gates of Zen</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen" -%}
 
@@ -114,7 +123,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ul>
 
-<h2>The Eight Gates of Zen - The Ten Grave Precepts</h2>
+<h2 id="the-eight-gates-of-zen-the-ten-grave-precepts">The Eight Gates of Zen - The Ten Grave Precepts</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - The Ten Grave Precepts" -%}
 
@@ -126,7 +135,7 @@ permalink: /thinking/zen/
   {% endfor %}
 </ol>
 
-<h2>The Eight Gates of Zen - The Four Great Vows</h2>
+<h2 id="the-eight-gates-of-zen-the-four-great-vows">The Eight Gates of Zen - The Four Great Vows</h2>
 
 {%- assign zenposts = site.data.zen2024 | where: "source", "The Eight Gates of Zen - The Four Great Vows" -%}
 
