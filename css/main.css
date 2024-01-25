@@ -164,6 +164,10 @@ h1:target:before, h2:target:before, h3:target:before {
   margin-right: 0.25em;
 }
 
+div, h1, h2, h3 {
+  scroll-margin-top: 1rem; 
+}
+
 a {
   color: #00a;
 }
