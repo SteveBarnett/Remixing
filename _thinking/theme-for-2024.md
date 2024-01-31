@@ -3,7 +3,7 @@ layout: page
 title: Theme for 2024
 longerform: true
 added: 2023-12-30
-updated: 2024-01-22
+updated: 2024-01-28
 ---
 
 Off the back of [a review of the year](/thinking/2023-year-in-review/), and some thinking about [my bigger picture philosophy](/thinking/my-philosophy/), I scribbled a big buncha notes.
@@ -46,28 +46,41 @@ I'm aiming for a specific topic for each month, to keep myself focused.
 	- Making longer, ambient-style, bits of music.
 - Mindfulness: sacredness of the everyday.
 	- Studying the basics of Zen: a bunch of introduction, instruction, and overview books.
+		- Zazen form: sit like a mountain; open eyes, downcast gaze.
 	- Cleaning up the kitchen immediately after cooking, before eating.
 	- Making the bed immediately after getting up.
 
-### February and onwards
+I did well with these, apart from the Art / music. I only made one track. I had a fun doing it, though, so I'm going to carry this over to February.
+
+I've enjoyed studying and implementing Zen things. I have a handful more books that are introduction-like, so I'm going to carry this over to February too.
+
+### February
 
 - Rest
 	- Learning and cooking some new recipes.
-	- Joining some Urban Sketchers meetups.
 - Health
 	- More frequent walking, preferably in nature.
 	- Wing Chun exercises.
-	- Running.
 - Art
 	- Reading [Chinese Landscape Painting Techniques](https://www.goodreads.com/book/show/21116145-chinese-landscape-painting-techniques) (an [Arty Bees Books](https://www.artybees.co.nz/) find).
+	- Making longer, ambient-style, bits of music.
+- Mindfulness
+	- Continue studying (and immediately putting into practice) the basics of Zen.
+	- Being more mindful at work.
+
+### March or later
+
+- Rest
+	- Joining some Urban Sketchers meetups.
+- Health
+	- Running.
+- Art
 	- Practising abstract forms with a brush.
-	- Making more music.
 - Mindfulness
 	- Reading a little on the wider context of Zen (Buddhism, Daoism, Chinese thought more broadly).
-	- Reading some sutras and guides to sutras.
-	- Picking and working with a koan.
+		- Read some new editions of Tao Te Ching
 	- Reading some books by Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
 	- Being more mindful at work.
 	- Meditating in nature.
-	- Staring at the sea.
-	- Sitting by a river.
+		- Staring at the sea.
+		- Sitting by a river.
