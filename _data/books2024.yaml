@@ -10,6 +10,7 @@
   my_rating: 5
   date_read: 2023/02/02
   format: Kindle
+  my_notes: /thinking/zen/#introduction-to-zen-training
 - title: We Have Always Lived in the Castle
   author: Jackson, Shirley
   genre: Fiction
@@ -22,6 +23,7 @@
   my_rating: 5
   date_read: 2023/01/22
   format: Kindle
+  my_notes: /notes/self-talk/no bad parts.jpg
 - title: A Haiku Menagerie
   author: Addiss, Stephen
   genre: Poetry
@@ -40,12 +42,14 @@
   my_rating: 4
   date_read: 16/01/2024
   format: Kindle
+  my_notes: /thinking/zen/#the-eight-gates-of-zen
 - title:  "Rational Zen: The Mind of Dogen Zenji"
   author: Cleary, Thomas
   genre: Zen
   my_rating: 5
   date_read: 13/01/2024
   format: Paperback
+  my_notes: /thinking/zen/#rational-zen
 - title: Fireworks
   author: Carter, Angela
   genre: Fiction
