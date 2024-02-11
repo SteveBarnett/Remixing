@@ -3,7 +3,7 @@ layout: page
 title: Theme for 2024
 longerform: true
 added: 2023-12-30
-updated: 2024-01-28
+updated: 2024-02-11
 ---
 
 Off the back of [a review of the year](/thinking/2023-year-in-review/), and some thinking about [my bigger picture philosophy](/thinking/my-philosophy/), I scribbled a big buncha notes.
@@ -50,6 +50,8 @@ I'm aiming for a specific topic for each month, to keep myself focused.
 	- Cleaning up the kitchen immediately after cooking, before eating.
 	- Making the bed immediately after getting up.
 
+### End of month check-in
+
 I did well with these, apart from the Art / music. I only made one track. I had a fun doing it, though, so I'm going to carry this over to February.
 
 I've enjoyed studying and implementing Zen things. I have a handful more books that are introduction-like, so I'm going to carry this over to February too.
@@ -61,9 +63,10 @@ I've enjoyed studying and implementing Zen things. I have a handful more books t
 - Health
 	- More frequent walking, preferably in nature.
 	- Wing Chun exercises.
+	- Running.
 - Art
-	- Reading [Chinese Landscape Painting Techniques](https://www.goodreads.com/book/show/21116145-chinese-landscape-painting-techniques) (an [Arty Bees Books](https://www.artybees.co.nz/) find).
 	- Making longer, ambient-style, bits of music.
+	- Sketching people, especially countours of groups, outlines.
 - Mindfulness
 	- Continue studying (and immediately putting into practice) the basics of Zen.
 	- Being more mindful at work.
@@ -75,11 +78,15 @@ I've enjoyed studying and implementing Zen things. I have a handful more books t
 - Health
 	- Running.
 - Art
-	- Practising abstract forms with a brush.
+	- Reading [Chinese Landscape Painting Techniques](https://www.goodreads.com/book/show/21116145-chinese-landscape-painting-techniques) (an [Arty Bees Books](https://www.artybees.co.nz/) find).
+	- Drawing / painting abstract forms with a brush.
+	- Sketching shop fronts
+	- Art deco suns and circles and starburst and ornaments
 - Mindfulness
 	- Reading a little on the wider context of Zen (Buddhism, Daoism, Chinese thought more broadly).
 		- Read some new editions of Tao Te Ching
-	- Reading some books by Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
+	- Reading some books by Zen teachers: Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
+	- Reading some Douglas Harding.
 	- Being more mindful at work.
 	- Meditating in nature.
 		- Staring at the sea.
