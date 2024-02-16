@@ -1,5 +1,11 @@
 
     </main>
 
+    {% unless page.hidenav == true %}
+    {% unless page.layout == "focus" %}
+    {% include nav.html id="menu" %}
+    {% endunless %}
+    {% endunless %}
+
     </body>
 </html>

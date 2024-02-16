@@ -124,6 +124,13 @@ nav ul {
     border-bottom: 2px solid #333;
 }
 
+main + nav ul {
+  border-bottom: none;
+  border-top: 2px solid #333;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
 nav li {
   margin: 0 0.5rem 1rem 0.5rem;
 }
@@ -139,6 +146,25 @@ nav a {
 nav a[aria-current="page"] {
   color: #333;
   font-weight: bold;
+}
+
+body > a[href="#menu"] {
+  display: none;
+}
+
+@media (max-width: 30em) {
+  body > a[href="#main"], body > nav:nth-of-type(1) {
+    display: none;
+  }
+
+  body > a[href="#menu"] {
+    display: block;
+  }
+
+  nav li {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
 }
 
 h1,
