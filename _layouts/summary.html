@@ -2,9 +2,11 @@
 
 {{ content | markdownify }}
 
-<h2 id="collections">Collections</h2>
+<h2 id="zen">Zen</h2>
 
-{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
+<p>One of my <a href="/thinking/theme-for-2024/">themes for 2024</a> is Zen.</p>
+
+{%- assign thinkingposts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
 
 <ul>
 {% for thinkingpost in thinkingposts %}
@@ -13,6 +15,23 @@
     <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
     (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
   </li>
+  {% endunless %}
+{% endfor %}
+</ul>
+
+<h2 id="collections">Collections</h2>
+
+{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
+
+<ul>
+{% for thinkingpost in thinkingposts %}
+  {% unless thinkingpost.longerform %}
+  {% unless thinkingpost.zen2024 %}
+  <li>
+    <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
+    (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
+  </li>
+  {% endunless %}
   {% endunless %}
 {% endfor %}
 </ul>
