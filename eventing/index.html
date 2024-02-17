@@ -1,0 +1,21 @@
+---
+layout: page
+title: Eventing
+added: 2024-02-18
+updated: 2024-02-18
+---
+
+I sometimes organise and run events. Here are some notes on them and my thinking about them.
+
+{%- assign eventpages = site.eventing | sort: "updated" | reverse -%}
+
+<ul>
+{% for eventpage in eventpages %}
+  {% unless eventpage.longerform %}
+  <li>
+    <a href="{{ eventpage.url }}">{{ eventpage.title }}</a>
+    (added {{ eventpage.added }}{% if eventpage.updated != eventpage.added %}, updated {{ eventpage.updated }}{% endif %})
+  </li>
+  {% endunless %}
+{% endfor %}
+</ul>

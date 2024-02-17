@@ -6,6 +6,8 @@ collections:
     output: true
   thinking:
     output: true
+  eventing:
+    output: true
 
 defaults:
   - scope:
