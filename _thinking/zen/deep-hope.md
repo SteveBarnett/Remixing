@@ -19,7 +19,7 @@ zen2024: true
 
 - Nothing special, just using what is at hand and putting it to good use.
 - The paramitas in verb form: Giving and Receiving, Taking Skillful Action, Practising Patience, Engaging Effort, Meditating, Seeing Clearly.
-- We are all so skilled at discerning how we’re different, but we don’t know enough yet about how we**’re all the same. ... who and what we are at the core of our collective being.**
+- **We are all so skilled at discerning how we’re different, but we don’t know enough yet about how we’re all the same. ... who and what we are at the core of our collective being.**
 - When we run into our own resistance, rather than judging it or trying to manipulate our thinking, we approach it with openness and curiosity.
 
 ## Giving and Receiving
@@ -29,7 +29,7 @@ zen2024: true
 - We meet the conditions of our work, our relationships, our politics, and our finances not as they are but wrapped up with glitzy ideas about the way they should be.
 - Much of life is invisible. Do we see a plant grow?
 - Magnanimous mind is also sometimes expressed as “not-knowing mind,” for it only arises when we’ve leaned into and released the parameters of our fixed view of ourselves and the world.
-- **Zen master Seng-ts'an reminds us: “Do not search for the truth; only cease to cherish opinions.**
+- **Zen master Seng-ts'an reminds us: “Do not search for the truth; only cease to cherish opinions."**
 - Freedom from the boundaries of self brings true joy. This is not the usual kind of joy we think of when we get something we want or have worked for. It’s more like what is called “sympathetic joy,”
 - In this way, we can receive people and their stories, and even our own stories, with open arms, with compassion. We can receive them, openly and without judgment, but we don’t have to believe them.
 - **This is what practice teaches us—always question, and never look for the answers. Just let them come forth and reveal themselves to us.**
@@ -66,7 +66,7 @@ zen2024: true
 - I take up the way of letting go of anger.
 - I take up the way of supporting life.
 
- ## Practising Patience
+## Practising Patience
 
 - Intelligent practice remembers that the value of practicing with the precepts lies not in how it measures our distance along the idealized path to enlightenment but rather how it helps us live in the everyday circumstances of our life.
 - We risk missing the precious unfolding of life as it is right now in the pursuit of an imagined future outcome or destination.

@@ -8,7 +8,7 @@ zen2024: true
 
 Notes from [Ten Fields of Zen Practice Chapter One: What Is Zen Practice? - The Zen Studies Podcast](https://zenstudiespodcast.com/zen-practice-ten-fields/).
 
-- Zen in about what we do, not what we believe.
+- Zen is about what we do, not what we believe.
 - To access true happiness and peace, we have to transcend the sense of separate self.
 - Not aiming to attain anything.
 - "Practising to get better" and "practising because it's how we want to be" balance each other excesses out.
