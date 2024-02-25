@@ -52,7 +52,7 @@ zen2024: true
 - Alcohol, drugs, and TV—or whatever it might be for you—are not escapes in and of themselves. What makes them escapes is how we use them.
 - It’s not the substance we’re using that’s key here; it’s our intention in using it and the harm and suffering it causes when we use it to cloud our ability to take clear, intelligent action.
 - **As in all inquiry, you’re not demanding or measuring. You are just inviting by purposely bringing awareness to your point of inquiry. The power of this exercise is in the posing of questions that seek no answer.**
-- **Keep your inquiry at the level of invitation. You are not demanding that anything reveal itself. You are simply removing veils that may be covering a more earnest experience**
+- **Keep your inquiry at the level of invitation. You are not demanding that anything reveal itself. You are simply removing veils that may be covering a more earnest experience.**
 
 
 ### Precepts  
