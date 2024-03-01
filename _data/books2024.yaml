@@ -1,65 +1,78 @@
+- title: The Sea, the Sea 
+  author: Murdoch, Iris
+  genre: Fiction
+  my_rating: 5
+  date_read: 2024/02/28
+  format: Library
+- title: Ruin
+  author: Hislop, Emma
+  genre: Fiction
+  my_rating: 3
+  date_read: 2024/02/20
+  format: Library
 - title: "The Zen of You and Me: A Guide to Getting Along with Just About Anyone."
   author: Hamilton, Diane Musho
   genre: Zen
   my_rating: 4
-  date_read: 2023/02/18
+  date_read: 2024/02/18
   format: Paperback
+  my_notes: /thinking/zen/the-zen-of-you-and-me/
 - title: "Tate: Sketch Club Urban Drawing"
   author: Dean, Phil 
   genre: Nonfiction
   my_rating: 4
-  date_read: 2023/02/10
+  date_read: 2024/02/10
   format: Paperback
 - title: Rosebud
   author: Cornell, Paul
   genre: Science Fiction
   my_rating: 4
-  date_read: 2023/02/09
+  date_read: 2024/02/09
   format: Kindle
 - title: Deep Hope
   author: Rizzetto, Diane Eshin 
   genre: Zen
   my_rating: 4
-  date_read: 2023/02/08
+  date_read: 2024/02/08
   format: Kindle
-  my_notes: /thinking/zen/#deep-hope
+  my_notes: /thinking/zen/deep-hope
 - title: The Future
   author: Alderman, Naomi
   genre: Science Fiction
   my_rating: 5
-  date_read: 2023/02/06
+  date_read: 2024/02/06
   format: Library
 - title:  Introduction to Zen Training
   author: Omori, Sogen
   genre: Zen
   my_rating: 5
-  date_read: 2023/02/02
+  date_read: 2024/02/02
   format: Kindle
-  my_notes: /thinking/zen/#introduction-to-zen-training
+  my_notes: /thinking/zen/introduction-to-zen-training
 - title: We Have Always Lived in the Castle
   author: Jackson, Shirley
   genre: Fiction
   my_rating: 5
-  date_read: 2023/01/23
+  date_read: 2024/01/23
   format: Library
 - title: No Bad Parts
   author: Schwartz, Richard C.
   genre: Nonfiction
   my_rating: 5
-  date_read: 2023/01/22
+  date_read: 2024/01/22
   format: Kindle
   my_notes: /notes/self-talk/no bad parts.jpg
 - title: A Haiku Menagerie
   author: Addiss, Stephen
   genre: Poetry
   my_rating: 4
-  date_read: 2023/01/20
+  date_read: 2024/01/20
   format: Hardback
 - title:  Shards of Earth
   author: Tchaikovsky, Adrian 
   genre: Science Fiction
   my_rating: 4
-  date_read: 2023/01/18
+  date_read: 2024/01/18
   format: Library
 - title: The Eight Gates of Zen
   author: Loori, John Daido
@@ -67,7 +80,7 @@
   my_rating: 4
   date_read: 16/01/2024
   format: Kindle
-  my_notes: /thinking/zen/#the-eight-gates-of-zen
+  my_notes: /thinking/zen/#he-eight-gates-of-zen
 - title:  "Rational Zen: The Mind of Dogen Zenji"
   author: Cleary, Thomas
   genre: Zen
