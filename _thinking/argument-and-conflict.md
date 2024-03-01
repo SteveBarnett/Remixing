@@ -41,7 +41,7 @@ Be clear on what assumptions we're making, and how we have or will test them.
 - Actor: **Who**'s behaviour do we want to change?
 - Impact: **How** do we want their behaviour to change?
 - Deliverable: **What** will we do to make that happen?
-- Measurable: How will be **check** it?
+- Measurable: How will we **check** it?
 
 <!-- 
 ## Affinitising the tops
