@@ -95,6 +95,7 @@ I'm going to try and be more specific with some of March goals. I often find tha
 
 - Rest
 	- Joining some Urban Sketchers meetups.
+	- Start a (re)readthrough of Iain M. Banks' Culture books.
 - Health
 	- Running.
 - Art
@@ -103,9 +104,10 @@ I'm going to try and be more specific with some of March goals. I often find tha
 	- Sketching shop fronts
 	- Art deco suns and circles and starburst and ornaments
 - Mindfulness
+	- Study water. The sea, rivers, streams. The dynamics, the geography, the chemistry.
 	- Reading a little on the wider context of Zen (Buddhism, Daoism, Chinese thought more broadly).
 		- Read some new editions of Tao Te Ching
-	- Reading some books by Zen teachers: Charlotte Joko Beck, Pema Chödrön, Thich Nhat Hanh, and more.
+	- Reading some more books by Zen teachers: Charlotte Joko Beck, Pema Chödrön, Alan Watts, and more.
 	- Reading some Douglas Harding.
 	- Being more mindful at work.
 	- Meditating in nature.
