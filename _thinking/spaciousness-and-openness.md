@@ -1,0 +1,27 @@
+---
+layout: page
+title: Spaciousness and openness
+longerform: true
+added: 2024-03-05
+updated: 2024-03-05
+---
+
+- Look for yourself at zero distance.
+- Notice you are boundless, open, space.
+- Notice the wider space that contains "this" and "not-this".
+
+## Theory
+
+- **Your true nature is boundless, open, space.**
+- **Anything you perceive reveals itself in this empty, still, silent, space.**
+- Prefer the bigger, more integrated picture.
+- **Accept the wider view of everything and its opposite.**
+- Love, compassion, expressed as the complete lack of boundaries, separation, distance.
+
+## Practice
+
+- **Look for yourself, at zero distance.**
+- Find just enough space to notice what's going on.
+- Leave space for things to untangle themselves. 
+- **Rest in the wider whole of this and not-this.**
+- **Be, accept, the whole of your experience, not just some of it.**
