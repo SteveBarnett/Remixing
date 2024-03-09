@@ -14,7 +14,7 @@ zen2024: true
 - Don't cling to sense data, let them be, without hindrance.
 - Emphasis on emptiness aline tends to produce nihilism and decadence.
 - Emphasis on phenomena alone tends to not produce liberation.
-- **Discipline, meditation, and knowledge are all necessary to cultivate virtue and to get rid of **craving.
+- **Discipline, meditation, and knowledge are all necessary to cultivate virtue and to get rid of craving.**
 - Zen aims to strip students of sentimental attachments.
 - Neither mechanical performance nor mere theory will foster enlightenment.
 - **Enlightenment is inherent in everyone, but it needs to be practiced to manifest and be directly experienced.**
@@ -24,11 +24,11 @@ zen2024: true
 - Three exercises: contemplating impermanence of the subject; contemplating impermanence of the object; alterness in the immediate present.
 - Remove obstructing fixations.
 - Realisation of the absolute does not extinguish experience of the relative.
-- **As long as the idea of something to be transcended remains, this obscures our inherent **Buddha-nature.
+- **As long as the idea of something to be transcended remains, this obscures our inherent Buddha-nature.**
 - The integration of the absolute and relative doesn't obliterate their distinctness.
 - When "someone" understands, the understanding is already secondhand.
 - **Tranquilising yourself deprives you of useful stimuli for conscious development.**
-- By not grasping or rejecting we can be undisturbed in the midst of the world without shutting anything** out.**
+- **By not grasping or rejecting we can be undisturbed in the midst of the world without shutting anything out.**
 - The ominpresence  of reality does not obstruct the ubiquitousness of the illusion.
 - **Hover above the duality of the absolute and the relative.**
 - Only suchness and knowledge of suchness.
@@ -54,7 +54,6 @@ zen2024: true
 - Ultimate reality is innocent of the descriptions projected upon it by conceptual and linguistic habits.
 - **Knowledge without action is useless. Action with knowledge is dangerous.**
 - Free up energy by letting go perceptual and cognitive boundaries produced by fixation on limited views.
- ** star: true**
 - The middle way is the simultaneous awareness of both perspectives.
 - **As soon as you think "this is it," it's not it anymore.**
 - Using brings up potential, being used throws it away.

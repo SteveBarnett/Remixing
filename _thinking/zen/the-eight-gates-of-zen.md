@@ -35,7 +35,7 @@ zen2024: true
 
 - We tend to see body, breath, and mind separately, but in zazen they come together as one reality.
 - Although zazen looks very disciplined, the muscles should be soft. There should be no tension in the body.
-- Each time you return to the breath you are empowering yourself with the ability to put your mind where yo**u want it, when you want it there, for as long as you want it there.**
+- **Each time you return to the breath you are empowering yourself with the ability to put your mind where you want it, when you want it there, for as long as you want it there.**
 - Get very clear about what it is that one wants to accomplish, and make a personal vow to accomplish just that.
 
 ## Ten Stages
@@ -48,7 +48,7 @@ zen2024: true
 - **Koans are a good way to cool the assertiveness, to undermine and dismantle the whole intellectual matrix, while harnessing the energy of inquisitiveness and activating intuition.**
 - **When the ego gets out of the way and the self is thoroughly forgotten, compassion manifests itself easily and readily.**
 - We construct the reality that we call self by the way we combine and use the organs of perception, the objects of perception, and consciousness.
-- Unless you’re approaching this practice for the simple delight in the practice, you’re missing what it’s all** about.**
+- **Unless you’re approaching this practice for the simple delight in the practice, you’re missing what it’s all about.**
 - In Zen liturgy we manifest that which is known to us intuitively and subconsciously in the form of a visible, tangible reality.
 - Whether we realize it or not, we are immersed in secular ritual all the time.
 - Liturgy can be considered an affirmation or restatement of the common experience of a community.
@@ -63,7 +63,7 @@ zen2024: true
 - **"Not knowing is most intimate"**
 - A sacred activity, as a manifestation of the miracle of being alive.
 - **Each step, each action that brings us closer to the goal, is the goal itself.**
-- 'To really complete work practice requires cleaning up, putting the tools away, picking up the loose ends, “l**eaving no trace.”'**
+- 'To really complete work practice requires cleaning up, putting the tools away, picking up the loose ends, “leaving no trace.”'
 - **The things that are most difficult for us almost always have the most to teach us.**
 - Make sitting zazen a very conscious thing that you are doing.
 - **A routine that alternates between art practice and body practice every other day, with one day off during the week, is often both feasible and reasonable.**

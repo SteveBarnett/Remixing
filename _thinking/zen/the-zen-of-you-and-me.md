@@ -85,7 +85,7 @@ sensitive to safety in communication.
 ## 7. Depth of feeling
 
 - I wouldn’t want to choose between my mother’s capacity to feel and my father’s ability to ignore intense feelings. It would be like choosing between truth and beauty.
-- Every emotion is a state of consciousness, an experience composed of thought, mood, and bodily sensations. We refer to them as “states”1 because they come and they go.
+- Every emotion is a state of consciousness, an experience composed of thought, mood, and bodily sensations. We refer to them as “states” because they come and they go.
 - **The problem with our emotions is that we don’t relate to them as states.**
 - Feelings are meant to be felt. They are a potent source of information. But we don’t want to be trapped in them. We want to be free to feel them completely and let go of them entirely.
 - The first step in becoming emotionally literate is to simply begin to recognize feelings in the body.
