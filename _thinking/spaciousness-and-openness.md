@@ -3,8 +3,10 @@ layout: page
 title: Spaciousness and openness
 longerform: true
 added: 2024-03-05
-updated: 2024-03-05
+updated: 2024-03-08
 ---
+
+ANT: **And Not-This**.
 
 - Look for yourself at zero distance.
 - Notice you are boundless, open, space.
