@@ -3,7 +3,7 @@ layout: page
 title: Theme for 2024
 longerform: true
 added: 2023-12-30
-updated: 2024-03-01
+updated: 2024-03-12
 ---
 
 Off the back of [a review of the year](/thinking/2023-year-in-review/), and some thinking about [my bigger picture philosophy](/thinking/my-philosophy/), I scribbled a big buncha notes.
@@ -17,6 +17,8 @@ My theme for 2024 is going to (try and) be **rest**.
 Resting and relaxing is something I have not been doing very well during 2023.
 
 Some things that I find relaxing: meditating, cooking, sketching, walking, arting, reading, music(k?)ing.
+
+I know that part of me does want to rest, to relax. I find "close your eyes" instructions in a meditation session very easy, quick, pleasing. I often find I gently resist the "open your eyes" instructions at the end of a session: I want to stay sitting there, eyes closed, resting and relaxing.
 
 ## Philosophy
 
