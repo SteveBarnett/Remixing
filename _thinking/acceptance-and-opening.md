@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acceptance and opening
+longerform: true
 added: 2024-03-09
 updated: 2024-03-09
 ---
