@@ -204,7 +204,7 @@ a:hover {
 }
 
 a:focus,
-details:focus {
+summary:focus {
   text-decoration: none;
   color: #007;
   background-color: #bbf;
@@ -349,6 +349,36 @@ blockquote.alt {
   border-left: 10px solid red;
   padding-left: 0.25rem;
 }
+
+/* 2024-03 colour experiments */
+
+html {
+  background-color: #f3fcf3;
+}
+
+h1, h2, h3, h4 {
+  color: #3d1f1f;
+}
+
+a {
+  color: #050;
+}
+
+a:hover {
+  color: #272;
+}
+
+a:focus {
+  outline-offset: 0.15em;
+}
+
+a:focus,
+summary:focus {
+  color: inherit;
+  background-color: inherit;
+  outline-color: inherit;
+}
+
 
 /* ==========================================================================
    Helper classes
