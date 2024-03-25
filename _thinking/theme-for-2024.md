@@ -83,6 +83,7 @@ I'm going to try and be more specific with some of March goals. I often find tha
 
 - Rest
 	- Book a week off in March or April.
+	- Start a (re)readthrough of Iain M. Banks' Culture books.
 - Health
 	- Keep on running, three times a week.
 	- Keep up Wing Chun exercises, four times a week.
@@ -97,7 +98,7 @@ I'm going to try and be more specific with some of March goals. I often find tha
 
 - Rest
 	- Joining some Urban Sketchers meetups.
-	- Start a (re)readthrough of Iain M. Banks' Culture books.
+	- More nature into daily routines.
 - Health
 	- Running.
 - Art
