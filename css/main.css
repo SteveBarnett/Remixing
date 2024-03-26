@@ -379,6 +379,44 @@ summary:focus {
   outline-color: inherit;
 }
 
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #0c030c;
+    color: #eee;
+  }
+
+  h1, h2, h3, h4 {
+    color: #faebd7;
+  }
+
+  a {
+    color: #7c7;
+  }
+
+  a:hover {
+    color: #afa;
+  }
+
+  a:focus {
+    outline-offset: 0.15em;
+  }
+
+  a:focus,
+  summary:focus {
+    outline-color: #fff;
+  }
+
+  input:focus,
+  button:focus {
+    outline: 0.1em solid #afa;
+    outline-offset: 0.1em;
+  }
+
+  nav a[aria-current="page"] {
+    color: #9e9;
+  }
+}
+
 
 /* ==========================================================================
    Helper classes
