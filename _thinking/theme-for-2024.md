@@ -91,28 +91,63 @@ I'm going to try and be more specific with some of March goals. I often find tha
 	- Make four longer, ambient-style, bits of music.
 	- Join one Urban Sketchers meetup.
 - Mindfulness
+	- Work through [Henry Shukman's The Way app](https://www.thewayapp.com/).
 	- Read a bunch of Thich Nhat Hanh books.
 	- Do one seaside sit each weekend.
-	 
-### April or later
+
+### April
 
 - Rest
-	- Joining some Urban Sketchers meetups.
-	- More nature into daily routines.
+	- More nature into daily routines
+	- Continue (re)readthrough of Iain M. Banks' Culture books
+- Health
+	- Continue running
+	- Restart Wing Chun exercises, four times a week
+- Art
+	- Icons and illustrations
+		- My Icon Library
+		- Manual of Ornament
+		- Symbol: The reference guide to abstract and figurative trademarks
+		- Design for good acoustics
+		- Logo Design workbook
+- Mindfulness
+	- Solo retreat
+	- Group retreat
+	- Dig deeper into non-duality
+		- Listen to "Explore Nonduality" playlist on Waking Up (15 session 6h)
+		- Revisit The Headless Way
+			- Reading some more Douglas Harding.
+			- (re)Listen to "The Headless Way" on the Waking Up app (27 Sessions, 5h 25m)
+			- (re)Listen to "Experiments in Having No Head" on the Waking Up app (13 Sessions, 1h 55m)
+	 
+### May or later
+
+- Take a break month. A break from Zen, probably from Buddhism. Wider and weirder non-fiction reading.
+- Rest
+    - Joining some Urban Sketchers meetups.
+    - Read a few books in animals, nature, the living world.
 - Health
 	- Running.
 - Art
-	- Reading [Chinese Landscape Painting Techniques](https://www.goodreads.com/book/show/21116145-chinese-landscape-painting-techniques) (an [Arty Bees Books](https://www.artybees.co.nz/) find).
+	- Sketching
+		- Reading [Chinese Landscape Painting Techniques](https://www.goodreads.com/book/show/21116145-chinese-landscape-painting-techniques) (an [Arty Bees Books](https://www.artybees.co.nz/) find).
+		- Sketching shop fronts
 	- Drawing / painting abstract forms with a brush.
-	- Sketching shop fronts
 	- Art deco suns and circles and starburst and ornaments
+	- Maps
 - Mindfulness
+	- Read some sutras and commentaries
+		- Heart Sutra
+		- Diamond Sutra
 	- Study water. The sea, rivers, streams. The dynamics, the geography, the chemistry.
 	- Reading a little on the wider context of Zen (Buddhism, Daoism, Chinese thought more broadly).
 		- Read some new editions of Tao Te Ching
 	- Reading some more books by Zen teachers: Charlotte Joko Beck, Pema Chödrön, Alan Watts, and more.
-	- Reading some Douglas Harding.
 	- Being more mindful at work.
 	- Meditating in nature.
 		- Staring at the sea.
 		- Sitting by a river.
+	- One day solo retreat
+	- One day [One Mindful Breath Retreat](https://onemindfulbreath.substack.com/p/autumn-meditation-retreat)
+	- (re)Listen to "Original Love" on the Waking Up app (15 Sessions·2h 41m)
+	- (re)Listen to "Original Nature" on the Waking Up app (7 Sessions·3h 4m)
