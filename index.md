@@ -5,7 +5,7 @@ layout: page
 
 Hi, I’m Steve Barnett.
 
-I tend to be quite reflective. Here's [a short review of my 2023](/review/2023/).
+I tend to be quite reflective. Here's [a short review of my 2023](/review/2023/), and [my ongoing focus for 2024](/themes/2024).
 
 And here's what I've been up to the past few months: [March 2024](/2024/03/), [February 2024](/2024/02/), [January 2024](/2024/01/).
 
@@ -16,6 +16,8 @@ I like **reading** for fun and for learning. Around the start of 2018 I started 
 I like making **pictures**, with cameras or pens and pencils. Often abstract, strange juxtapositions, or iconography and patterns. I go by the nickname Max Barners. [See some of my photos on Instagram](https://www.instagram.com/maxbarners/). [I like to sketch and draw](/art/), especially in small and weird ways.
 
 I like making and listening to **music**. I made themed playlists for a series of "house parties for grown ups" (start early, dance a lot, finish early). The mixes live at [my profile on Mixcloud](https://www.mixcloud.com/MaxBarners/). I tinker with making electronic music using Ableton Live and [post the music here](/music/) and to [my SoundCloud profile](https://soundcloud.com/maxbarners).
+
+I occasionally run small ["events"](/eventing/) for small(ish) groups of friends.
   
 ## Work
 
