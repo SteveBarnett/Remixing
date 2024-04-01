@@ -116,7 +116,7 @@ body {
   font-size: 125%;
 }
 
-nav ul {
+body > nav ul {
     list-style-type: none;
     padding-left: 0;
     display: flex;
@@ -131,19 +131,19 @@ main + nav ul {
   padding-top: 1em;
 }
 
-nav li {
+body > nav li {
   margin: 0 0.5rem 1rem 0.5rem;
 }
 
-nav ul li:first-child {
+body > nav ul li:first-child {
   margin-left:  0;
 }
 
-nav a {
+body > nav a {
   padding: 0.25rem 0.5rem;
 }
 
-nav a[aria-current="page"] {
+body > nav a[aria-current="page"] {
   color: #333;
   font-weight: bold;
 }
