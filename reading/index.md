@@ -10,12 +10,17 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 <h2>2024</h2>
 
 <ol reversed>
+{%- assign previousMonth = site.time | date: "%m" -%}
+
 {% for book in site.data.books2024 %}
-	<li {% if book.my_rating == 5 %}class="five-star"{% endif %}>
+
+{%- assign currentMonth = book.date_read | date: "%m" -%}
+
+	<li class="{% if book.my_rating == 5 %} five-star{% endif %}{% if currentMonth != previousMonth %} month-change{%- assign previousMonth = currentMonth -%}{% endif %}">
 		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
 		<span class="genre">{{ book.genre }}</span>.
-		<span class="read">Read {{ book. date_read | date: "%d-%m-%Y" }}.</span>
-		<span class="rating">rated {{ book.my_rating }}/5</span>.
+		<span class="read">Read {{ book.date_read | date: "%d-%m-%Y" }}.</span>
+		<span class="rating">Rated {{ book.my_rating }}/5</span>.
 		{%- if book.my_notes -%}
 		&nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
 		{%- endif-%}
