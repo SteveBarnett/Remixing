@@ -23,9 +23,12 @@
 
 {%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
 
+{%- assign previousLongerFormMonth = site.time | date: "%m" -%}
+
 <ul>
 {% for longerformpost in longerformposts %}
-  <li>
+{%- assign currentLongerFormMonth = longerformpost.updated | date: "%m" -%}
+  <li{% if currentLongerFormMonth != previousLongerFormMonth %} class="month-change"{%- assign previousLongerFormMonth = currentLongerFormMonth -%}{% endif %}>
     <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
     (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
   </li>
@@ -36,11 +39,14 @@
 
 {%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
 
+{%- assign previousCollectionsMonth = site.time | date: "%m" -%}
+
 <ul>
 {% for thinkingpost in thinkingposts %}
+{%- assign currentCollectionsMonth = thinkingpost.updated | date: "%m" -%}
   {% unless thinkingpost.longerform %}
   {% unless thinkingpost.zen2024 %}
-  <li>
+  <li{% if currentCollectionsMonth != previousCollectionsMonth %} class="month-change"{%- assign previousCollectionsMonth = currentCollectionsMonth -%}{% endif %}>
     <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
     (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
   </li>
