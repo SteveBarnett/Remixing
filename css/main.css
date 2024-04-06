@@ -146,6 +146,7 @@ body > nav a {
 body > nav a[aria-current="page"] {
   color: #333;
   font-weight: bold;
+  text-decoration-style: double;
 }
 
 body > a[href="#menu"] {
@@ -276,6 +277,10 @@ li.thumbs-extra-small:last-child {
 
 .five-star .author, .five-star .title {
   font-weight: bold;
+}
+
+.month-change {
+  margin-top: 1em;
 }
 
 summary {
@@ -415,7 +420,7 @@ summary:focus {
     outline-offset: 0.1em;
   }
 
-  nav a[aria-current="page"] {
+  body > nav a[aria-current="page"] {
     color: #9e9;
   }
 
