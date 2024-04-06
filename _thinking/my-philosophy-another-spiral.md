@@ -6,7 +6,7 @@ added: 2024-04-03
 updated: 2024-04-03
 ---
 
-Spirallig towards more clarity.
+Spiralling towards more clarity.
 
 ### In arrows ↓↑→←
 
