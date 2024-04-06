@@ -19,7 +19,20 @@
 {% endfor %}
 </ul>
 
-<h2 id="collections">Collections</h2>
+<h2 id="longer-form" tabindex="-1">Longer form</h2>
+
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
+
+<ul>
+{% for longerformpost in longerformposts %}
+  <li>
+    <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
+    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+  </li>
+{% endfor %}
+</ul>
+
+<h2 id="collections" tabindex="-1">Collections</h2>
 
 {%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
 
@@ -33,19 +46,6 @@
   </li>
   {% endunless %}
   {% endunless %}
-{% endfor %}
-</ul>
-
-<h2 id="longer-form" tabindex="-1">Longer form</h2>
-
-{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
-
-<ul>
-{% for longerformpost in longerformposts %}
-  <li>
-    <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
-    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
-  </li>
 {% endfor %}
 </ul>
 
