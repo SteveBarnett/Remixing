@@ -389,6 +389,10 @@ summary:focus {
     color: #eee;
   }
 
+  ::selection {
+    color: #0c030c;
+  }
+
   h1, h2, h3, h4 {
     color: #faebd7;
   }
