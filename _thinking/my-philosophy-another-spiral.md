@@ -3,12 +3,136 @@ layout: page
 title: My philosophy, another spiral
 longerform: true
 added: 2024-04-03
-updated: 2024-04-03
+updated: 2024-04-10
 ---
 
-Spiralling towards more clarity.
+- Spiralling towards more clarity.
+- The truth is immediate, close, easy, simple.
+- Slow your tempo.
 
-### In arrows ↓↑→←
+## Approach
+
+- Choose the best-fit practice for right now.
+- Have a spectrum of practices from active to relaxed.
+
+### Acceptance
+
+- **Give everything a warm welcome.**
+- Check if anything is actually missing.
+- Stop having a problem with the endless stream of problems.
+- **Have fewer requirements, conditions.**
+- Find a little more space.
+- Notice not-this (in addition to this).
+
+### Yield
+
+- Do kintsugi on your pain
+- **Work with, not against.**
+- **Recognise, Allow, Investigate, Nuture.**
+
+## The world
+
+### Reality is one, indivisible, whole
+
+#### Commentary
+
+- Like interbeing, interdependence, no-self, emptiness.
+- We are not in nature, we are nature.
+- We are not doing in the world, the world is doing us, like it does plants and weather and (other) animals.
+- Concepts divide, often creating pairs, poles, opposites.
+- Concepts create division, layers, stages. 
+
+#### Practice
+
+- Indirect: look for the edges.
+- Direct: notice the huge network of causes, conditions, and patterns that lead to this. 
+- Notice how things exist on a spectrum, not a binary.
+
+### Reality is flow, motion, change
+
+#### Commentary
+
+- Like impermanence.
+- Concepts are fixed, static.
+
+#### Practice
+
+- Direct: Watch the motion, the changes.
+- Direct: Watch it arise, watch it pass away.
+- Indirect: Look for what's static, fixed.
+- Indirect: Try and find the gaps between perceptions, between this and not-this.
+
+### Reality is complex, deep, rich
+
+#### Commentary
+
+- Concepts flatten, simplify, exclude.
+- **The map is not the territory.**
+
+#### Practice
+
+- Indirect: Notice there are not straight lines.
+- Indirect: What are you thinking?
+- Indirect: Break the chain of thoughts with direct experience.
+- Indirect: Look for the form, the shape.
+- Direct: Peer into the fractality.
+- Indirect: Look for what's being left out of the map.
+
+## The self
+
+### Perception is participation
+
+#### Commentary
+
+- What qualities you see depends on the scale.
+- Who you are determines how you see determines what you see.
+
+#### Practice
+
+- **Take multiple viewpoints at once.**
+- Prefer the more integrated picture.
+- Notice what map you're using.
+
+### The context of consciousness, not the content
+
+- The ocean, not the waves.
+
+#### Commentary
+
+- The world is in you.
+- The contents of consciousness arise in the world.
+- **Subject and object arise as a pair in consciousness.**
+- Direct, embodied, experience.
+
+#### Practice
+
+- Indirect: Look for the centre of experience.
+- **Direct: Look for yourself, at zero distance.**
+- Indirect: Look for what's looking.
+- Indirect: Take the backward step.
+- Direct: Drop a story, an identity. What's left? Drop another.
+- **Direct: Leave things as they are, without adding a story or a label.**
+- Indirect: There's no need t be so antagonistic to the costume you're wearing.
+- Direct: Keep taking off "hats" until there are none left.
+- Direct: Notice the causes, conditions, patterns that make you who you are.
+
+### Potential poles
+
+- Vice / Virtue
+- Fear / Desire
+- Stress / Security
+
+## Contractions
+
+- SuperPerisher
+- Conflict
+- Feeling watched
+- Feeling embarrassed
+- Feeling anxious
+
+---
+
+## In arrows ↓↑→←
 
 - **Relaxed.** Slow down.
 - **Open.** Open up.
