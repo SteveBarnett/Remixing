@@ -6,122 +6,118 @@ added: 2024-04-03
 updated: 2024-04-10
 ---
 
-- Spiralling towards more clarity.
-- The truth is immediate, close, easy, simple.
-- Slow your tempo.
+Spiralling towards more clarity.
+
+The truth is immediate, close, easy, simple. Slow your tempo and pay more attention.
 
 ## Approach
 
-- Choose the best-fit practice for right now.
-- Have a spectrum of practices from active to relaxed.
+Choose the best-fit practice for right now.
 
-### Acceptance
+### Accept
 
-- **Give everything a warm welcome.**
-- Check if anything is actually missing.
+- Give everything a warm welcome.
 - Stop having a problem with the endless stream of problems.
-- **Have fewer requirements, conditions.**
-- Find a little more space.
-- Notice not-this (in addition to this).
+- Have fewer requirements, conditions.
 
 ### Yield
 
-- Do kintsugi on your pain
-- **Work with, not against.**
-- **Recognise, Allow, Investigate, Nuture.**
+- Kintsugi your pain.
+- Work with, not against.
+- Recognise, Allow, Investigate, Nuture.
 
 ## The world
 
-### Reality is one, indivisible, whole
+### One, indivisible, whole
 
-#### Commentary
+<div class="boxout">Reality is one, indivisible, whole. Concepts create division, layers, stages, often as poles.</div>
 
-- Like interbeing, interdependence, no-self, emptiness.
-- We are not in nature, we are nature.
-- We are not doing in the world, the world is doing us, like it does plants and weather and (other) animals.
-- Concepts divide, often creating pairs, poles, opposites.
-- Concepts create division, layers, stages. 
+Like interbeing, interdependence, no-self, emptiness. We are not in nature: we are nature. We are not doing in the world: the world is doing us, like it does plants and weather and (other) animals.
 
 #### Practice
 
-- Indirect: look for the edges.
-- Direct: notice the huge network of causes, conditions, and patterns that lead to this. 
-- Notice how things exist on a spectrum, not a binary.
+- Direct
+	- Notice the huge network of causes, conditions, and patterns that lead to this. 
+	- Notice how things exist on a spectrum, not a binary.
+- Indirect
+	- Look for the edges.
 
-### Reality is flow, motion, change
+### Flow, motion, change
 
-#### Commentary
+<div class="boxout">Reality is flow, motion, change. Concepts are fixed, static.</div>
 
-- Like impermanence.
-- Concepts are fixed, static.
-
-#### Practice
-
-- Direct: Watch the motion, the changes.
-- Direct: Watch it arise, watch it pass away.
-- Indirect: Look for what's static, fixed.
-- Indirect: Try and find the gaps between perceptions, between this and not-this.
-
-### Reality is complex, deep, rich
-
-#### Commentary
-
-- Concepts flatten, simplify, exclude.
-- **The map is not the territory.**
+Like impermanence.
 
 #### Practice
 
-- Indirect: Notice there are not straight lines.
-- Indirect: What are you thinking?
-- Indirect: Break the chain of thoughts with direct experience.
-- Indirect: Look for the form, the shape.
-- Direct: Peer into the fractality.
-- Indirect: Look for what's being left out of the map.
+- Direct
+	- Watch the motion, the changes.
+	- Watch it arise, watch it pass away.
+- Indirect
+	- Look for what's static, fixed.
+	- Try and find the gaps between perceptions, between this and not-this.
+
+### Complex, deep, rich
+
+<div class="boxout">Reality is complex, deep, rich. Concepts flatten, simplify, exclude.</div>
+
+The map is not the territory.
+
+#### Practice
+
+- Direct
+	- Peer into the fractality.
+- Indirect
+	- Notice there are not straight lines.
+	- What are you thinking?
+	- Break the chain of thoughts with direct experience.
+	- Look for the form, the shape.
+	- Look for what's being left out of the map.
 
 ## The self
 
 ### Perception is participation
-
-#### Commentary
 
 - What qualities you see depends on the scale.
 - Who you are determines how you see determines what you see.
 
 #### Practice
 
-- **Take multiple viewpoints at once.**
-- Prefer the more integrated picture.
-- Notice what map you're using.
+- Direct
+	- Take multiple viewpoints at once.
+	- Prefer the more integrated picture.
+	- Notice what map you're using.
 
 ### The context of consciousness, not the content
 
 - The ocean, not the waves.
-
-#### Commentary
-
-- The world is in you.
+- You are not in the world, the world is in you.
 - The contents of consciousness arise in the world.
-- **Subject and object arise as a pair in consciousness.**
-- Direct, embodied, experience.
+- Subject and object arise as a pair in consciousness.
 
 #### Practice
 
-- Indirect: Look for the centre of experience.
-- **Direct: Look for yourself, at zero distance.**
-- Indirect: Look for what's looking.
-- Indirect: Take the backward step.
-- Direct: Drop a story, an identity. What's left? Drop another.
-- **Direct: Leave things as they are, without adding a story or a label.**
-- Indirect: There's no need t be so antagonistic to the costume you're wearing.
-- Direct: Keep taking off "hats" until there are none left.
-- Direct: Notice the causes, conditions, patterns that make you who you are.
+- Direct
+	- Notice the direct, embodied, experience.
+	- Look for yourself, at zero distance.
+	- Drop a story, an identity. What's left? Drop another.
+	- Leave things as they are, without adding a story or a label.
+	- Keep taking off "hats" until there are none left.
+	- Notice the causes, conditions, patterns that make you who you are.
+	- Look for the centre of experience.
+	- Look for what's looking.
+- Indirect
+	- Take the backward step.
+	- Don't be so antagonistic towards the costume you're wearing.
 
+<!--
 ### Potential poles
 
 - Vice / Virtue
 - Fear / Desire
 - Stress / Security
-
+-->
+<!-- 
 ## Contractions
 
 - SuperPerisher
@@ -129,7 +125,7 @@ updated: 2024-04-10
 - Feeling watched
 - Feeling embarrassed
 - Feeling anxious
-
+ -->
 ---
 
 ## In arrows ↓↑→←
