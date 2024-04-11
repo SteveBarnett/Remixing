@@ -14,7 +14,7 @@ zen2024: true
 - Finding the nature of the real self makes it possible to be oneself, without self-consciously trying.
 - Recollection of koans facilitates the ongoing practice of Buddhist meditations in the midst of ordinary wordly activities, once a popular Zen technique.
 
-## PART ONE THE TRUE MIND: Chinul’s Straightforward Explanation of the True Mind
+## Part One: The True Mind: Chinul’s Straightforward Explanation of the True Mind
 
 ### Faith
         
@@ -174,7 +174,7 @@ If you arrive at the true mind, all names are clear; if you are ignorant of this
 <!-- ### Destiny -->
 <!-- ### Where the True Mind Goes -->
 
-## PART TWO APPLICATIONS Zen Master Hakuin
+## Part Two: Applications: Zen Master Hakuin
            
 ### Subtle Confusions
 
@@ -277,7 +277,7 @@ attraction and aversion and their point of view is biased.
 - The verbal teachings of the Buddhas and Zen masters are extremely profound and should not be considered exhausted after you have gone through them once or twice.
 - The way to point out the direction is not in verbal explanations. If you want to reach this realm, just refine your observing cognition in the differentiated stories that are difficult to pass through, smelting and forging hundreds and thousands of times, over and over again.
 
-## PART THREE ZEN KOANS
+## Part Three: Zen Koans
             
 ### 1. Buddha Takes the High Seat
 
