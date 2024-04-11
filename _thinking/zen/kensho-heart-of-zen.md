@@ -6,6 +6,31 @@ updated: 2024-04-11
 zen2024: true
 ---
 
+## Some key things
+
+- Things like ideas and feelings are products of the mind, not the mind itself.
+- The true nature of the mind has no characteristics. It's neither profane nor sacred, not coming or going. It's still, calm, quiet, eternal.
+- Detaching from thoughts means stopping habits and compulsive thinking, not having no thought or being unintelligent.
+- Substance and function of true mind are not-two.
+	- Aim for experiential unity, keeping this distinction-but-not-division.
+	- There's no water without waves, and no waves without water. They are not one and not the same.
+- The true mind is always the same and always there. But different people perceive it differently.
+- Practice the approach you have affinity with (not just attraction to). It's effortless work, not deliberate effort.
+- Suchness is open and pure, but is defiled by our psychological afflictions.
+- The achievement of mindlessness is better than mindfulness.
+- The “no knowledge” of direct perception.
+	- Knowledge is a subtle barrier, difficult to overcome.
+	- We need experiential distinction between direct perception and conceptual description.
+- The real teaching is not a string of words, it is the experience of reality itself.
+	- Buddhism is not Buddha’s Teaching
+- When the true self is stimulated, the six senses create forms, like an empty valley transmits echoes.
+- Reality is there whether we're aware of it, discuss it, define it, or not. These may actually obscure Reality! 
+	- When you finish dreaming, reality is as ever.
+- Like the knife that cuts but does not cut itself, like the eye that sees but does not see itself.
+- What determines the depth and breadth of our world is the richness or poverty of our perception.
+
+---
+
 ## Introduction
 
 - Complete kensho is what is known as satori, Zen awakening. This realization is likened to finding an inexhaustible treasure, for it means the awakening of the whole potential for the experience of experience itself.
@@ -31,7 +56,7 @@ zen2024: true
 
 ### Different Names for the True Mind
 
-If you arrive at the true mind, all names are clear; if you are ignorant of this true mind, all names hang you up.
+- If you arrive at the true mind, all names are clear; if you are ignorant of this true mind, all names hang you up.
 
 ### Substance
 
@@ -51,13 +76,13 @@ If you arrive at the true mind, all names are clear; if you are ignorant of this
 ### Subtle Function of the True Mind
 
 - The subtle substance of the true mind is basically immovable, calm and quiet, real and eternal.
-- If you can recognize essential nature while going along with the flow, there is neither rejoicing nor sorrow.”
+- If you can recognize essential nature while going along with the flow, there is neither rejoicing nor sorrow.
 - All activities at all times are manifestations of the subtle function of the true mind.
            
 ### Relationship between Substance and Function
 
 - Substance and function of true mind are differentiated for expedient reasons, in order to avoid mistaking subjective feelings for true substance and conditioned thoughts for true function. If substance and function were to remain separate, however, the individual would be split between stillness and activity, with no way to integrate them.
-- Experiential unity without losing the pragmatic utility of the distinction between substance and function,
+- Experiential unity without losing the pragmatic utility of the distinction between substance and function.
 
 ### Unity and Difference of Substance and Function of the True Mind
 
@@ -71,7 +96,7 @@ If you arrive at the true mind, all names are clear; if you are ignorant of this
            
 ### The True Mind in Confusion
 
-- The true mind is basically the same in sages and ordinary people, but ordinary people perceive things in an arbitrary, subjective way, losing the inherently pure essence
+- The true mind is basically the same in sages and ordinary people, but ordinary people perceive things in an arbitrary, subjective way, losing the inherently pure essence.
 - It is there, but is simply not perceived.
 - The true mind is unstained by worldly troubles, just as a white jade will not change color when tossed into mud.
 
@@ -86,28 +111,28 @@ If you arrive at the true mind, all names are clear; if you are ignorant of this
 - Now let us sum up the main principles in brief elucidations of ten kinds.
           
 1. Alert Observation.
-	- cut off thoughts and prevent thoughts from arising. The instant a thought arises, you immediately break through it by awakeness.
+	- Cut off thoughts and prevent thoughts from arising. The instant a thought arises, you immediately break through it by awakeness.
 	- “Do not fear thoughts’ arising; just be wary of being slow to become aware of it.”
 2. Cessation.
-	- do not think of good or bad. When the mind is aroused, stop right away; when you encounter objects, cease and desist.
+	- Do not think of good or bad. When the mind is aroused, stop right away; when you encounter objects, cease and desist.
 	- Be like an ignoramus or a dunce, and then you will attain some accord.
 3. Mind Disappears While Objects Remain.
-	- stop all random thoughts. Paying no attention to external objects, you just stop your own mind.
+	- Stop all random thoughts. Paying no attention to external objects, you just stop your own mind.
 4. Objects Disappear While Mind Remains.
 	- view all objects, both internal and external, as totally null and void, just keeping one mind alone and independent.    
 5. Mind and Objects Both Disappear.
-	- first you make external objects empty and silent, then you extinguish your inner mind.
+	- First you make external objects empty and silent, then you extinguish your inner mind.
 6. Leaving Mind and Objects There.
-	- mind abides in the normal state of mind, objects abide in the normal state of objects.
+	- Mind abides in the normal state of mind, objects abide in the normal state of objects.
 	- Whenever mind and objects face each other, mind does not grasp objects and objects do not rule the mind;
 7. Total Substance, Inside and Out.
-	- realize that all things—the mountains, rivers, earth, sun, moon, stars, and planets, the inner body and outer world—are the same as the substance of the true mind.
+	- Realize that all things—the mountains, rivers, earth, sun, moon, stars, and planets, the inner body and outer world—are the same as the substance of the true mind.
 	- The whole universe becomes one; then where do you find the confused mind?
 8. Total Function, Inner and Outer.
-	- view all things, internal and external—body, mind, and the material world, including all doings and activities—as marvelous functions of the true mind.
+	- View all things, internal and external—body, mind, and the material world, including all doings and activities—as marvelous functions of the true mind.
 	- Since it is all miraculous function, where can the confused mind rest?
 9. Substance Identical to Function.
-	- even though you subtly merge with reality and there is uniform emptiness and silence, nevertheless effective luminosity is concealed therein, so the substance is identical to the function.
+	- Even though you subtly merge with reality and there is uniform emptiness and silence, nevertheless effective luminosity is concealed therein, so the substance is identical to the function.
 	- Since indifference is not allowed in tranquillity, and random thoughts are not used in alertness, where can any confused mind come from?
 10. Passing Through and Beyond Substance and Function.
 
@@ -188,9 +213,17 @@ If you arrive at the true mind, all names are clear; if you are ignorant of this
 
 ### The Wonderfully High Lamp Buddha
 
-- What are the three subtle manifestations? The manifestation of historical influences, the manifestation of active arousal, and the manifestation of appearances.
-- What about the six coarse manifestations? They are the manifestations of cognition, continuity, clinging,
-assigning labels, acting compulsively, and suffering through bondage to compulsive action.
+- What are the three subtle manifestations?
+	- The manifestation of historical influences,
+	- the manifestation of active arousal, and
+	- the manifestation of appearances.
+- What about the six coarse manifestations? They are
+	- the manifestations of cognition,
+	- continuity,
+	- clinging,
+	- assigning labels,
+	- acting compulsively, and
+	- suffering through bondage to compulsive action.
 
 ### The Lesser Vehicles
 
@@ -231,7 +264,10 @@ essential structures and thus inner meanings.
            
 ### The Eight Princes
 
-- The eyes can see colors and forms, but do not distinguish between beautiful and ugly. The nose can smell scent, but does not know the fragrant from the foul. The ears can hear sounds, but do not make a distinction between the melodious and the harsh. The body can feel texture, but does not discriminate between the soft and the slippery.
+- The eyes can see colors and forms, but do not distinguish between beautiful and ugly.
+- The nose can smell scent, but does not know the fragrant from the foul.
+- The ears can hear sounds, but do not make a distinction between the melodious and the harsh.
+- The body can feel texture, but does not discriminate between the soft and the slippery.
 - Storage, consciousness, on examination it proves to be wide open, immaterial and unmoving, utterly formless; but the instant it is stimulated it exercises its subtle functions in the media of the six senses, just as an empty valley transmits echoes.
 
 ### Experiential Time
@@ -249,7 +285,7 @@ essential structures and thus inner meanings.
 - The rank of the relative absolute refers to the absolute state, where you experience the great death, explode, see the Way, and penetrate the noumenon.
 - If practitioners become fixated on the rank of the relative absolute, their cognition is always affected by
 attraction and aversion and their point of view is biased.
-- Dogen said, “Experiencing myriad things with the burden of the self is delusion; experiencing oneself in the manifestation of myriad things is enlightenment.
+- Dogen said, “Experiencing myriad things with the burden of the self is delusion; experiencing oneself in the manifestation of myriad things is enlightenment."
 
 ### Coming from Within the Absolute
 
@@ -257,7 +293,7 @@ attraction and aversion and their point of view is biased.
 
 ### Arriving in Both
 
-- being on the road without leaving home, leaving home without being on the road. Is this an ordinary person? Is this a sage?
+- Being on the road without leaving home, leaving home without being on the road. Is this an ordinary person? Is this a sage?
 
 <!-- ### Attainment in Both -->
 
@@ -282,16 +318,15 @@ attraction and aversion and their point of view is biased.
 ### 1. Buddha Takes the High Seat
 
 - To the perceptive, there’s no need to say anything; elaborations of teaching and practice are for those who do not experience truth directly.
-- Universal perspective from a point of view beyond the divisive and conflicting opinions of the world. the religion of being so is only understood by being so—each of us has to “descend” from the experience of universal Being So to the experience of individual responsibility for being so. The purpose and meaning of awakening is in the essential link between universal Being So and individual being so.
+- Universal perspective from a point of view beyond the divisive and conflicting opinions of the world. The religion of being so is only understood by being so—each of us has to “descend” from the experience of universal Being So to the experience of individual responsibility for being so. The purpose and meaning of awakening is in the essential link between universal Being So and individual being so.
 - Being as is, like Creation weaving a timeless tapestry, is no more and no less for being illustrated or described.
-- True reality is really there whether or not we are aware of it, whether or not we discuss it or define it.
-- Discussions and definitions, in fact, may only serve to obscure the immediate reality.
+- True reality is really there whether or not we are aware of it, whether or not we discuss it or define it. Discussions and definitions, in fact, may only serve to obscure the immediate reality.
 
 ### 2. Emptiness
 
 - A teaching may not be visible to one who seeks through outward appearances.
 - Even the most valuable piece of advice may be rejected when it comes in an unexpected manner or form.
-- to communicate at all, it may be necessary to find a common convention, but this is only a provisional means, not an actual end.
+- To communicate at all, it may be necessary to find a common convention, but this is only a provisional means, not an actual end.
 - The ineffable essence of awakening, which is traditionally said to be like the knife that cuts but does not cut itself, like the eye that sees but does not see itself.
 - Directly experiencing the essential nature of the absolute that is empty of all imaginary constructions and unchanged throughout all time is the fundamental way of Zen.
 
@@ -310,7 +345,6 @@ attraction and aversion and their point of view is biased.
 
 ### 6. White and Black
 
-- This kind of realization is not the same thing as a conceptual understanding.
 - Complete Zen realization encompasses both the conditional and the absolute, without either confusion or
 contradiction.
 - The relative and the absolute are both part of Zen experience; the manifest and the unmanifest are both vehicles of realization.
@@ -319,7 +353,7 @@ contradiction.
 ### 7. Taking the High Seat
 
 - The real teaching is not a string of words, it is the experience of reality itself.
-- Teachings are Iterative expedients, not binding dogma.
+- Teachings are iterative expedients, not binding dogma.
 
 ### 8. A Wild Fox
           
@@ -335,7 +369,7 @@ participants.
 
 ### 10. The Woman of T’ai-shan
 
-- Gathering in and letting go are Ch’an terms for being inaccessible and being accommodating;
+- Gathering in and letting go are Ch’an terms for being inaccessible and being accommodating.
 
 ### 11. Two Sicknesses
            
@@ -345,7 +379,7 @@ participants.
 ### 12. Planting the Fields
 
 - To watch over this “lazily” means to be always mindful of being as is without becoming inwardly frantic or obsessed with the idea of being so.
-- The Diamond Sutra says, “Buddhism is not Buddha’s Teaching.”
+- The Diamond Sutra says, “Buddhism is not Buddha’s teaching.”
 
 ### 13. The Blind Ass
 
@@ -357,5 +391,6 @@ participants.
 
 ### 15. Planting a Hoe
 
-- Mutual understanding outside the medium of verbal explanation is one of the specialties of Ch’an teaching. - All sorts of fakery can and does enter into this silence, of course, so examination and testing are also carried out.
+- Mutual understanding outside the medium of verbal explanation is one of the specialties of Ch’an teaching.
+- All sorts of fakery can and does enter into this silence, of course, so examination and testing are also carried out.
  
