@@ -173,6 +173,10 @@ h2 {
   border-bottom: 1px solid #333;
 }
 
+h2 span {
+  display: block;
+}
+
 h1 {
   line-height: 1;
 }
