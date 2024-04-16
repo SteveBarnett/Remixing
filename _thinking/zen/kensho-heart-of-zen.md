@@ -6,6 +6,14 @@ updated: 2024-04-11
 zen2024: true
 ---
 
+## Some key things, revisited
+
+- Reality is one, but can be perceived differently, depending on perceptual acuity.
+- The true nature of the consciousness has no characteristics.
+	- Ideas and feelings are products of the mind.
+	- The senses create forms, like echoes in a valley.
+- Notice direct perception, not conceptual description.
+
 ## Some key things
 
 - Things like ideas and feelings are products of the mind, not the mind itself.
