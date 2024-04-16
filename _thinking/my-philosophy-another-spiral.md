@@ -10,6 +10,7 @@ updated: 2024-04-12
 - Slow your tempo.
 - Pay more attention.
 
+<!--
 ## The grips
 
 ### 🎯
@@ -29,7 +30,8 @@ updated: 2024-04-12
 - Take the more integrated picture, multiple viewpoints at once.
 - Look for yourself, at zero distance.
 - Leave things as they are, without adding a story or a label.
-
+ -->
+ 
 ## The world
 
 ### One, indivisible, whole
