@@ -3,7 +3,7 @@ layout: page
 title: My philosophy, another spiral
 longerform: true
 added: 2024-04-03
-updated: 2024-04-12
+updated: 2024-04-16
 ---
 
 - The truth is immediate, close, easy, simple.
