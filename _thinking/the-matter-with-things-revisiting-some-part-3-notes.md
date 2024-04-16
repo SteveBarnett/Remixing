@@ -6,6 +6,20 @@ added: 2024-04-15
 updated: 2024-04-15
 ---
 
+## Pulled together a bit more
+
+- The cosmos is purposeful.
+	- Value is intrinsic to reality.
+	- Laws like gravity don't make things happen. Something underneath them does.
+- Consciousness is on a continuum. 
+	- Consciousness is a verb.
+	- Life is more concentrated consciousness. It speeds up responsiveness.
+		- Nature embodies drives, but they're not material.
+- We are the cosmos becoming more aware of itself.
+	- The process is the fulfilment.
+
+## Pulled together a bit
+
 - Negative Capability: remain in doubt and uncertainty.
 	- Check what's consistent with observation, with the encounter of experience.
 - Consciousness is a verb. Beauty, truth, goodness are aspects of it, adverbs.
