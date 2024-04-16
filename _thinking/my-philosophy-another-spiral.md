@@ -31,33 +31,34 @@ updated: 2024-04-12
 - Look for yourself, at zero distance.
 - Leave things as they are, without adding a story or a label.
  -->
- 
+
 ## The world
 
-### One, indivisible, whole
+### Reality is one, indivisible, whole
 
-- **Reality is one, indivisible, whole.**
-	- <span class="gripmoji">🎯 </span>Notice the causes, conditions, and patterns.
-- **Concepts create division, layers, stages, often as poles.**
-	- <span class="gripmoji">🏹 </span>Look for the edges, the gaps between.
+<span class="gripmoji">🎯 </span>Notice the causes, conditions, and patterns.
 
-Like interbeing, interdependence, no-self, emptiness. We are not in nature: we are nature. We are not doing in the world: the world is doing us, like it does plants and weather and (other) animals.
+<!-- Like interbeing, interdependence, no-self, emptiness. We are not in nature: we are nature. We are not doing in the world: the world is doing us, like it does plants and weather and (other) animals. -->
 
-### Flow, motion, change
+#### Concepts create division, layers, stages, often as poles
 
-- **Reality is flow, motion, change.**
-	- <span class="gripmoji">🎯 </span>Notice the motion, the changes. Watch it arise, watch it pass away.
-- **Concepts are fixed, static.**
-	- <span class="gripmoji">🏹 </span>Look for what's static, fixed. 
+<span class="gripmoji">🏹 </span>Look for the edges, the gaps between.
 
-Like impermanence.
+### Reality is flow, motion, change
 
-### Complex, deep, rich
+<span class="gripmoji">🎯 </span>Notice the motion, the changes. Watch it arise, watch it pass away.
 
-- **Reality is complex, deep, rich.**
-	- <span class="gripmoji">🎯 </span>Notice the fractal nature of everything.
-- **Concepts flatten, simplify, exclude.**
-	- <span class="gripmoji">🏹 </span>Remember that the map is not the territory.
+#### Concepts are fixed, static
+
+<span class="gripmoji">🏹 </span>Look for what's static, fixed. 
+
+### Reality is complex, deep, rich
+
+<span class="gripmoji">🎯 </span>Notice the fractal nature of everything.
+
+#### Concepts flatten, simplify, exclude
+
+<span class="gripmoji">🏹 </span>Remember that the map is not the territory.
 
 ## The bridge
 
@@ -67,6 +68,8 @@ Perception is participation.
 	- <span class="gripmoji">🎯 </span>Notice (the details of) the map you're using.
 - **What qualities you see depends on the scale.**
 	- <span class="gripmoji">🏹 </span>Take the more integrated picture, multiple viewpoints at once.
+- **Perception creates forms**
+	- The senses create forms, like echoes in a valley, like ripples in a pond.
 
 ## The self
 
