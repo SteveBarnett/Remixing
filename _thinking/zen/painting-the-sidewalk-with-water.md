@@ -3,7 +3,80 @@ layout: page
 title: Painting the Sidewalk with Water
 zen2024: true
 added: 2024-04-20
-updated: 2024-04-20
+updated: 2024-04-23
+---
+
+- Reality is one, indivisible, whole.
+	- Variety and distinction, but no separation or division.
+		- Forms have flow, motion, change.
+			- <span class="gripmoji">🏹 </span>**Look closely for solidity, substance, continuity in any form.**
+		- Subject and object, arise as a pair in consciousness.
+		- Manifestation requires contrast to appear.
+- Concepts divide Reality up, labels things, invents stories. Language in particular.
+	- Concepts make Reality appear abstract or mysterious or elusive.
+- The infinite causes and conditions of nature and nurture in Reality is the source of all our thoughts, noticing thoughts, actions.
+	- The “doer”, “thinker,” the “author,” the “chooser”, the "self" is only an image, an idea, another thought.
+		- <span class="gripmoji">🏹 </span>**Look for the doer in non-human things. Is there an entity in there that is changing from a seed to a tree?**
+		- <span class="gripmoji">🏹 </span>**Look for thinker of thoughts and notice the absence.**
+	- That implies a separate controller and controlled.
+- Nothing needs to be different to how it is. Nothing can be different to how it is.
+	- Nothing is really a problem. Concepts, including the self, and their stories create problems, confusion, suffering.
+		- <span class="gripmoji">🎯 </span>**Notice that the need to solve the problem is a story.**
+		- <span class="gripmoji">🎯 </span>**Notice the problem itself is a story.**
+		- <span class="gripmoji">🎯 </span>**Notice that the self is a story.**
+		- “No-self” doesn’t mean no responsibility, no potential for change. Awareness can bring more choices and possibilities.
+		- <span class="gripmoji">🎯 </span>**Bring open attention, simply notice what is. Without any agenda or goal. Without wanting to change or control or correct.**
+- Some sense of self is functionally necessary and unavoidable.
+	- <span class="gripmoji">🏹 </span>**Look for the looker. If you see the looker, look for who's looking at that. Notice that you are prior to any object you can see.**
+- The cosmos is exploring and realising itself, playing hide and seek. It enjoys finding and being found, again and again.
+	- <span class="gripmoji">🎯 </span>**Notice the playful nature of everything.**
+
+
+---
+
+Second-order thoughts are still thoughts! Thoughts and stories can be very subtle.
+
+- There is only one, indivisible, whole.
+	- Forms and appearances in the whole have flow, motion, change.
+		- There's variety and distinction, but no separation or division or autonomy.
+			- No separation as in “they show up together”, not as in “there are no apparent borders”.
+		- Look closely for solidity, substance, continuity in any form.
+		- Every object is a concept.
+		- There's relative differences or absolute oneness.
+	- Thought divides Reality up, labels everything, then invents stories.
+		- Words create boundary lines, create opposites, create the illusion of separation.
+			- Separation creates room to grasp.
+		- The manifestation requires contrast in order to appear at all.
+- The whole is not in control. That would require the division of the controller and the controlled.
+	- Everything happens effortlessly, including effort and confusion and resistance and rumination and indecision.
+		- There's only impersonal happening.
+- All our thoughts, noticing thoughts, actions, come from Reality, infinite causes and conditions of nature and nurture, not from a separate self.
+	- All action arises without a doer. The "doer", “thinker,” the “author,” the “chooser” is only an image, an idea, another thought.
+		- Is there an entity in there that is changing from a seed to a tree?
+	- The actual experience is that thoughts simply pop up out of nowhere.
+- Nothing can be different to how it is. Nothing is really a problem. Nothing needs to be any different from exactly how it is. 
+	- Concepts are what create our confusion and suffering
+		- Including the concept of self.
+			- Some sense of self is functionally necessary and unavoidable.
+			- See if you can see the seer. If you think you’re seeing a seer, then ask yourself what is seeing that seer. You are prior to any object you can see.
+		- Any concept adds a story to story-less Reality.
+		- Including thoughts analysing thoughts!
+		- The problem and the need to solve it are in the story. 
+	- Waking up is seeing that all problems are imaginary, including the one who needs to wake up.
+		- The whole problem of being stuck is imaginary.
+		- True freedom is not needing any particular experience to come or go. Not wanting things to be any way than they are.
+		- The problem and the need to solve it are in the story. 
+		- There is nothing that needs to be liberated. To see that is liberation.
+- “No-self” doesn’t mean no responsibility, or no potential for change. Awareness can bring more choices and possibilities.
+- There is only ever unicity exploring and realizing itself.
+	- It enjoys playing hide and seek. It enjoys finding and being found, and then hiding again, and again being found.
+- Reality is beyond words and ideas. It only appears abstract or mysterious or elusive when we think about it.
+- Bring open attention, simply notice what is.
+	- Without any agenda or goal. Without wanting to change or control or correct.
+	- Without judging, without moving away, without seeking a result, without doing anything at all.
+	- Seeing the whole story for what it is – thought and imagination.
+	- There is nothing that needs to be liberated. To see that is liberation.
+
 ---
 
 Authors to look up:
