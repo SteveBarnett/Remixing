@@ -3,7 +3,13 @@ layout: page
 title: Painting the Sidewalk with Water
 zen2024: true
 added: 2024-04-20
-updated: 2024-04-23
+updated: 2024-04-24
+---
+
+In Reality, there are no problems. We create problems with the stories we add, the thoughts we use to divide things up, the illusion of the self. Each level is a more subtle story than the last.
+
+In Reality, there are no choices. Everything happens on its own, including us creating the stories.
+
 ---
 
 - Reality is one, indivisible, whole.
