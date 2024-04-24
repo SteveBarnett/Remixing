@@ -180,7 +180,7 @@ h3 {
   border-bottom: 1px solid #333;
 }
 
-h2 span {
+h2 .subtitle {
   display: block;
 }
 

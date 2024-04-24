@@ -47,7 +47,7 @@ zen2024: true
 - Finding the nature of the real self makes it possible to be oneself, without self-consciously trying.
 - Recollection of koans facilitates the ongoing practice of Buddhist meditations in the midst of ordinary wordly activities, once a popular Zen technique.
 
-## Part One: The True Mind: <span>Chinul’s Straightforward Explanation of the True Mind</span>
+## Part One: The True Mind: <span class="subtitle">Chinul’s Straightforward Explanation of the True Mind</span>
 
 ### Faith
         
@@ -207,7 +207,7 @@ zen2024: true
 <!-- ### Destiny -->
 <!-- ### Where the True Mind Goes -->
 
-## Part Two: Applications: <span>Zen Master Hakuin</span>
+## Part Two: Applications: <span class="subtitle">Zen Master Hakuin</span>
            
 ### Subtle Confusions
 
