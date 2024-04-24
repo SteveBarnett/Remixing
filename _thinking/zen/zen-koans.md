@@ -61,7 +61,24 @@ Dizang said, "**Not knowing is most intimate.**"
 
 ### Joshu's Dog
 
-Monk: "Does a dog have Buddha-nature?"
+Monk: "Does a dog have Buddha-nature?"<br>
 Joshu: "Mu" ("No thing" or "Nay")
 
 Part of Mumon's comment: Let your previous lesser knowledge disappear. As a fruit ripening in season, your subjectivity and objectivity become one.
+
+### Gutei's Finger ☝️
+
+Gutei: "I attained my one-finger-Zen from my teacher Tenryu, and in my whole life I could not exhaust it."
+
+Part of Mumon's comment: "Englightment, which Gutei obtained, has nothing to do with a finger."
+
+### A Beardless Foreigner
+
+Wakuan: "Why does Bodhidharma have no beard?"
+
+### Joshu washes the bowl
+
+Monk: "I have just entered the monastery. Please teach me."<br>
+Joshu: "Have you eaten your rice porridge?"<br>
+Monk: "I have."<br>
+Joshu: "Then wash your bowl."
