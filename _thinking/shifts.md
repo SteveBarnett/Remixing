@@ -3,10 +3,10 @@ layout: page
 title: Shifts
 longerform: true
 added: 2024-04-23
-updated: 2024-04-23
+updated: 2024-04-24
 ---
 
-Shifts in awareness, perspective, things like that. Zooming in and/or zooming out.
+Shifts in awareness, perspective, things like that. Zooming in and/or zooming out, changing your plane of focus.
 
 ## Remixed, with pointers
 
