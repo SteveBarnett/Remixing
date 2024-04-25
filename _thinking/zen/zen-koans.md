@@ -49,6 +49,18 @@ From [Rational Zen](/thinking/zen/rational-zen/)
 
 Gensha: The whole universe is one bright pearl.
 
+### Ordinary Mind is The Way
+
+Joshu: "What is The Way?"<br>
+Nansen: "Ordinary Mind is The Way." <br>
+Joshu: "Should I turn towards it?"<br>
+Nansen: "If you turn towards it, you go against it."<br>
+Joshu: "If I can't look for it, how can I ever find it?"<br>
+Nansen: "The Way isn't about knowing or not knowing."
+
+This moment as it is, ordinary experience, is The Way. Seen from a different vantage point.
+
+
 ### Not knowing is most intimate
 
 Dizang asked Fayan, "Where are you going?"<br>
@@ -56,6 +68,7 @@ Fayan said, "Around on pilgrimage."<br>
 Dizang said, "What is the purpose of pilgrimage?"<br>
 Fayan said, "I don't know."<br>
 Dizang said, "**Not knowing is most intimate.**"
+
 
 ## Revisiting "The Gateless Gate" in "Zen Flesh, Zen Bones"
 
@@ -82,3 +95,11 @@ Monk: "I have just entered the monastery. Please teach me."<br>
 Joshu: "Have you eaten your rice porridge?"<br>
 Monk: "I have."<br>
 Joshu: "Then wash your bowl."
+
+### Not the Wind, Not the Flag
+
+Two monks were arguing about a flag. One said: "the flag is moving." The other said: "The wind is moving."<br>The sixth patriarch said: "**Not the wind, not the flag; mind is moving**"
+
+### Proceed from the Top of the Pole
+
+Sekiso asked: "How can you proceed on from the top of a hundred-foot pole?"
