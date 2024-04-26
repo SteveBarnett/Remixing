@@ -365,6 +365,12 @@ blockquote.alt {
   padding-left: 0.25rem;
 }
 
+@media (max-width: 30em) {
+  ul, ul ul, ul ul ul {
+    padding-left: 1rem;
+  }
+}
+
 /* 2024-03 colour experiments */
 
 html {
