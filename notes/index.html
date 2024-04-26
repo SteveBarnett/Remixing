@@ -9,6 +9,7 @@ layout: notes-archive
 
 {% assign philosophynotes = site.notes | where: "category", "philosophy" %}
 {% assign psychologynotes = site.notes | where: "category", "psychology" %}
+{% assign lifenotes = site.notes | where: "category", "life" %}
 {% assign worknotes = site.notes | where: "category", "work" %}
 
 <ul>
@@ -26,6 +27,14 @@ layout: notes-archive
       {%- for psychologynote in psychologynotes -%}
         <li><a href="#{{ psychologynote.slug }}">{{ psychologynote.title }}</a></li>
       {%- endfor -%}      
+    </ul>
+  </li>
+  <li>
+    <a href="#life">Life</a>
+    <ul>
+      {%- for lifenote in lifenotes -%}
+        <li><a href="#{{ lifenote.slug }}">{{ lifenote.title }}</a></li>
+      {%- endfor -%}
     </ul>
   </li>
   <li>
@@ -62,6 +71,21 @@ layout: notes-archive
       <ul>
       {%- for note in site.static_files -%}
         {%- if note.path contains psychologynote.url -%}
+        <li>
+          <a href="{{ note.path }}">{{ note.basename }}</a>
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
+  {%- endfor -%}
+
+  <h2 id="life">Life</h2>
+
+  {%- for lifenote in lifenotes -%}
+    <h3 id="{{ lifenote.slug }}"><a href="{{ lifenote.url }}">{{ lifenote.title }}</a></h3>
+      <ul>
+      {%- for note in site.static_files -%}
+        {%- if note.path contains lifenote.url -%}
         <li>
           <a href="{{ note.path }}">{{ note.basename }}</a>
         </li>
