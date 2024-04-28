@@ -60,7 +60,6 @@ Nansen: "The Way isn't about knowing or not knowing."
 
 This moment as it is, ordinary experience, is The Way. Seen from a different vantage point.
 
-
 ### Not knowing is most intimate
 
 Dizang asked Fayan, "Where are you going?"<br>
@@ -69,6 +68,9 @@ Dizang said, "What is the purpose of pilgrimage?"<br>
 Fayan said, "I don't know."<br>
 Dizang said, "**Not knowing is most intimate.**"
 
+### Original Face
+
+**What is your Original Face? The face you had before even your parents were born.**
 
 ## Revisiting "The Gateless Gate" in "Zen Flesh, Zen Bones"
 
