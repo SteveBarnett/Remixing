@@ -8,10 +8,13 @@
 
 {%- assign thinkingposts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
 
+{%- assign previousZenMonth = site.time | date: "%m" -%}
+
 <ul>
 {% for thinkingpost in thinkingposts %}
   {% unless thinkingpost.longerform %}
-  <li>
+  {%- assign currentZenMonth = thinkingpost.updated | date: "%m" -%}
+  <li{% if currentZenMonth != previousZenMonth %} class="month-change"{%- assign previousZenMonth = currentZenMonth -%}{% endif %}>
     <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
     (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
   </li>
