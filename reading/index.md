@@ -15,6 +15,13 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 {% for book in site.data.books2024 %}
 
 {%- assign currentMonth = book.date_read | date: "%m" -%}
+{% if currentMonth != previousMonth %}
+</ol>
+
+<h2>{{ book.date_read | date: "%B" }}</h2>
+<ol reversed>
+{%- assign previousMonth = currentMonth -%}
+{% endif %}
 
 	<li class="{% if book.my_rating == 5 %} five-star{% endif %}{% if currentMonth != previousMonth %} month-change{%- assign previousMonth = currentMonth -%}{% endif %}">
 		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
