@@ -3,57 +3,105 @@ layout: page
 title:  Notes on the intoxication precept
 longerform: true
 added: 2024-05-03
-updated: 2024-05-03
+updated: 2024-05-04
 ---
 
-I'm not a big boozer or drugger, but the "Abstaining from intoxicants" seems to have a lot of crossover with running away, or avoiding. And I a pretty big avoider. In particular, I tend to have an avoidant attachment style.
+A precept is a tool for liberation, not a way to measure our own (or other's) worth.
 
-- The precept: Abstain from intoxication. The accompanying values: mindfulness, responsibility.
-- Refrain from intoxicants, and addictive or compulsive behaviour. (From [my notes from tricycle](/notes/buddhism/tricyle - the five precepts.jpg))
-- Proceed clearly / Do not cloud the mind. (From [my notes on The Sixteen Bodhisattva Precepts of Sōtō Zen](/notes/zen/the sixteen bodhisattva precepts in soto zen.jpg))
-- (Do what best serves life.) I take up the way of cultivating a clear mind (aka "Not indulging in intoxicants"). (From [my notes on Waking Up To What You Do](/notes/zen/waking up to what you do - precepts.jpg))
-    - It's not the substance, but how we use it. To alter or escape experience. 
-        - Just sit for a few minutes, at first.
+- Observe and understand our patterns of thinking and behaving.
+    - Do they lead toward awareness or away?
+    - Do they lead away from suffering or towards?
+- Notice the beliefs underneath them about how things "should" be.
 
-Take the precepts as a whole. They interact with and support each other. Treat them as guidelines, not rules.
+The intoxication precept, like all of them, can be phrased as a prohibition or an aspiration. Sometimes one phrasing will be more useful than the other. 
+
+- Abstain from intoxication, from addictive or compulsive behaviour.
+- Cultivate a clear mind, bring compassionate awareness to whatever's arising.
+
+It's not the intoxicant itself, but the behaviour and the belief that something is wrong with what's happening, that things should be different.
+
+This precept says give all the contents of consciousness a warm welcome. Nothing needs to be different from how it is. Nothing can be different from how it is.
+
+Just sit for a few minutes, at first.
+
+---
+
+A precept can be a beacon, a lighthouse, a tool for liberation. It can help us:
+- notice reactivity;
+- highlight our habitual patterns of thinking;
+- squarely face the consequences of our actions;
+- remember to Begin Again;
+- realise our shared, flawed, humanity.
+
+It is **not** for measuring our own or others' worth. "Am I able to be in the present moment?", not "Am I a good person or a bad person?"
+
+## Phrasings of the intoxication precept
+
+### As prohibition
+
+To provide boundaries.
+
+- Abstain from intoxication.
+- Refrain from intoxicants, and addictive or compulsive behaviour.
+- Not indulging in intoxicants.
+
+### As aspiration
+
+- Proceed clearly.
+- Do not cloud the mind.
+- I take up the way of cultivating a clear mind.
+- Awareness, not clouding.
+- We don't want to cloud our minds in any way that takes us away from the immediate perception of the moment.
+- Bring compassionate awareness to everything you're doing.
+
+### The why, not the what, of substances
+
+- It's not the substance, but if we use it to alter or escape experience. 
+- It's to numb the pain or leave an experience.
+- It's not the intoxicant itself but our own process of addiction, of using the substance to maintain an identity that keeps us out of the present moment
+- Drinking and using drugs is another way of looking elsewhere or wanting things to be different, based on the assumption that there's something wrong with what's happening
+
+### More widely
+
+- Embracing all experience directly.
+- Live fully present to life.
+- Not hiding from the truth.
+- When we learn to let go and relax into the moment, then our interest in being right, safe, and under control begins to fall away.
+
+The accompanying values: mindfulness, responsibility.
+
+## Working with precepts
 
 Pick one precept to work with for a while. Pick one circumstance to work with.
 
-Precepts as prohibition provide boundaries. Precepts as aspiration point toward learning by doing, self-motivation.
+### The details
 
-- Observe your behaviour.
-- Understand your patterns.
-- Uncover the beliefs underneath, the requirements you're placing on yourself and others.
-    - From our culture, upbringing, natural tendencies.
-
-Be awake to the motivation and consequences of our actions.
-
-Our reactions to ordinary, everyday, events show us our true colours. Use them to wake up.
-
-- A Precept can be a beacon, a lighthouse, a tool for liberation, for noticing reactivity.
-    - for seeing our habitual patterns of thinking
-        - for squarely facing the consequences of our actions
-        - as a reminder to Begin Again
-        - **not** for measuring our own or others' worth, but of realising our shared, flawed, humanity.
-
-My notes from Good Life: A Zen Precepts Retreat with Cheri Huber.
-
-- Awareness, Not clouding, embracing all experience directly.
-- There's no need to hide from the truth.
-- Drinking and using drugs is another way of looking elsewhere or wanting things to be different
-    - based on the assumption that there's something wrong with what's happening
-- It's to numb the pain or leave an experience
-- It's not the intoxicant itself but our own process of addiction
-    - of using the substance to maintain an identity that keeps us out of the present moment
+- Just sit for a few minutes, at first.
+- Be awake to the motivation and consequences of our actions.
+- Observe our behaviour.
+- Understand our patterns.
+- Uncover the beliefs underneath (which come from our culture, our upbringing, our natural tendencies);
+    - Notice the requirements we place on yourself and others.
+    - Notice if you find yourself glued to a notion that something has to be a certain way.
+    - Notice where we draw the line about what's acceptable and not acceptable.
+- Make it into an experiment, get to know ourself.
 - Look at the intention behind the act
     - Does it lead towards awareness or away from it?
     - Towards suffering or away from it?
-- We don't want to cloud our minds in any way that takes us away from the immediate perception of the moment.
-- Notice if you find yourself glued to a notion that something has to be a certain way
-- Bring compassionate awareness to everything you're doing
-- Live fully present to life
-- When we learn to let go and relax into the moment, then your interest in being right, safe, and under control begins to fall away
-- "Am I able to be in the present moment?", not "Am I a good person or a bad person?"
-- Often we give up the substance without addressing the causes. That can be just one more act of cruelty.
-- Notice what we can learn from noticing where we draw the line about what's not acceptable.
-- Make it into an experiment, get to know yourself.
+
+Often we give up the substance without addressing the causes. That can be just one more act of cruelty.
+
+## Wider view on the precepts
+
+Our reactions to ordinary, everyday, events show us our true colours. Use them to wake up.
+
+- Take the precepts as a whole.
+- They interact with and support each other.
+- Treat them as guidelines, not rules.
+
+## My related notes
+
+- [Tricycle - The Five Precepts](/notes/buddhism/tricyle - the five precepts.jpg)
+- [The Sixteen Bodhisattva Precepts of Sōtō Zen](/notes/zen/the sixteen bodhisattva precepts in soto zen.jpg)
+- [Waking Up To What You Do](/notes/zen/waking up to what you do - precepts.jpg)
+- Good Life: A Zen Precepts Retreat with Cheri Huber (still reading it!)
