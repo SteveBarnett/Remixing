@@ -3,7 +3,7 @@ layout: page
 title:  Notes on the intoxication precept
 longerform: true
 added: 2024-05-03
-updated: 2024-05-04
+updated: 2024-05-05
 ---
 
 A precept is a tool for liberation, not a way to measure our own (or other's) worth.
