@@ -3,7 +3,7 @@ layout: page
 title: My philosophy, another spiral
 longerform: true
 added: 2024-04-03
-updated: 2024-04-24
+updated: 2024-05-13
 ---
 
 Expanding and updating [an earlier take](/thinking/my-philosophy/).
@@ -17,8 +17,9 @@ Expanding and updating [an earlier take](/thinking/my-philosophy/).
 - **The cosmos is purposeful but/and playful.**
 	- 🎯 Notice the patterns and variations of everything.
 	- 🎯 Notice the playful nature of everything.
-- **We are the cosmos becoming more aware of itself.**
-- **Consciousness is a process, on a continuum.**
+- **Consciousness is a continuum.**
+	- All matter is swirls of degrees of consciousness.
+	- Consciousness is a verb: the cosmos becoming more aware of itself.
 - **Your true nature is the context of consciousness, not the contents.**
 	- <span class="gripmoji">🎯 </span>Come back to the direct, embodied, experience.
 	- <span class="gripmoji">🏹 </span>Look for yourself, at zero distance.
