@@ -3,26 +3,25 @@ layout: page
 title:  Notes on the intoxication precept
 longerform: true
 added: 2024-05-03
-updated: 2024-05-05
+updated: 2024-05-13
 ---
 
-A precept is a tool for liberation, not a way to measure our own (or other's) worth.
-
-- Observe and understand our patterns of thinking and behaving.
-    - Do they lead toward awareness or away?
-    - Do they lead away from suffering or towards?
-- Notice the beliefs underneath them about how things "should" be.
-
-The intoxication precept, like all of them, can be phrased as a prohibition or an aspiration. Sometimes one phrasing will be more useful than the other. 
-
-- Abstain from intoxication, from addictive or compulsive behaviour.
-- Cultivate a clear mind, bring compassionate awareness to whatever's arising.
-
-It's not the intoxicant itself, but the behaviour and the belief that something is wrong with what's happening, that things should be different.
-
-This precept says give all the contents of consciousness a warm welcome. Nothing needs to be different from how it is. Nothing can be different from how it is.
-
-Just sit for a few minutes, at first.
+- A precept is a tool for liberation, not a way to measure our own (or other's) worth.
+    - When we beat ourselves up for finding things we don't like, we quickly stop seeing those things.
+- Precepts can can be phrased as a prohibition or an aspiration. Sometimes one phrasing will be more useful than the other. 
+    - Abstain from intoxication, from addictive or compulsive behaviour.
+    - Cultivate a clear mind, bring compassionate awareness to whatever's arising.
+- Just observe and understand our patterns of thinking and behaving. 
+    - Do they lead towards awareness or towards suffering?
+- Notice the beliefs and and stories underneath the patterns.
+    - That something is wrong
+    - That things should be different.
+- Give everything a warm welcome.
+    - Nothing needs to be different from how it is.
+    - Nothing can be different from how it is.
+- Here, centred in the moment, there are no problems.
+    - When you realise you're identical to experience, there is no suffering.
+    - When you believe you're separate, there is suffering.
 
 ---
 
