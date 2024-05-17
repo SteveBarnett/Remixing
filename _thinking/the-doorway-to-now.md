@@ -8,7 +8,8 @@ updated: 2024-05-18
 
 <div class="boxout">
 Slow your tempo to stay more centred.<br>
-Notice that all this movement is happening in stillness.
+Notice that all this movement is happening in stillness.<br>
+Thoughts are movement. Stillness is before thoughts.
 </div>
 
 - Any seeking is, by its nature, taking you away from the centre / now / here.
