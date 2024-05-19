@@ -6,7 +6,7 @@ added: 2024-05-07
 updated: 2024-05-07
 ---
 
-Oh no, oh well, ohm
+Oh no, oh well, ohm.
 
 - **Oh no.** 
     - Notice the story that there's a need to solve the problem.
