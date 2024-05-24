@@ -3,10 +3,50 @@ layout: page
 title: Shifts
 longerform: true
 added: 2024-04-23
-updated: 2024-05-19
+updated: 2024-05-24
 ---
 
 Shifts in awareness, perspective, things like that. Zooming in and/or zooming out, changing your plane of focus.
+
+## Another remix
+
+Remember two of the marks of existence: impermanence and no-self.
+
+### A direct approach
+
+- Notice what's arising.
+- Notice that it's the contents of consciousness.
+- Notice that you are the context of consciousness.
+
+### A story approach
+
+- Notice the story that things should be different.
+- Notice the story that things could be different.
+- Accept the situation and your/self as you are.
+
+### A problem approach
+
+- Let go of the feeling that you need to solve the problem.
+- Let go of the feeling that there is a problem.
+- Rest in the feeling of things being as they are.
+
+### A verbose version
+
+- Notice that the story that there's a problem.
+	- That things could be different.
+	- Then let it go.
+- Notice what's arising.
+	- Name the emotions and feeling tones.
+		- Give everything a warm welcome.
+	- Watch it (finish) arising. Wait, and watch if pass away.
+		- Be patient, wait a little longer.
+- Notice the story of the self.
+	- That you could be different.
+	- Then let it go.
+	- Notice that you are the context of consciousness.
+- Notice the story that there's a need to solve the problem.
+	- That things should be different.
+	- Then let it go.
 
 ## Remixed, with pointers
 
@@ -17,6 +57,12 @@ Move from self-centered stories to an open, direct, embodied experience without 
 - **Thoughts**
 - **Embodied experience**
 - **Nondual experience**
+
+## The Three Marks of Existence
+
+- Suffering (Dukkha)
+- Impermanence (Anicca)
+- No-self (Anatta)
 
 ---
 
