@@ -18,11 +18,24 @@ Remember two of the marks of existence: impermanence and no-self.
 - Notice that it's the contents of consciousness.
 - Notice that you are the context of consciousness.
 
+### A Headless approach
+
+- Look for the edges.
+- Look for the centre.
+- Look for yourself, at zero distance.
+
+### A conceptual approach
+
+- Notice the thoughts that things should be different.
+- Notice the thoughts that things could be different.
+- Notice your direct experience, before thoughts.
+
 ### A story approach
 
 - Notice the story that things should be different.
 - Notice the story that things could be different.
 - Accept the situation and your/self as you are.
+
 
 ### A problem approach
 
