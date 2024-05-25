@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '"The Headless Way" session<br>for One Mindful Breath'
+title: '"The Headless Way" session for One Mindful Breath'
 longerform: true
 added: 2023-09-17
 updated: 2023-09-17
