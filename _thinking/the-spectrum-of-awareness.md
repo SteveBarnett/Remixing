@@ -8,14 +8,25 @@ updated: 2024-05-19
 
 Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session.
 
+## Notes to self
+
+- Start with the agenda (content, not precise times).
+- Have a good analogy. Maybe the camera lenses one. Or a classic ocean and waves or sky and clouds one.
+- Could make little icon-like images to illustrate the points a bit: narrow / board; effort / effortless; object  / object-less.
+- Make sure we have enough time for discussion too.
+- Start disclaimer / note: we're presenting these as four distinct practices, but that's just for convenience. Really, they blur into each other. These four types are the map, not the territory. The territory is your experience of them.
+
 ## Practices
 
-- **Focused**: effort, object, narrow attention.
+- **Focused Awareness**: very narrow, high effort, one object.
     - Cultivates concentration, tames a busy mind.
-- **Flexible**: variable effort, objects, broad attention.
-    - gently follow what appears, return to anchor.
-- **Natural**: effortless, objectless, broad attention.
-    - notice impermanence, fluidity.
+- **Flexible Awareness**: narrow, some effort, some objects.
+    - Good for being flexible, but controlled.
+- **Choiceless Awareness**: broad, variable effort, many objects.
+- **Natural Awareness**: very broad, effortless, no object(s).
+    - Highlights impermanence, fluidity.
+
+With Natural Awareness, it's a bit like each of the attributes (width, effort, object) reaches a limit and flips to its opposite. Narrow becomes infinitely broad, effort becomes effortless, and object(s) become no-object. (Like a wave getting smaller and smaller until it disappears by becoming the sea.(?))
 
 ---
 
