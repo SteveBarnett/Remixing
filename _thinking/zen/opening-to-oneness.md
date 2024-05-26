@@ -6,6 +6,8 @@ added: 2024-05-26
 updated: 2024-05-26
 ---
 
+My notes from [Opening to Oneness: A Practical and Philosophical Guide to the Zen Precepts by Nancy Mujo Baker](https://www.goodreads.com/book/show/79328892-opening-to-oneness).
+
 ## An Introduction to the Zen Precepts
 
 - I have chosen to present them, as is often done, with non instead of not or don’t before each one.
