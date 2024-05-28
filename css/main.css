@@ -455,6 +455,24 @@ summary:focus {
   }
 }
 
+.skip-toc-text {
+  display: inline;
+}
+
+.skip-toc {
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+
+.skip-toc li {
+  display: inline;
+}
+
+.skip-toc li:after {
+  content: ";";
+}
+
 
 /* ==========================================================================
    Helper classes
