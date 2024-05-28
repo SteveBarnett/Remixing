@@ -13,15 +13,19 @@ updated: 2024-05-28
 - only sitting;
 - not turning away.
 
+"Not turning away" means:
+
+- letting go of trying to control experience;
+- not judging your experience;
+- giving everything that arises a warm welcome.
+
 Don’t do anything but sit there. You only need to sit. Just allow the sitting to take place.
 
 The "just" means no “in order to.”
 
+- No attachment to a particular outcome.
 - No intention to gain something.
 - No goal or ulterior motive.
-- No attachment to a particular outcome.
-- Nothing to do.
-- Nowhere to go.
 
 Enjoy your sitting deeply. Practice for the simple delight in the practice. Open, receptive, alert, in the same you played when you were a child.
 
