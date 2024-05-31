@@ -48,7 +48,7 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
 
 - Get into a comfortable position. Adjust your posture a little.
 - Close your eyes, on have your gaze downwards and gentle.
-- If you notice any tightness or discomfort, invite yourself to settle, to be soft, to relax.
+- If you notice any tightness or discomfort, invite yourself to settle, to be soft, to relax, to settle.
 - Take a few deep breaths.
 
 ## Cool down
@@ -116,11 +116,59 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
 
 ## Natural Awareness
 
-- **Warm up**
-- 
-- **Cool down**
+- Free-flowing mindfulness that's awake, open, spacious.
+- Pure, pristine, luminous.
+- Deeply connected to a fundamental sense of wellbeing. Not "everything is perfect." (More like "everything is okay.")
 
+Minimal effort, or none. Build up concentration and stability with more focused practice makes it easier to move into Natural Awareness.
 
+Three framings that people tend to feel it as one of.
+
+- That which contains everything.
+- That which knows.
+- That which is.
+
+- Bring to mind a time you felt at peace, at ease, at home, connected. For example: in nature; with a dear friend; in the zone in athletics or sport; in the midst of creative or artistic pursuits.
+- Bring more senses into the recollection. What are you feeling in your body?
+
+### That Which Contains Everything
+
+Everything that's happening in the mind is like clouds in the sky. The clouds are part of the sky, not separate. Wide open, vast, spacious.
+
+- Notice sounds coming and going. Listen really far out, the furthest away you can. Don't analyse, just listen.
+- Notice the sensations in your body. Imagine you can feel the space around your body. Now feel the space expanding out, until it reaches the corners of the room.
+    - Now add listening.
+
+### That Which Knows
+
+- Who or what is noticing? "Look at the looker." Not always easy to do!
+- Posed as a question, but there's not a right answer. Sit with the question. Sit with the confusion.
+-  Ask the question and see what arises. Experiential answer, not an intellectual one.
+
+### That Which Is
+
+Just click into the awareness that's always and already there. Can you be not-aware? Try!
+
+- Don't worry about trying to get this practice right. Just be. Nothing to do.
+- Let your eyes rest on whatever's in front of you, not on any particular object. Just settle there, rest for a bit.
+
+## Full Spectrum Meditation
+
+Focused to Investigative to Choiceless to Natural. They flow into each other, make sense of each other.
+
+- **Focused**. Bring attention to your anchor. Don't get lost in stories. Just notice.
+    - Feel your mind unifying and calming.
+- **Investigative**. Now notice when other things become predominant. Stay briefly, then go back to your anchor.
+    - Experience doesn't belong to us, it just moves through us.
+- **Choiceless**. Let go of the anchor.
+    - Just track experience, moment to moment.
+- **Natural**. Let of anything. Just be. Let your body and mind rest.
+    - Awareness is happening all the time. There's nothing we need to do.
+
+## After
+
+- When we're not sitting, it's more like post-meditation than not-meditation.
+- Notice how there's not really a difference. Awareness is still there.
 
 ---
 
