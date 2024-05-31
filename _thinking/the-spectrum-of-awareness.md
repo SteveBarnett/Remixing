@@ -6,13 +6,10 @@ added: 2024-05-19
 updated: 2024-05-19
 ---
 
-Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session.
-
-Jump to:
-{:.skip-toc-text}
+Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session. Jump to:
 
 * Display TOC
-{:toc .skip-toc}
+{:toc}
 
 ## Notes to self
 
@@ -20,7 +17,40 @@ Jump to:
 - Have a good analogy. Maybe the camera lenses one. Or a classic ocean and waves or sky and clouds one.
 - Could make little icon-like images to illustrate the points a bit: narrow / board; effort / effortless; object  / object-less.
 - Make sure we have enough time for discussion too.
-- Start disclaimer / note: we're presenting these as four distinct practices, but that's just for convenience. Really, they blur into each other. These four types are the map, not the territory. The territory is your experience of them.
+- Start disclaimer / note: we're presenting these as four distinct practices, but that's just for convenience. Really, they blur into each other, help define each other. These four types are the map, not the territory. The territory is your experience of them.
+
+### Agenda ideas
+
+- Intro, credit
+- [Overview](#overview)
+- [Practices](#practices)
+- 1m intro, 10m practice for [Focused Awareness](#focused-awareness)
+- 1m intro, 10m practice for [Investigative Awareness](#investigative-awareness)
+- 1m intro, 10m practice for [Choiceless Awareness](#choiceless-awareness)
+- 2m intro to [Natural Awareness](#natural-awareness)
+    - 10m practice [That Which Contains Everything](#that-which-contains-everything)
+    - 10m practice [That Which Knows](#that-which-knows)
+    - 10m practice [That Which Is Everything](#that-which-is)
+- End with 20m [Full Spectrum Meditation](#full-spectrum-meditation)
+
+👆 This is too much to try and cover in one session. It's about 90 minutes by that list! 😅
+
+#### Some options to shorten it
+
+- Ditch Natural Awareness practice, just talk about it.
+- Merge Investigative and Choiceless. Sort ditch Investigative.
+- Make all the practice sessions 5m each.
+- Talk through Focused, Investigative, Choiceless, then do them in one 20m practice.
+- Ditch "That Which Is", and do "That Which Contains Everything" flowing into "That Which Knows".
+
+#### Agenda version 2
+
+- Cold open of [Warm up](#warm-up), 5m [Focused](#focused-awareness), [Cool down](#cool-down).
+- Intro, credit, [Overview](#overview), [Practices](#practices).
+- [Investigative](#investigative-awareness) flowing into [Choiceless](#choiceless-awareness), one session.
+- Break for (short!) discussion.
+- Overview of [Nattyware](#natural-awareness).
+- [That Which Contains Everything](#that-which-contains-everything) flowing into [That Which Knows](#that-which-knows), one session.
 
 ## Practices
 
