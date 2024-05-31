@@ -3,7 +3,7 @@ layout: page
 title: The Spectrum Of Awareness
 longerform: true
 added: 2024-05-19
-updated: 2024-05-19
+updated: 2024-06-01
 ---
 
 Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session. Jump to:
@@ -73,6 +73,8 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
     - width of attention, from narrow to broad;
     - amount of effort, from quite a lot to none;
     - the object of meditation, from one object to none (Could say: from one anchor to anchorless).
+
+![](/img/tsoa/tsoa.jpg)
 
 ## Warm up
 
