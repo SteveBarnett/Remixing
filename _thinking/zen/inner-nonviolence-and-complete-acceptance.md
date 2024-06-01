@@ -8,9 +8,39 @@ updated: 2024-05-30
 
 Notes from [Making a Vow of Inner Nonviolence and Complete Acceptance - The Zen Studies Podcast](https://zenstudiespodcast.com/inner-nonviolence-complete-acceptance/)
 
-Inner nonviolence, working towards complete acceptance and integration.
+## Refined refined notes
 
----
+- Recognise that the causes and conditions of your life have made you like this.
+- Notice that struggling against who you are doesn't work, doesn't help, and causes damage.
+- **Take care of all the parts of who you are.**
+
+## Refined notes
+
+- Complete acceptance and integration.
+    - Not the same (at all) as giving up.
+    - Noticing that the struggle, the judgement, the shame, gets you nowhere.
+    - Noticing that the violence causes damage.
+- Recognise all the parts of who you are.
+    - Take care of them.
+- Recognise that the causes and conditions of your life have made you like this.
+    - Wanting it to be otherwise is suffering and delusion.
+
+## Some notes
+
+- Inner nonviolence, working towards complete acceptance and integration.
+    - Clearly see and accept whatever manifests.
+    - Violence always causes damage. It being "justified" is an excuse.
+- Some things change easily. Some things don't: those deeply rooted in our past causes and conditions.
+    - What starts as benign or even helpful can develop into an entrenched habit or compulsion.
+- Think of a negative aspect you're trying to change as a inner child. Motivation by judgement, frustration, shame doesn't work.
+- Complete acceptance means giving up wanting to change. Recognise it all the parts of who you are, and take care of it.
+    - Causes and conditions have lead to you being like this, whether you like it or not. Wishing otherwise is suffering and delusion.
+    - Attachment to being different is self-centred.
+    - Let go of who you "should" be.
+        - The more violence around this in the past, the more difficult it is to accept.
+- This kind of acceptance is not giving up.
+- Acceptance brings clarity to the path forwards.
+- The struggle against parts of yourself gets you nowhere.
 
 ## Raw highlights
 
@@ -18,7 +48,7 @@ Much more transformative than our typical approaches to change is making a vow o
 
 ### Trying to Change Negative Aspects of Self Through Violent Means
 
-We all have negative aspects of ourselves we would like to fix, disown, or even expunge completely from our being
+We all have negative aspects of ourselves we would like to fix, disown, or even expunge completely from our being.
 
 Some things change easily with practice. ... other aspects of ourselves are resistant to change. These aspects are much more deeply rooted in our karma – all the causes and conditions that have led to our current state of body and mind, including our own past choices.
 
