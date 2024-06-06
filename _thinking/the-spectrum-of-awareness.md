@@ -58,6 +58,14 @@ Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org
 - Overview of [Nattyware](#natural-awareness).
 - [That Which Contains Everything](#that-which-contains-everything) flowing into [That Which Knows](#that-which-knows), one session.
 
+#### The flip (from Choiceless to Natural)
+
+Let's make a bit of a shift, a bit of a change in perspective.
+
+Focused, Investigative, and Choiceless are object-focused. Let's try something subject-focused. Instead of putting our attention on the **contents** of consciousness, let's put our attention on the **context** of consciousness. 
+
+You might have heard people describe this as "look for the looker", or "turn attention upon itself." It can be a bit tricky because it seems... dodgy? weird? a bit peculiar? At first, it might seem inscrutable. Then you might feel like you "get it", with a "but". It seems to easy, too obvious, too close. That's it! It's relaxing motion, not a tensing. It's applying less effort, not more.
+
 ## One Mindful Blurb
 
 Title: Exploring the spectrum of awareness
