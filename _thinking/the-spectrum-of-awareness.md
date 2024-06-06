@@ -19,6 +19,12 @@ Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org
 - Make sure we have enough time for discussion too.
 - Start disclaimer / note: we're presenting these as four distinct practices, but that's just for convenience. Really, they blur into each other, help define each other. These four types are the map, not the territory. The territory is your experience of them.
 
+### TODO
+
+- Finalise blurb
+- Finalise session content
+    - Decide who does what
+
 ### Agenda ideas
 
 - Intro, credit
@@ -67,7 +73,6 @@ Title: Exploring the spectrum of awareness
 🗺️ We'll practice some different kinds of awareness: focused awareness, flexible awareness, choiceless awareness, and natural awareness. We'll vary our attention from narrow to broad, our effort from high to low, and our focus from one object to many, to none.
 
 🔮 This session is for anyone interested in trying different types of meditation and seeing how they can serve different purposes and moods.
-
 
 💻 Unable to join us in person? The session will also be streamed on Zoom for regular attendees who can’t make the session. To join from 7:30 pm select 'Join a meeting' and then enter the meeting room number 919-527-2569.
 
