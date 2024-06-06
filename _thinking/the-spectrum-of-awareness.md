@@ -52,6 +52,25 @@ Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org
 - Overview of [Nattyware](#natural-awareness).
 - [That Which Contains Everything](#that-which-contains-everything) flowing into [That Which Knows](#that-which-knows), one session.
 
+## One Mindful Blurb
+
+Title: Exploring the spectrum of awareness
+
+### Details
+
+🕒 Time: Doors open at 7:15, and we start the session at 7:30
+
+📍 Location: We meet in the Wellington Friends Centre at the end of Montcrieff Street, up the steps and in the room to the right.
+
+🧘‍♀️ Guided Meditation: we'll spend most of the session sitting in meditation.
+
+🗺️ We'll practice some different kinds of awareness: focused awareness, flexible awareness, choiceless awareness, and natural awareness. We'll vary our attention from narrow to broad, our effort from high to low, and our focus from one object to many, to none.
+
+🔮 This session is for anyone interested in trying different types of meditation and seeing how they can serve different purposes and moods.
+
+
+💻 Unable to join us in person? The session will also be streamed on Zoom for regular attendees who can’t make the session. To join from 7:30 pm select 'Join a meeting' and then enter the meeting room number 919-527-2569.
+
 ## Practices
 
 - **Focused Awareness**: very narrow, high effort, one object.
