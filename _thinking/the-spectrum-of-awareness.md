@@ -78,7 +78,7 @@ Title: Exploring the spectrum of awareness
 
 🧘‍♀️ Guided Meditation: we'll spend most of the session sitting in meditation.
 
-🗺️ We'll practice some different kinds of awareness: focused awareness, flexible awareness, choiceless awareness, and natural awareness. We'll vary our attention from narrow to broad, our effort from high to low, and our focus from one object to many, to none.
+🗺️ We'll practice some different kinds of awareness: focused awareness, investigative awareness, choiceless awareness, and natural awareness. We'll vary our attention from narrow to broad, our effort from high to low, and our focus from one object to many, to none.
 
 🔮 This session is for anyone interested in trying different types of meditation and seeing how they can serve different purposes and moods.
 
@@ -88,7 +88,7 @@ Title: Exploring the spectrum of awareness
 
 - **Focused Awareness**: very narrow, high effort, one object.
     - Cultivates concentration, tames a busy mind.
-- **Flexible Awareness**: narrow, some effort, some objects.
+- **Investigative Awareness**: narrow, some effort, some objects.
     - Good for being flexible, but controlled.
 - **Choiceless Awareness**: broad, variable effort, many objects.
 - **Natural Awareness**: very broad, effortless, no object(s).
@@ -101,7 +101,7 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
 - These four are a model / map for working with awareness, with the goal of helping to bring some fluidity and flexibility to your practice.
     - They're from The Little Book of Being: Practices and Guidance for Uncovering Your Natural Awareness by Diana Winston.
 - They're different ways to meditate, but not hierarchical: they're useful for different things and situations.
-- We'll very briefly discuss then do a short practice of four types of awareness: Focused, Flexible, Choiceless, Natural. They vary by:
+- We'll very briefly discuss then do a short practice of four types of awareness: Focused, Investigative, Choiceless, Natural. They vary by:
     - width of attention, from narrow to broad;
     - amount of effort, from quite a lot to none;
     - the object of meditation, from one object to none (Could say: from one anchor to anchorless).
