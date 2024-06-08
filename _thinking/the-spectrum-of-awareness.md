@@ -58,17 +58,20 @@ Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org
 - Overview of [Nattyware](#natural-awareness).
 - [That Which Contains Everything](#that-which-contains-everything) flowing into [That Which Knows](#that-which-knows), one session.
 
-#### The flip (from Choiceless to Natural)
+#### Agenda: final version (ish)
 
-Let's make a bit of a shift, a bit of a change in perspective.
-
-Focused, Investigative, and Choiceless are object-focused. Let's try something subject-focused. Instead of putting our attention on the **contents** of consciousness, let's put our attention on the **context** of consciousness. 
-
-You might have heard people describe this as "look for the looker", or "turn attention upon itself." It can be a bit tricky because it seems... dodgy? weird? a bit peculiar? At first, it might seem inscrutable. Then you might feel like you "get it", with a "but". It seems to easy, too obvious, too close. That's it! It's relaxing motion, not a tensing. It's applying less effort, not more.
+- G. Short What's On Top. Two words to describe what's on top.
+- G. Cold open of short Focused Awareness minitation.
+- S. Intro, credit, [Overview](#overview), [Practices](#practices).
+- S. Minitation: [Investigative](#investigative-awareness) flowing into [Choiceless](#choiceless-awareness).
+- G. Tiny overview of [Nattyware](#natural-awareness).
+- G. Minitation: [That Which Contains Everything](#that-which-contains-everything) flowing into [That Which Knows](#that-which-knows), maybe [That Which Is](#that-which-is) too.
+- S: Tiny reminder of the practices. Intro for DIY final longer meditation.
+- S: Ring the bells.
 
 ## One Mindful Blurb
 
-Title: Exploring the spectrum of awareness
+Exploring the spectrum of awareness
 
 ### Details
 
@@ -153,7 +156,6 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
 - When an emotion arises, if it feels difficult, gently come back to your anchor.
 - **Cool down**
 
-
 ## Choiceless Awareness
 
 - Now we'll let our attention go more broad, have a more variable amount of effort, and take it more objects of meditation.
@@ -177,6 +179,13 @@ With Natural Awareness, it's a bit like each of the attributes (width, effort, o
     - If it helps, come back to your anchor for a moment.
 - **Cool down**
 
+## The flip (from Choiceless to Natural)
+
+Let's make a bit of a shift, a bit of a change in perspective.
+
+Focused, Investigative, and Choiceless are object-focused. Let's try something subject-focused. Instead of putting our attention on the **contents** of consciousness, let's put our attention on the **context** of consciousness. 
+
+You might have heard people describe this as "look for the looker", or "turn attention upon itself." It can be a bit tricky because it seems... dodgy? weird? a bit peculiar? At first, it might seem inscrutable. Then you might feel like you "get it", with a "but". It seems to easy, too obvious, too close. That's it! It's relaxing motion, not a tensing. It's applying less effort, not more.
 
 ## Natural Awareness
 
