@@ -8,9 +8,11 @@ title: Table of contents
   {% continue %}
 {% elsif category[0] == "doing" %}
   {% continue %}
+{% elsif category[0] == "music" %}
+  {% continue %}
 {% else %}
 
-<h2>Album: {{ category[0] }}</h2>
+<h2 id="{{ category[0] | downcase }}">Album: {{ category[0] }}</h2>
 
 <ol reversed class="music">
   {%- for track in category[1] -%}
@@ -19,7 +21,7 @@ title: Table of contents
           Your browser does not support the
           <code>audio</code> element.
       </audio>
-      <a href="{{ track.url | replace: "-", " " }}.mp3">{{ track.title }}</a> ({{ track.date | date: "%Y-%m-%d" }})
+      <a href="{{ track.url | replace: "-", " " }}.mp3">{{ track.title | downcase }}</a> ({{ track.date | date: "%Y-%m-%d" }})
   </li>
   {%- endfor -%}
 </ol>
