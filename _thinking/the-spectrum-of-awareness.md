@@ -243,6 +243,69 @@ Focused to Investigative to Choiceless to Natural. They flow into each other, ma
 - When we're not sitting, it's more like post-meditation than not-meditation.
 - Notice how there's not really a difference. Awareness is still there.
 
+## Session notes
+
+### Intro, credit, Overview, Practices
+
+- This is from [The Little Book of Being: Practices and Guidance for Uncovering Your Natural Awareness by Diana Winston](https://www.goodreads.com/book/show/41048030-the-little-book-of-being)
+- Also at [The Spectrum of Awareness – Diana Winston on the Waking Up App](https://dynamic.wakingup.com/pack/PK7IW9C?code=SC541514D&share_id=0EDBEA1F&source=content%20share), some "Insights at the edge" episodes on Sounds True, on Spotify and other place.
+- Four ways to meditate.
+    - A map / model for awarenesss.
+    - Bring some fluidity and flexibility to your practice.
+- Different ways to meditate
+    - Not hierarchical
+    - Useful for different things and situations.
+    - Vary by:
+        - **object** of meditation, from one object to several to kinda none;
+        - **width** of attention, from narrow to broad to kinda everything;
+        - amount of **effort**, from quite a lot to little to kinda no effort.
+
+The four kinds:
+
+- **Focused Awareness**: one object, very narrow, high effort.
+    - Cultivates concentration, tames a busy mind, clarifying.
+- **Investigative Awareness**: one main object, narrow, some effort.
+    - Good for being flexible, but controlled.
+    - Good for noticing the tone of moods, emotions, memories, and for noticing their impermanence.
+- **Choiceless Awareness**: several objects, broad, variable effort.
+    - Good for flexibility, relaxing and resting.
+- **Natural Awareness**: no objects, very broad, effortless.
+    - Highlights impermanence, fluidity.
+
+### Minitation: Investigative flowing into Choiceless  
+
+"Investigative" like explore it experientially, not like figure it out with thinking.
+
+We'll start with our anchor. Then when we get pulled away, let our attention rest on the object briefly, notice and note it, then gently back to the anchor. Then after a minute or two we'll lightly let go of our anchor.
+
+- Bring your attention to your anchor.
+    - Part of your body that feels at ease, solid, safe, stable, pleasant.
+- When your mind wanders, notice that. Stay with it for a moment. Then back to the anchor.
+    - Just noticing, witnessing. Not judging or evaluating.
+    - If something arises that feels difficult, that's okay. Gently come back to your anchor.
+- Now, loosen your hold on your anchor. Keep alert, but don't worry about coming back to it.
+    - Just pay clear attention to whatever is arising.
+    - Try and let go of like or don't like, and just notice things arise and pass away.
+    - If something arises that feels difficult, that's okay. Gently come back to your anchor.
+- Notice what's arising. Body sensations, sounds, emotions, mental activity, something else.
+    - Let go of the story and just notice the changing sensations.
+    - Things might move slowly or quickly.
+
+### DIY intro
+
+- We'll end with about 15 minutes of DIY.
+    - Pick one, or more, of the styles that we had tiny tastes of, and sit with it a bit longer.
+    - No guidance for this bit of sit.
+- As a quick reminder, the four were:
+    - **Focused Awareness**: one object, very narrow, high effort.
+    - **Investigative Awareness**: one main object, narrow, some effort.
+    - **Choiceless Awareness**: several objects, broad, variable effort.
+    - **Natural Awareness**: no objects, very broad, effortless.
+- You might like to do a "Full Spectrum" version: Focused into Investigative into Choiceless into Natural.
+- Take a few moments to set your intention.
+- ...
+- Three bells to start, three bells to finish.
+
 ---
 
 ## References
