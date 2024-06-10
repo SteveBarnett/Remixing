@@ -3,7 +3,7 @@ layout: page
 title: The Spectrum Of Awareness
 longerform: true
 added: 2024-05-19
-updated: 2024-06-01
+updated: 2024-06-10
 ---
 
 Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session. Jump to:
