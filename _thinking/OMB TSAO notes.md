@@ -10,16 +10,21 @@ updated: 2024-06-10
 
 - This is from [The Little Book of Being: Practices and Guidance for Uncovering Your Natural Awareness by Diana Winston](https://www.goodreads.com/book/show/41048030-the-little-book-of-being)
 - Also at [The Spectrum of Awareness – Diana Winston on the Waking Up App](https://dynamic.wakingup.com/pack/PK7IW9C?code=SC541514D&share_id=0EDBEA1F&source=content%20share), some "Insights at the edge" episodes on Sounds True, on Spotify and other place.
-- Four ways to meditate.
+- DW facts:
+    - practicing mindfulness meditation since 1989
+    - taught mindfulness since 1999 in a variety of settings including hospitals, universities, corporations, nonprofits, and schools in the US and Asia
+    - Director of Mindfulness Education at UCLA's Mindful Awareness Research Center
+    - member of the Teacher's Council at Spirit Rock Meditation Center, where she was trained to teach by Jack Kornfield
+- The Spectrum of Awareness is four ways to meditate.
     - A map / model for awarenesss.
     - Bring some fluidity and flexibility to your practice.
 - Different ways to meditate
     - Not hierarchical
     - Useful for different things and situations.
     - Vary by:
-        - **object** of meditation, from one object to several to kinda none;
-        - **width** of attention, from narrow to broad to kinda everything;
-        - amount of **effort**, from quite a lot to little to kinda no effort.
+        - **object** of meditation
+        - **width** of attention
+        - amount of **effort**
 
 ### The four kinds
 
