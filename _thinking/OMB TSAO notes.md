@@ -3,10 +3,12 @@ layout: page
 title: OMB TSOA notes
 longerform: true
 added: 2024-06-10
-updated: 2024-06-10
+updated: 2024-06-12
 ---
 
 ## Intro, credit, Overview, Practices
+
+<div class="boxout">About 5 minutes.</div>
 
 - This is from [The Little Book of Being: Practices and Guidance for Uncovering Your Natural Awareness by Diana Winston](https://www.goodreads.com/book/show/41048030-the-little-book-of-being)
 - Also at [The Spectrum of Awareness – Diana Winston on the Waking Up App](https://dynamic.wakingup.com/pack/PK7IW9C?code=SC541514D&share_id=0EDBEA1F&source=content%20share), some "Insights at the edge" episodes on Sounds True, on Spotify and other place.
@@ -41,7 +43,9 @@ updated: 2024-06-10
 - **Natural Awareness**: no objects, very broad, effortless.
     - Highlights impermanence, fluidity.
 
-## Minitation: Investigative flowing into Choiceless (about 5 minutes)
+## Minitation: Investigative flowing into Choiceless
+
+<div class="boxout">About 5 minutes.</div>
 
 We'll start with our anchor. Then when we get pulled away, let our attention rest on the object briefly, notice it. Then gently back to the anchor. Then after a minute or two we'll lightly let go of our anchor.
 
@@ -74,6 +78,8 @@ We'll start with our anchor. Then when we get pulled away, let our attention res
 - Take a few deep breaths.
 
 ## DIY intro
+
+<div class="boxout">About 1 minute, for a 15 minute sit.</div>
 
 - We'll end with about 15 minutes of DIY.
     - Pick one, or more, of the styles that we had tiny tastes of, and sit with it a bit longer.
