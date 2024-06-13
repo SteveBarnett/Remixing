@@ -46,7 +46,7 @@ zen2024: true
 - **Understanding is thinking. Attainment is before thinking.**
 - **Here is a bell.**
     - **If you say it's a bell, you are attached to name and form.**
-    - **If you say is't not a bell, you are attached to emptiness.**
+    - **If you say it's not a bell, you are attached to emptiness.**
     - **Is this a bell or not?**
     - **Picking up the bell and ringing it is a complete answer.**
 - **Name and form are not necessary.**
