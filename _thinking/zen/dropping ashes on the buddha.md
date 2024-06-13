@@ -2,9 +2,36 @@
 layout: page
 title: Dropping Ashes on the Buddha
 added: 2024-06-13
-updated: 2024-06-13
+updated: 2024-06-14
 zen2024: true
 ---
+
+- Keeping **don’t-know mind** always and everywhere is the true practice of Zen.
+- **Everything is our main practice.**
+    - When sitting, only sit. When talking, only talk. When working, only work.
+    - Don't think, just practice.
+    - Just sit, and keep don't-know mind, not-moving mind.
+- **Names and forms are made by thinking. Before thinking there are no names and forms.**
+    - When we're attached to something, they're different. When we're not attached, they're the same.
+    - Something having a quality means we have an opinion, a thought. We've been checking, evaluating.
+    - Opposites are mutual. Their names and forms are different, but their substance is the same.
+        - As soon as we think "good", we create "bad".
+        - "Like" and "don't like" are both attachments.
+- Don't be attached to thinking or to not-thinking.
+    - Don't be upset by anything that goes on in our mind.
+    - When the mind becomes clear it's like a mirror.
+- Intuitive action, wu wei, means acting without any desire of attachment.
+    - **Don't think. Just do what must be done.**
+- Consider a bell.
+    - If you say it's a bell, you are attached to name and form.
+    - If you say it's not a bell, you are attached to emptiness.
+    - Is this a bell or not?
+    - **Picking up the bell and ringing it is a complete answer.**
+    - The verb, the action, of **being without thinking** or desire or attachment.
+
+---
+
+## Raw notes
 
 - The truth is that all things in the universe are just as they are.
 - If you keep the mind that is before thinking, that is Zen mind.
