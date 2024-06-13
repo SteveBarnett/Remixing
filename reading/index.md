@@ -7,7 +7,11 @@ This is a copy (and slight extension) of [my goodreads list](https://www.goodrea
 
 My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
 
-<h2>2024</h2>
+{% assign thisMonth = site.data.books2024[0].date_read | date: "%m" %}
+{% assign siteMonth = site.time | date: "%m" %}
+{% if thisMonth == siteMonth %}
+<h2>{{ site.time | date: "%B" }}</h2>
+{% endif %}
 
 <ol reversed>
 {%- assign previousMonth = site.time | date: "%m" -%}
