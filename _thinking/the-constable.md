@@ -14,4 +14,4 @@ I was thinking about openness and curiosity, then applied it a bit to the Critic
 The Constable is a detective. An investigator. They don't know what's happened, or is happening. They're interested in the bare facts first, before they hear anyone's story.
 </div>
 
-I'm going to explore this Constable angle a bit more. This character framing is influenced by Internal Family Systems. [I have dug into IFS a little](thinking/notes-from-IFS-reading/), but intend to come back to it some more.
+I'm going to explore this Constable angle a bit more. This character framing is influenced by Internal Family Systems. [I have dug into IFS a little](/thinking/notes-from-IFS-reading/), but intend to come back to it some more.
