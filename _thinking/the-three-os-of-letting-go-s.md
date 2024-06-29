@@ -10,15 +10,15 @@ Oh no, oh well, ohm.
 
 - **Oh no.** 
     - Notice the story that there's a need to solve the problem.
-    - That things should be different.
+    - That things **should** be different.
     - Then let it go.
 - **Oh well.**
     - Notice that the story that there's a problem.
-    - That things could be different.
+    - That things **could** be different.
     - Then let it go.
 - **Ohm.**
     - Notice the story of the self.
-    - That you could be different.
+    - That **you** could be different.
     - Then let it go.
 
 
