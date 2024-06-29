@@ -3,7 +3,126 @@ layout: page
 title: "Opening to Oneness: A Practical and Philosophical Guide to the Zen Precepts"
 zen2024: true
 added: 2024-05-26
-updated: 2024-05-26
+updated: 2024-06-29
+---
+
+<details>
+    <summary>
+        Table of Contents
+    </summary>
+<div markdown="1">
+* TOC
+{:toc}
+</div>
+</details>
+
+## Key points
+
+- Precepts aren't rules, they're challenges to examine who we are, to be curious and open to all of our experiences.
+    - Look deeply into the ways we fail to live up to precept.
+    - Welcome what we tend to reject.
+- Knowing by being. Insight from genuine understanding.
+- They're not just ethical norms but expressions of enlightened reality.
+- Precepts have three parts.
+    - Taking a wider, less literal, interpretation of each one.
+    - Allowing what is, without judgement, preference, shoulds, success/failure.
+    - Complete welcoming, compassionate allowing.
+    - Beginning to manifest themselves spontaneously.
+- The only way to freedom is through, not around or turning around.
+- Whatever we suppress in ourselves we tend to oppress in others.
+- Working with others helps us to expose what we hide.
+- What's important for Zen is a (often sudden) realisation of the nature of reality and a (gradual, never-ending) actualisation, embodiment, and integration.
+
+### Part One: A Workbook for the Zen Precepts
+
+- Hiding from others what we don’t like about ourselves is separation.
+- Bear witness, from a state of not-knowing.
+
+#### Partner Or Group Exercises
+
+- What are some ways you fail to live up to this precept?
+- What are you learning about yourself working on this precept?
+
+#### 1. Non-killing
+
+- Life is everything. At the level of the absolute, non-killing is non-separation.
+- Whenever we are self-conscious, we’ve split ourselves in two.
+- Welcome all emotions, sensations, and thoughts, with curiosity and compassion.
+
+#### 2. Non-stealing
+
+- Taking something that is not mine, with stealth to not get caught.
+- Possessiveness, instead of non-attachment or generosity. From the delusion that we lack, are lacking.
+
+#### 3. Non-misusing Sex
+
+- “Attachment,” “greed,” “grasping”.
+- Give up any effort, ideas, control, self-images.
+
+#### 4. Non-lying
+
+- Flattering; exaggerating; blaming.
+- Have no complicity with lies: speak up.
+
+#### 5. Non-misusing Intoxicants
+
+- Clouding over of clarity.
+- Blaming, analyzing, justifying, and storytelling. Apologising, obsessing, infatuation.
+- Being seen the way you want to be seen.
+- It's not the intoxicant itself, but the craving, the being taking away from discomfort.
+
+#### 6. Non-talking About Others’ Errors and Faults 
+
+- Not finding faults, not expounding on faults. Notice the implied "should."
+- Ask what motivates the talking.
+- Befriend your own faults, compassionately allow them.
+
+#### 7. Non-elevating Oneself and Blaming Others
+
+- There's ultimately no separation between oneself and others.
+- Prohibiting blaming usually sets up more blaming, normally on oneself.
+- There's often big energy in blaming when the blamer wants to do the action themself, but feels prohibited.
+- Ask what you're afraid of, what you're not tolerating.
+- Being a victim is a sneaky form of self-elevating.
+- The Way can take us out of blaming, through guilt, into responsibility.
+
+#### 8. Non-being Stingy
+
+- We are always trying to get something, even from our Practice.
+- Be fully expressed, be transparent.
+
+#### 9. Non-being Angry
+
+- Suppressing anger is a way of avoiding getting to know it. But so is acting it out.
+
+#### 10. Non-abusing the Three Treasures
+
+- The Three Treasures are the heart of Buddhist teachings, regardless of school, history, or culture.
+
+### Part Two: Exploring the Precepts through Dogen’s Nonduality
+
+- Oneness in the sense of an absolute unity. There is nothing else but it, nothing outside it to compare it to.
+- The experience of the Absolute is inwardly like wood or stone (motionless), outwardly like the void (without bounds or obstructions).
+- In contrast to the whole, the particulars that make up that universe can be experienced both dually and nondually. To experience them nondually is to experience and live the nonduality of duality.
+- Some of the deepest spiritual experiences can be with the particulars of everyday life.
+- "Intimacy" is used is Zen for: interpenetration of nameless, borderless particulars; interpenetration of any particular form with the formless absolute.
+- Being absorbed changes our experience. Looking back, we realise we experiencing nondually, not feeling separate. But not merged or dissolved or disappeared; formless forms, which seems conceptually contradictory.
+    - We're not aware of them, thinking about them, while these experiences occur.
+- Nothing is what it is on its own.
+- Empty as in: no sides, no bottom, no top.
+- Suchness: everything is “just as it is,” nothing added. No added stories, expectations, reactions, shoulds, preferences, or concepts.
+-  “The Way is not difficult for those who have no preferences.”
+- **When there are no conceptual boundaries, there is no obstruction to prevent interpenetration or oneness.**
+    - **Interpenetration is mutual nonconceptuality or boundarylessness, hence, freedom from hindrance or obstruction for both subject and object.**
+- Animals exist is a preconceptual world, which would more appropriately be called “a-conceptual”, whereas the spiritual experience of the nonconceptual is post-conceptual.
+- Language, reason, and discrimination are not outside the Way.
+- “Mystical” experiences: nondual, nonconceptual glimpses of a reality not graspable by our everyday mind.
+- Shikantaza, “just sitting,” as in “nothing else but sitting.” “Not turning away”.
+- “Dogen’s zazen is a ritual expression and celebration of awakening already present.”
+- The spontaneity associated with Zen is simply a groundless samadhi of self-fulfilling activity. Free of reasons, grounds, goals, or outcomes. Play is the best example.
+- Separation is the main source of our own suffering and certainly the source of our causing suffering in others.
+- From not to non: both stealing and not stealing have been liberated to become non-stealing.
+
 ---
 
 My notes from [Opening to Oneness: A Practical and Philosophical Guide to the Zen Precepts by Nancy Mujo Baker](https://www.goodreads.com/book/show/79328892-opening-to-oneness).
@@ -71,7 +190,7 @@ meaning of the precept in question to cover much more than we normally think of.
 - To welcome fear, anger, greed, hatred, and all possible negative emotions, sensations, and thoughts gasping for breath in us, and to do so with curiosity and compassion, is to be surprised by freedom, space, love, transformation, and life!
 - Any buddha I meet is separate from me and, we might say, is already dead because of my having imagined her separate from me. That kind of buddha can only be an object and hence a conceptualization of something that can’t be conceptualized. Drop it. Kill it. Forget about it. We can only be it.
 
-#### NON-KILLING: PARTNER OR GROUP EXERCISES
+#### Non-Killing: Partner Or Group Exercises
 
 Repeating questions: Ask (1) and (2) separately for 10
 minutes each. No cross talk.
@@ -101,7 +220,7 @@ Discuss together as long as you like.
 - when we steal from the past or the future, we are actually stealing from the present—from its fullness, its hereness, its richness.
 - We suffer from the delusion that we lack something, and as a result, we are not satisfied.
 
-#### NON-STEALING: PARTNER OR GROUP EXERCISES
+#### Non-Stealing: Partner Or Group Exercises
 
 1. Tell me something you steal.
 2. What kind of lack do you experience?
@@ -114,7 +233,7 @@ precept?
 - What causes the misconduct and the impurity has been translated as “attachment,” “greed,” “grasping,” and “desire.”
 - The practice of trying to be present from moment to moment is to give up any goal. It is to give up any effort, ideas, control, self-images. It is to be fully in touch with that sacred energy and the generous sharing of it with another.
 
-#### NON-MISUSING SEX: PARTNER OR GROUP EXERCISES
+#### Non-Misusing Sex: Partner Or Group Exercises
 
 1. Tell me a way you have misused sexuality.
 2. Tell me a way you experience “the fire of creation.” 
@@ -137,7 +256,7 @@ on this precept?
 - “I’m late,” with or without an apology, depending on the circumstances, but definitely without excuses, explanations, or justifications.
 - No separation between hearer, hearing, and the reality heard. No separation between speaker, speaking, and the reality spoken about.
 
-#### NON-LYING: PARTNER OR GROUP EXERCISES
+#### Non-Lying: Partner Or Group Exercises
 
 1. Tell me a way that you lie.
 2. What is being protected by the lie?
@@ -158,7 +277,7 @@ Monologue: What are you learning about yourself working with this precept?
 - To practice the Buddha-Way is not-to-look-aside.
 - enlightenment in its concrete expression.
 
-#### NON-MISUSING INTOXICANTS: PARTNER OR GROUP EXERCISES
+#### Non-Misusing Intoxicants: Partner Or Group Exercises
 
 1. Tell me a way you intoxicate yourself.
 2. What are you turning away from?
@@ -183,7 +302,7 @@ Monologue: What are you learning about yourself working with this precept?
 - Dogen suggests that in practicing kind speech we remember how we speak to children.
 - Another thing we can practice is always asking ourselves about the suffering of the other.
 
-#### NON-TALKING ABOUT OTHERS’ ERRORS AND FAULTS: PARTNER OR GROUP EXERCISES
+#### Non-Talking About Others’ Errors And Faults: Partner Or Group Exercises
 
 1. Tell me a way you speak of others’ errors and faults.
 2. What makes you do it?
@@ -206,7 +325,7 @@ Monologue: What are you learning about yourself working with this precept?
 - Our development from childhood to adulthood and to spiritual maturity takes us out of blaming, through guilt, and into responsibility. The latter movement can only happen when I am willing to become one with my guilt.
 - even if we have suddenly glimpsed or even deeply realized that realm, we still need the gradual practice of actualization.
 
-#### NON-ELEVATING ONESELF AND BLAMING OTHERS: PARTNER OR GROUP EXERCISES 
+#### Non-Elevating Oneself And Blaming Others: Partner Or Group Exercises 
 
 1. Tell me something you blame, judge, or reject for not being the way you want it to be.
 2. Tell me a way you elevate yourself by judging something else.
@@ -227,7 +346,7 @@ enlightenment.
 - The first thing is to not be stingy in discovering who we are in relation to stinginess.
 - Coming to terms with who I am in relation to stinginess—and doing so with no judgment—is one thing, but being non-stingy enough to place my stinginess right out on the table before others takes the practice even deeper.
 
-#### NON-BEING STINGY: PARTNER OR GROUP EXERCISES
+#### Non-Being Stingy: Partner Or Group Exercises
 
 1. Tell me a way you are stingy.
 2. What you are afraid of losing?
@@ -246,7 +365,7 @@ enlightenment.
 - When there is no self, no self-territory to defend or construct, then there is no anger. But can there be an anger that does not come from a postulated self, an anger that is not defensive? Yes, of course.
 - These are the quick, five-second kinds of anger.
 
-#### NON-BEING ANGRY: PARTNER OR GROUP EXERCISES
+#### Non-Being Angry: Partner Or Group Exercises
 
 1. Tell me something that makes you angry.
 2. What kind of anger is it?
@@ -265,7 +384,7 @@ Monologue: Explore your anger. What’s it like? Where does it occur in your bod
 - Being judgmental of others is a dead giveaway of unconscious self-judging.
 - A teisho is a special kind of dharma talk, completely nondual.
 
-#### NON-ABUSING THE THREE TREASURES: PARTNER OR GROUP EXERCISES
+#### Non-Abusing The Three Treasures: Partner Or Group Exercises
 
 1. How do you conceptualize yourself and when do you
 do it?
@@ -273,7 +392,7 @@ do it?
 
 Monologue: Keep exploring the ways you conceptualize yourself and when and why you do it.
 
-## PART TWO Exploring the Precepts through Dogen’s Nonduality
+## Part Two: Exploring the Precepts through Dogen’s Nonduality
 
 ### Part Two Introduction. The Nonduality of Duality: From Not to Non
 
@@ -346,7 +465,7 @@ conceptual aftermath, which is the only place they can go.
 - One way of saying what happens to the object of awareness of knowing in this kind of experience is that it is no longer “objectified.” It has become what Zen calls “no-thing.” But as Dogen reminds us in his Shōbōgenzō fascicle “Gabyo” (The Pictured Cakes), it doesn’t lose “its own unique particularity.”
 - Experiencing ourselves as objects is self-consciousness–precisely that which Zen hopes to free us from.
 - bifurcating ourselves into two—a subject, I, and an object, me. I, as subject, am aware of conceptualizable me—namely, all my mental, physical, and emotional characteristics.
-- what if we also try to know the I in this ordinary, separting way of knowing? It's as if another I pops up and is aware of the first I, now an object. I have the original I into a me, and on ad infinitum.
+- what if we also try to know the I in this ordinary, separting way of knowing? It's as if another I pops up and is aware of the first I, now an object. I have turned the original I into a me, and on ad infinitum.
 - Eventually, however, those of us who begin a practice like Zen see how the somebody we think we are is the source of our inability to live with an ease of being.
 - Shikantaza, "just sitting," The "just" here is "nothing else but."
 
