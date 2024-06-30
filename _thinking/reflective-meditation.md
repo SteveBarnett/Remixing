@@ -8,9 +8,30 @@ updated: 2024-06-30
 
 Notes from [Reflective Meditation](https://tuwhiri.nz/products/reflective-meditation).
 
+## Gathered notes
+
+- Meditation and reflection and conversation together.
+    - Every once in a while, share your experience with a trusted friend or teacher.
+    - Group talking informs and cross-fertilises understanding.
+- The path develops slowly, for most people, most of the time.
+- All things arise from causes and conditions.
+    - Let this bring more kindness and curiosity to yourself and others.
+    - When we lessen the sting, we spend less time trying to avoid it.
+    - Freedom lies in perceiving this, not trying to escape it.
+    - Notice the causes and conditions that contribute to your different states.
+    - Notice the causes and conditions that lead to the three poisons: greed, anger, delusion; grasping, aversion, ignorance.
+- Find relief from yearning to be different, gain curiosity about how things are.
+    - Learn how to hold more complexity and contradictions. 
+- Listen to yourself while listening to others. Let others influence you, but not dominate.
+- Learn from what happened. Do subtle experiments, not big changes.
+- People’s high ideals fuel their shame.
+- Looks for the seeds of loving-kindness, compassion, sympathetic joy, equanimity.
+- Softness, gentleness, friendliness lead to relaxation, calm.
+
+
 ## Raw notes
 
-- Over time, curiosity replace inner judgement.
+- Over time, curiosity replaces inner judgement.
 - The practice is meditation and reflection and conversation together.
 - The practice is a refuge for kindness and curiosity.
 
