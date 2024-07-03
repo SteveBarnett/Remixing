@@ -453,6 +453,10 @@ summary:focus {
     border-color: #d3c7b7;
     background-color: #0b1e07;
   }
+
+  strong {
+    background-color: #434;
+  }
 }
 
 .skip-toc-text {
