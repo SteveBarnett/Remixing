@@ -6,6 +6,16 @@ updated: 2024-07-07
 zen2024: true
 ---
 
+- What we're looking for is **always and already here.**
+- **Thinking**, especially judging, **creates separation, distance, suffering.**
+    - If mind and things were separate, we couldn’t be aware of things.
+    - “Not-knowing is most intimate.”
+- **The path is the goal.**
+    - The answering is in the questioning.
+- **Everything is our main practice.**
+- **The union of Absolute and Relative, of emptiness and form.**
+- The infinite causes and conditions of Reality create everything. From the perspective of the Absolute, **there are no problems, no choices**, no separation. No shoulds, no coulds, only what is.
+- Notice the causes and conditions that lead to your suffering. Take care of your suffering.
 
 ## Bit of a summary
 
