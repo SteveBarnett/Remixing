@@ -20,5 +20,6 @@ Should, could, good.
     - That things are **good as they are**.
     - That **you** are good as you are.
 
+---
 
-
+Although the direct path, starting at the **good(s)** is ideal, I often find it difficult. I get really stuck on the **should**. However, I find that when I really accept the **should**, suddenly it becomes easy to let it go, and move on to the **could**. Hmm! 🤔
