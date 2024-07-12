@@ -6,15 +6,39 @@ added: 2024-07-04
 updated: 2024-07-09
 ---
 
-Zen, perhaps a bit more than other traditions, seems to have an emphasis on not-thinking. This doesn't mean no thoughts, being unintelligent, compromise of reasons, blanking the mind. It means more like letting go of compulsive thinking, habitual stringing together of thoughts, of desires and attachments, automatic mental habits, compulsive subjective rationalisation; don't be upset by anything that arises in your mind, no grasping or rejection. When thoughts arise, just leave them alone. The mind creates thoughts, that's what it does; just don't attach yourself to them, don't hold on to them, don't push them away, don't help them grow.
+Zen, perhaps a bit more than other traditions, seems to have an emphasis on not-thinking. This doesn't mean no thoughts, being unintelligent, compromise of reason, blanking the mind. It means more like:
+
+- letting go of compulsive thinking, habitual stringing together of thoughts;
+- letting go automatic mental habits, compulsive subjective rationalisation;
+- letting go of desires and attachments.
 
 Thinking is doing. Thoughts always contain something to do. Be without thinking. Just do the verb. Just do what needs to be done.
 
-The mind before thinking is Zen mind. Thinking creates names and forms. A stick doesn't say "I'm a stick," people make it a stick. Understanding is thinking. Attainment is before thinking. Wanting enlightenment is thinking. Liking and not-liking is thinking. Wanting is thinking. Easy or difficult is thinking. Good and bad is thinking. Things are the one until we explain them, add thoughts, add language; then they become separate, different.
+## The mind
+
+The mind creates thoughts, that's what it does.
+
+Don't attach yourself to them, don't hold on to them, don't push them away, don't help them grow.
+
+Don't be upset by anything that arises in your mind, no grasping or rejection. When thoughts arise, just leave them alone.
+
+## Zen mind
+
+The mind before thinking is Zen mind.
+
+Thinking creates names and forms. A stick doesn't say "I'm a stick," people make it a stick. 
+
+Understanding is thinking. Attainment is before thinking.
+
+Wanting enlightenment is thinking. Liking and not-liking is thinking. Wanting is thinking. Easy or difficult is thinking. Good and bad is thinking.
+
+Things are the one until we explain them, add thoughts, add language; then they become separate, different.
+
+## Non-duality of thinking
 
 We say thinking and no-thinking are different to understand, gain clarity. In the end, though, Zen says don't be attached to thinking or to not-thinking. Integrate the two, in a non-dual way. They are distinct, but not divided.
 
-## Gathering raw notes
+## Raw notes
 
 - **Names and forms are made by thinking. Before thinking there are no names and forms.**
 - Don't be attached to thinking or to not-thinking.
