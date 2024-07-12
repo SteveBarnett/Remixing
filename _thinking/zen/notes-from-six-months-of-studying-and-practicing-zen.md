@@ -2,7 +2,7 @@
 layout: page
 title: Notes from six months of studying and practicing Zen
 added: 2024-07-07
-updated: 2024-07-07
+updated: 2024-07-13
 zen2024: true
 ---
 
@@ -16,6 +16,10 @@ zen2024: true
 - **The union of Absolute and Relative, of emptiness and form.**
 - The infinite causes and conditions of Reality create everything. From the perspective of the Absolute, **there are no problems, no choices**, no separation. No shoulds, no coulds, only what is.
 - Notice the causes and conditions that lead to your suffering. Take care of your suffering.
+
+Looking back on the above bullets after a few days, these seem a bit unsatisfying! I feel like these six months have been really good for my practice. And that I've made small, ongoing, changes. But these bullets above don't capture that. They are good little reminders, though.
+
+And I'm using these, and the extended notes below, to do another update to [my (applied) philosophy](/thinking/my-applied-philosophy/). And that is pleasing.
 
 ## Bit of a summary
 
