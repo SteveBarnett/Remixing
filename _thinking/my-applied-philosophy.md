@@ -8,6 +8,12 @@ updated: 2024-07-14
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
 
+My practice keeps changing, but a sort-of summary for now:
+
+- Notice the differences between Reality and concepts: one vs many; complex vs simple; flowing vs fixed.
+- Relax into, and rest in, your true nature: openness and emptiness, without characteristics.
+- Remember that the path is the goal.
+
 I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing and <span class="gripmoji">🏹</span> to denote indirect noticing (noticing an absence).
 
 ## Reality
