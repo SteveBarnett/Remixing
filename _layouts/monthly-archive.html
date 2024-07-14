@@ -245,6 +245,8 @@
 
 <h2 id="gaming">Gaming</h2>
 
+{%- assign currentGamingCount = 0 -%}
+
 <ol reversed>
 {%- for game in site.data[page.gamesdata] -%}
 {%- assign gameMonth = game.date_played | slice: 5, 2 | plus: 0 -%}
@@ -263,10 +265,15 @@
             {{ game.platform }}
             {%- if game.my_rating == 5 -%}</strong>{%- endif-%}. Rated {{ game.my_rating }}/5.
         </li>
+    {%- assign currentGamingCount = currentGamingCount | plus: 1 -%}
 {%- endif -%}
 
 {%- endfor -%}
 </ol>
+
+{%- if currentGamingCount == 0 -%}
+<p>Nothing this month.</p>
+{%- endif-%}
 
 <h2 id="musicing">Musicing</h2>
 
