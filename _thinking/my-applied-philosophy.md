@@ -11,7 +11,8 @@ The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/
 My practice keeps changing, but a sort-of summary for now:
 
 - Notice the differences between Reality and concepts: one vs many; complex vs simple; flowing vs fixed.
-- Relax into, and rest in, your true nature: openness and emptiness, without characteristics.
+- Relax into, and rest in, your true nature: open, empty, nondual. 
+    - In particular: [the three uhds](/thinking/the-three-uhds/).
 - Remember that the path is the goal.
 
 I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing and <span class="gripmoji">🏹</span> to denote indirect noticing (noticing an absence).
