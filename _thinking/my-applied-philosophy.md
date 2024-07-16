@@ -3,27 +3,56 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-07-14
+updated: 2024-07-16
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
 
-My practice keeps changing, but a sort-of summary for now:
+---
 
-- Notice the differences between Reality and concepts: one vs many; complex vs simple; flowing vs fixed.
-- The path is living more frequently, for longer periods, from (nondual) Reality instead of concepts.
-    - The method is relaxing and resting, accepting what is.
-- Notice your first-person perspective, you true nature.
+For me, a nondual practice seems to hit the spot.
 
-Remember that the path is the goal. It's an ongoing, never-ending, process.
+- The idea that we are separate from the world is an illusion.
+- The idea that we have a static, separate, self is an illusion.
 
+Nothing, everything, humans / nonduality, consciousness, the path.
 
-acceptance of what is, not fighting it. Just noticing it, not thinking about it.
-    - Embodying non-duality. Experiential practice, not theory.
-    - Living from direct experience more frequently, for longer.
-    - Holding concepts more lightly, letting go of them more often.
-- Relax into, and rest in, your true nature: open, empty, nondual. 
-    - In particular: [the three uhds](/thinking/the-three-uhds/).
+There's physical Reality. And there's this mystery of consciousness. And there's the path.
+
+- **Reality is "empty". It's one, complex, flow.**
+    - There are distinctions, but not divisions.
+        - Things that are separate can't influence and act on each other.
+    - Concepts try to make forms: separate, simple, static.
+    - Characteristics are relative, they require thought and comparison.
+    - The infinite causes and conditions of Reality create everything.
+        - There's no doer. Everything happens on its own.
+        - The knower and the know aren’t required, only the knowing, the verb.
+    - **Our thoughts, actions, bodies, are in and of Reality.**
+        - Our experience of Reality is not separate from Reality, but is localised in our bodymind.
+        - The knower and the know aren’t required, only the knowing, the verb.
+    - **All matter is swirls of degrees of consciousness.**
+        - Life is consciousness that’s more concentrated.
+- **Our true nature is the context of consciousness, not the contents.**
+    - Anything that can be named or located can’t be you: it’s an object in awareness.
+    - Open, empty, luminous, spacious, boundless.
+    - The truth is experienced in the first instant. Before thoughts like classification, measuring, labelling.
+    - When we are experience, there is no suffering. When we believe we're separate from it, there is suffering.
+    - always and already here, but temporarily concealed.
+    - It's close, not far away. It's on the surface, not deep down. 
+    - Chasing the way takes you away from it.
+    - Grasping creates the illusion that it’s far away.
+- **The path is the goal.**
+    - The process is the fulfilment.
+    - Practice is enlightenment.
+    - Acceptance, relaxing, resting.
+    - Relaxing and resting, accepting what is.
+    - Living with don’t-know mind.
+    - The practice is loosening, in particular, the hold on the illusion of self. And of free will.
+    - Living more frequently, for longer periods, from (nondual) Reality, direct experience, instead of concepts.
+    - The union of Absolute and Relative, of emptiness and form.
+    - (gradual, never-ending) actualisation, embodiment, and integration.
+
+---
 
 I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing and <span class="gripmoji">🏹</span> to denote indirect noticing (noticing an absence).
 
