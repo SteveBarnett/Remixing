@@ -3,23 +3,30 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-07-17
+updated: 2024-07-18
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
+
+Note: even after many revisions, this still feels a bit muddy.
 
 ---
 
 For me, a nondual practice seems to hit the spot. In particular: the unity of everything, including the illusion of free will; our true nature, including the illusion of self.
 
-## Summary of the grips
+## Summary of the practice
 
-- Try, and fail, to find the edges.
-- Watch as things arise and pass away.
-- Watch as things happen on their own.
-- The three uhds: shoulds, coulds, good(s).
+When meditating, I try to [just sit](http://localhost:4000/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](http://localhost:4000/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense.
 
-## Summary of sorts
+When out and about, I have a few little practices.
+
+- To notice the nonduality of Reality, I look for the edges.
+- To notice impermanence, I watch things change.
+- When I feel stressed, I remind myself of [the three uhds](http://localhost:4000/thinking/the-three-uhds/).
+- To notice my true nature, I look for myself at zero distance.
+- I remind myself that the path is goal.
+
+## Summary of the theory
 
 Reality is one, complex, flow. Its causes and conditions create everything, including our bodies, actions, thoughts.
 
@@ -27,6 +34,7 @@ Our true nature is awareness; the context of consciousness, not the contents.
 
 - **Reality is one.**
     - There are distinctions, but not divisions.
+    - All forms are relational.
     - Things that are separate can't influence and act on each other.
     - Subject and object aren't required, only the verb.
     - The unity of Absolute and Relative, of emptiness and form.
