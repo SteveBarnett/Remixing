@@ -3,54 +3,64 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-07-16
+updated: 2024-07-17
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
 
 ---
 
-For me, a nondual practice seems to hit the spot.
+For me, a nondual practice seems to hit the spot. In particular: the unity of everything, including the illusion of free will; our true nature, including the illusion of self.
 
-- The idea that we are separate from the world is an illusion.
-- The idea that we have a static, separate, self is an illusion.
+## Summary of the grips
 
-Nothing, everything, humans / nonduality, consciousness, the path.
+- Try, and fail, to find the edges.
+- Watch as things arise and pass away.
+- Watch as things happen on their own.
+- The three uhds: shoulds, coulds, good(s).
 
-There's physical Reality. And there's this mystery of consciousness. And there's the path.
+## Summary of sorts
 
-- **Reality is "empty". It's one, complex, flow.**
+Reality is one, complex, flow. Its causes and conditions create everything, including our bodies, actions, thoughts.
+
+Our true nature is awareness; the context of consciousness, not the contents.
+
+- **Reality is one.**
     - There are distinctions, but not divisions.
-        - Things that are separate can't influence and act on each other.
-    - Concepts try to make forms: separate, simple, static.
-    - Characteristics are relative, they require thought and comparison.
-    - The infinite causes and conditions of Reality create everything.
-        - There's no doer. Everything happens on its own.
-        - The knower and the know aren’t required, only the knowing, the verb.
+    - Things that are separate can't influence and act on each other.
+    - Subject and object aren't required, only the verb.
+    - The unity of Absolute and Relative, of emptiness and form.
+    - <span class="gripmoji">🧘 </span>Try, and fail, to find the edges.
+- **Reality is complex.**
+    - Concepts make forms, draw lines, build fences.
+    - The closer you look, the more there is to see. Boredom is a failure to pay enough attention.
+- **Reality is in constant flux.**
+    - Everything flows, and changes, is impermanent.
+    - <span class="gripmoji">🧘 </span>Watch as things arise and pass away.
+- **The infinite causes and conditions of Reality create everything.**
+    - **Things arise and pass away on their own.**
     - **Our thoughts, actions, bodies, are in and of Reality.**
-        - Our experience of Reality is not separate from Reality, but is localised in our bodymind.
-        - The knower and the know aren’t required, only the knowing, the verb.
-    - **All matter is swirls of degrees of consciousness.**
-        - Life is consciousness that’s more concentrated.
-- **Our true nature is the context of consciousness, not the contents.**
-    - Anything that can be named or located can’t be you: it’s an object in awareness.
-    - Open, empty, luminous, spacious, boundless.
-    - The truth is experienced in the first instant. Before thoughts like classification, measuring, labelling.
-    - When we are experience, there is no suffering. When we believe we're separate from it, there is suffering.
-    - always and already here, but temporarily concealed.
-    - It's close, not far away. It's on the surface, not deep down. 
-    - Chasing the way takes you away from it.
-    - Grasping creates the illusion that it’s far away.
+        - When we are experience, there is no suffering. When we believe we're separate from it, there is suffering.
+    - <span class="gripmoji">🧘 </span>Watch as things happen on their own.
+- **Our true nature, awareness, is the context of consciousness, not the contents.**
+    - Anything that can be named or located can’t be you: it must an object in awareness or you couldn't be aware of it.
+    - The context is always bright, clear, boundless, whatever the contents of consciousness.
+    - **Seen in the first instant.**
+        - Before thoughts like classification, measuring, labelling.
+        - It's close, not far away. It's on the surface, not deep down. 
+    - **Always and already here**, but temporarily concealed.
+- **All matter is swirls of degrees of consciousness.**
+    - Like eddies in a river.
+    - Life is consciousness that’s more concentrated.
 - **The path is the goal.**
-    - The process is the fulfilment.
+    - A gradual, never-ending, actualisation, embodiment, and integration.
+    - Living more frequently, for longer periods, from Reality, direct experience, instead of concepts.
     - Practice is enlightenment.
-    - Acceptance, relaxing, resting.
-    - Relaxing and resting, accepting what is.
-    - Living with don’t-know mind.
-    - The practice is loosening, in particular, the hold on the illusion of self. And of free will.
-    - Living more frequently, for longer periods, from (nondual) Reality, direct experience, instead of concepts.
-    - The union of Absolute and Relative, of emptiness and form.
-    - (gradual, never-ending) actualisation, embodiment, and integration.
+    - **Relaxing and resting, accepting what is.**
+        - Living with don’t-know mind.
+        - <span class="gripmoji">🧘 </span>Let go of the shoulds.
+        - <span class="gripmoji">🧘 </span>Let go of the coulds.
+        - <span class="gripmoji">🧘 </span>Rest in the good(s).
 
 ---
 
