@@ -16,13 +16,13 @@ For me, a nondual practice seems to hit the spot. In particular: the unity of ev
 
 ## Summary of the practice
 
-When meditating, I try to [just sit](http://localhost:4000/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](http://localhost:4000/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense.
+When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense.
 
 When out and about, I have a few little practices.
 
 - To notice the nonduality of Reality, I look for the edges.
 - To notice impermanence, I watch things change.
-- When I feel stressed, I remind myself of [the three uhds](http://localhost:4000/thinking/the-three-uhds/).
+- When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
 - To notice my true nature, I look for myself at zero distance.
 - I remind myself that the path is goal.
 
