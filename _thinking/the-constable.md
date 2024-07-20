@@ -16,7 +16,7 @@ The Constable is a detective. An investigator. They don't know what's happened, 
 
 I'm going to explore this Constable angle a bit more. This character framing is influenced by Internal Family Systems. [I have dug into IFS a little](/thinking/notes-from-IFS-reading/), but intend to come back to it some more.
 
----
+## Talk amongst yourselves
 
 Something that came to mind after reading ["Laugh in the face of standards" on The Imperfectionist](https://ckarchive.com/b/o8ukhqhk2wxv7sp2ww025ap66mwrrho), that I don't think I've thought about before in much detail, is how the various hats (or "parts" in IFS language) **talk to each other.** It's not just that The Constable is another way of thinking about these things, but that The Constable can say "Oi!" to the Critic.
 
