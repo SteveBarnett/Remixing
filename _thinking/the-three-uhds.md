@@ -3,12 +3,11 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2024-07-14
+updated: 2024-07-27
 ---
 
 An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-of-letting-go-s/).
 
-<div class="boxout">Should, could, good.</div>
 
 - **Let go of the shoulds.** 
     - That things **should** be different.
@@ -20,7 +19,7 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
     - That things are **good as they are**.
     - That **you** are good as you are.
 
-When you can't relax, let go, don't fight that. Just notice how it feels, holding on, fighting, struggling.
+When you can't do a step, don't fight it. Just notice how it feels.
 
 ---
 
