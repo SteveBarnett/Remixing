@@ -3,11 +3,18 @@ layout: page
 title: My pattern / skillset
 longerform: true
 added: 2023-04-24
-updated: 2023-04-24
+updated: 2024-07-28
 ---
 
-- **Research**. Take notes along the way. Look widely, look deeply.
-- **Remix**. Note highlights, themes, big ideas. Group and shift similar ideas.
-- **Replay**. Write up in a structured format.
+Kind of "how I do everything." But not really. More like: a common way that I do things, and an update to [How I take notes](/thinking/how-i-take-notes/) (which could have been called "How I study" or "How I process things" or something like that).
 
-With waiting gaps in-between.
+A bit like: this is "my thing." My way of doing this that's a maybe a bit different to how others do it.
+
+- **Research**. Take notes along the way. Look widely, look deeply.
+    - This helps the thing sink in.
+- **Remix**. Note highlights, themes, big ideas. Group and shift similar ideas.
+    - This clarifies and solidifies and refines.
+- **Replay**. Write up in a structured format.
+    - This helps it stick.
+
+With waiting gaps in-between to allow some stewing, incubation.
