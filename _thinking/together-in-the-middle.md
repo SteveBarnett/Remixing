@@ -3,7 +3,7 @@ layout: page
 title: Together in the middle
 longerform: true
 added: 2024-07-19
-updated: 2024-07-19
+updated: 2024-07-27
 ---
 
 Perspectives from philosophy, Buddhism, and working in accessibility.
@@ -20,6 +20,9 @@ Extremes, binaries, tend to be... dodgy.
 - Emptiness or Form.
 - Same or different.
 - Push or pull.
+- "This is perfect."
+- "This changes everything."
+- Never or always.
 
 What we need is a more nuanced, broader, middle way that's more like "why can't it be both?", and "when and how does this apply?", and "what are the ranges on the spectrum?"
 
