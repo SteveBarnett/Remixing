@@ -3,7 +3,7 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-07-18
+updated: 2024-07-28
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
@@ -16,7 +16,7 @@ For me, a nondual practice seems to hit the spot. In particular: the unity of ev
 
 ## Summary of the practice
 
-When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense.
+When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense. A sort of mix of single-tasking and one-pointedness and commitment and focus.
 
 When out and about, I have a few little practices.
 
@@ -25,6 +25,16 @@ When out and about, I have a few little practices.
 - When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
 - To notice my true nature, I look for myself at zero distance.
 - I remind myself that the path is goal.
+
+Some more things to be slotted in somehow:
+
+- Right speech: true, kind, helpful, contextually appropriate.
+- Plain language: clear, concise and well organised
+- Emotional intelligence.
+- Continued recommitment to aligning your actions with your values.
+- Everything is included.
+- Both/and.
+- Context **and** contents.
 
 ## Summary of the theory
 
