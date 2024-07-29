@@ -11,10 +11,10 @@ Kind of "how I do everything." But not really. More like: a common way that I do
 A bit like: this is "my thing." My way of doing this that's a maybe a bit different to how others do it.
 
 - **Research**. Take notes along the way. Look widely, look deeply.
-    - This helps the thing sink in.
+    - This helps the idea(s) sink in.
 - **Remix**. Note highlights, themes, big ideas. Group and shift similar ideas.
-    - This clarifies and solidifies and refines.
+    - This clarifies and solidifies and refines the idea(s).
 - **Replay**. Write up in a structured format.
-    - This helps it stick.
+    - This helps the idea(s) stick.
 
 With waiting gaps in-between to allow some stewing, incubation.
