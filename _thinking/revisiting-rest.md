@@ -10,6 +10,24 @@ updated: 2024-07-27
 
 Something to note is that I tend to be an active relaxer. My [MC SWARM](/themes/2024/#mcswarm) of things I find relaxing are more active than passive.
 
+## [MC SWARM](/themes/2024/#mcswarm) [RRR](/thinking/my-pattern-skillset-research-remix-replay/)
+
+I'm not much of a hiker, but I do like walking. And I do like analogies.
+
+- A compass. Long-term goal. More like a navigational heading.
+- A good pace. Slow and steady. Sustained effort.
+- A good plan. Rhythm more than routine.
+- A route. Short, fixed-time or -term, goal(s) that move in that direction.
+- A keen eye. Soft eyes on the journey.
+
+### The rougher notes
+
+- Refining. Choosing, selecting, wittling, winnowing. Sort like Research, Remix, Replay.
+- Soft eyes. Slow and steady, sustained, broad attention.
+- Mastery. Long term practice, with a gentle goal of getting better.
+- Limits, constraints, time-bound.
+- Rhythm more than routine.
+- A mixture, alternation, of high peaks and troughs and mostly calm, even, smooth.
 
 ## SNAIW 🐌
 
