@@ -3,12 +3,29 @@ layout: page
 title: Revisiting rest
 longerform: true
 added: 2024-07-27
-updated: 2024-07-27
+updated: 2024-07-30
 ---
 
 [My big theme for 2024 is rest](/themes/2024/#practice). I've been feeling like I'm not keeping that very top of mind, and that I've been getting some interesting new angles on rest from [my Zen reading and practice](/thinking/#zen).
 
 Something to note is that I tend to be an active relaxer. My [MC SWARM](/themes/2024/#mcswarm) of things I find relaxing are more active than passive.
+
+## Gathering more threads
+
+Three strands:
+
+- the centre;
+- the edges;
+- the changes.
+
+Three aspects:
+
+- soft-eyed acceptance;
+- short-term focus;
+- slow-and-steady pace.
+
+
+It can be tricky because work in particular requires (uh...) hard eyes. Tight, conceptual, focus.
 
 ## [MC SWARM](/themes/2024/#mcswarm) [RRR](/thinking/my-pattern-skillset-research-remix-replay/)
 
