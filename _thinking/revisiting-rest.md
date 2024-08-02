@@ -10,6 +10,12 @@ updated: 2024-07-30
 
 Something to note is that I tend to be an active relaxer. My [MC SWARM](/themes/2024/#mcswarm) of things I find relaxing are more active than passive.
 
+## Like a sneeze
+
+The trying and not-trying is a bit like a sneeze. There's some intentionality, but it only happens if you don't think about it too hard. The results is a release, not applied effort.
+
+Spotted in [How to do the jhanas](https://nadia.xyz/jhanas).
+
 ## Gathering more threads
 
 Three strands:
