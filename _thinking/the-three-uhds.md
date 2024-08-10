@@ -3,11 +3,12 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2024-07-27
+updated: 2024-08-11
 ---
 
 An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-of-letting-go-s/).
 
+**Noticing** loosens things some. **Accepting** loosens things some more.
 
 - **Let go of the shoulds.** 
     - That things **should** be different.
