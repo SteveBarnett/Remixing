@@ -3,12 +3,14 @@ layout: page
 title: Revisiting rest
 longerform: true
 added: 2024-07-27
-updated: 2024-07-30
+updated: 2024-08-11
 ---
 
 [My big theme for 2024 is rest](/themes/2024/#practice). I've been feeling like I'm not keeping that very top of mind, and that I've been getting some interesting new angles on rest from [my Zen reading and practice](/thinking/#zen).
 
 Something to note is that I tend to be an active relaxer. My [MC SWARM](/themes/2024/#mcswarm) of things I find relaxing are more active than passive.
+
+A little grip: notice the wider space that contains "this" and "not-this". Rest, inactivity, is the wider space that contains not-rest, activity.
 
 ## Like a sneeze
 
