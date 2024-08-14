@@ -3,17 +3,14 @@ layout: page
 title: Zen Koans
 zen2024: true
 added: 2024-04-25
-updated: 2024-04-25
+updated: 2024-08-14
 ---
-
-
-## Introduction
  
-Koans aren't riddles to be solved.
+- Koans aren't riddles to be solved. They're pointers on the path (noting that path is goal is path).
+- Sit with the question. Let the "answer" come forth and reveal itself.
+- Part of the practice is to accept their unanswerability.
 
-Sit with the question. Let the "answer" come forth and reveal itself.
-
-### On Koans
+## On Koans
 
 > **Koans are a good way to cool the assertiveness, to undermine and dismantle the whole intellectual matrix, while harnessing the energy of inquisitiveness and activating intuition.**
 
@@ -31,7 +28,7 @@ From [Zen and the Art of Saving the Planet](/thinking/zen/zen-and-the-art-of-sav
 
 From [Kensho: Heart of Zen](/thinking/zen/kensho-heart-of-zen/).
 
-### On Questions
+## On Questions
 
 > **Love the questions themselves as if they were locked rooms or books written in a very foreign language.**
 
