@@ -82,7 +82,7 @@ Part of Mumon's comment: Let your previous lesser knowledge disappear. As a frui
 
 Gutei: "I attained my one-finger-Zen from my teacher Tenryu, and in my whole life I could not exhaust it."
 
-Part of Mumon's comment: "Englightment, which Gutei obtained, has nothing to do with a finger."
+Part of Mumon's comment: "Englightenment, which Gutei obtained, has nothing to do with a finger."
 
 ### A Beardless Foreigner
 
