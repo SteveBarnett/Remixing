@@ -8,20 +8,34 @@ updated: 2024-08-18
 
 Notes from [The Practice of Life by Charlotte Joko Beck of the Waking Up app](https://dynamic.wakingup.com/pack/PK7AFA7?code=SC541514D&share_id=E191F0EE&source=content%20share).
 
+Some things that feel fresh for me:
+
+- Accept life as it is.
+    - **Rest with life as it is.**
+    - Without judgement.
+    - With curiousity, friendliness, patience.
+    - (Aside: if acceptance means rest, no wonder I struggle with it so much and [have "rest" as a theme for 2024](/themes/2024/#practice)! 😅)
+- Meditation is for noticing **the gap between who we are and who we pretend to be.**
+
 ## My notes on my notes
 
-- The Absolute and the Relative are not two different things.
-- We’re not pieces of whole being. There’s only whole being.
-- Ordinary (mind, life) is the way.
-- Embrace the simple and commonplace. Boring, from the usual point of view.
-- Just this. Whether you like it or not.
-- Just being, without interfering. Doing nothing except maintaining awareness. Not shutting out thoughts, just not holding on to them.
-- Each moment is already perfect.
-- Meditation can help us notice the gap between who we are and who we pretend to be.
-- Calm, comfort, pleasure is not the point of practice. It’s contact with yourself as you are.
-- True peace often comes once we accept, rather than flee from, our most difficult emotions.
-- Don’t run away, analyse it, think about it. Just rest with it, be curious, friendly, patient.
-- Life’s challenges are inevitable. Seeing them as part of practice makes us stronger.
+- One
+    - The Absolute and the Relative are not two different things.
+    - We’re not pieces of whole being. There’s only whole being.
+- Ordinary
+    - Ordinary (mind, life) is the way.
+    - Embrace the simple and commonplace. Boring, from the usual point of view.
+- Just
+    - Just this. Whether you like it or not.
+    - Just being, without interfering. Doing nothing except maintaining awareness. Not shutting out thoughts, just not holding on to them.
+- Practice
+    - Meditation can help us notice the gap between who we are and who we pretend to be.
+    - Calm, comfort, pleasure is not the point of practice. It’s contact with yourself as you are.
+    - Life’s challenges are inevitable. Seeing them as part of practice makes us stronger.
+- Acceptance
+    - True peace often comes once we accept, rather than flee from, our most difficult emotions.
+    - Don’t run away, analyse it, think about it. Just rest with it, be curious, friendly, patient.
+    - Each moment is already perfect.
 
 ## Ordinary Mind
 
