@@ -8,29 +8,41 @@ updated: 2024-08-17
 
 Notes from ["It's Okay Not to Look for the Meaning of Life" by Jikisai Minami](https://www.goodreads.com/book/show/194992867-it-s-okay-not-to-look-for-the-meaning-of-life?ac=1&from_search=true&qid=EJa8osYMCa&rank=1)
 
-- Clarifying a problem can let you see the way out.
+- **It's okay, natural, to feel that you aren't who you want to be.**
+- It's okay, natural, for humans to have fluctuating emotions.
+- **Throwing things away and wanting more things are both about wanting life to be as you wish.**
+- A wider frame makes problems seem smaller.
+- **Thinking that you have to do something is putting yourself in a corner.**
+- **Align your actions with your values, and let the rest slide.**
+- **The more hard-working you are, the more likely you are to assume that hard work will be rewarded.**
+
+## It's okay
+
 - It's all right if you can't be who you want to be.
-- It is natural to feel uncomfortable with who you are.
-- By expanding the frame through which you view things, problems that at first seem large become much smaller.
-- If you think you can make any decision on your own, then your perception is fundamentally naive.
-- Thinking that you have do to something about a particular situation is just putting yourself in a corner.
-- Life is about the kind of stress you choose to live with.
+- **It is natural to feel uncomfortable with who you are.**
+- It doesn't matter if your emotions fluctuate. It is natural for human beings to feel joy, anger, sorrow, and pleasure.
+- If you can live with your regrets without forcing them away, you will one day discover meaning in them.
+- **The act of throwing things away is the same as the desire to own things, and throwing things away is simply part of wanting your situation to be as you wish.**
+
+## Problems
+
+- **Life is about the kind of stress you choose to live with.**
+- Clarifying a problem can let you see the way out.
+- Often, the reason we fail to see a situation clearly is due to the way we distance ourselves from our emotions.
+- (Our cooling down activity) must be something that can be done on a daily basis without using any stimuli that are new of unfamiliar. Ideally done alone, and without moving too much.
+- **By expanding the frame through which you view things, problems that at first seem large become much smaller.**
+- **Thinking that you have do to something about a particular situation is just putting yourself in a corner.**
+- Simply deal with matters as they arise.
+
+## Goals and dreams
 
 - When dreams are dashed, people move away from calculating loss and gain and discover what it is you truly value.
+- **Once you have a clear idea of what you value, you can simply let everything else slide.**
 - In reality, most people's dreams don't come true.
 - A "goal" is a "dream" that incorporates the possibility of abandoning it.
-- The act of throwing things away is the same as the desire to own things, and throwing things away is simply part of wanting your situation to be as you wish.
-- Once you have a clear idea of what you value, you can simply let everything else slide.
-
-- Simply deal with matters as they arise.- The more serious and hard-working people are, the more likely they are to assume that if they work hard their efforts will be rewarded.
-- Often, the reason we fail to see a situation clearly is due to the way we distance ourselves from our emotions.
-- It doesn't matter if your emotions fluctuate. It is natural for human beings to feel joy, anger, sorrow, and pleasure.
 - Actions that are based on the expectations of something good happening in return will not result in a cool down.
-- (Our cooling down activity) must be something that can be done on a daily basis without using any stimuli that are new of unfamiliar. Ideally done alone, and without moving too much.
-
-- If you can live with your regrets without forcing them away, you will one day discover meaning in them.
-
-
+- **The more serious and hard-working people are, the more likely they are to assume that if they work hard their efforts will be rewarded.**
+- If you think you can make any decision on your own, then your perception is fundamentally naive.
 
 ## Raw notes
 
