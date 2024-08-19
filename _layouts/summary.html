@@ -27,10 +27,22 @@
 {%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
 
 {%- assign previousLongerFormMonth = site.time | date: "%m" -%}
+{%- assign previousLongerFormYear = site.time | date: "%Y" -%}
+
+<h3 id="longer-form-{{ previousLongerFormYear }}">{{ previousLongerFormYear }}</h3>
 
 <ul>
 {% for longerformpost in longerformposts %}
 {%- assign currentLongerFormMonth = longerformpost.updated | date: "%m" -%}
+{%- assign currentLongerFormYear = longerformpost.updated | date: "%Y" -%}
+
+{% if currentLongerFormYear != previousLongerFormYear %}
+{%- assign previousLongerFormYear = currentLongerFormYear -%}
+</ul>
+<h3 id="longer-form-{{ currentLongerFormYear }}">{{ currentLongerFormYear }}</h3>
+<ul>
+{% endif %}
+
   <li{% if currentLongerFormMonth != previousLongerFormMonth %} class="month-change"{%- assign previousLongerFormMonth = currentLongerFormMonth -%}{% endif %}>
     <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
     (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
