@@ -75,13 +75,6 @@ Live a good enough ordinary life.
 - Our idea of happiness can be the main obstacle keeping us from happiness.
 - Question our beliefs about what we think our life should be and to turn our effort toward full presence of how it is.
 
-## From my Metta practice
-
-- I find it easy to direct metta outwards.
-- I find it powerful when I imagine someone directing metta at me.
-    - I find it very powerful when it's a mirror of something I find easy to give someone else.
-- I find it very difficult to direct metta at myself.
-
 ## Earlier notes
 
 Some bits of these have been remixed above.
