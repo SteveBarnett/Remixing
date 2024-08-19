@@ -6,17 +6,17 @@
 
 <p>One of my <a href="/themes/2024/">themes for 2024</a> is Zen.</p>
 
-{%- assign thinkingposts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
+{%- assign zenposts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
 
 {%- assign previousZenMonth = site.time | date: "%m" -%}
 
 <ul>
-{% for thinkingpost in thinkingposts %}
-  {% unless thinkingpost.longerform %}
-  {%- assign currentZenMonth = thinkingpost.updated | date: "%m" -%}
+{% for zenpost in zenposts %}
+  {% unless zenpost.longerform %}
+  {%- assign currentZenMonth = zenpost.updated | date: "%m" -%}
   <li{% if currentZenMonth != previousZenMonth %} class="month-change"{%- assign previousZenMonth = currentZenMonth -%}{% endif %}>
-    <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
-    (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
+    <a href="{{ zenpost.url }}">{{ zenpost.title }}</a>
+    (added {{ zenpost.added }}{% if zenpost.updated != zenpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
   </li>
   {% endunless %}
 {% endfor %}
