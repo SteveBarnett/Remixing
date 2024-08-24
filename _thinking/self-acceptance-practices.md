@@ -14,7 +14,8 @@ Live a good enough ordinary life.
 - No human can be always compassionate and insightful and generous.
 - Imperfections are normal, natural, human.
 - Develop a healthy relationship with your imperfections.
-- See the balanced view of yourself: your patterns and human imperfections; your basic innate goodness. - Everyone's good qualities are partly luck and partly effort.
+- See the balanced view of yourself: your patterns and human imperfections; your basic innate goodness.
+- Everyone's good qualities are partly luck and partly effort.
 - Making mistakes then learning, unlearning, and relearning is a good sign that you’re on a good track.
 - It is a rare gift to simply meet with openness and clarity what life brings our way… We have the very mistaken belief that it’s simply not enough.
 - Would you ever treat a friend like this?
