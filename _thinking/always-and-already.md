@@ -6,18 +6,18 @@ added: 2024-08-24
 updated: 2024-08-25
 ---
 
-- Always and already, here and now.
+- **The contents of consciousness, the third-person objective view, are arising and falling away on their own.**
+- **The clarity and stillness of the context of consciousness, the first-person subjective view, is always and already here and now.**
     - Not "Find and rest in the View", but "Realise there is only the View."
-- The contents of consciousness, the third-person objective view, are arising and falling away on their own.
-- The clarity and stillness of the context of consciousness, the first-person subjective view.
     - Bright, luminous, open.
+    - Too close, too accessible, too present, and too simple.
     - Movement and thought occurs in the content, not the context.
-        - Including seeking.
-        - Including "I've got it!"
-        - Including "I'm not getting it!"
-    - Just leave everything in its place.
+        - **Including seeking.**
+        - **Including "I've got it!"**
+        - **Including "I'm not getting it!"**
+    - **Just leave everything in its place.**
 - Everything is included (in Reality). The context. The contents, including seeking.
-    - We are not doing in the world. The world is doing us, like it does trees, clouds.
+    - **We are not doing in the world. The world is doing us, like it does trees, clouds.**
 - The noticing of and from the context can, might, affect the contents.
 - The play and dance of the contents doesn't affect the context.
 
