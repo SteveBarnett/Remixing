@@ -3,7 +3,7 @@ layout: page
 title: Thinking about flow states
 longerform: true
 added: 2024-08-25
-updated: 2024-08-26
+updated: 2024-08-27
 ---
 
 Some elements that are liminal and criss-cross-y for flow state and [nondual glimpse-y](https://stevebarnett.me/thinking/some-nondual-glimpses/).
@@ -20,13 +20,21 @@ What could I bring from this to my practice, the nondual flavour in particular?
 - Loosen the target. No purpose except the activity itself.
 - Loosen the tightness. Notice the rested feeling after a sit.
 
+Aside: the more I think about it, the more ridiculous it seems to sit with a timer. ([Introduction to Zen Training](/thinking/zen/introduction-to-zen-training/) says "In order to measure time, an incense stick is better than a watch or a clock.") Something like: the same type of error as actively trying really hard to fall asleep. However, for my next step, I think I might try:
+
+- 30m sit;
+- bells at 0, 10, 20, 30;
+- stop at some point between 20 and 30.
+
+I was wondering about sitting for my usual 20m and "Don't stop immediately at the end bell." I sit in the morning before work. Although I think I am unlikely to sit for "too long," having this 30m bell as a safety net feels calming and helpful.
+
 ## Elements of flow states for me
 
 - Not complete beginner skill level. At the thing, or with the tools. (But not expert level either)
 - Playful, fun, self-fulfilling, activity. (But usually as part of a "project" container)
 - No time limit. It takes as long as it takes. (Nothing "next" on the agenda)
 
-## Gathered gather notes
+## Gathered gathered notes
 
 - The loosening of the sense of self.
 - The feeling of unity of body and mind, actor and action. 
