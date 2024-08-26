@@ -3,16 +3,28 @@ layout: page
 title: Thinking about flow states
 longerform: true
 added: 2024-08-25
-updated: 2024-08-25
+updated: 2024-08-26
 ---
 
-Elements of flow states for me:
+Some elements that are liminal and criss-cross-y for flow state and [nondual glimpse-y](https://stevebarnett.me/thinking/some-nondual-glimpses/).
+
+- Activity-based timing, not clock-based timing.
+- High effort and focus, not high difficulty.
+- Restful and restorative, not tiring and draining.
+- Self-fulfilling and playful, not goal-based or outcome-based.
+- Slow(er) tempo, not rushed.
+
+What could I bring from this to my practice, the nondual flavour in particular?
+
+- Loosen the timing. Don't stop immediately at the end bell.
+- Loosen the target. No purpose except the activity itself.
+- Loosen the tightness. Notice the rested feeling after a sit.
+
+## Elements of flow states for me
 
 - Not complete beginner skill level. At the thing, or with the tools. (But not expert level either)
 - Playful, fun, self-fulfilling, activity. (But usually as part of a "project" container)
 - No time limit. It takes as long as it takes. (Nothing "next" on the agenda)
-
-(Aside: the no time limit thing is interesting... Applied to meditation: try more silent sits. Reframe the last bell as bookend, or as a minimum. Don't stop immediately.)
 
 ## Gathered gather notes
 
