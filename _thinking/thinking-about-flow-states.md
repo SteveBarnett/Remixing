@@ -16,9 +16,9 @@ Some elements that are liminal and criss-cross-y for flow state and [nondual gli
 
 What could I bring from this to my practice, the nondual flavour in particular?
 
-- Loosen the timing. Don't stop immediately at the end bell.
-- Loosen the target. No purpose except the activity itself.
-- Loosen the tightness. Notice the rested feeling after a sit.
+- Loosen the **timing**. Don't stop immediately at the end bell.
+- Loosen the **target**. No purpose except the activity itself.
+- Loosen the **tightness**. Notice the rested feeling after a sit.
 
 Aside: the more I think about it, the more ridiculous it seems to sit with a timer. ([Introduction to Zen Training](/thinking/zen/introduction-to-zen-training/) says "In order to measure time, an incense stick is better than a watch or a clock.") Something like: the same type of error as actively trying really hard to fall asleep. However, for my next step, I think I might try:
 
