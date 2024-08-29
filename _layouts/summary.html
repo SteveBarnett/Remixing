@@ -16,7 +16,7 @@
   {%- assign currentZenMonth = zenpost.updated | date: "%m" -%}
   <li{% if currentZenMonth != previousZenMonth %} class="month-change"{%- assign previousZenMonth = currentZenMonth -%}{% endif %}>
     <a href="{{ zenpost.url }}">{{ zenpost.title }}</a>
-    (added {{ zenpost.added }}{% if zenpost.updated != zenpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
+    (added {{ zenpost.added }}{% if zenpost.updated != zenpost.added %}, updated {{ zenpost.updated }}{% endif %})
   </li>
   {% endunless %}
 {% endfor %}
