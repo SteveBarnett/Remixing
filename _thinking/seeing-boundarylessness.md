@@ -27,4 +27,8 @@ While listening to some more Headless Way sessions, I stumbled across what feels
 - Can you see anything that's not in your field of vision?
 - Your feel of vision is boundless, open, space.
 
+---
+
+My initial thought was that I was looking for a good way to demonstrate this to others, help them see it too. But perhaps it's just me finally "getting", experientially, [The Pointing Experiment](/thinking/the-headless-way-session-for-one-mindful-breath/#-pointing-experiment).
+
 Some Headless Way notes of mine: [The Headless Way](/thinking/headless/); [Experiments in Having No Head](/thinking/experiments-in-having-no-head/); ["The Headless Way" session for One Mindful Breath](/thinking/the-headless-way-session-for-one-mindful-breath/) (which I continue to chicken out of running); [The Headless Way: A Conversation](/thinking/the-headless-way-a-conversation/).
