@@ -10,13 +10,13 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
 
 **Noticing** loosens things some. **Accepting** loosens things some more.
 
-- **Let go of the shoulds.** 
+- **Let go of the shoulds.**{: #shoulds }
     - That things **should** be different.
     - That **you** should be different.
-- **Let go of the coulds.**
+- **Let go of the coulds.**{: #coulds }
     - That things **could** be different.
     - That **you** could be different.
-- **Rest in the good(s).**
+- **Rest in the good(s).**{: #goods }
     - That things are **good as they are**.
     - That **you** are good as you are.
 
