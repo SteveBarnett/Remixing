@@ -197,7 +197,8 @@ h1 {
 }
 
 div:target h1:before, div:target h2:before, div:target h3:before,
-h1:target:before, h2:target:before, h3:target:before {
+h1:target:before, h2:target:before, h3:target:before,
+strong:target:before {
   content: "→";
   margin-right: 0.25em;
 }
