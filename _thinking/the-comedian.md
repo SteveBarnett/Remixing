@@ -2,7 +2,7 @@
 layout: page
 title: The Comedian
 added: 2024-07-13
-updated: 2024-07-20
+updated: 2024-09-03
 longerform: true
 ---
 
@@ -13,6 +13,8 @@ The Comedian does a humorous reframing of things. They make almost everything in
 A useful aspect of The Comedian is the comedic (re)frame. Looking at the current frame, often blame or shame, and changing it. It's one flavour of how [the three uhds](/thinking/the-three-uhds/) can come out.
 
 **The Comedian can be a particularly good antidote to The Inner Critic. They can highlight the ridiculousness of The Inner Critic's demands, standards, expectations.**
+
+Something I've noticed: I tend to be quite creative when I'm trying to be funny.
 
 ## Lols elsewhere
 

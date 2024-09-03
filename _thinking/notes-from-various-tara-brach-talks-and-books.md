@@ -3,7 +3,7 @@ layout: page
 title: Notes from various Tara Brach talks and books
 longerform: true
 added: 2024-09-03
-updated: 2024-09-03
+updated: 2024-09-04
 ---
 
 - Our qualities and behaviours are the product of many causes and conditions. 
@@ -14,9 +14,10 @@ updated: 2024-09-03
 Matching this up a bit with [the three uhds](/thinking/the-three-uhds/):
 
 - **Let go of the shoulds.**
-    - Our culture, our parents, our friends, and more, determine which qualities and behaviours are deemed good, loveable, worthy.
+    - Which qualities and behaviours we deem good, loveable, worthy, are determined by nature and nurture, many causes and conditions.
+    - We tend to focus on what we think is wrong and/or missing.
 - **Let go of the coulds.**
-    - Our qualities and behaviours are the product of many causes and conditions. 
+    - Our qualities and behaviours are determined by nature and nurture, many causes and conditions.
 - **Rest in the good(s).**
     - Notice that as we tend to focus on what's wrong with us, what's missing.
     - Meet your edge and soften.
