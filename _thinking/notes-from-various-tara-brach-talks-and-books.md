@@ -14,13 +14,12 @@ updated: 2024-09-04
 Matching this up a bit with [the three uhds](/thinking/the-three-uhds/):
 
 - **Let go of the shoulds.**
-    - Which qualities and behaviours we deem good, loveable, worthy, are determined by nature and nurture, many causes and conditions.
-    - We tend to focus on what we think is wrong and/or missing.
+    - We tend to focus our qualities and behaviours that we think are wrong and/or missing.
+    - And what we think as wrong and/or missing is determined by nature and nurture, many causes and conditions.
 - **Let go of the coulds.**
     - Our qualities and behaviours are determined by nature and nurture, many causes and conditions.
 - **Rest in the good(s).**
-    - Notice that as we tend to focus on what's wrong with us, what's missing.
-    - Meet your edge and soften.
+    - Meet your edge and soften. Hold things with compassion.
 
 ## Gathered notes
 
