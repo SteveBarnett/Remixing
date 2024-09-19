@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Notes from Zen Mind, Beginner's Mind
+title: "Zen Mind, Beginner's Mind: OMB session"
 zen2024: true
 added: 2024-08-30
-updated: 2024-08-30
+updated: 2024-09-20
 ---
-
-From a reread of "Zen Mind, Beginner's Mind" by Shunryu Suzuki.
-
-In particular keeping soft eyes for things that explicitly talk about beginner's mind. Or no-mind, or ordinary mind.
 
 ## OMB session draft outline
 
@@ -119,4 +115,9 @@ the most difficult thing is always to keep your beginner’s mind. There is no n
 - we just practice zazen. That is all we do, and we are happy in this practice. For us there is no need to understand what Zen is. We are practicing zazen. So for us there is no need to know what Zen is intellectually.
 - The best way towards perfect composure is to forget everything. Then your mind is calm, and it is wide and clear enough to see and feel things as they are without any effort.
 - “I have to stop my mind in my practice, but I cannot. My practice is not so good.” This kind of idea is also the wrong way of practice.
-  
+
+---
+
+From a reread of "Zen Mind, Beginner's Mind" by Shunryu Suzuki.
+
+In particular keeping soft eyes for things that explicitly talk about beginner's mind. Or no-mind, or ordinary mind.
