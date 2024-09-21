@@ -6,28 +6,72 @@ added: 2024-08-30
 updated: 2024-09-20
 ---
 
-## OMB session draft outline
+## OMB session
 
-- **What am I?**
-    - Short "practical" bit.
-- Background. The book. Zen. The innocence of **What am I?**
-- “In the beginner’s mind there are many possibilities, but in the expert’s there are few.”
-    - Free of preconceived ideas, subjective intentions, habits, (the web of relations).
-- The beginner's mind is empty.
-    - Ready to observe, open to everything.
-- The beginner's mind has no ambition.
-    - No thought of attainment.
-    - No hope for a future outcome.
-    - Only here and now.
-    - No hoping for a future here-and-now state!
-    - No thought of self.
-- The beginner's mind doesn't discriminate.
-    - Doesn't limit.
-    - In particular, doesn't add an "I".
-- The beginner's mind is don't-know mind.
+### Session outline
+
+- what's on top? (your name, and what’s top of mind for you);
+- brief introduction and background on the book;
+- a series of ideas and observations from the book;
+    - more like an open house session, with some prompts from the book.
+- a closing meditation;
+
+### The book, and Zen
+
+- Ideas from what's considered a modern classic Zen book: Zen Mind, Beginner's Mind by Shunryu Suzuki.
+    - First published in 1970. Still reads **fresh**.
+    - Much recommended as the best first book to read on Zen.
+    - Most famous line: “In the beginner’s mind there are many possibilities, but in the expert’s there are few.” We'll come back to that in a moment.
+    - Shunryu Suzuki’s is ordinary. Nothing special. In Shunryu Suzuki’s book the words satori and kensho, its near-equivalent, never appear. “It’s not that satori is unimportant, but it’s not the part of Zen that needs to be stressed.”
+    - Shunryu Suzuki (1904–1971) was one of the most influential spiritual teachers of the twentieth century and is truly a founding father of Zen in America. A Japanese priest of the Soto lineage, he taught in the United States from 1959 until his death. Helped popularize Zen Buddhism in the United States, and is renowned for founding the first Zen Buddhist monastery outside Asia.
+    - The purpose of Zen is to make you wonder about and investigate your true nature.
+    - The purpose of studying Buddhism is not to study Buddhism, but to study ourselves.
+    - Teachers uses the phrase “Zen mind” to help stir up your sense of inquiry.
+    - The innocence of the first inquiry: what am I?
+        - This innocence, maybe naivety, is beginner's mind. "I don't know."
+        - Not quite a question to be answered.
+            - More like a pointers on the path (noting that path is goal is path).
+            - More the answering is in the (process of) questioning.
+        - Harness the energy of inquisitiveness and activate your intuition.
+        - What's there after your first few answers?
+        - Sitting, meditating, is to realise our true nature through a more intuitive, less analytical, answer to “what am I?”
+- See also the "curse of knowledge". A cognitive bias. A person with specialised knowledge assumes that others share that knowledge.
+
+### Flavours of, aspects of, beginner's mind.
+
+The beginner's mind is... open, empty, content.
+
+#### Open
+
+- Open to all possibilities.
+- Open to things as they are. Before any "could" or "should". Just "as it is".
+- Open in the sense of non-discriminatory, inclusive, accepting. In that sense, it's a very compassionate mind.
+- Open like an open hand, not a clenched fist.
+
+Related: the beginner's mind is don't-know mind. That doesn't mean not knowing anything, or having no knowledge. It means more like not clinging to ideas and opinions.
+
+#### Empty
+
+- Not quite like nothing or null.
+- Empty as in absence, the possibility of presence.
+- Like a garden before anything's growing in it. Like a cup before you put your drink into it.
+- Empty as is before names and forms.
+- Empty as in free, free of the habits of the expert.
+- Empty like ready. Ready to observe. Ready to learn.
+
+#### Content, Here/Now
+
+- No thoughts, or worries, about attainment or achievement or outcome.
+- No need or craving for a deep understanding of Zen or Buddhism or life.
+- Trying to attain something takes us away from the here and now, from the present moment.
+- Empty of intention.
+
+### Closing
+
 - We sit to actualise, to do these things.
-    - Wisdom is not something to learn.
+    - Wisdom is not something to learn, it's something to earn. It comes from action (or inaction), not from study.
     - Wisdom is something which will come out of your mindfulness.
+    - Okay. Let's sit.
 
 ## Gathered notes
 
