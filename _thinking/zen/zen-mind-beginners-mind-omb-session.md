@@ -3,54 +3,65 @@ layout: page
 title: "Zen Mind, Beginner's Mind: OMB session"
 zen2024: true
 added: 2024-08-30
-updated: 2024-09-20
+updated: 2024-09-21
 ---
 
-## OMB session
+* Display TOC
+{:toc}
 
-### Session outline
+## Outline
 
-- what's on top? (your name, and what’s top of mind for you);
-- brief introduction and background on the book;
-- a series of ideas and observations from the book;
+1. what's on top? (your name, and what’s top of mind for you);
+2. brief introduction and background on the book;
+3. a series of ideas and observations from the book;
     - more like an open house session, with some prompts from the book.
-- a closing meditation;
+4. a closing meditation, where you might like to slosh around some of the ideas from the session;
 
-### The book, and Zen
+## Background
 
-- Ideas from what's considered a modern classic Zen book: Zen Mind, Beginner's Mind by Shunryu Suzuki.
-    - First published in 1970. Still reads **fresh**.
-    - Much recommended as the best first book to read on Zen.
-    - Most famous line: “In the beginner’s mind there are many possibilities, but in the expert’s there are few.” We'll come back to that in a moment.
-    - Shunryu Suzuki’s is ordinary. Nothing special. In Shunryu Suzuki’s book the words satori and kensho, its near-equivalent, never appear. “It’s not that satori is unimportant, but it’s not the part of Zen that needs to be stressed.”
-    - Shunryu Suzuki (1904–1971) was one of the most influential spiritual teachers of the twentieth century and is truly a founding father of Zen in America. A Japanese priest of the Soto lineage, he taught in the United States from 1959 until his death. Helped popularize Zen Buddhism in the United States, and is renowned for founding the first Zen Buddhist monastery outside Asia.
-    - The purpose of Zen is to make you wonder about and investigate your true nature.
-    - The purpose of studying Buddhism is not to study Buddhism, but to study ourselves.
-    - Teachers uses the phrase “Zen mind” to help stir up your sense of inquiry.
-    - The innocence of the first inquiry: what am I?
-        - This innocence, maybe naivety, is beginner's mind. "I don't know."
-        - Not quite a question to be answered.
-            - More like a pointers on the path (noting that path is goal is path).
-            - More the answering is in the (process of) questioning.
-        - Harness the energy of inquisitiveness and activate your intuition.
-        - What's there after your first few answers?
-        - Sitting, meditating, is to realise our true nature through a more intuitive, less analytical, answer to “what am I?”
-- See also the "curse of knowledge". A cognitive bias. A person with specialised knowledge assumes that others share that knowledge.
+### The book
 
-### Flavours of, aspects of, beginner's mind.
+- Zen Mind, Beginner's Mind by Shunryu Suzuki.
+- Considered a modern classic, best first book on Zen.
+- First published in 1970. Still reads **fresh**.
+- It's most famous line: “In the beginner’s mind there are many possibilities, but in the expert’s there are few.”
+
+### Shunryu Suzuki
+
+- Where some teachers' Zen is dramatic or loud, Shunryu Suzuki’s is ordinary. Nothing special.
+- Doesn't mention enlightenment because, for him, it's not the part that needs to be stressed.
+- Shunryu Suzuki (1904–1971) was a Sōtō Zen priest.
+    - We won't go into the Zen family trees, but Sōtō is one of the big schools of Zen. They emphasise "just sitting."
+- Considered a founder of Zen in America, known for founding the first Zen monastery outside Asia. And now I've said "found" too many times and it sounds weird.
+
+<!-- 
+### Zen
+
+- The purpose of Zen is to make you wonder about and investigate your true nature.
+- A favourite question to consider in Zen is "What am I?" (Or "Who am I?" or "What is this?")
+- Zen pushes us past initial and easy ideas and answers.
+- A good beginning is to approach this question with a beginner's mind, and find that your answer is "I don't know."
+- Not quite a question to be answered, especially not analytically.
+    - More like a pointers on the path (noting that path is goal is path).
+    - More the answering is in the (process of) questioning.
+    - Sitting, meditating, is to realise our true nature through a more intuitive, less analytical, answer to “what am I?”
+    - Harness the energy of inquisitiveness and activate your intuition.
+-->
+
+## Flavours of, aspects of, beginner's mind.
 
 The beginner's mind is... open, empty, content.
 
-#### Open
+### Open
 
 - Open to all possibilities.
 - Open to things as they are. Before any "could" or "should". Just "as it is".
 - Open in the sense of non-discriminatory, inclusive, accepting. In that sense, it's a very compassionate mind.
 - Open like an open hand, not a clenched fist.
 
-Related: the beginner's mind is don't-know mind. That doesn't mean not knowing anything, or having no knowledge. It means more like not clinging to ideas and opinions.
+<!-- Related: the beginner's mind is don't-know mind. That doesn't mean not knowing anything, or having no knowledge. It means more like not clinging to ideas and opinions. Being open to changing ideas, or hearing new ones. -->
 
-#### Empty
+### Empty
 
 - Not quite like nothing or null.
 - Empty as in absence, the possibility of presence.
@@ -59,22 +70,27 @@ Related: the beginner's mind is don't-know mind. That doesn't mean not knowing a
 - Empty as in free, free of the habits of the expert.
 - Empty like ready. Ready to observe. Ready to learn.
 
-#### Content, Here/Now
+### Content, Here/Now
 
 - No thoughts, or worries, about attainment or achievement or outcome.
 - No need or craving for a deep understanding of Zen or Buddhism or life.
 - Trying to attain something takes us away from the here and now, from the present moment.
 - Empty of intention.
 
-### Closing
+## Closing
 
-- We sit to actualise, to do these things.
-    - Wisdom is not something to learn, it's something to earn. It comes from action (or inaction), not from study.
-    - Wisdom is something which will come out of your mindfulness.
-    - Okay. Let's sit.
+- The Sōtō school of Zen focuses on sitting.
+- Their take is sitting is the thing. The path. The goal.
+- Not to achieve something. Just sit. For the simple delight of sitting.
+- Open, receptive, alert, in the same you played when you were a child.
+- Being instead of doing.
+- Okay. Let's sit.
 
-## Gathered notes
-
+<details>
+    <summary>
+        <h2 id="gathered-notes">Gathered Notes</h2>
+    </summary>
+<div markdown="1">
 - Background: first published in 1970. Considered a modern Zen classic.
     - The purpose of studying Buddhism is not to study Buddhism, but to study ourselves.
     - "To study the self is to forget the self." (Dogen)
@@ -112,9 +128,14 @@ Related: the beginner's mind is don't-know mind. That doesn't mean not knowing a
 - The beginner doesn't know what's next.
     - “Now it is raining, but we don’t know what will happen in the next moment. By the time we go out it may be a beautiful day, or a stormy day. Since we don’t know, let’s appreciate the sound of the rain now.”
     - The best way towards perfect composure is to forget everything. Then your mind is calm, and it is wide and clear enough to see and feel things as they are without any effort.
+</div>
+</details>
 
-## Raw notes
-
+<details>
+    <summary>
+        <h2 id="raw-notes">Raw notes</h2>
+    </summary>
+<div markdown="1">
 - In the forty years since its original publication, Zen Mind, Beginner’s Mind has become one of the great modern Zen classics, much beloved, much reread, and much recommended as the best first book to read on Zen.
 - Whereas Daisetz Suzuki’s Zen was dramatic, Shunryu Suzuki’s is ordinary.
 - In Shunryu Suzuki’s book the words satori and kensho, its near-equivalent, never appear.
@@ -159,6 +180,8 @@ the most difficult thing is always to keep your beginner’s mind. There is no n
 - we just practice zazen. That is all we do, and we are happy in this practice. For us there is no need to understand what Zen is. We are practicing zazen. So for us there is no need to know what Zen is intellectually.
 - The best way towards perfect composure is to forget everything. Then your mind is calm, and it is wide and clear enough to see and feel things as they are without any effort.
 - “I have to stop my mind in my practice, but I cannot. My practice is not so good.” This kind of idea is also the wrong way of practice.
+</div>
+</details>
 
 ---
 
