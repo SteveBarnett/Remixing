@@ -93,12 +93,12 @@ We'll **close with our usual 20 minute silent sit.**
 - What's here when there's no problem to solve? (Loch Kelly)
     - Stats: Author, meditation teacher, psychotherapist. For about 25 years. Effortless Mindfulness Institute.
     - Vibe check: Experiential teaching style, Glimpses.
-- In this moment, is there really a problem? (Sam Harris)
-    - Stats: Philosopher, neuroscientist, author, and podcast host. 2018 Waking Up app.
-    - Vibe check: Makes Good Trouble, usually. Particularly opposed to dogmatic belief. All over the place in a good way, but Dzogchen-like focus for meditation.
 - What if we let the labels go (bad and good) and tune into the actual felt experience? (Joan Tollifson)
         - Stats: Teaching since 1996. Does not identify with any particular tradition. Oregon.
     - Vibe check: Background includes Buddhism, Advaita, radical nonduality, and more. Teaching since 1996. Raw and fresh and immediate.
+- In this moment, is there really a problem? (Sam Harris)
+    - Stats: Philosopher, neuroscientist, author, and podcast host. 2018 Waking Up app.
+    - Vibe check: Makes Good Trouble, usually. Particularly opposed to dogmatic belief. All over the place in a good way, but Dzogchen-like focus for meditation.
 
 ---
 
