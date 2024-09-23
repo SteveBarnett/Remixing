@@ -2,7 +2,7 @@
 layout: page
 title: The Constable
 added: 2024-03-12
-updated: 2024-07-13
+updated: 2024-09-23
 longerform: true
 ---
 
@@ -15,6 +15,10 @@ The Constable is a detective. An investigator. They don't know what's happened, 
 </div>
 
 I'm going to explore this Constable angle a bit more. This character framing is influenced by Internal Family Systems. [I have dug into IFS a little](/thinking/notes-from-IFS-reading/), but intend to come back to it some more.
+
+An excellent question that the Constable might ask, short-circuiting the Critic:
+
+> What **would** be good enough? Be specific.
 
 ## Talk amongst yourselves
 
