@@ -3,7 +3,7 @@ layout: page
 title: "Answerable and unanswerable questions (or: A different kind of Quiz Night)"
 longerform: true
 added: 2024-09-05
-updated: 2024-09-24
+updated: 2024-09-25
 ---
 
 **What's on top?** Your name, and what's top of mind for you.
@@ -11,16 +11,26 @@ updated: 2024-09-24
 ## Introduction
 
 - This session **more practical and less theory.** Perhaps **a bit odd.**
-
-### Topic
-
-I have a **handful of questions.** Interesting inquiries, peculiar prompts, weird wonderings, curious cues.
-
-- I've gathered them from a bunch of **different teachers.** I'll say a tiny stats and vibe check about them with the question. Please feel free to correct things I got wrong!
-- They all do something similar: they're pointers or guides or invitations to explore a bit more about **who you really are.** Some traditions say "**your true nature.**"
-- The questions we'll consider, contemplate, and check out invite us to look **more from an experiential angle than a conceptual one.**
-    - Concepts are useful, but they create division, simplify and exclude, make things fixed and static.
+- I have a **handful of questions** for us to meditate on. Interesting inquiries, peculiar prompts, weird wonderings, curious cues.
+    - The questions we'll consider, contemplate, and check out invite us to look **more from an experiential angle than a conceptual one.**
+    - Concepts are useful, but they simplify and exclude, make things fixed and static.
     - Experiential answers can be more wide and meaningful and interesting.
+- I've gathered them from a bunch of **different teachers.** I'll say a tiny stats and vibe check about them with the question.
+
+### Why these questions?
+
+- To the **see the truth.** The questions are pointers or guide or invitations to see something that's usually, frequently, obscured.
+    - To use a classic analogy: the sun is always there and shining, but sometimes behind clouds, or a storm, or its night-time.
+- To **find some peace.** Find a bit more space. Make space around difficult or uncomfortable thoughts and feelings.
+
+### Structure
+
+1. I'll **introduce the questions,** and where I've most recently seen it.
+2. We'll do a **short 5 minute meditation on it**.
+    - I'll ring the bell once to start the little sit, and ring it once to end it.
+3. We'll see if we want to have a **short discussion** about it.
+4. We'll move on to another questions. We'll do as many questions as we do.
+5. We'll **close with our usual 20 minute silent sit.**
 
 ### Example: singing bowl.
 
@@ -32,35 +42,6 @@ What is this?
     - Vibe check: letters to students and "dharma combat".
 - Can you taste the difference a bit? Between the labels and the verb?
 - In my experience, the more we think about it, the more confusing it gets. The less we think, the more it "makes sense."
-- Another good answer is "I don't know." Lots going on there, but: realising that any word-y answer can't capture it. And that just experiencing it is very "close." (Dizang)
-    - Stats: Zen Master. Lived about 1,100 years ago.
-    - Vibe check: “Not knowing is most intimate.” in a koan.
-
-### Why these questions?
-
-There a couple of takes.
-
-- To the **see the truth.** See something that's usually, frequently, obscured.
-    - To use a classic analogy: the sun is always there and shining, but sometimes behind clouds, or a storm, or its night-time.
-- To **find some peace.** Find a bit more space. Make space around difficult or uncomfortable thoughts and feelings.
-
-### Structure
-
-I'll **introduce the questions,** and where I've most recently seen it. Then we'll do a **short 5 minute meditation on it**, followed by a **short discussion.**
-
-I'll ring the bell once to start the little sit, and ring it once to end it.
-
-<!--
-For the sitting:
-
-- Not **what you know.** What you experience, before labelling it or judging it.
-- Not **what it means.** Just what is is, just what is given.
-- Not **what others say.** What you find when you check for yourself.
- -->
-
-We'll do as many questions as we do.
-
-We'll **close with our usual 20 minute silent sit.**
 
 ## Questions
 
