@@ -45,12 +45,17 @@ What is this?
 
 ## Questions
 
-**Where do your thoughts come from? Where do they go? (Tara Brach)**
+✔ **Where do your thoughts come from? Where do they go? (Tara Brach)**
 
 - Stats: Ph.D. in Clinical Psychology, trained Buddhist teacher. Hundreds of articles, videos, talks, and some great books.
 - Vibe check: Mix of Western psychology and Eastern spiritual practices, in particular Buddhism. Compassion, acceptance. Equity, inclusivity, peace, sustainability.
 
-**Who or what is noticing? (Diana Winston)**
+✔ **What's here when there's no problem to solve? (Loch Kelly)**
+
+- Stats: Author, meditation teacher, psychotherapist. For about 25 years. Effortless Mindfulness Institute.
+- Vibe check: Experiential teaching style, Glimpses.
+
+✔ **Who or what is noticing? (Diana Winston)**
 
 - Stats: Taught mindfulness for health and well-being since 1993 in many and varied places, including Director of Mindfulness Education at UCLA's Mindful Awareness Research Center. Author of several books.
 - Vibe check: Secular. Flexible, appropriate practice. Right practice for the right moment. 
@@ -59,11 +64,6 @@ What is this?
 
 - Stats: American-born. Recently retired after several decades of teaching. Name means “primordial peace”. 
 - Vibe check: Non-denominational, but strong flavours of Zen. Peace. Okayness.
-
-**What's here when there's no problem to solve? (Loch Kelly)**
-
-- Stats: Author, meditation teacher, psychotherapist. For about 25 years. Effortless Mindfulness Institute.
-- Vibe check: Experiential teaching style, Glimpses.
 
 **What do you find when you look for yourself at zero distance? (Richard Lang)**
 
