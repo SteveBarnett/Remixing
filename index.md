@@ -7,15 +7,15 @@ Hi, I’m Steve Barnett.
 
 I tend to be quite reflective. Here's [a short review of my 2023](/review/2023/), and [my ongoing focus for 2024](/themes/2024).
 
-And here's what I've been up to the past few months: [May](/2024/05/), [June](/2024/06/), [July](/2024/07/), [August](/2024/08/).
+And here's what I've been up to the past few months: [July](/2024/07/), [August](/2024/08/), [September](/2024/09/).
 
 ## Personal
 
-I like **reading** for fun and for learning. Around the start of 2018 I started tracking what I read on [my goodreads profile](https://www.goodreads.com/max_barners). I keep a copy of [my reading list](/reading/) here. I try to read widely, but I particularly like sci-fi, psychology, and (several flavours of) philosophy. I often [write up my notes on index cards](/notes/) to help me summarise and remember the content. Things I want to keep considering I also write up as one-liners in [my thinking section](/thinking/), in a digital [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)-like format.
+I like **reading** for fun and for learning. Around the start of 2018 I started tracking what I read on [my goodreads profile](https://www.goodreads.com/max_barners). I keep a copy of [my reading list](/reading/) here. I try to read widely, but I particularly like sci-fi, psychology, and (several flavours of) philosophy. I often [write up my notes on index cards](/notes/) to help me summarise and remember the content. Things I want to keep considering I also write up in [my thinking section](/thinking/), in a digital [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)-like format.
 
 I like making **pictures**, with cameras or pens and pencils. Often abstract, strange juxtapositions, or iconography and patterns. I go by the nickname Max Barners. [See some of my photos on Instagram](https://www.instagram.com/maxbarners/). [I like to sketch and draw](/art/), especially in small and weird ways.
 
-I like making and listening to **music**. I made themed playlists for a series of "house parties for grown ups" (start early, dance a lot, finish early). The mixes live at [my profile on Mixcloud](https://www.mixcloud.com/MaxBarners/). I tinker with making electronic music using Ableton Live and [post the music here](/music/) and to [my SoundCloud profile](https://soundcloud.com/maxbarners).
+I like making and listening to **music**. I made themed playlists for a series of "house parties for grown ups" (start early, dance a lot, finish early). The mixes live at [my profile on Mixcloud](https://www.mixcloud.com/MaxBarners/). I tinker with making electronic music using Ableton Live and [post the music here](/music/).
 
 I occasionally run small ["events"](/eventing/) for small(ish) groups of friends.
   
