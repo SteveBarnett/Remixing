@@ -7,6 +7,13 @@ This is a copy (and slight extension) of [my goodreads list](https://www.goodrea
 
 My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
 
+{%- assign booksthisyear = site.data.books2024.size -%}
+{%- assign bookspermonthmonth = site.time | date: "%-m" -%}
+{% assign bookspermonth = booksthisyear | divided_by: bookspermonthmonth | round %}
+
+📚 Books read this year: {{ booksthisyear }}.
+🎶 Average bpm: {{ bookspermonth }}.
+
 {% assign thisMonth = site.data.books2024[0].date_read | date: "%m" %}
 {% assign siteMonth = site.time | date: "%m" %}
 {% if thisMonth == siteMonth %}
