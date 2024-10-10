@@ -13,3 +13,4 @@ updated: 2024-10-05
 - The Matter With Things. Some notes from the book. Maybe some bits of [My (applied) philosophy](/thinking/my-applied-philosophy/), and how that overlaps with Buddhism.
 - Best bits from Beck books. [Everyday Zen](/notes/zen/everyday%20zen%20-%20charlotte%20joko%20beck.jpg), [Nothing Special](/notes/zen/nothing%20special%20-%20charlotte%20joko%20beck.jpg).
 - Wu wei. Being, not doing. Example: just sitting.
+- Making (no) progress in meditation. Re-inspired by [you are progressing just fine - by Sunni Brown / Sun Kagami](https://nothingintheway.substack.com/p/you-are-progressing-just-fine)
