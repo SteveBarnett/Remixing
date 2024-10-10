@@ -111,3 +111,7 @@ zen2024: true
 - Our biases are ever so subtle.
 - **Whatever is being experienced, let the awareness become intimate with it, and see if it labels itself.**
 - **Over time, as we ripen, we are more and more able to meet situations that we might have considered a burden as opportunities to engage.**
+
+---
+
+Notes from [Deep Hope: Zen Guidance for Staying Steadfast When the World Seems Hopeless by Diane Eshin Rizzetto](https://www.goodreads.com/book/show/44027704-deep-hope)

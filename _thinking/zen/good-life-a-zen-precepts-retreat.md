@@ -152,3 +152,7 @@ updated: 2024-05-11
 - **Inspiration:** There is nothing in anyone else's life that is not appropriate to their spiritual training
 <br><br>
 - When we look for example of people doing it wrong, we find them.
+
+---
+
+Notes from [Good Life: A Zen Precepts Retreat with Cheri Huber by Sara Jenkins (Editor)](https://www.goodreads.com/book/show/1614592.Good_Life)

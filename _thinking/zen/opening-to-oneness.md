@@ -563,3 +563,7 @@ away”
 8. Non-being Stingy
 9. Non-being Angry
 10. Non-abusing the Three Treasures
+
+---
+
+Notes from [Opening to Oneness: A Practical and Philosophical Guide to the Zen Precepts by Nancy Mujo Baker](https://www.goodreads.com/book/show/75776819-opening-to-oneness)
