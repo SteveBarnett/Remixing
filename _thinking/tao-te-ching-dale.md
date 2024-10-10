@@ -6,11 +6,23 @@ updated: 2024-10-11
 longerform: true
 ---
 
+## Gathered notes
+
+(I've read the Tao Te Ching a few times, and these gathered notes are what stood out for me **this time**.)
+
+- The Path is about commitment to transcending our inhumanity. To allow our love and concern for others to define us. To treat everyone with love and respect.
+- Naming and labelling fragments the one Reality.
+- Opposites create, reveal, and define each other. Just as before and after follow each other.
+- We are not separate from the world.
+    - We are an inseparable part of what we are senselessly trying to coerce.
+    - We are an intrinsic part of what we are foolishly trying to possess.
+- Act without acting on. Work without working at.
+
 ## Raw notes
 
 ### Introduction
 
-- The life style of the Great Integrity, then, is not about withdrawal from civilisation, not about escaping into a life of meditation. It is about engagement with life. It is about **commitment to transcending our inhumanity.**
+- The lifestyle of the Great Integrity, then, is not about withdrawal from civilisation, not about escaping into a life of meditation. It is about engagement with life. It is about **commitment to transcending our inhumanity.**
 
 ### The book
 
@@ -33,4 +45,5 @@ longerform: true
 - Since the sage treats everyone with love and respect, everyone loves and respects the sage.
 - If you love, you will be fearlesss. **If you are moderate, you might always sense abundance in life.** If you live in humility, you will be widely trusted.
 - The Way of the Great Integrity is like stringing a bow, pulling down the high, lifting up the low.
+
 Notes from [the Dale edition of Tao Te Ching](https://www.penguin.co.nz/books/tao-te-ching-9781780289649).
