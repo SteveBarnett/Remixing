@@ -44,12 +44,12 @@ Supportive, not prescriptive.
 - 1h dharma talk
 - 20m walk, 20m sit (metta)
 
-### Sessin (multi-day)
+### Sesshin (multi-day)
 
 - 30m sit, 10m walk, repeating
 - An hour or two of gardening, cooking, or cleaning a day
 - Minimal sleep
-- Yaza: penultimate day of 5-day or 7-day session, more time in zazen, when the mind and ego are tired
+- Yaza: more time in zazen on the penultimate day of 5-day or 7-day, when the mind and ego are tired
 
 Often takes about three days to really settle in.
 
