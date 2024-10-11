@@ -3,15 +3,22 @@ layout: page
 title: 'Notes from "A Summary of Existence" by Darryl Bailey'
 longerform: true
 added: 2024-10-05
-updated: 2024-10-05
+updated: 2024-10-11
 ---
-
-
 
 ## Gathered notes
 
-- 
-
+- Life simply happens on its own.
+- Life expresses itself clearly and simply.
+    - We can notice this when we sit quietly, resting, making no effort.
+- Nondual descriptions of Reality, of the Absolute and the Relative, are simple descriptions of ordinary, everyday, life. 
+    - But they can only point to different portions of the happening, not the happening itself.
+    - The happening is felt, not described.
+    - The more we try and describe and explain it, the less clear it becomes.
+- There is only the inexplicable, formless dance presenting itself.
+- When our direction isn't clear, we can sit, be quiet, and rest. We wait for our inuition to push forward and reveal the next step.
+- We are something the whole universe is doing in the same way that a wave is something the whole ocean is doing.
+- There is an inherent urge in the universe for all apparent things to reach their full, and unique, potential.
 
 ## Raw notes
 
@@ -41,3 +48,5 @@ is doing.
 - It only becomes clear when we sit down, or lie down, making no effort to do anything, and simply feel this happening, happening.
 - Clarity abandons understanding and rests as this unexplainable occurrence.
 - Clarity abandons understanding and rests in spontaneity.
+
+Notes from ["A Summary of Existence" by Darryl Bailey]().
