@@ -6,6 +6,15 @@ updated: 2024-10-11
 longerform: true
 ---
 
+## Gathered notes
+
+- Take a skilful approach: adopt things gradually.
+- The six perfections: giving; moral discipline; patience; effort; mental stabilisation; wisdom.
+- Restraint: abstaining from non-virtue.
+- Be tactful and sensitive. Have a flexible mind and flexible behaviour when helping others. Offer help that's relevant, in the right way, and that helps them feel at ease. Act in the way that will have the most positive effect.
+- Apologise and accept apologies freely.
+- Be generous. With help, with relief, with praise.
+
 ## Raw notes
 
 - The four doors of receiving downfalls: not knowing what the downfalls are; lack of respect for Buddha's instructions; strong delusions; non-conscientiousness.
