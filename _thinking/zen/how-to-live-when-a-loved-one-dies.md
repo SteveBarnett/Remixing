@@ -92,4 +92,4 @@ zen2024: true
 
 ---
 
-Notes from "How To Live When A Loved One Dies" by Thich Nhat Hanh.
+Notes from ["How To Live When A Loved One Dies" by Thich Nhat Hanh](https://www.goodreads.com/book/show/55973216-how-to-live-when-a-loved-one-dies).
