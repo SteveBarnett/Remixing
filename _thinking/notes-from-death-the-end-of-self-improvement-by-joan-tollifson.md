@@ -8,22 +8,54 @@ updated: 2024-09-26
 
 ## Gathered notes
 
-- 
-
+- Ageing and dying, like awakening, is a process of subtraction, surrender, letting go, unraveling.
+- The movie of waking life has no more substance or enduring reality than a dream.
+- A wave is never really permanent, or separate from the ocean.
+- A person is never really permanent or separate from the world, from Reality.
+- Things only seem permanent or separate when we don’t look too closely.
+- Opposites are different ways of seeing Reality. Stillness and movement, immutability and impermanence, mind and matter.
+- One seamless whole.
+- There's no separation between form and emptiness, purity and impurity, sacred and profane, spiritual and material, perfection and imperfection
+- Every event, every situation, is simply part of life. Not undignified, or humiliating.
+- Waking up is a release from the fear of disintegration, imperfection, death.
+- Waking up from the obsessive concern with self-improvement and self-preservation.
+- Our (imaginary) problems, dilemmas, disappear when we relax into just being this moment.
+- Gateless gate because there's a real difference between before and after. Even though the gate was imaginary.
+- Waking up is the falling away of the persistent belief that "this isn’t it."
+- Life is playful, purposeless, groundless.
+- I find no boundary between consciousness and its contents. Without words and concepts, it is one, seamless, undivided, unbroken whole.
+- Old age is one long descent into progressively more and more loss of control, loss of independence, loss of mobility, loss of self-image, loss of loved ones, and ultimately, loss of everything.
+- The universe is one seamless happening.
+- Nothing, showing up as everything.
+- Everything is included. Including your urges, impulses, thoughts and actions.
+- "You are perfect just as you are, and there’s room for improvement." — Shunryu Suzuki
+- The wholeness that includes the apparent brokenness.
+- Awareness is upstream from thought.
+- "Enlightenment is not dying a good death. Enlightenment is not needing to die a good death" – Katagiri Roshi
+- The naked actuality of this moment, before we think about it or try to understand or explain it, or get something out of it, or figure out what we think it means.
+- No question of “What does it mean?” No explanation possible. Just this!
+- What is this, if you don’t label it or try to explain it? Don't think, don't analyse, just feel.
+- The deepest truth is not to find an answer, but to live with the answer-less-ness.
+- Willingness to simply be this mass of pain.
+- "Just being alive is enough" – Suzuki Roshi
+- Hating the people who have prejudices is rooted in the false idea that we are all freely choosing to be the way we are. We’re not crazy or evil. We’re just conditioned.
+- In Zen, the transcendent is not beyond the world, but right here in the midst of daily life.
+- When there is awareness, there is clarity and love. When the thinking mind takes over, there is the conditioned personality.
+- In direct experience, we can’t find any place where “consciousness” ends and “the content of consciousness” begins.
 
 ## Raw notes
 
-- Aging and dying, like awakening, are a great stripping process, a process of subtraction.
+- Ageing and dying, like awakening, are a great stripping process, a process of subtraction.
 - The fear of dying only exists during waking life, and only as a fearful idea. In deep sleep, the problem—and the one who seems to have it—no longer exist.
-- The more closely we explore this whole compelling appearance that I call the movie of waking life, themore we find that it has no more substance or enduring reality than a passing dream.
-- Just as no wave is ever really fixed in any permanent form or separate from the ocean, no person is everactually a fixed or solid “thing” separate from the totality.
+- The more closely we explore this whole compelling appearance that I call the movie of waking life, the more we find that it has no more substance or enduring reality than a passing dream.
+- Just as no wave is ever really fixed in any permanent form or separate from the ocean, no person is ever actually a fixed or solid “thing” separate from the totality.
 - Nothing stands apart from it to “get it” or “lose it,”
 - Stillness and movement, immutability and impermanence, mind and matter, are simply different ways of seeing and describing this indivisible actuality.
 - The wholeness we long for is actually all there is.
 - Pain, whether physical or emotional, becomes more interesting and less frightening,
 - If you’ve been with people who are dying, you know that there are usually body fluids involved and all sorts of messy things that don’t fit our limited and unreal picture of dignity.
 - Are all these events undignified? Are they humiliating? Or are they simply part of life?
-- growing old is one long surrender, letting go into a process of subtraction and unraveling,
+- growing old is one long surrender, letting go into a process of subtraction and unravelling,
 - by sacred, I mean worthy of devotion, full of wonder, inconceivable and ungraspable.
 - The ultimate discovery is that there is no actual separation between form and emptiness, purity and
 impurity, sacred and profane, spiritual and material, perfection and imperfection,
@@ -54,7 +86,7 @@ impurity, sacred and profane, spiritual and material, perfection and imperfectio
 - Time and space are a kind of mental construct, a mode of perception.
 - To paraphrase an ancient statement, Here-Now is like a sphere, the center of which is everywhere and the circumference of which is nowhere.
 - Here-Now is the Ultimate Subject to which the word “I” most deeply refers if we trace it back deeper than name and form.
-- What is liberating is to recognize this dimension for yourself, here and now. Believing in it as some kind of idea is just more mental baggage—another
+- What is liberating is to recognize this dimension for yourself, here and now. Believing in it as some kind of idea is just more mental baggage
 - Once we name this omnipresent ground of being, there is always the danger of reifying it and creating a false duality in the mind
 - The division is purely conceptual, a helpful map to use for a moment on the pathless path, but then equally important to discard. Subject and object are one seamless whole.
 - the whole universe are appearing in us, not the other way around. As awareness, as presence, we are being and beholding it all.
@@ -71,7 +103,7 @@ impurity, sacred and profane, spiritual and material, perfection and imperfectio
 - this disintegration may well be a long, painful, frightening, lonely and at times humiliating process.
 - then you notice that this is all thought and imagination, that right now, you are fine. You relax back into the present moment.
 - I have come to see that there is no end to problems. I’ve also come to recognize that life is inherently unfair.
-- There is a great deal of violence and inequity in nature:
+- There is a great deal of violence and inequity in nature
 - It dawned on me gradually that this phenomenal manifestation can only appear in polarities and contrasts.
 - although we often think otherwise, all of our uniquely human weather is in some sense every bit as natural as hurricanes, cloudy days, thunderstorms, lightning strikes, erupting volcanoes, catastrophic earthquakes, swirling tornados, fire storms, tsunamis
 - The whole appearance is empty of inherent, objective, observer-independent reality.
@@ -92,7 +124,8 @@ shapes and colors they see, how to put things into abstract categories, and thus
 - It’s not about some better or different experience, but rather, it’s here in the immediacy of this experience.
 - Trying to find happiness in a passing form is inevitably disappointing.
 - To be average or ordinary, to fail and be imperfect, is our worst nightmare.
-- You are perfect just as you are, and there’s room for improvement. —Shunryu Suzuki The curious paradox is that when I accept myself just as I am, then I can change. —Carl Rogers
+- You are perfect just as you are, and there’s room for improvement. —Shunryu Suzuki
+- The curious paradox is that when I accept myself just as I am, then I can change. —Carl Rogers
 - what has always emerged front and center at the root of it all is the willingness to be as I am; to be, on the human level, in some sense imperfect, incomplete and unresolved; and to see that this very person, warts and all, is already whole and complete,
 - as the pathless path unfolds, everything is discovered to be an expression of this radiant presence that we are. Nothing needs to be pushed away or kept out.
 - The Tibetan Buddhist teacher Chögyam Trungpa famously said that enlightenment is not final victory, but rather, final defeat.
@@ -183,3 +216,5 @@ is something oddly refreshing and grounding about being unable to function. It r
 - These words are sounds we make, sophisticated animal grunts, black squiggles on a page, referring to no actual thing that can ever be found or pinned down—but we think we know what we’re talking about.
 - Any form that seems to exist, if we look closely at it, either with science or careful open attention, turns out to be nothing solid or persisting or independent from everything it supposedly is not.
 - not the freedom to do what I want, but the freedom to be as I am, and the freedom for everything to be as it is, which is no way and every way, and never the same way twice. This is the freedom of nothing to grasp.
+
+Notes from [Death: The End of Self-Improvement" by Joan Tollifson](https://www.joantollifson.com/book-death-the-end-of-self-improvement.html).
