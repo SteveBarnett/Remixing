@@ -12,6 +12,8 @@ We we're in a boat and we look at the shore, it seems like the shore is moving. 
 
 In a similar way, when we observe "the ten thousand things" with a confused body and mind, we think that we have a fixed, permanent, separate, self. When we pay close attention to our behaviour and experience, we see that this is not the case. We see that everything is empty, nothing has a fixed, permanent, separate, "self".
 
+We can't clearly notice recognition and realisation, see the edges of them, because they happen together, with and in the dharma.
+
 ## Raw notes
 
 When a man is sailing along in a boat and he moves his eyes to the shore, he misapprehends that the shore is moving. But if he keeps his eyes on the boat, he can recognize that it is the boat that is moving forward. [Similarly,] when we observe millions of things and phenomena with a disturbed body and mind, we mistakenly think that our own mind or our own spirit may be permanent. But if we familiarize ourselves with our actual conduct and come back to this concrete place, it becomes clear that the millions of things and phenomena are different from ourselves. 
