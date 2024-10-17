@@ -6,6 +6,17 @@ added: 2024-09-26
 updated: 2024-09-26
 ---
 
+## Key points
+
+- Ageing and dying, like awakening, is a process of subtraction and surrender.
+- Things only seem permanent or separate when we don’t look too closely.
+- There’s no separation between (seeming) opposites. Opposites are different ways of seeing Reality.
+- Every event, every situation, is simply part of life. Not undignified, humiliating, or any other qualities.
+- Waking up is a release from the fear, from the obsessive concern with self-improvement and self-preservation. A falling away of the persistent belief that “this isn’t it.”
+- "Gateless gate" because there’s a real difference between before and after. Even though the gate was imaginary.
+- Life is playful, purposeless, groundless.
+- The deepest truth is not to find an answer, but to live with the answer-less-ness.
+
 ## Gathered notes
 
 - Ageing and dying, like awakening, is a process of subtraction, surrender, letting go, unraveling.
