@@ -8,7 +8,7 @@ updated: 2024-10-18
 
 ## My remix
 
-We we're in a boat and we look at the shore, it seems like the shore is moving. When we pay close attention to the boat, we see that it's the boat that's moving.
+When we're in a boat and we look at the shore, it seems like the shore is moving. When we pay close attention to the boat, we see that it's the boat that's moving.
 
 In a similar way, when we observe "the ten thousand things" with a confused body and mind, we think that we have a fixed, permanent, separate, self. When we pay close attention to our behaviour and experience, we see that this is not the case. We see that everything is empty, nothing has a fixed, permanent, separate, "self".
 
