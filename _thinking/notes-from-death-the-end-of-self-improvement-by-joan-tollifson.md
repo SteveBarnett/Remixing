@@ -3,8 +3,18 @@ layout: page
 title: 'Notes from "Death: The End of Self-Improvement" by Joan Tollifson'
 longerform: true
 added: 2024-09-26
-updated: 2024-09-26
+updated: 2024-10-19
 ---
+
+## Interpretations and highlights
+
+- Awakening is a process of subtraction and surrender.
+- Things only seem separate or simple of permanent when we don't look too closely.
+    - Pay more, clearer, longer, attention.
+- Everything is included.
+- Qualities, adjectives, adverbs, are just concepts.
+- **Waking up is a falling away of the persistent belief that this isn't it.**
+- Not "find the answer" or even "find an answer", but **live with answerlessness.**
 
 ## Key points
 

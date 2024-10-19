@@ -2,9 +2,16 @@
 layout: page
 title: 'Notes from "How To Live When A Loved One Dies"'
 added: 2024-09-24
-updated: 2024-09-24
+updated: 2024-10-19
 zen2024: true
 ---
+
+## Interpretations and highlights
+
+- The practice is to stop and take care of, tenderly embrace, painful emotions as soon as they come up. Don't push them away.
+- Embracing and understanding our suffering generates love and compassion, lets forgiveness arise naturally.
+- We're allowed to feel happy now, before the end of all our suffering.
+- Let yourself be nourished by the Earth. Her stability, non-discrimination, perseverance, equanimity, forbearance.
 
 ## Gathered notes
 
