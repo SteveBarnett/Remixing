@@ -17,7 +17,7 @@ Notes from [Ten Fields of Zen Practice Chapter One: What Is Zen Practice? - The 
 	- kind, generous, can laugh at themselves;
 	- present, grounded, flexible, receptive;
 	- aware of their shortcomings, apologises sincerely without defensiveness or self-recrimination.
-- Practice is like walking in a fine mist. After some time you find you are thoroughly wet.
+- **Practice is like walking in a fine mist. After some time you find you are thoroughly wet.**
 
 ## Ten Fields of Zen Practice
 
