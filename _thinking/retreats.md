@@ -3,12 +3,11 @@ layout: page
 title: Retreats
 longerform: true
 added: 2024-03-31
-updated: 2024-09-10
+updated: 2024-11-24
 ---
 
 * Display TOC
 {:toc}
-
 
 ## Structure
 
@@ -89,6 +88,12 @@ Often takes about three days to really settle in.
 	- But keeping some guided ones in my back pocket.
 - I've just noticed that I haven't (officially (?)) incorporated art into retreats.
 	- Sketching nature.
+
+## Helpful things
+
+- Use the iPod instead of the phone for playing guided meditations / talks.
+- Plan and write out the schedule. Don't have to stick to it, but having it is good.
+- Set interval bells if you're struggling to focus.
 
 ## Themes
 
