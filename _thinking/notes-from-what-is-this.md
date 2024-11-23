@@ -23,7 +23,7 @@ moment.
     - We just try to open up some space, some non-identification, to less the power of thoughts over us.
 - Emptiness as in: non-identification, nothing existing independently of what forms it, non-grasping, not identifying. It doesn't mean no thoughts, no sensations, no emotions.
 
-## Methods
+### Methods
 
 - "What is this?" practice is about questioning and opening and waiting. Not answering, not closing down, awaiting.
     - Asking tacitly affirms that we don't know the answer.
