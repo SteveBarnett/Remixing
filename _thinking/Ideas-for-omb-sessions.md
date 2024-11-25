@@ -16,4 +16,5 @@ updated: 2024-10-05
 - Making (no) progress in meditation. Re-inspired by [you are progressing just fine - by Sunni Brown / Sun Kagami](https://nothingintheway.substack.com/p/you-are-progressing-just-fine)
     - Practice is like walking in a fine mist. After some time you find you are thoroughly wet.
     - Doubt as a hindrance, some classical vibes.
+    - Just keep showing up. The way takes care of itself. Just practising is always good enough.
 - Roxy Roshi. Lessons from my favourite Zen master: my dog.
