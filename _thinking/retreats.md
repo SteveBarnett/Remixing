@@ -91,8 +91,10 @@ Often takes about three days to really settle in.
 
 ## Helpful things
 
-- Use the iPod instead of the phone for playing guided meditations / talks.
 - Plan and write out the schedule. Don't have to stick to it, but having it is good.
+- Put away most technology.
+	- Use the iPod instead of the phone for playing guided meditations / talks.
+- Home [samu](https://en.wikipedia.org/wiki/Samu_(Zen)) (looking after the house).
 - Set interval bells if you're struggling to focus.
 
 ## Themes
