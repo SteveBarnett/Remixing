@@ -3,7 +3,7 @@ layout: page
 title: Ideas for OMB sessions
 longerform: true
 added: 2024-10-03
-updated: 2024-10-05
+updated: 2024-11-28
 ---
 
 - Update and run [The Headless Way](/thinking/the-headless-way-session-for-one-mindful-breath/).
@@ -18,3 +18,13 @@ updated: 2024-10-05
     - Doubt as a hindrance, some classical vibes.
     - Just keep showing up. The way takes care of itself. Just practising is always good enough.
 - Roxy Roshi. Lessons from my favourite Zen master: my dog.
+- Keep Going.
+    - Inspired by the [Austin Kleon book](https://austinkleon.com/keepgoing/). [My notes](https://stevebarnett.me/notes/process/keep%20going.jpg).
+    - Using things that are not-meditation to help with our practice.
+    - Seeing practice as a creative endeavour.
+    - Things like:
+        - The process, not the prize.
+        - Forget the noun, do the verb.
+        - The extraordinary is just the ordinary with extra attention applied to it.
+        - To exercise is to exorcise.
+        - Plant your garden.
