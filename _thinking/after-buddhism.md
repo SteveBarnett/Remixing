@@ -9,6 +9,22 @@ longerform: true
 * Display TOC
 {:toc}
 
+## Gathered notes
+
+- Dharma as a living tradition.
+- A good idea is one that is useful and beneficial.
+    - The Buddha-Māra paradigm helps as a reminder that: we need **a radical perceptual shift, that requires constant upkeep.**
+- The dharma comprises **a lifelong practice of task-based ethics**, not a truth-based metaphysics.
+    - Situational, contextual, wise, compassionate, difficult, decision-making.
+    - **Saying yes to all of life, in all circumstances.**
+    - Integrating **mindful attention into the totality of life.**
+- Emptiness as visceral realisation of non-findability, an absence of something that was never there.
+- Conditionality: impermanence, dukkha, not-self.
+- Nirvana: cessation of reactivity. Able to respond without preconceived ideas.
+    - Reached by **paying close, uncompromising, embodied, attention** to the our ever-changing selves, and the people and the world around us.
+- The mystical doesn't transcend the world but saturates it.
+    - **The sacred reveals itself when we're quiet, relaxed, open to what's here and now.**
+
 ## Notes from "After Buddhism: a workbook"
 
 ### what is After Buddhism about?
@@ -56,11 +72,11 @@ longerform: true
 - Because sublime experiences can't be tamed and reduced to conventional words and pictures, it's often labelled as "mystical."
 - we shouldn't seek the sacred in a transcendent realm beyond ourselves or our world, but rather **let the sacred reveal itself when we quieten, relax our minds, and open our awareness** to what it happening right here and now. In meditation practice and in daily life.
 
-## Doubt and imagination
+### Doubt and imagination
 
 - No stock answer will do. ... **cultivate a sensibility which can respond to the immediacy of our unfolding lives free from preconceived opinions and jaded dismissals.**
 
-## A culture of awakening
+### A culture of awakening
 
 - **The search for the ultimate deflects us from effective practice.**
 
@@ -82,7 +98,7 @@ all these exercises are ultimately futile because they will come to an end.
 
 to dwell in emptiness means to inhabit fully the embodied space of one’s sensory experience, but in a way that is no longer determined by one’s habitual reactivity. To dwell in such emptiness does not mean that one will no longer suffer
 
-What is this?”13 I have been guided by this impossible question ever since. It has led me away from a religious quest for ultimate truth and brought me back to a perplexed encounter with this contingent, poignant, and ambiguous world here and now.
+What is this?” I have been guided by this impossible question ever since. It has led me away from a religious quest for ultimate truth and brought me back to a perplexed encounter with this contingent, poignant, and ambiguous world here and now.
 
 The quality of your “doubt”—of the questions you ask—is directly correlated to the quality of your insight
 
