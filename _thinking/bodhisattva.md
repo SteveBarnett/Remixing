@@ -6,11 +6,37 @@ updated: 2024-11-26
 zen2024: true
 ---
 
-Two aspects of the Bodhisattva path that I want to dig into: care; in the thick of it.
+Two aspects of the Bodhisattva path that I want to dig into: [care](#care); [in the thick of it](#in-the-thick-of-it).
 
 (Also: [the three uhds](/thinking/the-three-uhds/) applied to "in the thick of it"?)
 
 ## Care
+
+- Move towards suffering. Roll your sleeves, dive in and help.
+- Be tactful, sensitive, flexible.
+    - Do what will have the most positive effect.
+    - That might be listening, not acting on or with.
+- Be generous, give generously.
+- Mercy, compassion, respect for all beings.
+    - Realise self and other are one.
+- Practice charity for its own sake.
+    - Service without expectation of reward.
+
+## In the thick of it
+
+- Outward
+    - Have a strong back and a soft front.
+    - Aim for compassion and care, no matter what. Make every act an act of love.
+    - Work with what you find in the chaos of the world.
+- Inward
+    - Bring some kindness and forgiveness to yourself.
+    - Treat difficulties as teachers. Rejoice in seeing where you're stuck.
+    - Use whatever happens as an opportunity to wake up, to soften.
+- The work is worth doing, whatever the results.
+
+## Initial notes
+
+### Care
 
 - The six perfections: giving; moral discipline; patience; effort; mental stabilisation; wisdom.
 - Be tactful and sensitive. Have a flexible mind and flexible behaviour when helping others. Offer help that’s relevant, in the right way, and that helps them feel at ease. Act in the way that will have the most positive effect.
@@ -26,8 +52,7 @@ Two aspects of the Bodhisattva path that I want to dig into: care; in the thick 
 - Bodhisattvas should not dwell on anything as they practice charity. That means practicing charity without dwelling on forms, practicing charity without dwelling on sounds, scents, flavors, feelings, or phenomena.
 - A bodhisattva moves toward suffering with her sleeves rolled up, ready to dive in and help.
 
-
-## In the thick of it
+### In the thick of it
 
 - Everyday kindness is the expression of spiritual awakening.
 - It’s part of our intrinsic nature to awaken to greater belonging.
