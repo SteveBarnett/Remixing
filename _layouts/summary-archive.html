@@ -1,0 +1,88 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+{% if page.zen %}
+
+<p>Jump down the page to <a href="#zen">Zen</a>, <a href="#longer-form">longer form writing</a>, or <a href="#collections">collections of short bits</a>.</p>
+
+<h2 id="zen" tabindex="-1">Zen</h2>
+
+{%- assign zen2024posts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
+
+{%- assign previouszen2024Month = 12 -%}
+
+<ul>
+{%- for zen2024post in zen2024posts -%}
+
+{%- assign currentzen2024Year = zen2024post.updated | date: "%Y" -%}
+
+{% if currentzen2024Year == page.year %}
+{%- assign currentzen2024Month = zen2024post.updated | date: "%m" -%}
+
+<li{% if currentzen2024Month != previouszen2024Month %} class="month-change"{%- assign previouszen2024Month = currentzen2024Month -%}{% endif %}>
+  <a href="{{ zen2024post.url }}">{{ zen2024post.title }}</a>
+    (added {{ zen2024post.added }}{% if zen2024post.updated !=  zen2024post.added %}, updated {{ zen2024post.updated }}{% endif %})
+</li>
+{% endif %}
+
+{%- endfor -%}
+</ul>
+
+{% else %}
+
+<p>Jump down the page to <a href="#longer-form">longer form writing</a> or <a href="#collections">collections of short bits</a>.</p>
+
+{% endif %}
+
+<h2 id="longer-form" tabindex="-1">Longer form</h2>
+
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
+
+{%- assign previousLongerFormMonth = 12 -%}
+
+<ul>
+{%- for longerformpost in longerformposts -%}
+
+{%- assign currentLongerFormYear = longerformpost.updated | date: "%Y" -%}
+
+{% if currentLongerFormYear == page.year %}
+{%- assign currentLongerFormMonth = longerformpost.updated | date: "%m" -%}
+
+<li{% if currentLongerFormMonth != previousLongerFormMonth %} class="month-change"{%- assign previousLongerFormMonth = currentLongerFormMonth -%}{% endif %}>
+  <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
+    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+</li>
+{% endif %}
+
+{%- endfor -%}
+</ul>
+
+<h2 id="collections" tabindex="-1">Collections</h2>
+
+{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
+
+{%- assign previousCollectionsMonth = 12 -%}
+
+<ul>
+{% for thinkingpost in thinkingposts %}
+{%- assign currentCollectionsMonth = thinkingpost.updated | date: "%m" -%}
+{%- assign currentCollectionsYear = thinkingpost.updated | date: "%Y" -%}
+  {% unless thinkingpost.longerform %}
+  {% unless thinkingpost.zen2024 %}
+  {% if currentCollectionsYear == page.year %}
+  <li{% if currentCollectionsMonth != previousCollectionsMonth %} class="month-change"{%- assign previousCollectionsMonth = currentCollectionsMonth -%}{% endif %}>
+    <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
+    (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
+  </li>
+  {% endif %}
+  {% endunless %}
+  {% endunless %}
+{% endfor %}
+</ul>
+
+<h2>See also</h2>
+
+{% include thinking-links.html %}
+
+{% include footer.html %}
