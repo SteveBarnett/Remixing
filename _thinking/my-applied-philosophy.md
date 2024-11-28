@@ -3,7 +3,7 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-08-26
+updated: 2024-11-29
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
@@ -25,17 +25,6 @@ When out and about, I have a few little practices.
 - When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
 - To notice my true nature, I look for myself at zero distance.
 - I remind myself that the path is goal.
-
-Some more things to be slotted in somehow:
-
-- Right speech: true, kind, helpful, contextually appropriate.
-- Plain language: clear, concise and well organised
-- Emotional intelligence.
-- Continued recommitment to aligning your actions with your values.
-- Everything is included.
-- Both/and.
-- Context **and** contents.
-- Only the verb. No subject. No object.
 
 ## Summary of the theory
 
@@ -165,3 +154,25 @@ What we can do.
     - The mundane is sacred.
 - **Why can't it be both?**
     - The union of Absolute and Relative, of emptiness and form.
+
+## Things to may be remixed in
+
+- Right speech: true, kind, helpful, contextually appropriate.
+- Plain language: clear, concise and well organised
+- Emotional intelligence.
+- Continued recommitment to aligning your actions with your values.
+- Everything is included.
+- Both/and.
+- Context **and** contents.
+- Only the verb. No subject. No object.
+- Self as process
+- Continued recommitment to valued action.
+    - ROCK
+    - Clear, clean, crisp.
+- Living a good enough, ordinary, life.
+- Acceptance, embracing life as it is.
+- The importance of friends.
+- Imperfections as part of the path, not as an obstacle.
+- Letting go of "this isn't it."
+- Antifragile
+- The Matter With Things
