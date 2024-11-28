@@ -15,8 +15,6 @@ I like **reading** for fun and for learning. I keep a [reading list](/reading/) 
 
 I like making **pictures**, with cameras or pens and pencils. Often abstract, strange juxtapositions, or iconography and patterns. I go by the nickname Max Barners. [See some of my photos on Instagram](https://www.instagram.com/maxbarners/). [I like to sketch and draw](/art/), especially in small and weird ways.
 
-I like making and listening to **music**. I made themed playlists for a series of "house parties for grown ups" (start early, dance a lot, finish early). The mixes live at [my profile on Mixcloud](https://www.mixcloud.com/MaxBarners/). I tinker with making electronic music using Ableton Live and [post the music here](/music/).
-
 I occasionally run small ["events"](/eventing/) for small(ish) groups of friends. I'm one of the organisers for [One Mindful Breath](https://www.onemindfulbreath.org.nz/), a secular dharma practice community in Wellington, Aotearoa New Zealand.
   
 ## Work
