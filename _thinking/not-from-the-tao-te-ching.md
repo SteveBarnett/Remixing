@@ -6,8 +6,8 @@ added: 2024-11-29
 updated: 2024-11-29
 ---
 
-- Form is valuable. But/and emptiness is useful.
-- What is has value. What is not has use.
+- **What is** has value. **What is not** has use.
+- Form is valuable. (But/and) emptiness is useful.
 
 ## Interpretations of the two sides, collaged
 
