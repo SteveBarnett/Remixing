@@ -176,3 +176,4 @@ What we can do.
 - Letting go of "this isn't it."
 - Antifragile
 - The Matter With Things
+- Some Stoic and Cynic notes.
