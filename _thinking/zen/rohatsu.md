@@ -29,6 +29,20 @@ Zazen. Shikantaza. [Just sit](/thinking/zen/the-just-in-just-sitting/).
     - 30m sit, 20m walk, 30m sit, break.
 - Sunday 8th.
 
+### Some reflections from the front-loaded bit
+
+- Feedback loops.
+    - Like momentum, inertia.
+    - Focus on how to interrupt the loop, stop pushing.
+- I gave what I want to get.
+    - kindness, openness, clarity, support, learning.
+- Support.
+    - Is more important and more widely available than you think.
+    - I tend to be bad at noticing I need, and asking for, help.
+- Notice when you're putting things into binaries. Find the spectrum.
+- Notice and be grateful for all your good fortune.
+- No tech was nice. No doing for the sake of being busy doing.
+
 ## Gathering it together a bit
 
 - Sunday 01/12 to 08/12.
