@@ -3,7 +3,7 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2024-09-10
+updated: 2024-12-02
 ---
 
 An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-of-letting-go-s/).
@@ -21,6 +21,10 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
     - That **you** are good as you are.
 
 When you can't do a step, don't fight it. Just notice how it feels.
+
+---
+
+I keep coming back to this! More recently when thinking about [Mistakes, perfection, forgiveness](/thinking/mistakes-perfection-forgiveness/). When I make a mistake: apply the three uhds. Then get to work.
 
 ---
 
