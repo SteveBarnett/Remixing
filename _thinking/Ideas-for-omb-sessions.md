@@ -28,3 +28,4 @@ updated: 2024-11-28
         - The extraordinary is just the ordinary with extra attention applied to it.
         - To exercise is to exorcise.
         - Plant your garden.
+- Talk through my [Wider RAIN practice](/thinking/wider-rain-practice/). Tara's original. My remixes / extensions. [TSOL's Philotation](/notes/philosophy/philosophical%20meditation.jpg) too?
