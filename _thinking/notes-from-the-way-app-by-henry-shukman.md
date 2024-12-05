@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zen2024: true
 added: 2024-11-22
-updated: 2024-12-02
+updated: 2024-12-05
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.
@@ -25,5 +25,9 @@ updated: 2024-12-02
 - Come home to a place of ease, quiet and rest, right in the centre of everyday experience.
 - Gently wear down the idea that we're separate, independent, entities in the world by seeing how all of what we are depends thoroughly on things outside of us.
     - The self is just a story we tell ourselves. Once we see that, our attachment to the story can soften.
+- No effort.
+    - No need to change anything.
+    - No need to make anything happen.
+    - No looking forward.
 
 [The Way app](https://www.thewayapp.com/)
