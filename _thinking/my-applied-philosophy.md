@@ -169,6 +169,8 @@ What we can do.
 - Continued recommitment to valued action.
     - ROCK
     - Clear, clean, crisp.
+    - Continuous improvement.
+        - Collaboration, review, remixing.
 - Living a good enough, ordinary, life.
 - Acceptance, embracing life as it is.
 - The importance of friends.
