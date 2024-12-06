@@ -15,21 +15,17 @@ updated: 2024-12-05
 - This is the last session of the year.
 - We'll be back on 15th January.
 - Retreat on Saturday 15th February. Reminder again at the end, and later in the WhatsApp group.
-- **What's on top?**
-    - Or, thematic, (and head nod to Marvin Gaye) "What's going on?" 
-    - our name, what's going on for you.
+- What's on top? Your name, what's top of mind for you.
 
 ## Introduction
 
-- Inspired by the book [Kepp Going by Austin Kleon](https://austinkleon.com/keepgoing/). "10 ways to stay creative in good times and bad".
+- Inspired by the book [Keep Going by Austin Kleon](https://austinkleon.com/keepgoing/). "10 ways to stay creative in good times and bad".
+    - We're going to be cheeky and use it for "A few ways to keeping meditating in good times and bad." Specifically, over the break.
     - Austin Kleon calls himself "a writer who draws." He makes art with words and books with pictures.
-    - Lots of the lessons can be applied more widely.
-    - For example, to meditation. Which is what this session is.
 - One of the first things in the book is "I wrote this book because I needed to read it."
     - This is how I feel about this session.
     - I'm facilitating this session because I need to attend it.
 - We'll look at a handful of things. I hope for this to mostly be discussion rather than me talking.
-- I'm going to **very cheeky** and do a switcheroo with some of Mr Kleon's words, to make it mindfulness and meditation-relevant.
 
 How can we keep going with meditation? Over the break? In good times and bad?
 
@@ -45,13 +41,13 @@ How can we keep going with meditation? Over the break? In good times and bad?
 
 > Let go of the thing that you're trying to be (the noun), and focus on the actual work you need to be doing (the verb). Doing the verb will take you someplace further and far more interesting.
 
-- Let go of worrying about being a meditator.
-- Or being a good meditator.
-- Just meditate.
-
 > "I don't know what I am. I know that I am not a category. I am not a thing-a noun. I seem to be a verb, an evolutionary process."
 {: .alt}
 <p class="quote-source">&mdash; <a href="https://www.bfi.org/">R. Buckminster Fuller</a>, architect, systems theorist, 1895–1983.</p>
+
+- Let go of worrying about being a meditator.
+- Or being a good meditator.
+- Just meditate.
 
 ## <del>Creativity</del> Meditation has seasons
 
@@ -80,12 +76,6 @@ How can we keep going with meditation? Over the break? In good times and bad?
 
 ## To change is to be alive
 
-> "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function. One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise."
-{: .alt}
-<p class="quote-source">&mdash; <a href="https://en.wikipedia.org/wiki/F._Scott_Fitzgerald">F. Scott Fitzgerald</a>, writer (e.g. The Great Gatsby), 1896–1940</p>
-
-> I thought I was wrong about everything. I was wrong about that, too. (blackout poetry) 
-
 > You start each <del>work</del> meditation not knowing exactly where you're going or where you'll end up. ... Hope is about moving forward in the face of uncertainty. It's a way of dealing with uncertainty.
 
 > "Hope is an embrace of the unknown and the unknowable."
@@ -93,6 +83,11 @@ How can we keep going with meditation? Over the break? In good times and bad?
 <p class="quote-source">&mdash; <a href="http://rebeccasolnit.net/">Rebecca Solnit</a>, writer.</p>
 
 > To have hope, you must acknowledge that you don't know everything and you don't know what's going to happen. That's the only way to keep going and the only way to keep <del>making art</del> meditating: to be open to possibility and allow yourself to be changed.
+
+- Acknowledge and accept that many things are unknown and unknowable.
+- Settle into hope as a strategy for dealing with this. We don't know, but we'll figure it out.
+- Be open to how a meditation, and your practice, might go on any given day.
+- Let yourself be changed by meditation. Smooth, soothed.
 
 ## Airplane mode can be a way of life
 
