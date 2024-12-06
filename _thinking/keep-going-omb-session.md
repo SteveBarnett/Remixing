@@ -10,9 +10,7 @@ updated: 2024-12-05
 * Display TOC
 {:toc}
 
-## Session notes
-
-### Preamble
+## Preamble
 
 - This is the last session of the year.
 - We'll be back on 15th January.
@@ -25,7 +23,7 @@ updated: 2024-12-05
     - How can we **keep going** with meditation over the break?
 - What's on top? Or, thematic, (and head nod to Marvin Gaye) "What's going on?" Your name, what's going on for you.
 
-### Introduction
+## Introduction
 
 - Austin Kleon is "a writer who draws." He makes art with words and books with pictures.
 - He lives in in Austin, Texas, USA.
@@ -37,93 +35,100 @@ updated: 2024-12-05
     - I'll introduce a little nugget, but it'll be mostly us talking, not me talking.
     - I'm going to **very cheeky** and do a switcheroo with some of Mr Kleon's words, to make it mindfulness-relevant.
 
-#### Session shape
+How can we keep going with meditation? Over the break? In good times and bad?
 
-- Introduce the nugget
-- Discussion
-- Tiny mediation on it?
-- Another nugget if there's time
-- Another discussion if there's time
-- Ending meditation, keep going themed
+## TODO
 
-### Sketching out ideas
+Link back to sessions from earlier in the year.
 
-- TODO: Link each bullet to meditation as a way of culling.
-- TODO: Link back to session from earlier in the year.
-    - How does your life affect your meditation practice?
-    - Practising 'letting go'
-    - Learning to embrace discomfort 
-    - Exploring ordinariness in everyday life
-    - Answerable and unanswerable questions (or: A different kind of Quiz Night)
-    - The beauty of the ordinary
-    - Making the most of Metta meditation
-    - 2 days of Flying Solo: Planning personal meditation retreats
-    - On wisdom, contemplation, and action
-    - Internal Family Systems and Buddhism: Useful concepts for our practice
-    - Buddhist and psychology techniques for handling difficult thoughts and feelings
-    - Getting comfortable with discomfort 
-    - Anchoring your practice
-    - Meditation, and attachments
-    - Improving your practice
-    - Growing compassion and equanimity
-    - Choosing what to think
-    - Cultivating Self-Compassion
-    - Practising non-attachment
-    - Using koans
-    - Impermanence
-    - Overcoming Meditation Difficulties
-- TODO: find and replace for creative/meditation.
-- TODO: mark up the paper book to use in the session.
+- How does your life affect your meditation practice?
+- Practising 'letting go'
+- Learning to embrace discomfort 
+- Exploring ordinariness in everyday life
+- Answerable and unanswerable questions (or: A different kind of Quiz Night)
+- The beauty of the ordinary
+- Making the most of Metta meditation
+- 2 days of Flying Solo: Planning personal meditation retreats
+- On wisdom, contemplation, and action
+- Internal Family Systems and Buddhism: Useful concepts for our practice
+- Buddhist and psychology techniques for handling difficult thoughts and feelings
+- Getting comfortable with discomfort 
+- Anchoring your practice
+- Meditation, and attachments
+- Improving your practice
+- Growing compassion and equanimity
+- Choosing what to think
+- Cultivating Self-Compassion
+- Practising non-attachment
+- Using koans
+- Impermanence
+- Overcoming Meditation Difficulties
 
-#### Maybe yes
 
-- HCWKG? **Take one day at a time.** (From the "Every day is Groundhog day" chapter)
-    - "The creative life is not linear. It's not a straight line from point A to B. It's more like a loop, or a spiral, in which you keep coming back to a new starting point after every project. No matter how successful you get, no matter what level of achievement you reach, you will never really 'arrive'."
-        - When we consider it deeply, we realise that meditation as a practice doesn't really have an end. There won't come a day when we magically have no more problems or no stress. Less stress, sure. But never none. Never complete, finished, as a meditator, as a person. The path is the goal, as they say.
-- HCWKG? **"Creative" is not a noun.** (from the "Forget the noun, do the verb" chapter)
-    - "Let go of the thing that you're trying to be (the noun), and focus on the actual work you need to be doing (the verb). Doing the verb will take you someplace further and far more interesting."
-    - Job titles can be restrictive.
-    - Don't worry about being a good meditator. Or even being a meditator. Just meditate.
-- HCWKG? **Creativity has seasons** (from the "Plant your garden" chapter)
-    - "Part of the work is to know what season you're in, and act accordingly."
-    - (George Carlin) "It's the ... view that everything has to keep climbing. ... Not time to contract before another expansion. ... No time to learn from your mistakes. But that notion goes against nature, which is cyclical."
-    - "You have to give yourself time to change and observe your own patterns."
-- HCWKG? **To change is to be alive** (from the "You are allowed to change your mind" chapter)
-    - "We're afraid of changing our minds because we're afraid of the consequences of changing our minds. What will people think?"
-    - "You start each work not knowing exactly where you're going or where you'll end up. Hope is about moving forward in the face of uncertainty." 
-    - (Rebecca Solnit, American writer) "Hope is an embrace of the unknown and the unknowable."
-    - "To have hope, we must acknowledge that we don't know everything and we don't know what's going to happen. ... be open to possibility and allow ourselves to be changed."
-- HCWKG? **Airplane mode can be a way of life.** (from "Build a bliss station" chapter)
-    - Is anyone not familiar with airplane mode on your phone? You enable it, and it turns off all in/out signals. It cuts you off from calls and texts. But also from all the usual distractions. Usually used on airplanes. Why not replicate the experience on the ground?
-    - "But why not replicate the experience on the ground? You don't need to be on a plane to practice airplane mode: pop in some cheap earplugs and switch your phone or tablet to airplane mode, and you can transform any mundane commute or stretch of captive time into an opportunity to reconnect with yourself and your work."
+### Take one day at a time
 
-#### Probably no
+From the "Every day is Groundhog day" chapter.
 
-- HCWKG? **Slow down and draw things out** (from the "The ordinary + extra attention = the extraordinary" chapter)
-    - "It's impossible to pay proper attention to your life if you are hurtling along at lightning speed."
-    - "In an age obsessed with speed, slowing down requires special training."
-    - (Slow Art Day) "When people look slowly ...  they make discoveries."
-    - (Rephrased) "Because meditation is really an exercise in noticing, you can suck at it and still get a ton out of it."
-- **You have everything you need** (from the "The ordinary + extra attention = the extraordinary" chapter)
-    - Make common experiences uncommon by paying them more attention, noticing the details.
-    - "You do not need to have an extraordinary life to make extraordinary work. Everything you need to make extraordinary art can be found in your everyday life."
-    - (Magritte) Breathe new life into the way we look at the ordinary things around us.
-- **Pay attention to what you pay attention to** (from the "The ordinary + extra attention = the extraordinary" chapter)
-    - "You attention is one of the most valuable things you possess, which is why everyone wants to steal it from you."
-    - "What you pay attention to is the stuff your life and work will be made of."
-    - (Mary Oliver, American poet) "To pay attention, this is our endless and proper work."
-    - (José Ortega y Gasset, Spanish liberal philosopher and essayist) "Tell me what you pay attention to and I will tell you who you are."
-- Art is for life (not the other way around) (from the "Slay the art monsters" chapter)
-    - The more needs more decent human beings more than it needs more Xs.
-- **To exercise is to exorcise** (from the "Demons hate fresh air" chapter)
-    - (Diogenes the Cynic) "It is solved by walking"
-    - "What I've learned on our morning walks is that, yes, walking is great for releasing inner demons, but maybe even more important, walking is great for battling our out demons. (phones, TV, etc)"
-        - See the world as it is, not as the media portrays it.
-- **This, too, shall pass** (from the "Plant your garden" chapter)
-    - Take the long view
-    - "Because gardening requires so much patience and attention, gardeners have a unique sense of time and perspective."
+> "The ~creative~ meditative life is not linear. It's not a straight line from point A to B. It's more like a loop, or a spiral, in which you keep coming back to a new starting point after every ~project~ experience. No matter how ~successful you get~ well you do, no matter what level of achievement you reach, you will never really 'arrive'."
 
-### Closing
+When we consider it deeply, we realise that meditation as a practice doesn't really have an end. There won't come a day when we magically have no more problems or no stress. Less stress, sure. But never none. Never complete, finished, as a meditator, as a person. The path is the goal, as they say.
+
+> How we spend our days is, our course, how we spend our lives. ― [Annie Dillard](http://www.anniedillard.com/), writer
+
+### ~"Creative"~ "Meditator" is not a noun.
+
+From the "Forget the noun, do the verb" chapter.
+
+> "Let go of the thing that you're trying to be (the noun), and focus on the actual work you need to be doing (the verb). Doing the verb will take you someplace further and far more interesting."
+
+Don't worry about being a good meditator. Or even being a meditator. Just meditate.
+
+### ~Creativity~ Meditation has seasons
+
+From the "Plant your garden" chapter.
+
+> "Part of the work is to know what season you're in, and act accordingly."
+
+> "It's the ~American~ popular view that everything has to keep ~climbing~ increasing. ... No time to contract before another expansion. ... No time to learn from your mistakes. But that notion goes against nature, which is cyclical." ― quoting [George Carlin](https://en.wikipedia.org/wiki/George_Carlin), comedian, 1937–2008
+
+- Heartbeats instead of seconds
+- Sunrises instead of days
+- Moon phases instead of week or months
+- Seasons instead of quarters
+- The return of spring instead of years
+
+> "You have to pay attention to the rhythms and cycles of your ~creative output~ meditation practice and learn to be patient in the off-seasons. You have to give yourself time to change and observe your own patterns."
+
+> "Imitate the tress. Learn to lose in order to recover, and remember that nothing stays the same for long." ― [May Sarton](https://www.poetryfoundation.org/poets/may-sarton), novelist and poet, 1912-1995
+
+### To change is to be alive
+
+From the "You are allowed to change your mind" chapter.
+
+> "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function. One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise." ― [F. Scott Fitzgerald](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald), writer (.e.g The Great Gatsby), 1896–1940
+
+> "I thought I was wrong about everything. I was wrong about that, too." (blackout poetry)
+
+"You start each work not knowing exactly where you're going or where you'll end up. ... Hope is about moving forward in the face of uncertainty. It's a way of dealing with uncertainty." 
+
+> "Hope is an embrace of the unknown and the unknowable." ― [Rebecca Solnit](http://rebeccasolnit.net/), writer
+
+> "To have hope, we must acknowledge that we don't know everything and we don't know what's going to happen. That's the only way to keep going and the only way to keep ~making art~ meditatiing: to be open to possibility and allow ourselves to be changed."
+
+### Airplane mode can be a way of life
+
+> "Almost everything will work again if you unplug it for a few minutes-including you." ― [Anne Lamott](https://en.wikipedia.org/wiki/Anne_Lamott), novelist and nonfiction writer
+
+From the "Build a bliss station" chapter.
+
+Is anyone not familiar with airplane mode on your phone? You enable it, and it turns off all in/out signals. It cuts you off from calls and texts. But also from all the usual distractions. Usually used on airplanes.
+
+> (Talking about airplane mode) ~But~ why not replicate the experience on the ground? We don't need to be on a plane to practice airplane mode: ~pop in some cheap earplugs and~ switch our phones ~or tablet~ to airplane mode, and we can transform any mundane commute or stretch of captive time into an opportunity to reconnect with yourself and your work."
+
+Or to meditate! Doesn't have to be sitting still, eyes close, lotus position. It can just be paying a little more attention to everything around you.
+
+
+## Closing
 
 - Endnote from book
     - "Go easy on yourself and take your time. Worry less about getting things done. Worry more about things worth doing. **Keep going.**"
