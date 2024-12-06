@@ -179,3 +179,6 @@ What we can do.
 - Antifragile
 - The Matter With Things
 - Some Stoic and Cynic notes.
+- RWS
+- Antifragile
+
