@@ -36,7 +36,7 @@ How can we keep going with meditation? In good times and bad. Over the break.
 
 Keep going.
 
-- Realise that some days meditation will be easy, some days it'll be difficult.
+- Realise that on some days meditation will be easy, on some days it'll be difficult.
 - Hold our ideas of progress lightly.
 - Treat our meditation practice as an ongoing, lifelong, activity. Not something we'll one day finish.
 
@@ -52,7 +52,7 @@ Keep going.
 
 - Don't worry about being a meditator. Or being a good meditator. Or being a bad meditator.
 - Just focus on meditating, on meditation.
-- Remember that you, your self, is a verb, an process of change.
+- Remember that you, your self, is a verb, a process of change.
 
 ### <del>Creativity</del> Meditation has seasons
 
@@ -83,15 +83,11 @@ Keep going.
     </table>
 </blockquote>
 
-> "Imitate the trees. Learn to lose in order to recover, and remember that nothing stays the same for long."
-{: .alt}
-<p class="quote-source">&mdash; <a href="https://www.poetryfoundation.org/poets/may-sarton">May Sarton</a>, novelist and poet, 1912-1995.</p>
-
 Keep going.
 
 - Be and patient with yourself if your meditation isn't going so well.
-- Try measuring time by nature-based measures instead of human measures.
 - Sometimes the right thing to do is take a break.
+- Try measuring time by nature-based measures instead of human measures.
 
 ### To change is to be alive
 
@@ -112,7 +108,7 @@ Keep going.
 
 ### Airplane mode can be a way of life
 
-> (Talking about airplane mode in the air) <del>But</del> why not replicate the experience on the ground? You don't need to be on a plane to practice airplane mode: <del>pop in some cheap earplugs and</del> switch your phone <del>or tablet</del> to airplane mode, and you can transform any mundane commute or stretch of captive time into an opportunity to reconnect with yourself and your work.
+> (Talking about airplane mode in the air) <del>But</del> why not replicate the experience on the ground? You don't need to be on a plane to practice airplane mode: <del>pop in some cheap earplugs and</del> switch your phone <del>or tablet</del> to airplane mode, and you can transform any mundane commute or stretch of captive time into an opportunity to reconnect with yourself <del>and your work</del>.
 
 > "Almost everything will work again if you unplug it for a few minutes–including you."
 {: .alt}
