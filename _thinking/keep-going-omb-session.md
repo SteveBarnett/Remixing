@@ -134,4 +134,6 @@ Title: "Keep Going: a guide to continuing meditation in good times and bad"
 
 📘 Topic: keeping our practice going over the break. In this session we'll be using a... non-traditional source to help us with our meditation. We'll discuss a few ideas from Austin Kleon's book Keep Going (https://austinkleon.com/keepgoing/). We'll cover: focusing on the process over the prize; forgetting the noun and doing the verb; how the extraordinary is just the ordinary with extra attention applied to it.
 
+🤓 [Session notes in a Google doc](https://docs.google.com/document/d/1oV1QuS-Zu4xhlhaCLmb9QBETjbXP9qw5trVVXdTX_ak/edit?usp=sharing).
+
 🧘‍♀️ Meditation: as usual, we'll end the session with a meditation of about 20 minutes.
