@@ -3,7 +3,7 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-12-07
+updated: 2024-12-08
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
@@ -180,5 +180,30 @@ What we can do.
 - The Matter With Things
 - Some Stoic and Cynic notes.
 - RWS
+    - Relaxed (Reading, Art, Music (listen, make))
+    - Wise (Personal, Professional (see [STWPC on naga](https://naga.co.za/#enjoy), Practice)
+    - Social
 - Antifragile
-
+- Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
+- Compass (etc) metaphor
+- Valued Action more clearly.
+- Support
+    - a network of interdependence and mutual support
+- Grip triangle
+    - Buddhism
+        - Begin Again
+        - Pay more attention ([LSD](/thinking/lsd/) and friends?)
+        - The ocean, not the waves
+    - Stoicism
+        - Reframe
+        - Give Benefits
+    - Psychology
+        - Active Listening (link to LSD?)
+- Spectrum, not binary
+- Grips with triggers
+- Tara and Pema things to grips?
+- [principles of japanese aesthetics](/notes/philosophy-systems/principles%20of%20japanese%20aesthetics.jpg)
+- Wave in [avoidant](/thinking/the-avoidance-alarm/)-related things.
+- [Slowness (over stillness)](/thinking/silence-stillness-slowness/)
+- Continuous improvement.
+    - Keeping things alive and fresh by changing them.
