@@ -120,6 +120,15 @@ Keep going.
 - Any time we're waiting for something or someone can be a chance to be mindful.
 - Take a pause from doing, even for just a minute or two. Airplane mode, and just observe.
 
+## Meditation
+
+- You might like to take your theme for this meditation as "keep going."
+- No need for this meditation to better than your last one.
+- No need to have a good meditation or some kind of peak experience.
+- No need to judge your meditation, or your self.
+- Just meditate.
+- Just keep going, and make it all the way to the end. That's enough.
+
 ## Closing
 
 - Endnote from book: "Go easy on yourself and take your time. Worry less about getting things done. Worry more about things worth doing. **Keep going.**"
