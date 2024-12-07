@@ -29,5 +29,7 @@ updated: 2024-12-05
     - No need to change anything.
     - No need to make anything happen.
     - No looking forward.
+    - Notice that we don't actually need to do anything to receive sounds, sensations, thoughts, feelings. They arise in our awareness by themselves
+    - The whole world is arising just as it does, without effort – everything unfolding by itself, just as it does.
 
 [The Way app](https://www.thewayapp.com/)
