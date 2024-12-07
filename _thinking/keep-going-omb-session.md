@@ -102,9 +102,9 @@ Keep going.
 
 Keep going.
 
-- Be open to how a meditation might go on any given day.
-- Be open to how your practice might go over time.
-- Let yourself be changed by your meditation.
+- Acknowledge and accept that you don't know how the rest of a meditation will go. We can't know.
+- Be open to whatever happens.
+- Let your meditation change you. More compassionate, more careful, towards yourself and others.
 
 ### Airplane mode can be a way of life
 
