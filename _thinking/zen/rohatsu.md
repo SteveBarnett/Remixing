@@ -2,13 +2,20 @@
 layout: page
 title: Rōhatsu
 added: 2024-11-27
-updated: 2024-11-27
+updated: 2024-12-08
 zen2024: true
 ---
 
 Some quick notes on Rōhatsu.
 
 Zazen. Shikantaza. [Just sit](/thinking/zen/the-just-in-just-sitting/).
+
+## Reflection afterwards
+
+Some things felt like they were reinforcing good habits.
+
+- Less time around technology, particularly phone.
+- More easily sliding into a sit, particularly when stressed.
 
 ## My plan
 
