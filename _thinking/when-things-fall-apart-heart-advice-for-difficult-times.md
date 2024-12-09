@@ -3,8 +3,47 @@ layout: page
 title: "When Things Fall Apart: Heart Advice For Difficult Times"
 zen2024: true
 added: 2024-12-07
-updated: 2024-12-07
+updated: 2024-12-10
 ---
+
+## Gathered notes
+
+- Work with the energy of all situations.
+    - See whatever arises as inseparable from awakening.
+    - **Everything that occurs is not only usable and workable but is actually the path itself.**
+    - We can use everything that happens to us as the means for waking up.
+- **Brave people are intimate with fear.**
+    - Fear is a natural reaction to moving closer to the truth.
+    - The way to dissolve our resistance to life is to meet it face to face.
+- Things become very clear when there is nowhere to escape.
+    - **Thinking one day we'll get somewhere problem-free is what keeps us miserable.**
+        - Cutting our expectations for a cure is a gift we can give ourselves.
+        - **There is something aggressive about that approach to life, trying to flatten out all the rough spots and imperfections into a nice smooth ride.**
+    - Staying with the shakiness is the path of awakening.
+    - Perk up. Lean in.
+    - Continually open further, learn more, connect further.
+    - Be softened by the sheer force of whatever arises.
+        - **Use our pain to learn and know more about what it is to be human.**
+- Not-knowing is the most important thing of all.
+- Meditation is about opening and relaxing with whatever arises, without picking and choosing.
+    - Not trying to solve a problem.
+    - Not striving to make pain go away.
+    - Not trying to become a better person.
+    - Just be here again and again and again.
+- Honesty, a light touch, humour, and kindness are far more inspiring and helpful than struggle and striving.
+    - Just settle down and have some compassion and respect for ourselves.
+- **Don't immediately fill up space just because there’s a gap.**
+- **Total appreciation of impermanence and change.**
+    - The teachings disintegrate when we try to grasp them.
+- **We may still have addictions of all kinds, but we cease to believe in them as a gateway to happiness.**
+- The middle way, an open state of mind that can relax with paradox and ambiguity.
+- What we hate in ourselves, we’ll hate in others. To the degree that we have compassion for ourselves, we will also have compassion for others.
+    - To have compassion for all kinds of people means not to run from the pain of finding these things in ourselves.
+    - Never give up on yourself. Then you will never give up on others.
+- Protecting ourselves from suffering only makes us more fearful, more hardened. We feel more separate from the whole.
+- **What we discipline is not our “badness” or our “wrongness.” What we discipline is any form of potential escape from reality.**
+- **There is a perplexing tension between our aspirations and the reality of feeling tired, hungry, stressed-out, afraid, bored, angry.**
+- **We can make ourselves miserable, or we can make ourselves strong. The amount of effort is the same.**
 
 ## Raw notes
 
@@ -32,13 +71,11 @@ To stay with that shakiness—to stay with a broken heart, with a rumbling stoma
 
 ### 3. This very moment is the perfect teacher
 
-instead of being bad news, are actually very clear moments that teach us where it is that we’re holding back
-
-being bad news, are actually very clear moments that teach us where it is that we’re holding back. They teach us to perk up and lean in when we feel we’d rather collapse and back away
+instead of being bad news, are actually very clear moments that teach us where it is that we’re holding back. They teach us to perk up and lean in when we feel we’d rather collapse and back away
 
 —all addictions stem from this moment when we meet our edge and we just can’t stand
 
-What’s encouraging about meditation is that even if we shut down, we can no longer shut down in ignorance. We see very clearly that we’re closing off. That
+What’s encouraging about meditation is that even if we shut down, we can no longer shut down in ignorance. We see very clearly that we’re closing off.
 
 we aspire to neither indulge nor repress—a hardness in us will dissolve. We will be softened by the sheer force of whatever energy arises
 
@@ -238,7 +275,7 @@ The instruction is to relate compassionately with where we find ourselves and to
 
 Make the dharma personal, explore it wholeheartedly, and relax.
 
-### 2. The path is the goal
+### 22. The path is the goal
 
 We can make ourselves miserable, or we can make ourselves strong. The amount of effort is the same
 
