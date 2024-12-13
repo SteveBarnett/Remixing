@@ -36,7 +36,7 @@ And also...
 
 ## Pragmatic
 
-Something like: down-to-earth, **efficient**, logical, practical, *realistic**.
+Something like: down-to-earth, **efficient**, logical, practical, **realistic**.
 
 ## Practical
 
