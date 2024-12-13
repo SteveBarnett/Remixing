@@ -1,7 +1,7 @@
 <nav aria-label="Main navigation" id="{{ include.id }}">
   <ul>
     <li><a href="/" {% if page.url == "/" %} aria-current="page" {% endif %}>Home</a></li>
-    <li><a href="/thinking/" {% if page.url contains "/thinking" %} aria-current="page" {% endif %}>Thinking</a></li>
+    <li><a href="/thinking/" {% if page.url contains "/thinking" %} {% unless page.url contains "/thinking/map" %} aria-current="page" {% endunless %} {% endif %}>Thinking</a> > <a href="/thinking/map/" {% if page.url contains "/thinking/map" %} aria-current="page" {% endif %}>MAP</a></li>
     <li><a href="/reading/" {% if page.url contains "/reading" %} aria-current="page" {% endif %}>Reading</a></li>
     <li><a href="/notes/" {% if page.url contains "/notes/" %} aria-current="page" {% endif %}>Noting</a></li>
     <li><a href="/art/" {% if page.url contains "/art/" %} aria-current="page" {% endif %}>Arting</a></li>
