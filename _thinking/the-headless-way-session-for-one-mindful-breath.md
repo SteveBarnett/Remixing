@@ -1,7 +1,7 @@
 ---
 layout: page
 title: '"The Headless Way" session for One Mindful Breath'
-longerform: true
+omb: true
 added: 2023-09-17
 updated: 2023-09-17
 hidenav: true

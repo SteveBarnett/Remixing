@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from IFS reading
-longerform: true
+ifs: true
 added: 2024-01-22
 updated: 2024-01-28
 ---

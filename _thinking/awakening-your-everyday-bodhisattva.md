@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awakening your Everyday Bodhisattva
-longerform: true
+buddhism: true
 added: 2024-09-08
 updated: 2024-09-08
 ---

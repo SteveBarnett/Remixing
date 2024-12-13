@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "Meditation in Action" by Chögyam Trungpa'
-longerform: true
+buddhism: true
 added: 2024-10-28
 updated: 2024-10-28
 ---

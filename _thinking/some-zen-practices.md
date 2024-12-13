@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Some Zen Practices
-longerform: true
+zen2024: true
 added: 2024-01-06
 updated: 2024-01-06
 ---

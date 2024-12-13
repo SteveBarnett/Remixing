@@ -3,7 +3,7 @@ layout: page
 title: After Buddhism
 added: 2024-11-28 
 updated: 2024-11-28 
-longerform: true
+buddhism: true
 ---
 
 * Display TOC

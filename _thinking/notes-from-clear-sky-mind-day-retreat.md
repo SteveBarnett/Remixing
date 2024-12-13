@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Notes from Clear Sky Mind day retreat
+buddhism: true
 added: 2024-07-07
 updated: 2024-07-07
-longerform: true
 ---
 
 My notes from Clear Sky Mind day retreat](https://meditateinwellington.org/events/clear-sky-mind-day-retreat/?occurrence=2024-07-06). These aren't exactly what was taught, more like what it brought up for me.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self-acceptance
-longerform: true
+sbcollection: true
 added: 2023-08-13
 updated: 2023-08-13
 ---

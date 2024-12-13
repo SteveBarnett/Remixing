@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acceptance and resistance
+sbcollection: true
 added: 2023-12-03
 updated: 2023-12-03
 ---

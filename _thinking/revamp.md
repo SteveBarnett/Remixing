@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from Revamp: Writings on secular Buddhism'
-longerform: true
+buddhism: true
 added: 2024-11-10
 updated: 2024-11-10
 ---

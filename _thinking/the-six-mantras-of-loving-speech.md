@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The six mantras of Loving Speech
-longerform: true
+buddhism: true
 added: 2023-08-02
 updated: 2023-08-02
 ---

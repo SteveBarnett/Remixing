@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Retreats
-longerform: true
+buddhism: true
 added: 2024-03-31
 updated: 2024-11-24
 ---

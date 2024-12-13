@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Silence, stillness, slowness
+longerform: true
 added: 2023-12-05
 updated: 2023-12-06
 ---

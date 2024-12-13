@@ -3,7 +3,7 @@ layout: page
 title: The Comedian
 added: 2024-07-13
 updated: 2024-09-03
-longerform: true
+ifs: true
 ---
 
 Following on from [the Inner Critic](/thinking/inner-critic/), [Grips for the Critic / Coach coin](/thinking/grips-for-the-critic-coach-coin/), and [The Constable](/thinking/the-constable/). In particular, from the [Talk amongst yourselves](/thinking/the-constable/#talk-amongst-yourselves) sections: how do these parts interact with each other.

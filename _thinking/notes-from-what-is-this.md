@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "What is this?"'
-longerform: true
+buddhism: true
 added: 2024-11-17
 updated: 2024-11-17
 ---

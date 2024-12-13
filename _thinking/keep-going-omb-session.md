@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Keep Going: a guide to continuing meditation in good times and bad (OMB session)"
-longerform: true
 omb: true
 added: 2024-12-05
 updated: 2024-12-08

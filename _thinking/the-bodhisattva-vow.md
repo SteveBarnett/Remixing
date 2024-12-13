@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 'Notes from "The Bodhisattva Vow"'
+buddhism: true
 added: 2024-10-11
 updated: 2024-10-11
-longerform: true
 ---
 
 ## Gathered notes

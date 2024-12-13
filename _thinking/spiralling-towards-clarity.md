@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spiralling towards clarity
+longerform: true
 added: 2023-12-06
 updated: 2023-12-06
 ---

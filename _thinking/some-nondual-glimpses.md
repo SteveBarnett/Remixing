@@ -3,6 +3,7 @@ layout: page
 title: Some nondual glimpses
 added: 2024-01-27
 updated: 2024-04-07
+longerform: true
 ---
 
 Glimpses of the when the sense of self falls away, of when the sense of separation falls away.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Answerable and unanswerable questions (or: A different kind of Quiz Night)"
-longerform: true
+omb: true
 added: 2024-09-05
 updated: 2024-09-25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Notes on the intoxication precept
-longerform: true
+buddhism: true
 added: 2024-05-03
 updated: 2024-05-13
 ---

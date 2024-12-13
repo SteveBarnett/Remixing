@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "The Myth of Freedom" by Chögyam Trungpa'
-longerform: true
+buddhism: true
 added: 2024-11-03
 updated: 2024-11-03
 ---

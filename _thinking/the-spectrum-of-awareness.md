@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Spectrum Of Awareness
-longerform: true
+omb: true
 added: 2024-05-19
 updated: 2024-06-10
 ---

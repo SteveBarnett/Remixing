@@ -3,7 +3,7 @@ layout: page
 title: The Constable
 added: 2024-03-12
 updated: 2024-09-23
-longerform: true
+ifs: true
 ---
 
 I've thought of a new angle for myself on the Critic / Coach stuff. I've thought and written before a bit about [the Inner Critic](/thinking/inner-critic/), and [Grips for the Critic / Coach coin](/thinking/grips-for-the-critic-coach-coin/) (things to do, ways to get a handle on it).

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ideas for OMB sessions
-longerform: true
+omb: true
 added: 2024-10-03
 updated: 2024-11-28
 ---
