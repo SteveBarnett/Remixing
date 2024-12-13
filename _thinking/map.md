@@ -153,60 +153,65 @@ What we can do.
 
 ## Things to may be remixed in
 
-- Right speech: true, kind, helpful, contextually appropriate.
-- Plain language: clear, concise and well organised
-- Emotional intelligence.
-- Continued recommitment to aligning your actions with your values.
-- Everything is included.
-- Both/and.
-- Context **and** contents.
-- Only the verb. No subject. No object.
-- Self as process
-- Continued recommitment to valued action.
-    - ROCK
-    - Clear, clean, crisp.
-    - Continuous improvement.
-        - Collaboration, review, remixing.
+- Communication
+    - Right speech: true, kind, helpful, contextually appropriate.
+    - Plain language: clear, concise and well organised
+- Valued Action
+    - Continued recommitment to aligning your actions with your values.
+        - ROCK
+        - Clear, clean, crisp.
+        - Continuous improvement.
+            - Collaboration, review, remixing.
+- Why can't it be both?
+    - Both/and.
+    - Context **and** contents.
+- Acceptance
+    - Everything is included.
+    - Acceptance, embracing life as it is.
+    - Imperfections as part of the path, not as an obstacle.
 - Living a good enough, ordinary, life.
-- Acceptance, embracing life as it is.
-- The importance of friends.
-- Imperfections as part of the path, not as an obstacle.
 - Letting go of "this isn't it."
-- Antifragile
-- The Matter With Things
-- Some Stoic and Cynic notes.
-- RWS
-    - Relaxed (Reading, Art, Music (listen, make))
-    - Wise (Personal, Professional (see [STWPC on naga](https://naga.co.za/#enjoy), Practice)
-    - Social
-- Antifragile
-- Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
-- Compass (etc) metaphor
-- Valued Action more clearly.
+- Ing.
+    - Only the verb. No subject. No object.
+    - Self as process
 - Support
     - a network of interdependence and mutual support
-- Grip triangle
-    - Buddhism
-        - Begin Again
-        - Pay more attention ([LSD](/thinking/lsd/) and friends?)
-        - The ocean, not the waves
-    - Stoicism
-        - Reframe
-        - Give Benefits
-    - Psychology
-        - Active Listening (link to LSD?)
-- Spectrum, not binary
-- Grips with triggers
-- Tara and Pema things to grips?
-- [principles of japanese aesthetics](/notes/philosophy-systems/principles%20of%20japanese%20aesthetics.jpg)
-- Wave in [avoidant](/thinking/the-avoidance-alarm/)-related things.
-- [Slowness (over stillness)](/thinking/silence-stillness-slowness/)
-- Continuous improvement.
-    - Keeping things alive and fresh by changing them.
-- Balance, the middle way, "between" two poles / opposites
-- Outwards- and other-focused.
-- Bringing together Grips, Valued Action, Precepts
-    - Library of grips, in buckets-ish.
-- Fruitful, useful, helpful, supportive, constructive, valuable, beneficial
-- Practical, pragmatic, feasible, workable.
-- How would you advise a friend?
+    - The importance of friends.
+- Philosophy systems / ideas / framings
+    - Antifragile
+    - The Matter With Things
+    - Some Stoic and Cynic notes.
+    - Emotional intelligence.
+    - RWS
+        - Relaxed (Reading, Art, Music (listen, make))
+        - Wise (Personal, Professional (see [STWPC on naga](https://naga.co.za/#enjoy), Practice)
+        - Social
+    - Compass (etc) metaphor
+- Grips / coping mechanisms
+    - Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
+    - Grip triangle
+        - Buddhism
+            - Begin Again
+            - Pay more attention ([LSD](/thinking/lsd/) and friends?)
+            - The ocean, not the waves
+        - Stoicism
+            - Reframe
+            - Give Benefits
+        - Psychology
+            - Active Listening (link to LSD?)
+    - Grips with triggers
+    - Tara and Pema things to grips?
+    - Bringing together Grips, Valued Action, Precepts
+        - Library of grips, in buckets-ish.
+    - How would you advise a friend?
+- Vibes
+    - [principles of japanese aesthetics](/notes/philosophy-systems/principles%20of%20japanese%20aesthetics.jpg)
+    - Spectrum, not binary
+    - Weave in [avoidant](/thinking/the-avoidance-alarm/)-related things.
+    - [Slowness (over stillness)](/thinking/silence-stillness-slowness/)
+    - Continuous improvement.
+        - Keeping things alive and fresh by changing them.
+    - Balance, the middle way, "between" two poles / opposites
+    - Outwards- and other-focused.
+    - Fruitful, useful, helpful, supportive, constructive, valuable, beneficial
+    - Practical, pragmatic, feasible, workable.
