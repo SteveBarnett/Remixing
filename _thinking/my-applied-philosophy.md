@@ -6,6 +6,8 @@ added: 2024-07-07
 updated: 2024-12-14
 ---
 
+Now lives at [MAP](/thinking/map/).
+
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
 
 Note: even after many revisions, this still feels a bit muddy.

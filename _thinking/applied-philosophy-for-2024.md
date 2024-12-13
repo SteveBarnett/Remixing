@@ -6,6 +6,8 @@ added: 2023-12-31
 updated: 2024-04-28
 ---
 
+Now lives at [MAP](/thinking/map/).
+
 I tend to be a very practical person. Although I love analysis and thinking and figuring things out, it usually comes down "and now what?" Below are practices that help me bring to mind elements of [my (updated) philosophy](/thinking/my-philosophy-another-spiral/).
 
 [My theme for 2024 is rest](/thinking/themes-for-2024/) so the practices are framed by that. Something like: let go, relax, rest, melt, widen, loosen, accept, wait. Rest, and stop pushing so hard.

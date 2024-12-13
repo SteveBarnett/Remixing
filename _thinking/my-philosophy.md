@@ -6,6 +6,8 @@ added: 2023-12-29
 updated: 2023-12-31
 ---
 
+Now lives at [MAP](/thinking/map/).
+
 A first attempt at something like metaphysics (what is real?) and epistemology (what is true?).
 
 - **Reality is one, complex, flow.**

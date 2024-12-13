@@ -6,6 +6,8 @@ added: 2024-04-03
 updated: 2024-05-13
 ---
 
+Now lives at [MAP](/thinking/map/).
+
 Expanding and updating [an earlier take](/thinking/my-philosophy/).
 
 <div class="boxout">I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing and <span class="gripmoji">🏹</span> to denote indirect noticing (noticing an absence).</div>
