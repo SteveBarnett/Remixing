@@ -11,7 +11,7 @@ The living version of several previous swirls.
 * Display TOC
 {:toc}
 
-## Summary of the practice
+## Practice
 
 When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense. A sort of mix of single-tasking and one-pointedness and commitment and focus.
 
@@ -23,7 +23,61 @@ When out and about, I have a few little practices.
 - To notice my true nature, I look for myself at zero distance.
 - I remind myself that the path is goal.
 
-## Summary of the theory
+### The path
+
+What we can do.
+
+<div class="boxout">Take the path as the goal. Treat the everyday as sacred.</div>
+
+- **The path is the goal.**
+    - <span class="gripmoji">🧘 </span>Don't obsess over the destination.
+- **Liberation is seeing through the illusion of there being a problem.**
+    - <span class="gripmoji">🧘 </span> [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
+    - Our ideas of happiness can stop us being happy.
+- **What we are looking for is always and already here.**
+    - It's close, not far away. It's on the surface, not deep down. 
+    - <span class="gripmoji">🧘 </span>Do less, not do more.
+    - <span class="gripmoji">🧘 </span>Just do what needs to be done. Free of goals or outcomes.
+- **Take everything as our main practice.**
+    - The mundane is sacred.
+- **Why can't it be both?**
+    - The union of Absolute and Relative, of emptiness and form.
+
+### Things to maybe remix in
+
+- Communication
+    - Right speech: true, kind, helpful, contextually appropriate.
+    - Plain language: clear, concise and well organised
+- Valued Action
+    - Continued recommitment to aligning your actions with your values.
+        - ROCK
+        - Clear, clean, crisp.
+        - Continuous improvement.
+            - Collaboration, review, remixing.
+- Acceptance
+    - Everything is included.
+    - Acceptance, embracing life as it is.
+    - Imperfections as part of the path, not as an obstacle.
+    - Letting go of "this isn't it."
+- Grips / coping mechanisms
+    - Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
+    - Grip triangle
+        - Buddhism
+            - Begin Again
+            - Pay more attention ([LSD](/thinking/lsd/) and friends?)
+            - The ocean, not the waves
+        - Stoicism
+            - Reframe
+            - Give Benefits
+        - Psychology
+            - Active Listening (link to LSD?)
+    - Grips with triggers
+    - Tara and Pema things to grips?
+    - Bringing together Grips, Valued Action, Precepts
+        - Library of grips, in buckets-ish.
+    - How would you advise a friend?
+
+## Theory
 
 Reality is one, complex, flow. Its causes and conditions create everything, including our bodies, actions, thoughts.
 
@@ -67,9 +121,7 @@ Our true nature is awareness; the context of consciousness, not the contents.
         - <span class="gripmoji">🧘 </span>Let go of the coulds.
         - <span class="gripmoji">🧘 </span>Rest in the good(s).
 
----
-
-## Reality
+### Reality
 
 <div class="boxout">Reality is one, complex, empty, flow.</div>
 
@@ -88,18 +140,7 @@ Our true nature is awareness; the context of consciousness, not the contents.
     - It's empty of instrinsic, solid, stable, form(s), of boundaries.
     - Thinking, especially judging, creates separation, distance.
 
-### Interpretations and observations
-
-<div class="boxout">The cosmos is purposeful, patterned, and playful.</div>
-
-- **The cosmos is purposeful, patterned.**
-    - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
-    - But/and: only the verb is required. There's no separation of subject and object. There's no doer.
-    - 🧘 Notice the directionality, purposefulness, of things.
-- **The cosmos is playful.**
-    - 🧘 Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
-
-## Consciousness
+### Consciousness
 
 <div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
 
@@ -123,56 +164,32 @@ Our true nature is awareness; the context of consciousness, not the contents.
     - <span class="gripmoji">🧘 </span>Negative Capability: remain in doubt and uncertainty. 
     - <span class="gripmoji">🧘 </span>Take the more integrated picture, multiple viewpoints at once.
 
-### Interpretations and observations
+### The cosmos
 
+Some interpretations and observations.
+
+<div class="boxout">The cosmos is purposeful, patterned, and playful.</div>
+
+- **The cosmos is purposeful, patterned.**
+    - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
+    - But/and: only the verb is required. There's no separation of subject and object. There's no doer.
+    - 🧘 Notice the directionality, purposefulness, of things.
+- **The cosmos is playful.**
+    - 🧘 Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
 - **The cosmos is consciousness as a verb.**
     - All matter is swirls of degrees of consciousness.
     - Life is consciousness that’s more concentrated.
     - Consciousness is the cosmos becoming more aware of itself.
 
-## The path
+### Things to maybe remix in
 
-What we can do.
-
-<div class="boxout">Take the path as the goal. Treat the everyday as sacred.</div>
-
-- **The path is the goal.**
-    - <span class="gripmoji">🧘 </span>Don't obsess over the destination.
-- **Liberation is seeing through the illusion of there being a problem.**
-    - <span class="gripmoji">🧘 </span> [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
-    - Our ideas of happiness can stop us being happy.
-- **What we are looking for is always and already here.**
-    - It's close, not far away. It's on the surface, not deep down. 
-    - <span class="gripmoji">🧘 </span>Do less, not do more.
-    - <span class="gripmoji">🧘 </span>Just do what needs to be done. Free of goals or outcomes.
-- **Take everything as our main practice.**
-    - The mundane is sacred.
-- **Why can't it be both?**
-    - The union of Absolute and Relative, of emptiness and form.
-
-## Things to maybe remix in
-
-- Communication
-    - Right speech: true, kind, helpful, contextually appropriate.
-    - Plain language: clear, concise and well organised
-- Valued Action
-    - Continued recommitment to aligning your actions with your values.
-        - ROCK
-        - Clear, clean, crisp.
-        - Continuous improvement.
-            - Collaboration, review, remixing.
 - Why can't it be both?
     - Both/and.
     - Context **and** contents.
-- Acceptance
-    - Everything is included.
-    - Acceptance, embracing life as it is.
-    - Imperfections as part of the path, not as an obstacle.
 - Living a good enough, ordinary, life.
-- Letting go of "this isn't it."
 - Ing.
     - Only the verb. No subject. No object.
-    - Self as process
+    - Self as process.
 - Support
     - a network of interdependence and mutual support
     - The importance of friends.
@@ -186,23 +203,6 @@ What we can do.
         - Wise (Personal, Professional (see [STWPC on naga](https://naga.co.za/#enjoy), Practice)
         - Social
     - Compass (etc) metaphor
-- Grips / coping mechanisms
-    - Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
-    - Grip triangle
-        - Buddhism
-            - Begin Again
-            - Pay more attention ([LSD](/thinking/lsd/) and friends?)
-            - The ocean, not the waves
-        - Stoicism
-            - Reframe
-            - Give Benefits
-        - Psychology
-            - Active Listening (link to LSD?)
-    - Grips with triggers
-    - Tara and Pema things to grips?
-    - Bringing together Grips, Valued Action, Precepts
-        - Library of grips, in buckets-ish.
-    - How would you advise a friend?
 - Vibes
     - [principles of japanese aesthetics](/notes/philosophy-systems/principles%20of%20japanese%20aesthetics.jpg)
     - Spectrum, not binary
