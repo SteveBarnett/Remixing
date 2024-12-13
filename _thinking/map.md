@@ -152,7 +152,7 @@ What we can do.
 - **Why can't it be both?**
     - The union of Absolute and Relative, of emptiness and form.
 
-## Things to may be remixed in
+## Things to maybe remix in
 
 - Communication
     - Right speech: true, kind, helpful, contextually appropriate.
