@@ -69,8 +69,6 @@ Our true nature is awareness; the context of consciousness, not the contents.
 
 ---
 
-I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing and <span class="gripmoji">🏹</span> to denote indirect noticing (noticing an absence).
-
 ## Reality
 
 <div class="boxout">Reality is one, complex, empty, flow.</div>
@@ -78,14 +76,14 @@ I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing
 - **Reality is one, indivisible, whole.**
     - Only the whole is required.
     - There's distinction, but not division. And these exist on a spectrum.
-    - <span class="gripmoji">🎯 </span>Notice the causes, conditions, and patterns.
-    - <span class="gripmoji">🏹 </span>Look for the edges, the gaps between.
+    - <span class="gripmoji">🧘 </span>Notice the causes, conditions, and patterns.
+    - <span class="gripmoji">🧘 </span>Look for the edges, the gaps between.
 - **Reality is complex, deep, rich.**
-    - <span class="gripmoji">🎯 </span>Notice the fractal nature of everything.
-    - <span class="gripmoji">🏹 </span>Remember that the map is not the territory.
+    - <span class="gripmoji">🧘 </span>Notice the fractal nature of everything.
+    - <span class="gripmoji">🧘 </span>Remember that the map is not the territory.
 - **Reality is flow, motion, change.**
-    - <span class="gripmoji">🎯 </span>Notice the motion, the changes. Watch it arise, watch it pass away.
-    - <span class="gripmoji">🏹 </span>Look for what's static, fixed.
+    - <span class="gripmoji">🧘 </span>Notice the motion, the changes. Watch it arise, watch it pass away.
+    - <span class="gripmoji">🧘 </span>Look for what's static, fixed.
 - **Reality is free of concepts, language, characteristics.**
     - It's empty of instrinsic, solid, stable, form(s), of boundaries.
     - Thinking, especially judging, creates separation, distance.
@@ -97,33 +95,33 @@ I'm (sort of) using <span class="gripmoji">🎯</span> to denote direct noticing
 - **The cosmos is purposeful, patterned.**
     - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
     - But/and: only the verb is required. There's no separation of subject and object. There's no doer.
-    - 🎯 Notice the directionality, purposefulness, of things.
+    - 🧘 Notice the directionality, purposefulness, of things.
 - **The cosmos is playful.**
-    - 🎯 Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
+    - 🧘 Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
 
 ## Consciousness
 
 <div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
 
 - **Our true nature, our first-person experience, is the context of consciousness, not the contents.**
-    - <span class="gripmoji">🎯 </span>Come back to the direct, embodied, experience.
-    - <span class="gripmoji">🏹 </span>Look for yourself, at zero distance.
+    - <span class="gripmoji">🧘 </span>Come back to the direct, embodied, experience.
+    - <span class="gripmoji">🧘 </span>Look for yourself, at zero distance.
     - Subject and object arise as a pair in awareness.
 - **Our true nature, our first-person experience, is free of concepts, language, characteristics.**
     - There's no separate, solid, stable, self.
     - It’s empty of intrinsic, solid, stable, form, of boundaries.
 - **Reality is the source of all our thoughts and actions.**
     - We are not doing in the world, the world is doing us.
-    - <span class="gripmoji">🏹 </span>Look for thinker of thoughts and notice the absence.
-    - <span class="gripmoji">🏹 </span>Look for source of an action, a decision, and notice the absence.
-    - <span class="gripmoji">🎯 </span>Notice the causes and conditions that lead to your suffering.
-    - <span class="gripmoji">🎯 </span>Notice the causes, conditions, patterns that make you who you are.
-    - <span class="gripmoji">🏹 </span>Leave things as they are, without adding a story or a label.
+    - <span class="gripmoji">🧘 </span>Look for thinker of thoughts and notice the absence.
+    - <span class="gripmoji">🧘 </span>Look for source of an action, a decision, and notice the absence.
+    - <span class="gripmoji">🧘 </span>Notice the causes and conditions that lead to your suffering.
+    - <span class="gripmoji">🧘 </span>Notice the causes, conditions, patterns that make you who you are.
+    - <span class="gripmoji">🧘 </span>Leave things as they are, without adding a story or a label.
 - **But/and: we create our own reality.**
     - Perception is participation, and creates different forms, depending on the scale.
-    - <span class="gripmoji">🎯 </span>Notice (the details of) the map you're using.
-    - <span class="gripmoji">🏹 </span>Negative Capability: remain in doubt and uncertainty. 
-    - <span class="gripmoji">🏹 </span>Take the more integrated picture, multiple viewpoints at once.
+    - <span class="gripmoji">🧘 </span>Notice (the details of) the map you're using.
+    - <span class="gripmoji">🧘 </span>Negative Capability: remain in doubt and uncertainty. 
+    - <span class="gripmoji">🧘 </span>Take the more integrated picture, multiple viewpoints at once.
 
 ### Interpretations and observations
 
@@ -139,14 +137,14 @@ What we can do.
 <div class="boxout">Take the path as the goal. Treat the everyday as sacred.</div>
 
 - **The path is the goal.**
-    - <span class="gripmoji">🏹 </span>Don't obsess over the destination.
+    - <span class="gripmoji">🧘 </span>Don't obsess over the destination.
 - **Liberation is seeing through the illusion of there being a problem.**
-    - <span class="gripmoji">🎯 </span> [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
+    - <span class="gripmoji">🧘 </span> [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
     - Our ideas of happiness can stop us being happy.
 - **What we are looking for is always and already here.**
     - It's close, not far away. It's on the surface, not deep down. 
-    - <span class="gripmoji">🎯 </span>Do less, not do more.
-    - <span class="gripmoji">🏹 </span>Just do what needs to be done. Free of goals or outcomes.
+    - <span class="gripmoji">🧘 </span>Do less, not do more.
+    - <span class="gripmoji">🧘 </span>Just do what needs to be done. Free of goals or outcomes.
 - **Take everything as our main practice.**
     - The mundane is sacred.
 - **Why can't it be both?**
