@@ -8,7 +8,8 @@ updated: 2024-12-14
 
 The living version of several previous swirls.
 
-For me, a nondual practice seems to hit the spot. In particular: the unity of everything, including the illusion of free will; our true nature, including the illusion of self.
+* Display TOC
+{:toc}
 
 ## Summary of the practice
 
