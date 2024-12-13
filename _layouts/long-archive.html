@@ -1,0 +1,111 @@
+{% include header.html title=page.title %}
+
+{{ content | markdownify }}
+
+<p>Jump down the page to:</p>
+  <ul class="skip-toc" role="list">
+    <li><a href="#zen">Zen</a></li>
+    <li><a href="#longer-form">longer form writing</a></li>
+    <li><a href="#omb">OMB</a></li>
+    <li><a href="#buddhism">Buddhism</a></li>
+    <li><a href="#ifs">IFS-ish</a></li>
+    <li><a href="#collections">collections of short bits</a>.</li>
+  </ul>
+
+<h2 id="zen" tabindex="-1">Zen</h2>
+
+{%- assign zen2024posts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
+
+<ol reversed>
+{%- for zen2024post in zen2024posts -%}
+
+<li>
+  <a href="{{ zen2024post.url }}">{{ zen2024post.title }}</a>
+    (added {{ zen2024post.added }}{% if zen2024post.updated !=  zen2024post.added %}, updated {{ zen2024post.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2 id="longer-form" tabindex="-1">Longer form</h2>
+
+{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
+
+<ol reversed>
+{%- for longerformpost in longerformposts -%}
+
+<li>
+  <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
+    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2 id="buddhism" tabindex="-1">Buddhism</h2>
+
+{%- assign buddhismposts = site.thinking | where: "buddhism", "true" | sort: "updated" | reverse -%}
+
+<ol reversed>
+{%- for buddhismpost in buddhismposts -%}
+
+<li>
+  <a href="{{ buddhismpost.url }}">{{ buddhismpost.title }}</a>
+    (added {{ buddhismpost.added }}{% if buddhismpost.updated !=  buddhismpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2 id="omb" tabindex="-1">OMB</h2>
+
+{%- assign ombposts = site.thinking | where: "omb", "true" | sort: "updated" | reverse -%}
+
+<ol reversed>
+{%- for ombpost in ombposts -%}
+
+<li>
+  <a href="{{ ombpost.url }}">{{ ombpost.title }}</a>
+    (added {{ ombpost.added }}{% if ombpost.updated !=  ombpost.added %}, updated {{ ombpost.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2 id="ifs" tabindex="-1">IFS-ish</h2>
+
+{%- assign ifsposts = site.thinking | where: "ifs", "true" | sort: "updated" | reverse -%}
+
+{%- assign previousifsMonth = 12 -%}
+
+<ol reversed>
+{%- for ifspost in ifsposts -%}
+
+<li>
+  <a href="{{ ifspost.url }}">{{ ifspost.title }}</a>
+    (added {{ ifspost.added }}{% if ifspost.updated !=  ifspost.added %}, updated {{ ifspost.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2 id="collections" tabindex="-1">Collections</h2>
+
+{%- assign sbcollectionposts = site.thinking | where: "sbcollection", "true" | sort: "updated" | reverse -%}
+
+<ol reversed>
+{%- for sbcollectionpost in sbcollectionposts -%}
+
+<li>
+  <a href="{{ sbcollectionpost.url }}">{{ sbcollectionpost.title }}</a>
+    (added {{ sbcollectionpost.added }}{% if sbcollectionpost.updated !=  sbcollectionpost.added %}, updated {{ collectionpost.updated }}{% endif %})
+</li>
+
+{%- endfor -%}
+</ol>
+
+<h2>See also</h2>
+
+{% include thinking-links.html %}
+
+{% include footer.html %}
