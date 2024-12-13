@@ -3,7 +3,7 @@ layout: page
 title: My (applied) philosophy
 longerform: true
 added: 2024-07-07
-updated: 2024-12-08
+updated: 2024-12-14
 ---
 
 The next generation of [an earlier take](/thinking/my-philosophy-another-spiral/). This updates contains some tweaks from [studying Zen for a little bit](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/). It seems to be shaping into a mix of metaphysics (what is real?) and epistemology (what is true?).
@@ -207,3 +207,10 @@ What we can do.
 - [Slowness (over stillness)](/thinking/silence-stillness-slowness/)
 - Continuous improvement.
     - Keeping things alive and fresh by changing them.
+- Balance, the middle way, "between" two poles / opposites
+- Outwards- and other-focused.
+- Bringing together Grips, Valued Action, Precepts
+    - Library of grips, in buckets-ish.
+- Fruitful, useful, helpful, supportive, constructive, valuable, beneficial
+- Practical, pragmatic, feasible, workable.
+- How would you advise a friend?
