@@ -25,23 +25,46 @@ When out and about, I have a few little practices.
 
 ### The path
 
-What we can do.
+- Take the path as the goal.
 
-<div class="boxout">Take the path as the goal. Treat the everyday as sacred.</div>
+#### Ride the waves
 
-- **The path is the goal.**
-    - <span class="gripmoji">🧘 </span>Don't obsess over the destination.
-- **Liberation is seeing through the illusion of there being a problem.**
-    - <span class="gripmoji">🧘 </span> [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
-    - Our ideas of happiness can stop us being happy.
-- **What we are looking for is always and already here.**
-    - It's close, not far away. It's on the surface, not deep down. 
-    - <span class="gripmoji">🧘 </span>Do less, not do more.
-    - <span class="gripmoji">🧘 </span>Just do what needs to be done. Free of goals or outcomes.
-- **Take everything as our main practice.**
-    - The mundane is sacred.
-- **Why can't it be both?**
-    - The union of Absolute and Relative, of emptiness and form.
+Look around. Apply psychological and logical understanding.
+
+- Do less, not do more.
+- Just do what needs to be done. Free of goals or outcomes.
+- Notice (the details of) the map you're using.
+- Negative Capability: remain in doubt and uncertainty.
+- Take the more integrated picture, multiple viewpoints at once.
+
+#### Calm the waves
+
+Look closer. Feel your way through the ups and downs of being an embodied human being.
+
+- Treat the everyday as sacred.
+- [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
+- Try, and fail, to find the edges. (Reality is one)
+- Watch as things arise and pass away. (Reality is in constant flux)
+- Watch as things happen on their own. (The infinite causes and conditions of Reality create everything)
+    - Notice the causes, conditions, and patterns.
+- Remember that the map is not the territory. (Reality is complex, deep, rich)
+    - Notice the fractal nature of everything.
+- Look for what's static, fixed. (Reality is flow, motion, change)
+    - Notice the motion, the changes. Watch it arise, watch it pass away.
+- Notice the directionality, purposefulness, of things. (The cosmos is purposeful, patterned)
+- Notice the playful nature of everything. There's exploring and realising, playing hide and seek. (The cosmos is playful)
+- Leave things as they are, without adding a story or a label.
+
+#### Be the waves
+
+Look wider. Connect to a deeper sense of self.
+
+- Notice the causes and conditions that lead to your suffering.
+- Notice the causes, conditions, patterns that make you who you are.
+- Look for source of an action, a decision, and notice the absence.
+- Look for yourself, at zero distance. (The context of consciousness, not the contents)
+    - Come back to the direct, embodied, experience.
+    - Look for thinker of thoughts and notice the absence.
 
 ### Things to maybe remix in
 
@@ -79,9 +102,16 @@ What we can do.
 
 ## Theory
 
-Reality is one, complex, flow. Its causes and conditions create everything, including our bodies, actions, thoughts.
+- **The path is the goal.**
+    - A gradual, never-ending, actualisation, embodiment, and integration.
+    - Living more frequently, for longer periods, from Reality, direct experience, instead of concepts.
+    - Practice is enlightenment.
+    - **Relaxing and resting, accepting what is.**
+        - Living with don’t-know mind.
 
-Our true nature is awareness; the context of consciousness, not the contents.
+### Reality
+
+<div class="boxout">Reality is one, complex, empty, flow.</div>
 
 - **Reality is one.**
     - There are distinctions, but not divisions.
@@ -89,21 +119,31 @@ Our true nature is awareness; the context of consciousness, not the contents.
     - Things that are separate can't influence and act on each other.
     - Subject and object aren't required, only the verb.
     - The unity of Absolute and Relative, of emptiness and form.
-    - <span class="gripmoji">🧘 </span>Try, and fail, to find the edges.
-- **Reality is complex.**
+- **Reality is complex, deep, rich.**
     - Concepts make forms, draw lines, build fences.
     - The closer you look, the more there is to see. Boredom is a failure to pay enough attention.
-- **Reality is in constant flux.**
-    - Everything flows, and changes, is impermanent.
-    - <span class="gripmoji">🧘 </span>Watch as things arise and pass away.
+- **Reality is in constant flux and motion.**
+    - Everything flows, changes, is impermanent.
+- **Reality is free of concepts, language, characteristics.**
+    - It’s empty of intrinsic, solid, stable, form(s), of boundaries.
+    - Thinking, especially judging, creates separation, distance.
 - **The infinite causes and conditions of Reality create everything.**
+    - Including all our thoughts and actions.
+        - But/and: we create our own reality.
+            - Perception is participation, and creates different forms, depending on the scale.
     - **Things arise and pass away on their own.**
     - **Our thoughts, actions, bodies, are in and of Reality.**
         - When we are experience, there is no suffering. When we believe we're separate from it, there is suffering.
-    - <span class="gripmoji">🧘 </span>Watch as things happen on their own.
-- **Our true nature, awareness, is the context of consciousness, not the contents.**
+
+### Consciousness
+
+<div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
+
+- **Our true nature, awareness, is the (open, empty, luminous) context of consciousness, not the contents.**
     - Anything that can be named or located can’t be you: it must an object in awareness or you couldn't be aware of it.
+    - Subject and object arise as a pair in awareness.
     - The context is always bright, clear, boundless, whatever the contents of consciousness.
+    - There’s no separate, solid, stable, self.
     - **Seen in the first instant.**
         - Before thoughts like classification, measuring, labelling.
         - It's close, not far away. It's on the surface, not deep down. 
@@ -111,71 +151,16 @@ Our true nature is awareness; the context of consciousness, not the contents.
 - **All matter is swirls of degrees of consciousness.**
     - Like eddies in a river.
     - Life is consciousness that’s more concentrated.
-- **The path is the goal.**
-    - A gradual, never-ending, actualisation, embodiment, and integration.
-    - Living more frequently, for longer periods, from Reality, direct experience, instead of concepts.
-    - Practice is enlightenment.
-    - **Relaxing and resting, accepting what is.**
-        - Living with don’t-know mind.
-        - <span class="gripmoji">🧘 </span>Let go of the shoulds.
-        - <span class="gripmoji">🧘 </span>Let go of the coulds.
-        - <span class="gripmoji">🧘 </span>Rest in the good(s).
-
-### Reality
-
-<div class="boxout">Reality is one, complex, empty, flow.</div>
-
-- **Reality is one, indivisible, whole.**
-    - Only the whole is required.
-    - There's distinction, but not division. And these exist on a spectrum.
-    - <span class="gripmoji">🧘 </span>Notice the causes, conditions, and patterns.
-    - <span class="gripmoji">🧘 </span>Look for the edges, the gaps between.
-- **Reality is complex, deep, rich.**
-    - <span class="gripmoji">🧘 </span>Notice the fractal nature of everything.
-    - <span class="gripmoji">🧘 </span>Remember that the map is not the territory.
-- **Reality is flow, motion, change.**
-    - <span class="gripmoji">🧘 </span>Notice the motion, the changes. Watch it arise, watch it pass away.
-    - <span class="gripmoji">🧘 </span>Look for what's static, fixed.
-- **Reality is free of concepts, language, characteristics.**
-    - It's empty of instrinsic, solid, stable, form(s), of boundaries.
-    - Thinking, especially judging, creates separation, distance.
-
-### Consciousness
-
-<div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
-
-- **Our true nature, our first-person experience, is the context of consciousness, not the contents.**
-    - <span class="gripmoji">🧘 </span>Come back to the direct, embodied, experience.
-    - <span class="gripmoji">🧘 </span>Look for yourself, at zero distance.
-    - Subject and object arise as a pair in awareness.
-- **Our true nature, our first-person experience, is free of concepts, language, characteristics.**
-    - There's no separate, solid, stable, self.
-    - It’s empty of intrinsic, solid, stable, form, of boundaries.
-- **Reality is the source of all our thoughts and actions.**
-    - We are not doing in the world, the world is doing us.
-    - <span class="gripmoji">🧘 </span>Look for thinker of thoughts and notice the absence.
-    - <span class="gripmoji">🧘 </span>Look for source of an action, a decision, and notice the absence.
-    - <span class="gripmoji">🧘 </span>Notice the causes and conditions that lead to your suffering.
-    - <span class="gripmoji">🧘 </span>Notice the causes, conditions, patterns that make you who you are.
-    - <span class="gripmoji">🧘 </span>Leave things as they are, without adding a story or a label.
-- **But/and: we create our own reality.**
-    - Perception is participation, and creates different forms, depending on the scale.
-    - <span class="gripmoji">🧘 </span>Notice (the details of) the map you're using.
-    - <span class="gripmoji">🧘 </span>Negative Capability: remain in doubt and uncertainty. 
-    - <span class="gripmoji">🧘 </span>Take the more integrated picture, multiple viewpoints at once.
 
 ### The cosmos
-
-Some interpretations and observations.
 
 <div class="boxout">The cosmos is purposeful, patterned, and playful.</div>
 
 - **The cosmos is purposeful, patterned.**
     - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
     - But/and: only the verb is required. There's no separation of subject and object. There's no doer.
-    - 🧘 Notice the directionality, purposefulness, of things.
 - **The cosmos is playful.**
-    - 🧘 Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
+    - There's exploring and realising, playing hide and seek.
 - **The cosmos is consciousness as a verb.**
     - All matter is swirls of degrees of consciousness.
     - Life is consciousness that’s more concentrated.
