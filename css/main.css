@@ -489,11 +489,17 @@ summary:focus {
 }
 
 .skip-toc li {
-  display: inline;
+  display: inline-block;
+  margin-right: 0.25rem;
 }
 
 .skip-toc li:after {
+  margin-left: 0.125rem;
   content: ";";
+}
+
+.skip-toc li:last-child:after {
+  content: ".";
 }
 
 h2:has(+ ul:empty) {
