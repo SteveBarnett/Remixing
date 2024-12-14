@@ -32,5 +32,7 @@ updated: 2024-12-05
     - Notice that we don't actually need to do anything to receive sounds, sensations, thoughts, feelings. They arise in our awareness by themselves
     - The whole world is arising just as it does, without effort – everything unfolding by itself, just as it does.
 - It’s possible to reduce, or even to give up – if just for a little while – the endless quest to arrange our lives. And to find a very different kind of fulfillment, one that is intrinsic to the bare fact of being alive, and is always already here. 
+- In awakening, we can recognise that we are not actually the contents of awareness. Rather, we are in fact the broader context that awareness is. We are simply awareness itself. An open, boundless, center-less space in which all things arise.
+- In Buddhism they talk about two forms of knowing: ‘understanding’ and ‘recognizing’. We can cognitively understand something, but it’s a different thing to recognize it as true, through our own personal experience. 
 
 [The Way app](https://www.thewayapp.com/)
