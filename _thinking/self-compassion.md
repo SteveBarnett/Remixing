@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self-compassion
-longerform: true
+ifs: true
 added: 2023-08-13
 updated: 2024-01-04
 ---
