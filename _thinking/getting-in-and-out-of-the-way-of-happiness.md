@@ -6,6 +6,8 @@ added: 2024-12-16
 updated: 2024-12-16
 ---
 
+Our base state is peace. Not happy exactly. More like an absence of unhappiness. Being an embodied human being means having highs and lows, happiness and sadness. Being okay with that can help. And we can have less unhappiness by letting go of some of our requirements for happiness.
+
 - Remember that **everyone has more suffering and less happiness than they want.**
 - **A good life is** rich and interesting, but **not always happy.**
 - **Recognise and accept unhappiness**, without identifying with it.
