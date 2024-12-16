@@ -6,6 +6,27 @@ added: 2024-12-16
 updated: 2024-12-16
 ---
 
+- Remember that **everyone has more suffering and less happiness than they want.**
+- **A good life is** rich and interesting, but **not always happy.**
+- **Recognise and accept unhappiness**, without identifying with it.
+- Recognise that **happiness and suffering** do, and can only, **co-exist.**
+- **Don’t cling to your own comfort.** Then problems become no problem.
+- (Be brave and insightful and) **Let go of your ideas of happiness.**
+- Interacting with strangers and having healthy habits can make us happy.
+
+## Gathered notes
+
+- Become more other-centred, more other-loving. Remember that everyone has more suffering and less happiness than they want.
+- Practice is not having a problem with having problems. Don’t cling to your own comfort and problems become no problem.
+- Every thing causes some problems. The thought that life shouldn’t be a struggle is painful, so we try to escape it.
+- Sadness is part of the human experience. A good life is rich and interesting, but not always happy. Our need to have everything go our way is the cause of a lot of suffering.
+- When you don’t notice it, you identify with, you become, the unhappiness. Recognise unhappiness, without trying to change it or fix it. Experience emotions fully, without separation or rejection, without adding anything.
+- We’re allowed to feel happy now, before the end of all our suffering. Suffering and happiness are not separate. Where there is no suffering, there can be no happiness, and vice versa.
+- Slowly, painfully, reconcile to life. Let problems support your practice, enhance your ability to respond appropriately. Use whatever happens as opportunity to wake up, to soften.
+- We make specific requirements for our happiness. If the conditions aren’t met, we can’t be happy. **We overlook opportunities for happiness that are already here.** **Let go of the belief that “this isn’t it.”**
+- Letting go can take a lot of courage, but once you let go happiness come quickly. It needs great insight and courage to release our ideas of happiness. But, once we can do that, freedom and happiness can come very easily.
+- **Thing that makes us happy (that can seem counter-intuitive): social relationships; interacting with strangers; having healthy habits.**
+
 ## Recognise happiness
 
 - We make specific requirements for our happiness. If the conditions aren’t met, we can’t be happy.
@@ -29,6 +50,13 @@ updated: 2024-12-16
 - A good life is rich and interesting, but not always happy.
 - Our need to have everything go our way is the cause of a lot of suffering.
 
+## Why can't it be both?
+
+- We don’t believe we can have happiness and sadness at the same time. It seems like a paradox.
+- We don’t have to wait until (the imaginary and impossible future when) we’ve solved all our problems.
+- We're allowed to feel happy now, before the end of all our suffering.
+- Suffering and happiness are not separate. Where there is no suffering, there can be no happiness, and vice versa.
+
 ## Problems
 
 - We don’t need to be miserable while we work on our problems.
@@ -36,13 +64,6 @@ updated: 2024-12-16
 - Everything, every thing, causes some problems.
 - When you don't notice it, you identify with, you become, the unhappiness.
 - **Sadness is part of the human experience.**
-
-## Why can't it be both?
-
-- We don’t believe we can have happiness and sadness at the same time. It seems like a paradox.
-- We don’t have to wait until (the imaginary and impossible future when) we’ve solved all our problems.
-- We're allowed to feel happy now, before the end of all our suffering.
-- Suffering and happiness are not separate. Where there is no suffering, there can be no happiness, and vice versa.
 
 ## No problems
 
@@ -64,7 +85,7 @@ updated: 2024-12-16
 - Look for your unhappiness. Can you find it?
 - Unhappiness can't last when you truly accept it.
 
-## Other-centred
+## Be more other-centred
 
 - **Reduce as much as you can your excessive self-concern.**
 - Equalise our love of ourselves and others.
