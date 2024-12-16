@@ -27,6 +27,9 @@ When out and about, I have a few little practices.
 
 - Take the path as the goal.
 
+The sea's waves: ride, calm, be.
+The ocean's waves, depths, whole.
+
 #### Ride the waves
 
 Look around. Apply psychological and logical understanding.
