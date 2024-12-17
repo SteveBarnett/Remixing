@@ -3,7 +3,7 @@ layout: page
 title: Wider RAIN practice
 longerform: true
 added: 2023-12-04
-updated: 2024-01-23
+updated: 2024-12-17
 ---
 
 I'm a big fan of [Tara Brach's RAIN meditation](https://www.tarabrach.com/category/rain/) (Recognize, Allow, Investigate, Nurture) and it's companion "[After the RAIN](https://www.tarabrach.com/after-the-rain-i/)".
@@ -28,6 +28,24 @@ Sometimes something RAIN-worthy comes up while you're in the thick of it. There'
 	- Give everything a warm welcome.
 	- Be patient, wait a little longer.
 - Plan when to come back and do a longer RAIN.
+
+## [Light RAIN in difficult times](https://youtu.be/hL6hEC4w6Ng?si=7qlOFpZIFBOAW3VE)
+
+Sit at ease. Also alert and awake.
+
+Where might want healing attention.
+Perhaps somewhere you've been judging or blaming yourself. Somewhere you're having a hard time, or expecting to have a hard time.
+Be brave and go a little closer to it.
+
+- **Recognise.** Let mindfulness recognise whatever's strongest. Name it with a mental whisper.
+- **Allow.** Really let it be here. Pause. Don't add any judgement. Or try and fix it.
+- **Investigate.** Check your throat, chest, belly. Place a hand wherever you feel most agitated. Let it help you. Where does it live in your body. Directly contact that, with courage. Be willing to pay attention to the feeling. Vulnerability. Fear, isolation, sadness, anger.
+- **Nurture.** What does this most need? Acceptance? Forgiveness? Understanding? Love? Compassion? Belonging?
+	- Sense how the awake part of you can offer some kindness.
+	- Trust your goodness. Truly, it's okay.
+	- Let the nurturing in. Sometimes it's the most challenging. Can be easier to sense the message coming from someone you trust.
+- Sense the presence that's right here. Notice the shift, small or large. From how you felt when you start, to a more presence to what's here.
+	- This loving presence is more the trust of who you are.
 
 ## RAIN
 
