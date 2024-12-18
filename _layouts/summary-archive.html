@@ -16,188 +16,28 @@
   </ul>
 
 <h2 id="zen" tabindex="-1">Zen</h2>
-
-{%- assign zen2024posts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
-
-{%- assign previouszen2024Month = 12 -%}
-
-<ul>
-{%- for zen2024post in zen2024posts -%}
-
-{%- assign currentzen2024Year = zen2024post.updated | date: "%Y" -%}
-
-{% if currentzen2024Year == page.year %}
-{%- assign currentzen2024Month = zen2024post.updated | date: "%m" -%}
-
-<li{% if currentzen2024Month != previouszen2024Month %} class="month-change"{%- assign previouszen2024Month = currentzen2024Month -%}{% endif %}>
-  <a href="{{ zen2024post.url }}">{{ zen2024post.title }}</a>
-    (added {{ zen2024post.added }}{% if zen2024post.updated !=  zen2024post.added %}, updated {{ zen2024post.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="zen2024" %}
 
 <h3 id="zen-notes" tabindex="-1">Zen notes</h3>
-
-{%- assign zen2024notesposts = site.thinking | where: "zen2024notes", "true" | sort: "updated" | reverse -%}
-
-{%- assign previouszen2024notesMonth = 12 -%}
-
-<ul>
-{%- for zen2024notespost in zen2024notesposts -%}
-
-{%- assign currentzen2024notesYear = zen2024notespost.updated | date: "%Y" -%}
-
-{% if currentzen2024notesYear == page.year %}
-{%- assign currentzen2024notesMonth = zen2024notespost.updated | date: "%m" -%}
-
-<li{% if currentzen2024notesMonth != previouszen2024notesMonth %} class="month-change"{%- assign previouszen2024notesMonth = currentzen2024notesMonth -%}{% endif %}>
-  <a href="{{ zen2024notespost.url }}">{{ zen2024notespost.title }}</a>
-    (added {{ zen2024notespost.added }}{% if zen2024notespost.updated !=  zen2024notespost.added %}, updated {{ zen2024notespost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="zen2024notes" %}
 
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
-
-{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
-
-{%- assign previousLongerFormMonth = 12 -%}
-
-<ul>
-{%- for longerformpost in longerformposts -%}
-
-{%- assign currentLongerFormYear = longerformpost.updated | date: "%Y" -%}
-
-{% if currentLongerFormYear == page.year %}
-{%- assign currentLongerFormMonth = longerformpost.updated | date: "%m" -%}
-
-<li{% if currentLongerFormMonth != previousLongerFormMonth %} class="month-change"{%- assign previousLongerFormMonth = currentLongerFormMonth -%}{% endif %}>
-  <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
-    (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="longerform" %}
 
 <h3 id="notes" tabindex="-1">Notes from books, articles, talks</h3>
-
-{%- assign notesposts = site.thinking | where: "notes", "true" | sort: "updated" | reverse -%}
-
-{%- assign notesMonth = 12 -%}
-
-<ul>
-{%- for notespost in notesposts -%}
-
-{%- assign notesYear = notespost.updated | date: "%Y" -%}
-
-{% if notesYear == page.year %}
-{%- assign notesMonth = notespost.updated | date: "%m" -%}
-
-<li{% if notesMonth != notesMonth %} class="month-change"{%- assign notesMonth = notesMonth -%}{% endif %}>
-  <a href="{{ notespost.url }}">{{ notespost.title }}</a>
-    (added {{ notespost.added }}{% if notespost.updated !=  notespost.added %}, updated {{ notespost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="notes" %}
 
 <h2 id="buddhism" tabindex="-1">Buddhism</h2>
-
-{%- assign buddhismposts = site.thinking | where: "buddhism", "true" | sort: "updated" | reverse -%}
-
-{%- assign previousbuddhismMonth = 12 -%}
-
-<ul>
-{%- for buddhismpost in buddhismposts -%}
-
-{%- assign currentbuddhismYear = buddhismpost.updated | date: "%Y" -%}
-
-{% if currentbuddhismYear == page.year %}
-{%- assign currentbuddhismMonth = buddhismpost.updated | date: "%m" -%}
-
-<li{% if currentbuddhismMonth != previousbuddhismMonth %} class="month-change"{%- assign previousbuddhismMonth = currentbuddhismMonth -%}{% endif %}>
-  <a href="{{ buddhismpost.url }}">{{ buddhismpost.title }}</a>
-    (added {{ buddhismpost.added }}{% if buddhismpost.updated !=  buddhismpost.added %}, updated {{ longerformpost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="buddhism" %}
 
 <h2 id="omb" tabindex="-1">OMB</h2>
-
-{%- assign ombposts = site.thinking | where: "omb", "true" | sort: "updated" | reverse -%}
-
-{%- assign previousombMonth = 12 -%}
-
-<ul>
-{%- for ombpost in ombposts -%}
-
-{%- assign currentombYear = ombpost.updated | date: "%Y" -%}
-
-{% if currentombYear == page.year %}
-{%- assign currentombMonth = ombpost.updated | date: "%m" -%}
-
-<li{% if currentombMonth != previousombMonth %} class="month-change"{%- assign previousombMonth = currentombMonth -%}{% endif %}>
-  <a href="{{ ombpost.url }}">{{ ombpost.title }}</a>
-    (added {{ ombpost.added }}{% if ombpost.updated !=  ombpost.added %}, updated {{ ombpost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="omb" %}
 
 <h2 id="ifs" tabindex="-1">IFS-ish</h2>
-
-{%- assign ifsposts = site.thinking | where: "ifs", "true" | sort: "updated" | reverse -%}
-
-{%- assign previousifsMonth = 12 -%}
-
-<ul>
-{%- for ifspost in ifsposts -%}
-
-{%- assign currentifsYear = ifspost.updated | date: "%Y" -%}
-
-{% if currentifsYear == page.year %}
-{%- assign currentifsMonth = ifspost.updated | date: "%m" -%}
-
-<li{% if currentifsMonth != previousifsMonth %} class="month-change"{%- assign previousifsMonth = currentifsMonth -%}{% endif %}>
-  <a href="{{ ifspost.url }}">{{ ifspost.title }}</a>
-    (added {{ ifspost.added }}{% if ifspost.updated !=  ifspost.added %}, updated {{ ifspost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="ifs" %}
 
 <h2 id="collections" tabindex="-1">Collections</h2>
-
-{%- assign sbcollectionposts = site.thinking | where: "sbcollection", "true" | sort: "updated" | reverse -%}
-
-{%- assign previoussbcollectionMonth = 12 -%}
-
-<ul>
-{%- for sbcollectionpost in sbcollectionposts -%}
-
-{%- assign currentsbcollectionYear = sbcollectionpost.updated | date: "%Y" -%}
-
-{% if currentsbcollectionYear == page.year %}
-{%- assign currentsbcollectionMonth = sbcollectionpost.updated | date: "%m" -%}
-
-<li{% if currentsbcollectionMonth != previoussbcollectionMonth %} class="month-change"{%- assign previoussbcollectionMonth = currentsbcollectionMonth -%}{% endif %}>
-  <a href="{{ sbcollectionpost.url }}">{{ sbcollectionpost.title }}</a>
-    (added {{ sbcollectionpost.added }}{% if sbcollectionpost.updated !=  sbcollectionpost.added %}, updated {{ collectionpost.updated }}{% endif %})
-</li>
-{% endif %}
-
-{%- endfor -%}
-</ul>
+{% include section-loop.html section="sbcollection" %}
 
 <h2>See also</h2>
 
