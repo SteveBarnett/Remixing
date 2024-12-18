@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from John Astin sessions
-bookandarticlenotes: true
+notes: true
 added: 2024-08-25
 updated: 2024-08-25
 ---

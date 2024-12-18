@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "The Search for Stillness in a Mad, Mad World'
-bookandarticlenotes: true
+notes: true
 added: 2024-10-12
 updated: 2024-10-12
 ---

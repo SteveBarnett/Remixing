@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from One Bottomless Moment
-bookandarticlenotes: true
+notes: true
 added: 2024-08-22
 updated: 2024-08-22
 ---

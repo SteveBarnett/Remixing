@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Painting the Sidewalk with Water
-bookandarticlenotes: true
+notes: true
 added: 2024-04-20
 updated: 2024-04-24
 ---

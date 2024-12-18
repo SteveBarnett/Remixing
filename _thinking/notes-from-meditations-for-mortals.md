@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from Meditations for Mortals 
-bookandarticlenotes: true
+notes: true
 added: 2024-10-16
 updated: 2024-10-16
 ---

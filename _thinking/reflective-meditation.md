@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Reflective Meditation
-bookandarticlenotes: true
+notes: true
 added: 2024-06-30
 updated: 2024-06-30
 ---

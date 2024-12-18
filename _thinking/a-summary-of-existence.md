@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "A Summary of Existence" by Darryl Bailey'
-bookandarticlenotes: true
+notes: true
 added: 2024-10-05
 updated: 2024-10-11
 ---

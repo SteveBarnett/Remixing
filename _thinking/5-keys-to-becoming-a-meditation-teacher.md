@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 5 keys to becoming a meditation teacher
-bookandarticlenotes: true
+notes: true
 added: 2024-09-08
 updated: 2024-09-08
 ---

@@ -8,7 +8,7 @@
     {% if page.zen %}<li><a href="#zen">Zen</a></li>{% endif %}
     {% if page.zen %}<li><a href="#zen-notes">Zen book notes</a></li>{% endif %}
     <li><a href="#longer-form">longer form writing</a></li>
-    <li><a href="#notes">book and article notes</a></li>
+    <li><a href="#notes">notes from books, articles, talks</a></li>
     <li><a href="#omb">OMB</a></li>
     <li><a href="#buddhism">Buddhism</a></li>
     <li><a href="#ifs">IFS-ish</a></li>
@@ -84,23 +84,23 @@
 {%- endfor -%}
 </ul>
 
-<h3 id="notes" tabindex="-1">Book and article notes</h3>
+<h3 id="notes" tabindex="-1">Notes from books, articles, talks</h3>
 
-{%- assign bookandarticlenotesposts = site.thinking | where: "bookandarticlenotes", "true" | sort: "updated" | reverse -%}
+{%- assign notesposts = site.thinking | where: "notes", "true" | sort: "updated" | reverse -%}
 
-{%- assign previousbookandarticlenotesMonth = 12 -%}
+{%- assign notesMonth = 12 -%}
 
 <ul>
-{%- for bookandarticlenotespost in bookandarticlenotesposts -%}
+{%- for notespost in notesposts -%}
 
-{%- assign currentbookandarticlenotesYear = bookandarticlenotespost.updated | date: "%Y" -%}
+{%- assign notesYear = notespost.updated | date: "%Y" -%}
 
-{% if currentbookandarticlenotesYear == page.year %}
-{%- assign currentbookandarticlenotesMonth = bookandarticlenotespost.updated | date: "%m" -%}
+{% if notesYear == page.year %}
+{%- assign notesMonth = notespost.updated | date: "%m" -%}
 
-<li{% if currentbookandarticlenotesMonth != previousbookandarticlenotesMonth %} class="month-change"{%- assign previousbookandarticlenotesMonth = currentbookandarticlenotesMonth -%}{% endif %}>
-  <a href="{{ bookandarticlenotespost.url }}">{{ bookandarticlenotespost.title }}</a>
-    (added {{ bookandarticlenotespost.added }}{% if bookandarticlenotespost.updated !=  bookandarticlenotespost.added %}, updated {{ bookandarticlenotespost.updated }}{% endif %})
+<li{% if notesMonth != notesMonth %} class="month-change"{%- assign notesMonth = notesMonth -%}{% endif %}>
+  <a href="{{ notespost.url }}">{{ notespost.title }}</a>
+    (added {{ notespost.added }}{% if notespost.updated !=  notespost.added %}, updated {{ notespost.updated }}{% endif %})
 </li>
 {% endif %}
 

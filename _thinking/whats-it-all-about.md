@@ -3,7 +3,7 @@ layout: page
 title: What's It All About?
 added: 2024-06-14
 updated: 2024-06-14
-bookandarticlenotes: true
+notes: true
 ---
 
 Notes from [What's It All About? - by Joan Tollifson](https://joantollifson.substack.com/p/whats-it-all-about?publication_id=1427713&post_id=145244538&isFreemail=true&r=13ali&triedRedirect=true)

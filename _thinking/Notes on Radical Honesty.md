@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes on Radical Honesty
-bookandarticlenotes: true
+notes: true
 added: 2024-01-20
 updated: 2024-01-20
 ---

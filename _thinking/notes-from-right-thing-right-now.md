@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from Right Thing. Right Now.
-bookandarticlenotes: true
+notes: true
 added: 2024-09-08
 updated: 2024-09-08
 ---

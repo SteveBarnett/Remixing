@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from The Creative Act
-bookandarticlenotes: true
+notes: true
 added: 2024-09-08
 updated: 2024-09-08
 ---

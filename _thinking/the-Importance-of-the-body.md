@@ -3,7 +3,7 @@ layout: page
 title: The Importance of the Body
 added: 2024-03-14
 updated: 2024-03-14
-bookandarticlenotes: true
+notes: true
 ---
 
 I've been [digging into Zen a bit this year](/thinking/#zen), and one thing that caught my eye was the emphasis on the importance of posture. I've had sloppy posture for most of my life. 

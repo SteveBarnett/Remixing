@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emotional Intelligence
-bookandarticlenotes: true
+notes: true
 added: 2024-12-14
 updated: 2024-12-14
 ---

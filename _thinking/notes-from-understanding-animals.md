@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "Understanding Animals"'
-bookandarticlenotes: true
+notes: true
 added: 2024-11-09
 updated: 2024-11-09
 ---

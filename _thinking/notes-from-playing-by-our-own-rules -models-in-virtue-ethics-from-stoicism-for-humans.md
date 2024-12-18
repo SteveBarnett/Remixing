@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Notes from Playing by Our Own Rules - Models in Virtue Ethics from Stoicism for Humans"
-bookandarticlenotes: true
+notes: true
 added: 2024-08-22
 updated: 2024-08-22
 ---

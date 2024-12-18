@@ -1,7 +1,7 @@
 ---
 layout: page
 title: William James on Mystical Experience
-bookandarticlenotes: true
+notes: true
 added: 2024-11-28
 updated: 2024-11-28
 ---

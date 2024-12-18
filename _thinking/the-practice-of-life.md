@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Practice of Life
-bookandarticlenotes: true
+notes: true
 added: 2024-08-18
 updated: 2024-08-18
 ---

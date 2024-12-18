@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Doorway to Now
-bookandarticlenotes: true
+notes: true
 added: 2024-05-18
 updated: 2024-05-18
 ---
