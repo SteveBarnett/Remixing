@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from various Tara Brach talks and books
-longerform: true
+bookandarticlenotes: true
 added: 2024-09-03
 updated: 2024-09-04
 ---

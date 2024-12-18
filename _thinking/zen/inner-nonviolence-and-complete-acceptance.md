@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inner Nonviolence and Complete Acceptance
-zen2024: true
+zen2024notes: true
 added: 2024-05-30
 updated: 2024-05-30
 ---

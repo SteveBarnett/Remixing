@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Matter With Things: revisiting some Part 3 notes"
-longerform: true
+bookandarticlenotes: true
 added: 2024-04-15
 updated: 2024-04-15
 ---

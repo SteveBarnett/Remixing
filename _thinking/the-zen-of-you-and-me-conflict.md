@@ -3,7 +3,7 @@ layout: page
 title: "The Zen of You and Me: conflict"
 added: 2024-02-24
 updated: 2024-02-24
-zen2024: true
+zen2024notes: true
 ---
 
 - To engage our differences is to engage our judgments and stories. This creates barriers between us, making listening much harder.

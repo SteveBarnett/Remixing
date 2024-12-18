@@ -3,7 +3,7 @@ layout: page
 title: Zen in the Art of Archery
 added: 2024-01-14
 updated: 2024-01-14
-zen2024: true
+zen2024notes: true
 ---
 
 - Become simultaneously the aimer and the aim, the hitter and the hit.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Notes from Vita Contemplativa: In Praise of Inactivity"
-longerform: true
+bookandarticlenotes: true
 added: 2024-08-10
 updated: 2024-08-11
 ---

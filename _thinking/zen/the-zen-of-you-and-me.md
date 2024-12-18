@@ -3,7 +3,7 @@ layout: page
 title: The Zen of You and Me
 added: 2024-02-21
 updated: 2024-02-21
-zen2024: true
+zen2024notes: true
 ---
 
 ## Intro

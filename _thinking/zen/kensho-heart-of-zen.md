@@ -3,7 +3,7 @@ layout: page
 title: "Kensho: Heart of Zen"
 added: 2024-04-11
 updated: 2024-04-16
-zen2024: true
+zen2024notes: true
 ---
 
 ## Some key things, revisited

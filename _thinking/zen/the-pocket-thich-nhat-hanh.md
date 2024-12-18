@@ -3,7 +3,7 @@ layout: page
 title: The Pocket Thich Nhat Hanh
 added: 2024-03-15
 updated: 2024-03-15
-zen2024: true
+zen2024notes: true
 ---
 
 ## 1. Mindfulness

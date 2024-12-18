@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Shikantaza: Having the Guts to Just Sit and Let Go of Doing Anything"
-zen2024: true
+zen2024notes: true
 added: 2024-05-24
 updated: 2024-05-24
 ---

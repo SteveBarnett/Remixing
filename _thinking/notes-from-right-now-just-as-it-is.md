@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "Right Now, Just As It Is"'
-longerform: true
+bookandarticlenotes: true
 added: 2024-04-28
 updated: 2024-04-28
 ---

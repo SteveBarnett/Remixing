@@ -2,12 +2,13 @@
 
 {{ content | markdownify }}
 
-{% if page.zen %}
 
 <p>Jump down the page to:</p>
   <ul class="skip-toc" role="list">
-    <li><a href="#zen">Zen</a></li>
+    {% if page.zen %}<li><a href="#zen">Zen</a></li>{% endif %}
+    {% if page.zen %}<li><a href="#zen-notes">Zen book notes</a></li>{% endif %}
     <li><a href="#longer-form">longer form writing</a></li>
+    <li><a href="#notes">book and article notes</a></li>
     <li><a href="#omb">OMB</a></li>
     <li><a href="#buddhism">Buddhism</a></li>
     <li><a href="#ifs">IFS-ish</a></li>
@@ -37,11 +38,28 @@
 {%- endfor -%}
 </ul>
 
-{% else %}
+<h3 id="zen-notes" tabindex="-1">Zen notes</h3>
 
-<p>Jump down the page to <a href="#longer-form">longer form writing</a> or <a href="#collections">collections of short bits</a>.</p>
+{%- assign zen2024notesposts = site.thinking | where: "zen2024notes", "true" | sort: "updated" | reverse -%}
 
+{%- assign previouszen2024notesMonth = 12 -%}
+
+<ul>
+{%- for zen2024notespost in zen2024notesposts -%}
+
+{%- assign currentzen2024notesYear = zen2024notespost.updated | date: "%Y" -%}
+
+{% if currentzen2024notesYear == page.year %}
+{%- assign currentzen2024notesMonth = zen2024notespost.updated | date: "%m" -%}
+
+<li{% if currentzen2024notesMonth != previouszen2024notesMonth %} class="month-change"{%- assign previouszen2024notesMonth = currentzen2024notesMonth -%}{% endif %}>
+  <a href="{{ zen2024notespost.url }}">{{ zen2024notespost.title }}</a>
+    (added {{ zen2024notespost.added }}{% if zen2024notespost.updated !=  zen2024notespost.added %}, updated {{ zen2024notespost.updated }}{% endif %})
+</li>
 {% endif %}
+
+{%- endfor -%}
+</ul>
 
 <h2 id="longer-form" tabindex="-1">Longer form</h2>
 
@@ -60,6 +78,29 @@
 <li{% if currentLongerFormMonth != previousLongerFormMonth %} class="month-change"{%- assign previousLongerFormMonth = currentLongerFormMonth -%}{% endif %}>
   <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
     (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
+</li>
+{% endif %}
+
+{%- endfor -%}
+</ul>
+
+<h3 id="notes" tabindex="-1">Book and article notes</h3>
+
+{%- assign bookandarticlenotesposts = site.thinking | where: "bookandarticlenotes", "true" | sort: "updated" | reverse -%}
+
+{%- assign previousbookandarticlenotesMonth = 12 -%}
+
+<ul>
+{%- for bookandarticlenotespost in bookandarticlenotesposts -%}
+
+{%- assign currentbookandarticlenotesYear = bookandarticlenotespost.updated | date: "%Y" -%}
+
+{% if currentbookandarticlenotesYear == page.year %}
+{%- assign currentbookandarticlenotesMonth = bookandarticlenotespost.updated | date: "%m" -%}
+
+<li{% if currentbookandarticlenotesMonth != previousbookandarticlenotesMonth %} class="month-change"{%- assign previousbookandarticlenotesMonth = currentbookandarticlenotesMonth -%}{% endif %}>
+  <a href="{{ bookandarticlenotespost.url }}">{{ bookandarticlenotespost.title }}</a>
+    (added {{ bookandarticlenotespost.added }}{% if bookandarticlenotespost.updated !=  bookandarticlenotespost.added %}, updated {{ bookandarticlenotespost.updated }}{% endif %})
 </li>
 {% endif %}
 

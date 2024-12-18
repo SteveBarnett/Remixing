@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Not (from the Tao Te Ching)
-longerform: true
+bookandarticlenotes: true
 added: 2024-11-29
 updated: 2024-11-29
 ---

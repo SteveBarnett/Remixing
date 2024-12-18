@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Heart Sutra: A Comprehensive Guide To The Classic Of Mahayana Buddhism"
-zen2024: true
+zen2024notes: true
 added: 2024-12-15
 updated: 2024-12-15
 ---

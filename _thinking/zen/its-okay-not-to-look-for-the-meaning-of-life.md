@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Notes from \"It's Okay Not to Look for the Meaning of Life\""
-zen2024: true
+zen2024notes: true
 added: 2024-08-17
 updated: 2024-08-17
 ---
 
-Notes from ["It's Okay Not to Look for the Meaning of Life" by Jikisai Minami](https://www.goodreads.com/book/show/194992867-it-s-okay-not-to-look-for-the-meaning-of-life?ac=1&from_search=true&qid=EJa8osYMCa&rank=1)
+Notes from ["It's Okay Not to Look for the Meaning of Life" by Jikisai Minami](https://www.goodreads.com/book/show/194992867-it-s-okay-not-to-look-for-the-meaning-of-life)
 
 - **It's okay, natural, to feel that you aren't who you want to be.**
 - It's okay, natural, for humans to have fluctuating emotions.

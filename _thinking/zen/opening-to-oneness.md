@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Opening to Oneness: A Practical and Philosophical Guide to the Zen Precepts"
-zen2024: true
+zen2024notes: true
 added: 2024-05-26
 updated: 2024-06-29
 ---

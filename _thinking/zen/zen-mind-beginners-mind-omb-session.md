@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Zen Mind, Beginner's Mind: OMB session"
-zen2024: true
+omb: true
 added: 2024-08-30
 updated: 2024-09-21
 ---

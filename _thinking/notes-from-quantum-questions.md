@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from Quantum Questions
-longerform: true
+bookandarticlenotes: true
 added: 2024-08-04
 updated: 2024-08-04
 ---

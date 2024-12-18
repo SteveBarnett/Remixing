@@ -3,7 +3,7 @@ layout: page
 title: Introduction to Zen Training
 added: 2024-02-06
 updated: 2024-02-06
-zen2024: true
+zen2024notes: true
 ---
 
 ## Introduction to Zen Training

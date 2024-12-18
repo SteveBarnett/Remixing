@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "Death: The End of Self-Improvement" by Joan Tollifson'
-longerform: true
+bookandarticlenotes: true
 added: 2024-09-26
 updated: 2024-10-19
 ---

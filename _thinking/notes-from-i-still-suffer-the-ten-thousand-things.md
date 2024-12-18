@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from I Still Suffer - The Ten Thousand Things
-longerform: true
+bookandarticlenotes: true
 added: 2024-11-22
 updated: 2024-11-22
 ---

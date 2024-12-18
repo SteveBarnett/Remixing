@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Everything is not illuminated
-longerform: true
+bookandarticlenotes: true
 added: 2024-05-24
 updated: 2024-05-24
 ---

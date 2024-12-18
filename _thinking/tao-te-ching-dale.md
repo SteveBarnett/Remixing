@@ -3,7 +3,7 @@ layout: page
 title: 'Notes from "Tao Te Ching", Dale edition'
 added: 2024-10-11
 updated: 2024-10-11
-longerform: true
+bookandarticlenotes: true
 ---
 
 ## Gathered notes

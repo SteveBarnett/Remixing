@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "When Things Fall Apart: Heart Advice For Difficult Times"
-zen2024: true
+zen2024notes: true
 added: 2024-12-07
 updated: 2024-12-10
 ---

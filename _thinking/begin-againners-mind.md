@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Begin Againners Mind
-longerform: true
+omb: true
 added: 2024-08-27
 updated: 2024-08-29
 ---

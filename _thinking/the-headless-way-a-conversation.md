@@ -3,7 +3,7 @@ layout: page
 title: "The Headless Way: A Conversation"
 added: 2024-02-19
 updated: 2024-02-19
-longerform: true
+bookandarticlenotes: true
 ---
 
 Notes from [A Conversation](https://www.youtube.com/watch?v=Uyp06m9As7U).

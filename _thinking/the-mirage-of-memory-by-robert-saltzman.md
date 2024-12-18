@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from The Mirage Of Memory by Robert Saltzman
-longerform: true
+bookandarticlenotes: true
 added: 2024-08-22
 updated: 2024-08-22
 ---

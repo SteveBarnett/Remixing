@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emotional Intelligence
-longerform: true
+bookandarticlenotes: true
 added: 2024-12-14
 updated: 2024-12-14
 ---
@@ -56,4 +56,4 @@ The ability to effectively build relationships, communicate, and work with other
 - Conflict management
 - Inspirational leadership
 
-Notes from [ Daniel Goleman: The 4 domains of emotional intelligence | Daniel Goleman for Big Think+ ](https://www.youtube.com/watch?v=erfgEHHfFkU)
+Notes from [Daniel Goleman: The 4 domains of emotional intelligence](https://www.youtube.com/watch?v=erfgEHHfFkU)
