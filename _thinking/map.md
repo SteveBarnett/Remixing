@@ -69,7 +69,7 @@ Look wider. Connect to a deeper sense of self.
     - Come back to the direct, embodied, experience.
     - Look for thinker of thoughts and notice the absence.
 
-### Things to maybe remix in
+### Things to maybe remix in to Practice
 
 - Communication
     - Right speech: true, kind, helpful, contextually appropriate.
@@ -102,6 +102,10 @@ Look wider. Connect to a deeper sense of self.
     - Bringing together Grips, Valued Action, Precepts
         - Library of grips, in buckets-ish.
     - How would you advise a friend?
+- Using grips like precepts.
+    - Prohibition, Aspiration, Inspiration
+    - Not rules to be good, but guides to examine deeply who we are.
+    - Expressions of enlightened reality
 
 ## Theory
 
@@ -169,7 +173,7 @@ Look wider. Connect to a deeper sense of self.
     - Life is consciousness that’s more concentrated.
     - Consciousness is the cosmos becoming more aware of itself.
 
-### Things to maybe remix in
+### Things to maybe remix in to Theory
 
 - Why can't it be both?
     - Both/and.
