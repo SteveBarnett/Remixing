@@ -1,0 +1,17 @@
+{%- assign wipposts = site.thinking | where: "wip", "true" | sort: "updated" | reverse -%}
+
+<ul>
+{%- for wippost in wipposts -%}
+
+{%- assign currentwippostyear = wippost.updated | date: "%Y" -%}
+
+{% if currentwippostyear == page.year %}
+
+<li data-month="{{ wippost.updated | date: "%m" }}">
+  <a href="{{ wippost.url }}">{{ wippost.title }}</a>
+    (added {{ wippost.added }}{% if wippost.updated !=  wippost.added %}, updated {{ wippost.updated }}{% endif %})
+</li>
+{% endif %}
+
+{%- endfor -%}
+</ul>

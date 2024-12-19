@@ -4,6 +4,7 @@ title: Notes from The Way app by Henry Shukman
 zen2024: true
 added: 2024-11-22
 updated: 2024-12-05
+wip: true
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.

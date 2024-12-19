@@ -4,6 +4,7 @@ title: Precepts remixing
 longerform: true
 added: 2024-12-20
 updated: 2024-12-20
+wip: true
 ---
 
 I think specific positive injuctive framings ("Do this good thing") are the most fruitful. But/and multiple angles are helpful for getting the best grip on something. And negation of something can be particularly useful, such as anattā / not-self.

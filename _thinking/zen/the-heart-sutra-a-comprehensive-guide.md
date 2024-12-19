@@ -4,6 +4,7 @@ title: "The Heart Sutra: A Comprehensive Guide To The Classic Of Mahayana Buddhi
 zen2024notes: true
 added: 2024-12-15
 updated: 2024-12-15
+wip: true
 ---
 
 ## Raw notes
