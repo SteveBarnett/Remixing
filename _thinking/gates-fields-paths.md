@@ -3,9 +3,11 @@ layout: page
 title: Gates, fields, paths
 longerform: true
 added: 2024-12-19
-updated: 2024-12-19
+updated: 2024-12-20
 wip: true
 ---
+
+TODO: overlaps, boundaries, flywheel
 
 - Health.
     - Walking.
@@ -28,11 +30,14 @@ wip: true
 - Art. Creative flow states.
     - sketching
     - painting
+- Music
+    - Listening
+    - Making
 - Cooking
 - Gardening
 - Staying on the Path
     - Ongoing researching and remixing.
-    - Precepts. Living a moral, ethical, life.
+    - Precepts. Living a moral, ethical, life. Refraining from unskilful activities.
 - Bodhisattva. Acting to free all beings.
 - Rituals. – Bowing, engaging and unifying body and mind
 - Relationships – Opening the Heart and Exploring Non-Separation
