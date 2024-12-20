@@ -4,6 +4,7 @@ title: "Keep Going: a guide to continuing meditation in good times and bad (OMB 
 omb: true
 added: 2024-12-05
 updated: 2024-12-08
+done: true
 ---
 
 * Display TOC

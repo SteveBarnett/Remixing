@@ -4,6 +4,7 @@ title: The Spectrum Of Awareness
 omb: true
 added: 2024-05-19
 updated: 2024-06-10
+done: true
 ---
 
 Gathering some notes for a [One Mindful Breath](https://www.onemindfulbreath.org.nz/) session. Jump to:
