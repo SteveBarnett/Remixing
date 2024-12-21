@@ -9,57 +9,44 @@ wip: true
 
 ## Valued Action
 
-### Values 
-
-- Kindness
-- Compassion
-- Patience
-- Wisdom
-- Generosity
-- Renunciation
-- Contentment
-- Non-attachment
+- Relaxed
+- Open
+    - **Speak of others with openness and possibility.**
+    - Bearing witness to the offering of each moment.
+    - Be fully expressed.
+    - **Be transparent.**
+    - **Realise self and others are one. Recognise non-separation.**
+- Clear
+    - **Refrain from addictive or compulsive behaviour.**
+    - **Don't use substances to escape experience.**
+    - Acknowledge responsibility for everything in your life.
+- Kind / Compassionate
+    - Active listening.
+    - **Befriend your own faults, compassionately allow them.**
+- Patient
+- Wise
+    - Speak up.
+    - Give your best effort and accept the results.
+- Generous
+    - **Give and accept affection and friendship without clinging.**
+    - **Give Benefits, freely.**
+    - **Do not withhold.**
+- Content
+    - **Appreciate what you have.**
+    - Be satisfied with what you have.
 - Faithful
-- Respect
+- Respectful
+    - Protect, preserve, respect life. **Decrease violence. Reduce harm.**
+    - **Meet others on equal ground.**
 - Honest
+    - **Refrain from false and harmful speech.**
+    - Embrace all experience directly.
 - Dependable
-- Clarity
-- Mindfulness
-- Openness
+- Mindful
 - Peaceful
-
-### Actions
-
-- Protect, preserve, respect life. Decrease violence. Reduce harm.
-- Live in harmony.
-- Recognise non-separation.    
-- Give freely.
-- Give Benefits.
-- Appreciate what you have.
-- Be satisfied with what you have.
-- Give and accept affection and friendship without clinging.
-- Refrain from false and harmful speech.
-- Speak up.
-- Active listening.
-- Refrain from addictive or compulsive behaviour.
-- Don't use substances to escape experience.
-- Cultivate a clear mind.
-- Do not cloud the mind.
-- Embrace all experience directly.
-- Speak of others with openness and possibility.
-- Meet others on equal ground.
-- Bearing witness to the offering of each moment.
-- Notice the implied “should.”
-- Befriend your own faults, compassionately allow them.
-- Acknowledge responsibility for everything in your life.
-- Realise self and others are one.
-- Give your best effort and accept the results.
-- Do not withhold.
-- Be fully expressed
-- Be transparent.
-- Let go of anger.
-- Actualise harmony.
-- Bearing witness.
+    - Let go of anger.
+    - Actualise harmony.
+    - Live in harmony.
 
 ## Notes
 
