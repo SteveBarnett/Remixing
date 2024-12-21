@@ -7,6 +7,27 @@ updated: 2024-12-20
 wip: true
 ---
 
+- Open
+    - Speak of others with openness and possibility.
+    - Be transparent.
+    - Realise self and others are one. Recognise non-separation.
+- Clear
+    - Refrain from addictive or compulsive behaviour.
+    - Don't use substances to escape experience.
+- Kind / Compassionate
+    - Befriend your own faults, compassionately allow them.
+    - Generous
+        - Give and accept affection and friendship without clinging.
+        - Give Benefits, freely.
+        - Do not withhold.
+    - Respectful
+        - Decrease violence. Reduce harm.
+    - Honest
+        - Refrain from false and harmful speech.
+        - Meet others on equal ground.
+- Content
+    - Appreciate what you have.
+
 ## Valued Action
 
 - Relaxed
@@ -36,7 +57,8 @@ wip: true
     - Be satisfied with what you have.
 - Faithful
 - Respectful
-    - Protect, preserve, respect life. **Decrease violence. Reduce harm.**
+    - Protect, preserve, respect life.
+    - **Decrease violence. Reduce harm.**
     - **Meet others on equal ground.**
 - Honest
     - **Refrain from false and harmful speech.**
