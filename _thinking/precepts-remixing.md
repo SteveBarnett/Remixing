@@ -7,22 +7,152 @@ updated: 2024-12-20
 wip: true
 ---
 
+- Generosity
+- Morality
+- Patience
+- Effort
+- Meditation
+- Wisdom
+
+- Kindness, compassion.
+
+    - Protect life, decrease violence, reduce harm.
+    - Preserve life where possible. Be clear and present when we can't.
+    - Respect life.
+
+    - To live in harmony with all life and the environment that sustains it.
+    
+    - Recognizing that I am not separate from all that is.
+    - At the level of the absolute, non-killing is non-separation.
+
+- Generosity, renunciation.
+    
+    - Cultivate contentment and generosity.
+    - To freely give, ask for, and accept what is needed.
+
+    - Refrain from taking what is not given.
+    - Take only what is freely given.
+    
+    - Give freely of what you can.
+    - Be giving.
+    
+    - Refrain from negative action.
+
+    - Being satisfied with what I have.
+
+    - Possessiveness, instead of non-attachment or generosity. From the delusion that we lack, are lacking.
+
+- Contentment, faithfulness.
+
+    - Honour the body.
+
+    - Engage in sexual intimacy respectfully, with an open heart.
+    - Chaste conduct.
+
+    - Meeting the diversity of life with respect and dignity.
+
+    - To give and accept affection and friendship without clinging.
+
+- Honesty, dependability.
+
+    - Refrain from false and harmful speech.
+    - Manifest truth.
+    - Have no complicity with lies: speak up.
+    - There is no need to hide the truth.
+    - To see and act in accordance with what is.
+
+    - Thoughtfully and compassionately speak and listen.
+    - Listening and speaking from the heart.
+
+- Clarity
+
+    - Refrain from addictive or compulsive behaviour.
+    - Don't use substances to escape experience.
+    - Not Being Ignorant.
+
+    - Mindfulness, responsibility.
+
+    - Cultivate a clear mind.
+    - Proceed clearly.
+    - Do not cloud the mind.
+    - Not clouding.
+
+    - It’s not the intoxicant itself, but the craving, the being taking away from discomfort.
+    
+    - To embrace all experience directly.
+
+- Openness
+
+    - Speak of others with openness and possibility.
+
+    - See the perfection.
+
+    - Bearing witness to the offering of each moment.
+
+    - Notice the implied “should.”
+
+    - Befriend your own faults, compassionately allow them.
+    - To acknowledge responsibility for everything in my life.
+
+- ?
+
+    - Meet others on equal ground.
+
+    - Realise self and others are one.
+
+    - Speaking what I perceive to be the truth.
+
+    - Ask what you’re afraid of, what you’re not tolerating.
+
+    - To give my best effort and accept the results.
+
+- ?
+
+    - Give generously.
+    - Do not withhold.
+
+    - Using all the ingredients of my life.
+
+    - Be fully expressed, be transparent.
+
+- Peaceful
+
+    - Let go of anger.
+    - Relate to our anger instead of from it.
+    - Not holding on to anger.
+    - Suppressing anger is a way of avoiding getting to know it. But so is acting it out.
+    - Not to rage, resent, or seek revenge.
+
+    - Actualise harmony.
+
+    - Bearing witness to emotions that arise.
+
+## Notes
+
 I think specific positive injuctive framings ("Do this good thing") are the most fruitful. But/and multiple angles are helpful for getting the best grip on something. And negation of something can be particularly useful, such as anattā / not-self.
 
-I really like the take in "Good Life: A Zen Precepts Retreat" of:
+I really like the take in "[Good Life: A Zen Precepts Retreat](/thinking/zen/good-life-a-zen-precepts-retreat/)" of:
 
 - Key (e.g. Gratitude); 
 - Prohibition (e.g. Not killing)
 - Aspiration (e.g. To live in harmony with all life and the environment that sustains it)
 - Inspiration (e.g. There is not separate self)
 
-And a few corkers from Opening to Oneness:
+I like links and lines and maps. So I like a mind map kind of structure:
+
+- Value (underlying the precept)
+    - Action 1 (that supports the value)
+    - Action 2
+    - Action 3
+
+A few helpful angles from Opening to Oneness:
 
 - From not to non: both stealing and not stealing have been liberated to become non-stealing.
-- not about how to be “good” and live by the precepts; rather, they challenge us to examine deeply who we are.
-- whatever we suppress in ourselves we tend to oppress in others.
-- instead of aspiring to keep the precepts, we look deeply into our failure to do so
-- the precepts are not just ethical norms but rather expressions of enlightened reality
+- The precepts are not just ethical norms but rather expressions of enlightened reality.
+- Not about how to be “good” and live by the precepts.
+    - Rather, they challenge us to examine deeply who we are.
+    - Instead of aspiring to keep the precepts, we look deeply into our failure to do so.
+- Whatever we suppress in ourselves we tend to oppress in others.
 
 ## Various takes on the precepts
 
