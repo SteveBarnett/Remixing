@@ -7,8 +7,60 @@ updated: 2024-12-20
 wip: true
 ---
 
-- TODO: overlaps, boundaries, flywheel, piggyblocking, habits.
-- TODO: what feelings, state(s), do these bring about?
+* Display TOC
+{:toc}
+
+## Summary of sorts
+
+There's the container categories (like HAM). And there's the activities (like MCSWARM). As with other things, I like links and lines and maps. So I like a mind map kind of structure:
+
+- Health
+    - Walking
+    - Eating and drinking
+    - Structured exercise
+        - Stretches
+        - Workout
+        - Martial arts
+        - Dancing
+    - Hefty exercise
+        - Running
+        - Rucking
+- Creativity
+    - Painting
+    - Sketchnoting
+    - Urban sketching
+    - Sketching critters
+    - Making music
+    - Making playlists
+- Mindfulness
+    - Meditation
+        - Daily sits
+        - Retreats
+    - Studying, reading, writing
+    - The sacredness of ordinary, everyday, acts
+    - OMB
+        - Janitor
+        - Facilitator
+- Rest, relaxing, recharging
+    - Reading
+        - Fiction
+        - Nonfiction
+    - Cooking
+    - Plants
+        - Houseplant tending
+        - Repotting
+        - Gardening
+    - Socialising
+    - Music
+        - Listening
+        - Learning piano
+- Work
+    - Writing
+    - Presenting
+    - Support
+    - Training
+
+---
 
 There a couple of different ways of looking at it. The boundaries can be a bit blurry, and overlap. There's distinction, but not division, between the categories.
 
@@ -32,7 +84,7 @@ There a couple of different ways of looking at it. The boundaries can be a bit b
 - Personal, Professional, Practice
 - Inner/Outer and Individual/Collective
 
-## Body
+### Body
 
 - Health
     - Walking
@@ -50,7 +102,7 @@ There a couple of different ways of looking at it. The boundaries can be a bit b
     - Repotting
     - Gardening
 
-## Mind
+### Mind
 
 - Reading
     - fiction
@@ -72,7 +124,7 @@ There a couple of different ways of looking at it. The boundaries can be a bit b
     - Support
     - Training
 
-## Spirit
+### Spirit
 
 - Staying on the Path
     - Reading
@@ -89,7 +141,9 @@ There a couple of different ways of looking at it. The boundaries can be a bit b
     - Janitor
     - Facilitating
 
-## [MCSWARM from Theme](/themes/2024/#mcswarm)
+## Gathered other lists
+
+### [MCSWARM from Theme](/themes/2024/#mcswarm)
 
 Some things that I find relaxing:
 
@@ -101,7 +155,7 @@ Some things that I find relaxing:
 - reading
 - music(k?)ing.
 
-## [Naga list](https://naga.co.za/#enjoy)
+### [Naga list](https://naga.co.za/#enjoy)
 
 The things I most enjoy doing at work are:
 
@@ -111,7 +165,7 @@ The things I most enjoy doing at work are:
 - presenting
 - coding.
 
-## [Ten Fields of Zen Practice](/thinking/zen/10-fields-of-zen-practice/#ten-fields-of-zen-practice)
+### [Ten Fields of Zen Practice](/thinking/zen/10-fields-of-zen-practice/#ten-fields-of-zen-practice)
 
 - Not aiming to attain anything.
 - “Practising to get better” and “practising because it’s how we want to be” balance each other excesses out.
@@ -131,7 +185,7 @@ The fields:
 - Bodhisattva Activity – Living the Vow to Free All Beings
 - Connecting with the Ineffable – Aligning Ourselves with What Is Most Important
 
-## [Some Zen Practices](/thinking/some-zen-practices/)
+### [Some Zen Practices](/thinking/some-zen-practices/)
 
 
 - Direct experience of Reality, in particular nonduality.
