@@ -7,125 +7,59 @@ updated: 2024-12-20
 wip: true
 ---
 
-- Generosity
-- Morality
+## Valued Action
+
+### Values 
+
+- Kindness
+- Compassion
 - Patience
-- Effort
-- Meditation
 - Wisdom
-
-- Kindness, compassion.
-
-    - Protect life, decrease violence, reduce harm.
-    - Preserve life where possible. Be clear and present when we can't.
-    - Respect life.
-
-    - To live in harmony with all life and the environment that sustains it.
-    
-    - Recognizing that I am not separate from all that is.
-    - At the level of the absolute, non-killing is non-separation.
-
-- Generosity, renunciation.
-    
-    - Cultivate contentment and generosity.
-    - To freely give, ask for, and accept what is needed.
-
-    - Refrain from taking what is not given.
-    - Take only what is freely given.
-    
-    - Give freely of what you can.
-    - Be giving.
-    
-    - Refrain from negative action.
-
-    - Being satisfied with what I have.
-
-    - Possessiveness, instead of non-attachment or generosity. From the delusion that we lack, are lacking.
-
-- Contentment, faithfulness.
-
-    - Honour the body.
-
-    - Engage in sexual intimacy respectfully, with an open heart.
-    - Chaste conduct.
-
-    - Meeting the diversity of life with respect and dignity.
-
-    - To give and accept affection and friendship without clinging.
-
-- Honesty, dependability.
-
-    - Refrain from false and harmful speech.
-    - Manifest truth.
-    - Have no complicity with lies: speak up.
-    - There is no need to hide the truth.
-    - To see and act in accordance with what is.
-
-    - Thoughtfully and compassionately speak and listen.
-    - Listening and speaking from the heart.
-
+- Generosity
+- Renunciation
+- Contentment
+- Non-attachment
+- Faithful
+- Respect
+- Honest
+- Dependable
 - Clarity
-
-    - Refrain from addictive or compulsive behaviour.
-    - Don't use substances to escape experience.
-    - Not Being Ignorant.
-
-    - Mindfulness, responsibility.
-
-    - Cultivate a clear mind.
-    - Proceed clearly.
-    - Do not cloud the mind.
-    - Not clouding.
-
-    - It’s not the intoxicant itself, but the craving, the being taking away from discomfort.
-    
-    - To embrace all experience directly.
-
+- Mindfulness
 - Openness
-
-    - Speak of others with openness and possibility.
-
-    - See the perfection.
-
-    - Bearing witness to the offering of each moment.
-
-    - Notice the implied “should.”
-
-    - Befriend your own faults, compassionately allow them.
-    - To acknowledge responsibility for everything in my life.
-
-- ?
-
-    - Meet others on equal ground.
-
-    - Realise self and others are one.
-
-    - Speaking what I perceive to be the truth.
-
-    - Ask what you’re afraid of, what you’re not tolerating.
-
-    - To give my best effort and accept the results.
-
-- ?
-
-    - Give generously.
-    - Do not withhold.
-
-    - Using all the ingredients of my life.
-
-    - Be fully expressed, be transparent.
-
 - Peaceful
 
-    - Let go of anger.
-    - Relate to our anger instead of from it.
-    - Not holding on to anger.
-    - Suppressing anger is a way of avoiding getting to know it. But so is acting it out.
-    - Not to rage, resent, or seek revenge.
+### Actions
 
-    - Actualise harmony.
-
-    - Bearing witness to emotions that arise.
+- Protect, preserve, respect life. Decrease violence. Reduce harm.
+- Live in harmony.
+- Recognise non-separation.    
+- Give freely.
+- Give Benefits.
+- Appreciate what you have.
+- Be satisfied with what you have.
+- Give and accept affection and friendship without clinging.
+- Refrain from false and harmful speech.
+- Speak up.
+- Active listening.
+- Refrain from addictive or compulsive behaviour.
+- Don't use substances to escape experience.
+- Cultivate a clear mind.
+- Do not cloud the mind.
+- Embrace all experience directly.
+- Speak of others with openness and possibility.
+- Meet others on equal ground.
+- Bearing witness to the offering of each moment.
+- Notice the implied “should.”
+- Befriend your own faults, compassionately allow them.
+- Acknowledge responsibility for everything in your life.
+- Realise self and others are one.
+- Give your best effort and accept the results.
+- Do not withhold.
+- Be fully expressed
+- Be transparent.
+- Let go of anger.
+- Actualise harmony.
+- Bearing witness.
 
 ## Notes
 
