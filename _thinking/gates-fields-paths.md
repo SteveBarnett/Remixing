@@ -7,44 +7,87 @@ updated: 2024-12-20
 wip: true
 ---
 
-TODO: overlaps, boundaries, flywheel
+- TODO: overlaps, boundaries, flywheel, piggyblocking, habits.
+- TODO: what feelings, state(s), do these bring about?
 
-- Health.
-    - Walking.
-    - Exercising.
-    - Running.
-    - Eating.
-    - Drinking.
-- Meditation. Zazen. Shikantaza, just sitting.
-    - Daily sits.
-    - Retreats.
-- Mindfulness. The sacredness of ordinary, everyday, acts.
-- Direct experiences of capital-R Reality.
+There a couple of different ways of looking at it. The boundaries can be a bit blurry, and overlap. There's distinction, but not division, between the categories.
+
+## Spectrums
+
+- For fun (self-fulfilling) / For an outcome
+- On my own / with others
+- For myself / for others
+- Do already / don't do already
+- Easy / Difficult
+- Regular / irregular
+- Calming / invigorating
+- Physical / mental
+- Home / Out
+- Focused / Diffuse
+- In the spotlight / In the background
+
+## Slices
+
+- Body, Mind, Spirit
+- Personal, Professional, Practice
+- Inner/Outer and Individual/Collective
+
+## Body
+
+- Health
+    - Walking
+    - Stretches
+    - Exercising
+    - Rucking
+    - Running
+    - Martial arts
+    - Dancing
+    - Eating
+    - Drinking
+- Cooking
+- Plants
+    - Houseplant tending
+    - Repotting
+    - Gardening
+
+## Mind
+
 - Reading
     - fiction
     - nonfiction
-    - Dharma
-- Writing, studying
-    - Work
-    - Dharma
-- Art. Creative flow states.
-    - sketching
-    - painting
 - Music
     - Listening
-    - Making
-- Cooking
-- Gardening
+    - Making playlists
+    - Making tracks
+    - Learning piano
+- Art. Creative flow states.
+    - Urban sketching
+    - Sketching critters
+    - Sketchnoting
+    - Painting
+- Socialising
+- Work
+    - Writing
+    - Facilitating, presenting
+    - Support
+    - Training
+
+## Spirit
+
 - Staying on the Path
-    - Ongoing researching and remixing.
+    - Reading
+    - Studying, writing
     - Precepts. Living a moral, ethical, life. Refraining from unskilful activities.
-- Bodhisattva. Acting to free all beings.
-- Rituals. – Bowing, engaging and unifying body and mind
-- Relationships – Opening the Heart and Exploring Non-Separation
-- Right Work. Service, support, training.
-- Facilitating, presenting.
-    - Work
-    - OMB
+- Mindfulness.
+    - The sacredness of ordinary, everyday, acts.
+    - Bodhisattva. Acting to free all beings.
+- Meditation. Zazen. Shikantaza, just sitting.
+    - Daily sits
+    - Retreats
+- Direct experiences of capital-R Reality.
+- OMB
+    - Janitor
+    - Facilitating
 
 ## [MCSWARM from Theme](/themes/2024/#mcswarm)
 
