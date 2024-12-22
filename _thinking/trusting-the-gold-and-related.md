@@ -7,6 +7,21 @@ updated: 2024-12-22
 wip: true
 ---
 
+## Gathered notes
+
+- We have deep conditioning from our culture, our parents, that often implies we're intrinsically flawed.
+- Our imperfections are part of us, but they don't define us.
+    - Let go of the anxiety about your imperfections.
+    - We just have **patterns and conditioned identification** (especially with our built-in negativity bias).
+- **Don't try and fight, argue with, the inner critic.**
+    - Self-blame, self-hatred, pushing away, creates a barrier.
+    - Bring attention to the pain and unmet needs that they are trying to help with.
+    - Mindfully recognise and bring compassion to the parts of our selves we've ignored, condemned, pushed away.
+    - **"What wants attention or acceptance right now?"**
+- Accept life, just as it is.
+    - Whatever we can't embrace with love imprisons us.
+    - **Meet your edge and soften.**
+
 ## Notes from notes
 
 ### Observations
