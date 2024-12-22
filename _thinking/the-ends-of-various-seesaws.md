@@ -9,15 +9,25 @@ wip: true
 
 What, When, Where, Who, Why, How can I slide more towards the other end?
 
-- Resisting / Accepting
-- Closed / Open
-- Distraction / Attention
-- Restless / Peaceful
+Initially
+
 - Moving / Still
-- Tight / Loose
-- Avoid / Allow
-- Tense / Relaxed
 - Away / Towards
+- Distraction / Attention
+- Avoid / Allow
+
+Because
+
 - Fearful / Brave
+- Resisting / Accepting
+
+Feeling
+
+- Tight / Loose
+- Tense / Relaxed
+- Closed / Open
 - Contracted / Expanded
+- Small / Large
+- Restless / Peaceful
 - Noisy / Silent
+- Busy / Calm
