@@ -3,7 +3,7 @@ layout: page
 title: My Applied Philosophy
 longerform: true
 added: 2024-12-14
-updated: 2024-12-14
+updated: 2024-12-23
 ---
 
 The living version of several previous swirls.
@@ -87,6 +87,7 @@ Look wider. Connect to a deeper sense of self.
     - Letting go of "this isn't it."
 - Grips / coping mechanisms
     - Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
+    - PiggyBlocking
     - Grip triangle
         - Buddhism
             - Begin Again
@@ -102,10 +103,13 @@ Look wider. Connect to a deeper sense of self.
     - Bringing together Grips, Valued Action, Precepts
         - Library of grips, in buckets-ish.
     - How would you advise a friend?
+    - Negative visualisation
 - Using grips like precepts.
     - Prohibition, Aspiration, Inspiration
     - Not rules to be good, but guides to examine deeply who we are.
     - Expressions of enlightened reality
+- Bringing a little humour in? See [The Comedian](/thinking/the-comedian/) notes.
+- Trusting the Gold grip: “What wants attention or acceptance right now?”
 
 ## Theory
 
