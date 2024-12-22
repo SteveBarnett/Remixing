@@ -4,7 +4,6 @@ title: Trusting the Gold (and related)
 longerform: true
 added: 2024-12-22
 updated: 2024-12-22
-wip: true
 ---
 
 ## Gathered notes
