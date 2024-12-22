@@ -4,7 +4,6 @@ title: Precepts remixing
 longerform: true
 added: 2024-12-20
 updated: 2024-12-20
-wip: true
 ---
 
 - Open
