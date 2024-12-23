@@ -24,7 +24,7 @@ There's the container categories (like HAM). And there's the activities (like MC
     - Hefty exercise
         - Running
         - Rucking
-- Creativity
+- Creativity (a little like hobbies)
     - Painting
     - Sketchnoting
     - Urban sketching
