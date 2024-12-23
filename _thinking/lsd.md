@@ -12,7 +12,7 @@ updated: 2024-08-24
 
 I was thinking about [RAIN](/thinking/wider-rain-practice/) and [SNAIW](/thinking/revisiting-rest/#snaiw-) and [Slow, Accept, Open](/thinking/revisiting-rest/#slow-accept-open) and things, and about tweaking the wording to make it a better fit for me. I was looking for phrasing that helped me stay the course more, restricted me a bit more. I whittled down to this.
 
-- **Listen.** This feels a little tighter. With watch or notice, there's still an element of action. We can still choose what to notice, where to look, to some degree. Listening feels more aligned with acceptance, to noticing without judgement. In the listening, there's already some acceptance. And from [Gathering more threads](/thinking/revisiting-rest/#gathering-more-threads), the things that can be noticed:
+- **Listen.** This feels a little more precise. With watch or notice, there's still an element of action. We can still choose what to notice, where to look, to some degree. Listening feels more aligned with acceptance, to noticing without judgement. In the listening, there's already some acceptance. And from [Gathering more threads](/thinking/revisiting-rest/#gathering-more-threads), the things that can be noticed:
     - the centre (your true nature, your self at zero distance);
     - the edges (the boundarylessness of everything, distinction but not division);
     - the changes (the ever-moving flow of Reality).
