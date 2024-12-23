@@ -17,10 +17,10 @@ When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), l
 
 When out and about, I have a few little practices.
 
-- To notice the nonduality of Reality, I look for the edges.
-- To notice impermanence, I watch things change.
+- To notice my true nature, I look for at the **centre**, for myself at zero distance.
+- To notice the nonduality of Reality, I look for the **edges**.
+- To notice impermanence, I watch for the **changes**.
 - When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
-- To notice my true nature, I look for myself at zero distance.
 - I remind myself that the path is goal.
 
 ### The path
