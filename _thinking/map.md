@@ -71,6 +71,7 @@ Look wider. Connect to a deeper sense of self.
 
 ### Things to maybe remix in to Practice
 
+- [LSD](/thinking/lsd/) (Listen, Slow your tempo, Doubt).
 - Communication
     - Right speech: true, kind, helpful, contextually appropriate.
     - Plain language: clear, concise and well organised
