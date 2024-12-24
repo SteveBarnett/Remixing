@@ -513,11 +513,11 @@ summary:focus {
   content: ".";
 }
 
-h2:has(+ ul:empty) {
+h2:has(+ ul:empty), h2:has(+ ol:empty) {
   display: none;
 }
 
-ul:empty {
+ul:empty, ol:empty {
   display: none;
 }
 
