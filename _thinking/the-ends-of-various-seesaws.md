@@ -3,7 +3,7 @@ layout: page
 title: The ends of various seesaws
 longerform: true
 added: 2024-12-23
-updated: 2024-12-24
+updated: 2024-12-25
 ---
 
 What, When, Where, Who, Why, How can I slide more towards the other ends?
@@ -42,6 +42,6 @@ Slide some of Moving-Away-Distraction-Avoid? Instead of Still, just **Moving mor
 - Closed / **Open**
 - Contracted / Expanded
 - Small / Large
-- Restless / Peaceful
+- Restless / **Peaceful**
 - Noisy / Silent
 - Busy / Calm
