@@ -3,10 +3,10 @@ layout: page
 title: Layers
 longerform: true
 added: 2023-01-30
-updated: 2023-07-02
+updated: 2024-12-27
 ---
 
-Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers.
+Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers. The layers exist on a spectrum.
 
 - **Each layer influences, and is influenced by, its neighbours.** The layers are distinct, but not divided. They're interconnected and interdependent.
 - **Each layer offers a change in context, scale, and/or extent.** Each layer is worth reviewing on its own.
