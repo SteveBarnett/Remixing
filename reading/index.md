@@ -12,23 +12,42 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 {% assign bookspermonth = booksthisyear | divided_by: bookspermonthmonth | round %}
 {% assign rereads = site.data.books2024 | where: "reread", "true" %}
 
-
 <p>📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}. ⏪ Rereads: {{ rereads.size }}.</p>
 
 {%- assign Fiction = site.data.books2024 | where: "genre", "Fiction" -%}
 {%- assign ScienceFiction = site.data.books2024 | where: "genre", "Science Fiction" -%}
+{%- assign Fantasy = site.data.books2024 | where: "genre", "Fantasy" -%}
+{%- assign Poetry = site.data.books2024 | where: "genre", "Poetry" -%}
 {%- assign Buddhism = site.data.books2024 | where: "genre", "Buddhism" -%}
 {%- assign Zen = site.data.books2024 | where: "genre", "Zen" -%}
-{%- assign Philosophy = site.data.books2024 | where: "genre", "Philosophy" -%}
-{%- assign Nonfiction = site.data.books2024 | where: "genre", "Nonfiction" -%}
-{%- assign Poetry = site.data.books2024 | where: "genre", "Poetry" -%}
-{%- assign Fantasy = site.data.books2024 | where: "genre", "Fantasy" -%}
 {%- assign Nonduality = site.data.books2024 | where: "genre", "Nonduality" -%}
+{%- assign Philosophy = site.data.books2024 | where: "genre", "Philosophy" -%}
 {%- assign Taoism = site.data.books2024 | where: "genre", "Taoism" -%}
 {%- assign Stoicism = site.data.books2024 | where: "genre", "Stoicism" -%}
+{%- assign Nonfiction = site.data.books2024 | where: "genre", "Nonfiction" -%}
 {%- assign Accessibility = site.data.books2024 | where: "genre", "Accessibility" -%}
 
-🎭 Genre stats: Fiction: {{ Fiction.size }}; Science Fiction: {{ ScienceFiction.size }}; Zen: {{ Zen.size }}; Buddhism: {{ Buddhism.size }}; Philosophy: {{ Philosophy.size }}; Nonfiction: {{ Nonfiction.size }}; Fantasy: {{ Fantasy.size }}; Nonduality: {{ Nonduality.size }}; Taoism: {{ Taoism.size }}; Stoicism: {{ Stoicism.size }}; Accessibility: {{ Accessibility.size }}; Poetry: {{ Poetry.size }}.
+{%- assign totalFiction = Fiction.size | plus: ScienceFiction.size | plus: Fantasy.size -%}
+{%- assign totalPhilosophy = Buddhism.size | plus: Zen.size | plus: Nonduality.size | plus: Philosophy.size | plus: Taoism.size | plus: Stoicism.size -%}
+{%- assign totalOther = booksthisyear | minus: totalFiction | minus: totalPhilosophy -%}
+
+🎭 Genre stats:
+Fiction: {{ Fiction.size }};
+Science Fiction: {{ ScienceFiction.size }};
+Fantasy: {{ Fantasy.size }};
+Poetry: {{ Poetry.size }};
+Buddhism: {{ Buddhism.size }};
+Zen: {{ Zen.size }};
+Nonduality: {{ Nonduality.size }};
+Philosophy: {{ Philosophy.size }};
+Taoism: {{ Taoism.size }};
+Stoicism: {{ Stoicism.size }};
+Nonfiction: {{ Nonfiction.size }};
+Accessibility: {{ Accessibility.size }}.<br>
+Broad summary: 
+Fiction: {{ totalFiction }};
+Philosophy: {{ totalPhilosophy }};
+Other: {{ totalOther }}.
 
 {% assign thisMonth = site.data.books2024[0].date_read | date: "%m" %}
 {% assign siteMonth = site.time | date: "%m" %}
