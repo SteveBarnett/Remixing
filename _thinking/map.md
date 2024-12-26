@@ -100,7 +100,8 @@ Look closer. Feel your way through the ups and downs of being an embodied human 
 - Leave things as they are, without adding a story or a label.
 - “What wants attention or acceptance right now?” (from Trusting the Gold).
 - Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.
-- Give Benefits (in the Stoic sense).
+- Be generous, give generously.
+- Work with what you find in the chaos of the world.
 
 #### Be the waves
 
