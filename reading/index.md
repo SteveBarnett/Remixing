@@ -10,9 +10,10 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 {%- assign booksthisyear = site.data.books2024.size -%}
 {%- assign bookspermonthmonth = site.time | date: "%-m" -%}
 {% assign bookspermonth = booksthisyear | divided_by: bookspermonthmonth | round %}
+{% assign rereads = site.data.books2024 | where: "reread", "true" %}
 
-<p>📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}.</p>
 
+<p>📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}. ⏪ Rereads: {{ rereads.size }}.</p>
 
 {%- assign Fiction = site.data.books2024 | where: "genre", "Fiction" -%}
 {%- assign ScienceFiction = site.data.books2024 | where: "genre", "Science Fiction" -%}
@@ -52,7 +53,7 @@ My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Real
 	<li class="{% if book.my_rating == 5 %} five-star{% endif %}{% if currentMonth != previousMonth %} month-change{%- assign previousMonth = currentMonth -%}{% endif %}">
 		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
 		<span class="genre">{{ book.genre }}</span>.
-		<span class="read">Read {{ book.date_read | date: "%d-%m-%Y" }}.</span>
+		<span class="read">{%- if book.reread -%}(Re)re{%- else -%}Re{%- endif -%}ad {{ book.date_read | date: "%d-%m-%Y" }}.</span>
 		<span class="rating">Rated {{ book.my_rating }}/5</span>.
 		{%- if book.my_notes -%}
 		&nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
