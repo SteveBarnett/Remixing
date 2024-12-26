@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Zen Light: Unconventional Commentaries on the Denkoroku"
-zen2024: true
+zennotes2024: true
 added: 2024-12-21
 updated: 2024-12-21
 wip: true
