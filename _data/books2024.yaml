@@ -215,6 +215,7 @@
   my_rating: 5
   date_read: 2024/09/09
   format: Kindle
+  reread: true
 - title: "Right Thing. Right Now."
   author: "Holiday, Ryan"
   genre: "Stoicism"
@@ -234,12 +235,14 @@
   my_rating: 5
   date_read: 2024/08/29
   format: Kindle
+  reread: true
 - title: "Trust in Awakening"
   author: "Snyder, Stephen"
   genre: "Zen"
   my_rating: 5
   date_read: 2024/08/27
   format: Paperback
+  reread: true
 - title: "The Glass Rooster"
   author: Freegard, Janis
   genre: Poetry
@@ -373,6 +376,7 @@
   my_rating: 4
   date_read: 2024/06/02
   format: Kindle
+  reread: true
 - title: Opening to Oneness
   author: Baker, Nancy Mujo
   genre: Zen
@@ -392,6 +396,7 @@
   my_rating: 5
   date_read: 2024/05/19
   format: Kindle
+  reread: true
 - title: Cut and Thirst
   author: Atwood, Margaret
   genre: Fiction
@@ -435,6 +440,7 @@
   my_rating: 4
   date_read: 2024/04/19
   format: Kindle
+  reread: true
 - title: Excession
   author: Banks, Iain M
   genre: Science Fiction
@@ -474,6 +480,7 @@
   my_rating: 4
   date_read: 2024/04/04
   format: Kindle
+  reread: true
 - title: Tao Te Ching
   author: Mitchell, Stephen
   genre: Philosophy
@@ -487,6 +494,7 @@
   date_read: 2024/03/31
   format: Kindle
   my_notes: /thinking/zen/zen-and-the-art-of-saving-the-planet/
+  reread: true
 - title: Head Girl
   author: Sadgrove, Freya Daly
   genre: Poetry
@@ -499,6 +507,7 @@
   my_rating: 5
   date_read: 2024/03/24
   format: Kindle
+  reread: true
 - title: Zen Seeds
   author: Aoyama, Shundo
   genre: Zen
