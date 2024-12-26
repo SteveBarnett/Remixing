@@ -3,7 +3,7 @@ layout: page
 title: My Applied Philosophy
 longerform: true
 added: 2024-12-14
-updated: 2024-12-25
+updated: 2024-12-27
 ---
 
 The living version of several previous swirls.
@@ -42,6 +42,14 @@ Living a good enough, ordinary, life.
 - Build in redundancy.
 - Focus more on avoiding things that don't work than on trying to find out what does.
 
+## Spheres / areas
+
+Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. All is included, all is needed: both/and, not either/or.
+
+- Body, Mind, Spirit
+- Personal, Professional, Practice
+- Inner/Outer and Individual/Collective
+
 #### Ride the waves
 
 Look around. Apply psychological and logical understanding.
@@ -79,7 +87,7 @@ Look closer. Feel your way through the ups and downs of being an embodied human 
 - Notice the playful nature of everything. There's exploring and realising, playing hide and seek. (The cosmos is playful)
 - Leave things as they are, without adding a story or a label.
 - “What wants attention or acceptance right now?” (from Trusting the Gold).
-- Imperfections as part of the path, not as an obstacle.
+- Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.
 - Give Benefits (in the Stoic sense).
 
 #### Be the waves
@@ -94,6 +102,7 @@ Look wider. Connect to a deeper sense of self.
     - Look for thinker of thoughts and notice the absence.
 - Settle into an energetic balance, “between” two poles / opposites.
 - Letting go of "this isn't it."
+- Sit with koans to harness the energy of inquisitiveness and activate intuition.
 
 ## Theory
 
