@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Applied Philosophy
-longerform: true
 added: 2024-12-14
 updated: 2024-12-27
 ---
@@ -41,14 +40,27 @@ Living a good enough, ordinary, life.
 - Stick to simple rules.
 - Build in redundancy.
 - Focus more on avoiding things that don't work than on trying to find out what does.
+- What's the stance you're taking? What direction are you going?
+    - Notice: does this lead towards suffering or away?
+    - Uncovering. Letting go.
+    - Notice and relax the patterns and conditioned identification.
 
-## Spheres / areas
+## Spheres / Layers / areas
 
 Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. All is included, all is needed: both/and, not either/or.
 
 - Body, Mind, Spirit
 - Personal, Professional, Practice
 - Inner/Outer and Individual/Collective
+- [Layers](/thinking/layers/), depths (layers: influences each other; are distinct, but not divided; offer changes in context, scale, extent; move at different paces; have fuzzy boundaries)
+    - ride the waves, calm the waves, be the waves
+    - psychology to philosophy
+    - mind, body, spirit
+    - outer to inner
+    - shallow to deep
+    - outer to inner
+    - noise, sounds, silence
+    - thoughts, thoughts as illusion, before thought
 
 #### Ride the waves
 
