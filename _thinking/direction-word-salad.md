@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Direction word salad
+title: Direction (/stance) word salad
 longerform: true
 added: 2024-12-19
 updated: 2024-12-19
