@@ -334,10 +334,13 @@ details form {
   margin-top: 4rem;
 }
 
-.boxout {
+.boxout, .boxout-light {
   border: 1px solid #161;
   padding: 0.5em;
   background-color: #efe;
+}
+
+.boxout {
   font-weight: bold;
 }
 
