@@ -3,9 +3,24 @@ layout: page
 title: Traits
 added: 2024-12-15
 updated: 2024-12-15
+longerform: true
+wip: true
 ---
 
+<div class="boxout">
 A special interest about special interests.
+</div>
+
+I have, apparently, quite a strong resistance to getting a diagnosis. I think I'm resisting for some of these reasons.
+
+- **Treating an arbitrary category as objective truth.** A line has been drawn around certain levels of certain traits. But that line could have been drawn somewhere else. (See also: [Layers](/thinking/layers/).
+- **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. The idea that there's a right (or more right) way to be is a cultural construct.
+- **Just me being ornery** and not wanting to be put in a box.
+- **Not seeing how it would be fruitful for me.** Whether the diagnosis is positive or negative, I am still like what I'm like. My patterns, behaviours, and many and extensive coping mechanisms are what they are.
+
+A little like: "tall". What's "tall"? Above the average? Top 25%? We can't measure everyone, so how did we decide on the sample size? Does someone in the top 1% of heights have a height disorder? Is there one right height to be?
+
+This ties up with my thinking on [Layers](/thinking/layers/) and work-related thinking on disability generally: the [Think non-binary section of my MAP](https://naga.co.za/more-accessible-products/#think-non-binary) in particular.
 
 ## Gathered notes
 
