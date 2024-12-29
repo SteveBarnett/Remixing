@@ -47,6 +47,7 @@ Living a good enough, ordinary, life.
 - Living more frequently, for longer periods, from Reality, direct experience, instead of concepts.
 - Continued recommitment to aligning your actions with your values.
     - Use "grips" that are practical, pragmatic, feasible, workable.
+    - (From [Notes section of Precepts remixing](/thinking/precepts-remixing/#notes)) Using Valued Action as a way to examine deeply who I am, and into my failures to live up to the values.
 - Keeping things alive and fresh by changing them regularly (not necessarily frequently).
 - Stick to simple rules.
 - Build in redundancy.
