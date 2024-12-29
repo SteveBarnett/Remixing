@@ -399,7 +399,8 @@ blockquote.alt {
 }
 
 @media (max-width: 30em) {
-  ul, ul ul, ul ul ul {
+  ul, ul ul, ul ul ul,
+  ol, ol ol {
     padding-left: 1rem;
   }
 }
