@@ -2,10 +2,21 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2024-12-27
+updated: 2024-12-30
 ---
 
 The living version of several previous swirls.
+
+An extremely brief summary:
+
+- The path is goal. Living a good enough, ordinary, life.
+- My practice is meditation and mindfulness.
+- I use layers as a way of finding concrete things to do. I like using the rule of three, like mind, body, spirit.
+- Reality is one, complex, empty, flow. It's free of concepts, language, characteristics.
+- The infinite causes and conditions of Reality create everything.
+- Our true nature is the (open, empty, luminous) context of consciousness.
+- All matter is swirls of degrees of consciousness.
+- The cosmos is purposeful, patterned, and playful. It's is consciousness as a verb.
 
 * Display TOC
 {:toc}
@@ -45,9 +56,9 @@ Living a good enough, ordinary, life.
     - Uncovering. Letting go.
     - Notice and relax the patterns and conditioned identification.
 
-## Spheres / Layers / areas
+## Layers
 
-Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. All is included, all is needed: both/and, not either/or.
+Spheres, area. Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints.
 
 - Body, Mind, Spirit
 - Personal, Professional, Practice
