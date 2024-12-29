@@ -482,13 +482,14 @@ summary:focus {
     border-color: #d3c7b7;
   }
 
-  .boxout {
+  .boxout, .boxout-light {
     border-color: #d3c7b7;
     background-color: #0b1e07;
   }
 
   strong {
     background-color: #434;
+    color: #fff;
   }
 }
 
