@@ -2,18 +2,7 @@
 
 {{ content | markdownify }}
 
-
-<p>Jump down the page to:</p>
-  <ul class="skip-toc" role="list">
-    {% if page.zen %}<li><a href="#zen">Zen</a></li>{% endif %}
-    {% if page.zen %}<li><a href="#zen-notes">Zen book notes</a></li>{% endif %}
-    <li><a href="#longer-form">longer form writing</a></li>
-    <li><a href="#notes">notes from books, articles, talks</a></li>
-    <li><a href="#omb">OMB</a></li>
-    <li><a href="#buddhism">Buddhism</a></li>
-    <li><a href="#ifs">IFS-ish</a></li>
-    <li><a href="#collections">collections of short bits</a></li>
-  </ul>
+{% include skip-toc.html %}
 
 <h2 id="zen" tabindex="-1">Zen</h2>
 {% include section-loop.html section="zen" %}
