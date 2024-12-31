@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2024-12-30
+updated: 2025-01-01
 ---
 
 The living version of several previous swirls.
@@ -164,6 +164,9 @@ The nature of Reality, Consciousness, the cosmos.
     - **Things arise and pass away on their own.**
     - **Our thoughts, actions, bodies, are in and of Reality.**
         - When we are experience, there is no suffering. When we believe we're separate from it, there is suffering.
+- **Concepts are many, simple, simple, full, static.**
+    - In Zen, Reality and Concepts are called Absolute and Relative.
+    - Our stance is both/and, not either/or.
 
 ### Consciousness
 
