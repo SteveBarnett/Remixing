@@ -3,7 +3,7 @@ layout: page
 title: 'Notes from "Ending Dukkha: Taking Care of this Precious Life (1 of 2)"'
 added: 2024-11-08
 updated: 2024-11-08
-zen2024notes: true
+zennotes: true
 ---
 
 

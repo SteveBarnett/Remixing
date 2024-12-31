@@ -14,14 +14,14 @@
 
 <h2 id="zen" tabindex="-1">Zen</h2>
 
-{%- assign zen2024posts = site.thinking | where: "zen2024", "true" | sort: "updated" | reverse -%}
+{%- assign zenposts = site.thinking | where: "zen", "true" | sort: "updated" | reverse -%}
 
 <ol reversed>
-{%- for zen2024post in zen2024posts -%}
+{%- for zenpost in zenposts -%}
 
 <li>
-  <a href="{{ zen2024post.url }}">{{ zen2024post.title }}</a>
-    (added {{ zen2024post.added }}{% if zen2024post.updated !=  zen2024post.added %}, updated {{ zen2024post.updated }}{% endif %})
+  <a href="{{ zenpost.url }}">{{ zenpost.title }}</a>
+    (added {{ zenpost.added }}{% if zenpost.updated !=  zenpost.added %}, updated {{ zenpost.updated }}{% endif %})
 </li>
 
 {%- endfor -%}

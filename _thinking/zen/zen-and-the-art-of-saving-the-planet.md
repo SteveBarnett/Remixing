@@ -3,7 +3,7 @@ layout: page
 title: Zen and the Art of Saving the Planet
 added: 2024-03-31
 updated: 2024-03-31
-zen2024: true
+zen: true
 ---
 
 ## Summary of sorts

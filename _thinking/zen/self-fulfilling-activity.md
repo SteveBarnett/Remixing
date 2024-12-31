@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self-fulfilling activity
-zen2024: true
+zen: true
 added: 2024-07-07
 updated: 2024-07-07
 ---

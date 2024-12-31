@@ -3,7 +3,7 @@ layout: page
 title: Acceptance
 added: 2024-03-09
 updated: 2024-03-09
-zen2024: true
+zen: true
 ---
 
 ## Avoidance

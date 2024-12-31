@@ -3,7 +3,7 @@ layout: page
 title: Zen Seeds
 added: 2024-03-23
 updated: 2024-03-23
-zen2024notes: true
+zennotes: true
 ---
 
 - All things that have life flow.

@@ -3,7 +3,7 @@ layout: page
 title: 'Notes from "How To Live When A Loved One Dies"'
 added: 2024-09-24
 updated: 2024-10-19
-zen2024notes: true
+zennotes: true
 ---
 
 ## Interpretations and highlights

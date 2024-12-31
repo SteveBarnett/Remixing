@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Some bits from 8 English Translations of Genjokoan
-zen2024notes: true
+zennotes: true
 added: 2024-10-18
 updated: 2024-10-18
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'The "just" in "just sitting"'
-zen2024: true
+zen: true
 added: 2024-05-28
 updated: 2024-09-10
 ---

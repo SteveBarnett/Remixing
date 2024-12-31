@@ -3,7 +3,7 @@ layout: page
 title: "Dogen Zenji Goroku: Sayings of Zen Master Dogen"
 added: 2024-06-26
 updated: 2024-06-29
-zen2024notes: true
+zennotes: true
 ---
 
 ## Key points

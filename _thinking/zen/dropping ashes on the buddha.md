@@ -3,7 +3,7 @@ layout: page
 title: Dropping Ashes on the Buddha
 added: 2024-06-13
 updated: 2024-06-14
-zen2024notes: true
+zennotes: true
 ---
 
 - Keeping **don’t-know mind** always and everywhere is the true practice of Zen.

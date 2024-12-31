@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cultivating Awareness Every Moment
-zen2024notes: true
+zennotes: true
 added: 2024-04-28
 updated: 2024-04-28
 ---

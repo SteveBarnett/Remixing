@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Practice of Not-Knowing
-zen2024notes: true
+zennotes: true
 added: 2024-04-26
 updated: 2024-04-26
 ---

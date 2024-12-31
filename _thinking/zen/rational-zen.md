@@ -3,7 +3,7 @@ layout: page
 title: Rational Zen
 added: 2024-01-14
 updated: 2024-01-14
-zen2024notes: true
+zennotes: true
 ---
 
 ## Intro

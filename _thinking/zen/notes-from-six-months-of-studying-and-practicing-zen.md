@@ -3,7 +3,7 @@ layout: page
 title: Notes from six months of studying and practicing Zen
 added: 2024-07-07
 updated: 2024-07-13
-zen2024: true
+zen: true
 ---
 
 - What we're looking for is **always and already here.**

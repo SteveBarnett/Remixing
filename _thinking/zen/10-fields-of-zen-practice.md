@@ -3,7 +3,7 @@ layout: page
 title: 10 Fields of Zen Practice - Zen Studies Podcast
 added: 2024-02-19
 updated: 2024-02-19
-zen2024notes: true
+zennotes: true
 ---
 
 Notes from [Ten Fields of Zen Practice Chapter One: What Is Zen Practice? - The Zen Studies Podcast](https://zenstudiespodcast.com/zen-practice-ten-fields/).

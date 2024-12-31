@@ -3,7 +3,7 @@ layout: page
 title: The Eight Gates of Zen
 added: 2024-01-20
 updated: 2024-01-20
-zen2024notes: true
+zennotes: true
 ---
 
 ## Introduction

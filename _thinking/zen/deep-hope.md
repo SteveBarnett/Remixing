@@ -3,7 +3,7 @@ layout: page
 title: Deep Hope
 added: 2024-02-18
 updated: 2024-02-18
-zen2024notes: true
+zennotes: true
 ---
 
 ## Intro

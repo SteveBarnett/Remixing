@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Notes from \"It's Okay Not to Look for the Meaning of Life\""
-zen2024notes: true
+zennotes: true
 added: 2024-08-17
 updated: 2024-08-17
 ---

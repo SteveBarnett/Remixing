@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Zazen – Our Total Response to Life
-zen2024notes: true
+zennotes: true
 added: 2024-05-11
 updated: 2024-05-11
 ---

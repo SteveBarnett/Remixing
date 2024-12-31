@@ -3,7 +3,7 @@ layout: page
 title: Rōhatsu
 added: 2024-11-27
 updated: 2024-12-08
-zen2024: true
+zen: true
 ---
 
 Some quick notes on Rōhatsu.

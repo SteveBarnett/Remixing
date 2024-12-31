@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen Koans
-zen2024: true
+zen: true
 added: 2024-04-25
 updated: 2024-08-14
 ---

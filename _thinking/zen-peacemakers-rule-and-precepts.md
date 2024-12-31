@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen Peacemakers Rule and Precepts
-zen2024: true
+zen: true
 added: 2024-10-17
 updated: 2024-10-17
 ---

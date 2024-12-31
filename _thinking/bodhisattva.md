@@ -3,7 +3,7 @@ layout: page
 title: Bodhisattva
 added: 2024-11-26
 updated: 2024-11-26
-zen2024: true
+zen: true
 ---
 
 Two aspects of the Bodhisattva path that I want to dig into: [care](#care); [in the thick of it](#in-the-thick-of-it).

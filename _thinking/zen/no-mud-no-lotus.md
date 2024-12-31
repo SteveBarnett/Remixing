@@ -3,7 +3,7 @@ layout: page
 title: No mud, no lotus
 added: 2024-03-04
 updated: 2024-03-04
-zen2024notes: true
+zennotes: true
 ---
 
 ## The art of transformative suffering

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen Model of Awakening
-zen2024notes: true
+zennotes: true
 added: 2024-12-22
 updated: 2024-12-22
 ---

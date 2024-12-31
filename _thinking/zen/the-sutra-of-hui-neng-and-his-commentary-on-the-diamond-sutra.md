@@ -3,7 +3,7 @@ layout: page
 title: The Sutra of Hui-neng and his commentary on the Diamond Sutra
 added: 2024-04-07
 updated: 2024-04-07
-zen2024notes: true
+zennotes: true
 ---
 
 ## Key things

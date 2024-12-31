@@ -4,7 +4,7 @@ title: Zen
 added: 2024-01-10
 updated: 2024-02-24
 permalink: /thinking/zen/
-zen2024: true
+zen: true
 ---
 
 ## The Path
