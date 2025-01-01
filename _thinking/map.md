@@ -111,7 +111,7 @@ Look closer. Feel your way through the ups and downs of being an embodied human 
 - Notice the playful nature of everything. There's exploring and realising, playing hide and seek. (The cosmos is playful)
 - Leave things as they are, without adding a story or a label.
 - “What wants attention or acceptance right now?” (from Trusting the Gold).
-- Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.
+- <span id="signposts">Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.</span>
 - Be generous, give generously.
 - Work with what you find in the chaos of the world.
 
@@ -157,7 +157,7 @@ The nature of Reality, Consciousness, the cosmos.
 - **Reality is free of concepts, language, characteristics.**
     - It’s empty of intrinsic, solid, stable, form(s), of boundaries.
     - Thinking, especially judging, creates separation, distance.
-- **The infinite causes and conditions of Reality create everything.**
+- **<span id="causes-and-conditions">The infinite causes and conditions of Reality create everything.</span>**
     - Including all our thoughts and actions.
         - But/and: we create our own reality.
             - Perception is participation, and creates different forms, depending on the scale.
