@@ -3,12 +3,12 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2024-12-02
+updated: 2025-01-01
 ---
 
 An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-of-letting-go-s/).
 
-**Noticing** loosens things some. **Accepting** loosens things some more.
+## Should, could, good
 
 - **Let go of the shoulds.**{: #shoulds }
     - That things **should** be different.
@@ -20,7 +20,20 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
     - That things are **good as they are**.
     - That **you** are good as you are.
 
-When you can't do a step, don't fight it. Just notice how it feels.
+## Application
+
+- **Noticing** loosens things some.
+- **Accepting** loosens things some more.
+- When you can't do a step, don't fight it. Just notice how it feels.
+
+## Flavours of [tension](/thinking/tension/)
+
+Applying the three uhds is a way of quietening down. But I tend to be quite high energy, and some of that comes from the tension around these.
+
+- The tension between **what is** and **what could be** tends to give me **high energy**.
+- But the tension between **what is** and **what should be** tends to give me **nervous, anxious, energy**.
+
+These are both somewhat underpinned by the Inner Critic, leading me to dig into [some IFS-like things](/thinking/archive/#ifs).
 
 ---
 
