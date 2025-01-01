@@ -6,7 +6,34 @@ added: 2025-01-01
 updated: 2025-01-01
 ---
 
-Creative tension. High energy. Manifesting, taking the form of, restlessness. The crackle of energy in the gap between is and could or should.
+**High energy** manifesting, taking the form of, [restlessness](/thinking/restless-word-salad/). The crackle of energy in the gap between "is" and "could" (or "should"). Like synapses ⚡️ or the charge between magnetic poles 🧭.
+
+## Gathered notes
+
+- **The tension between poles creates energy.**
+    - [That can be helpful or a hindrance](/thinking/the-three-uhds/#flavours-of-tension).
+- **The space between poles is empty.**
+    - [Empty as in possibility, like a cup before it’s filled](/thinking/empty/).
+- **Notice what poles you're using.**
+    - Consider the risks and rewards of focusing too much on one pole.
+
+### What it is
+
+- Polarities create friction when they feel like opposites, contradictions.
+    - Really it's more like "Why can’t it be both?"
+- Poles form pairs of complementary forces. Their interaction makes motion, an energetic balance between the two.
+    - The tension, tautness, between them is what creates the energy.
+    - Sameness brings stillness, difference brings movement.
+- Between the poles is [emptiness](/thinking/empty/), creative potential, possibility.
+
+### What to do
+
+- Notice the polarities.
+- Notice the risks/rewards of neglecting/focusing on each pole.
+- Harmonise and integrate and balance the polarities.
+    - But watch more the wider, more important, pole.
+    - For example: asymmetry is more important than symmetry because it can contain symmetry.
+- Develop a taste for working with this disruptive energy.
 
 ## Raw notes
 
