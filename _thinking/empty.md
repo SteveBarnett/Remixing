@@ -6,11 +6,11 @@ added: 2025-01-01
 updated: 2025-01-01
 ---
 
-- Empty as in possibility, before name and form and content.
-- Empty like a cup before it's filled.
-- Existing only by convention. Not fixed, permanent, separate.
+- **Empty as in possibility, before name and form.**
+    - Empty like a cup before it's filled.
+- **Existing only by convention. Not fixed, permanent, separate.**
 - Unity of form and emptiness.
-- Between opposites lies emptiness, creative potential.
+- **Between opposites lies emptiness, creative potential.**
 
 ## Gathered notes
 
