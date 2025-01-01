@@ -75,6 +75,8 @@ Spheres, area. Distinctions, not division. Useful ways of getting a handle on th
     - noise, sounds, silence
     - thoughts, thoughts as illusion, before thought
 
+"(You are) the ocean, not the waves" is a perhaps a bit cheesy and overused now. But it is also very good and accurate and fruitful. So I'm using that here as: ride the waves, calm the waves, be the waves.
+
 #### Ride the waves
 
 Look around. Apply psychological and logical understanding.
@@ -119,6 +121,8 @@ Look closer. Feel your way through the ups and downs of being an embodied human 
 #### Be the waves
 
 Look wider. Connect to a deeper sense of self.
+
+This links with "[The cosmos is playful](#playful)" later in this page: the waves are a playful expression of the ocean. They waves aren't separate from the ocean. The ocean doesn't like small waves and dislike big waves (or vice versa).
 
 - Notice the causes and conditions that lead to your suffering.
 - Notice the causes, conditions, patterns that make you who you are.
@@ -193,7 +197,7 @@ The nature of Reality, Consciousness, the cosmos.
 - **The cosmos is purposeful, patterned.**
     - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
     - But/and: only the verb is required. There's no separation of subject and object. There's no doer.
-- **The cosmos is playful.**
+- **<span id="playful">The cosmos is playful.</span>**
     - There's exploring and realising, playing hide and seek.
 - **The cosmos is consciousness as a verb.**
     - All matter is swirls of degrees of consciousness.
