@@ -31,6 +31,7 @@ When out and about, I have a few little practices.
 
 - To notice my true nature, I look for at the **centre**, for myself at zero distance.
 - To notice the nonduality of Reality, I look for the **edges**.
+    - Alternate take: Notice how things **show up together**.
 - To notice impermanence, I watch for the **changes**.
 - When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
 - I remind myself that the path is goal.
