@@ -3,10 +3,14 @@ layout: page
 title: Tension
 longerform: true
 added: 2025-01-01
-updated: 2025-01-01
+updated: 2025-01-02
 ---
 
-**High energy** manifesting, taking the form of, [restlessness](/thinking/restless-word-salad/). The crackle of energy in the gap between "is" and "could" (or "should"). Like synapses ⚡️ or the charge between magnetic poles 🧭.
+**High energy** manifesting, taking the form of, [restlessness](/thinking/restless-word-salad/). The crackle of energy in the gap between "is" and "could" (or "should"). Like:
+
+- synapses ⚡️
+- the charge between magnetic poles 🧭
+- the potential energy between a wave's crest and trough 🌊.
 
 ## Gathered notes
 
@@ -16,6 +20,8 @@ updated: 2025-01-01
     - [Empty as in possibility, like a cup before it’s filled](/thinking/empty/).
 - **Notice what poles you're using.**
     - Consider the risks and rewards of focusing too much on one pole.
+
+Poles are different ways of looking at the same central truth. Different sides of a coin.
 
 ### What it is
 
