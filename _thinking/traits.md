@@ -2,9 +2,8 @@
 layout: page
 title: Traits
 added: 2024-12-15
-updated: 2024-12-15
+updated: 2025-01-03
 longerform: true
-wip: true
 ---
 
 <div class="boxout">
@@ -13,10 +12,12 @@ A special interest about special interests.
 
 I have, apparently, quite a strong resistance to getting a diagnosis. I think I'm resisting for some of these reasons.
 
-- **Treating an arbitrary category as objective truth.** A line has been drawn around certain levels of certain traits. But that line could have been drawn somewhere else. (See also: [Layers](/thinking/layers/).
-- **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. The idea that there's a right (or more right) way to be is a cultural construct.
+- **Treating a fairly arbitrary category as objective truth.** A line has been drawn around certain levels of certain traits. But that line could have been drawn somewhere else. (See also: [Layers](/thinking/layers/). If it's useful as context-provider, that's fine.
+- **Not seeing how it would be fruitful for me.** Whether the diagnosis is positive or negative, I am still like what I'm like, whatever you call it or name it. My patterns, behaviours, and many and extensive coping mechanisms are what they are.
+- **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. Divergent can have an implied value judgement in it. The idea that there's a right (or more right) way to be is a cultural construct.
+    - **Treating it as a fixed condition / state.** "It's just what I'm like." Well, yes and no. Life is change. Neuroplasticity says our brains can (and do) change. Or: "I can't change." We change our behaviour all the time, depending on context. All our behaviours are learned over time, and can be (mostly) unlearned. But also: change does include some things staying the same.
+- **Not giving the Inner Critic more to work with.** Either as a stick to hit me with, or something to use (disingenuously) as an excuse.
 - **Just me being ornery** and not wanting to be put in a box.
-- **Not seeing how it would be fruitful for me.** Whether the diagnosis is positive or negative, I am still like what I'm like. My patterns, behaviours, and many and extensive coping mechanisms are what they are.
 
 A little like: "tall". What's "tall"? Above the average? Top 25%? We can't measure everyone, so how did we decide on the sample size? Does someone in the top 1% of heights have a height disorder? Is there one right height to be?
 
@@ -24,13 +25,14 @@ This ties up with my thinking on [Layers](/thinking/layers/) and work-related th
 
 ## Gathered notes
 
-- Finding social situations difficult and exhausting.
+- Finding social situations difficult and exhausting. (To the point of running away and hiding. This is a big source of avoidant behaviour for me.)
 - Finding relationships and emotional regulation difficult and exhausting.
-- Often notice small details.
+- Often notice small details. (I don't get bored easily. I often notice difference in things that are "the same". For example: I am fine eating the same thing for several meals. I am fine walking the same route every day.)
 - Sensitive to sound.
-- Often deep dive into topics.
+- Often deep dive into topics. (Observe my shoeboxes of index cards, my bookshelf, or this site!)
 - Like planning, routine, ritual.
 - Find change and surprises difficult and uncomfortable.
+- Sensitivity to taste. (As a kid I was a very fussy eater)
 
 ### Social, solo, emotions
 
