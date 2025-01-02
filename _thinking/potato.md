@@ -1,7 +1,12 @@
 ---
 layout: page
 title: My burnout safeword is Potato
+added: 2022-12-17
+updated: 2025-01-03
+longerform: true
 ---
+
+(I wrote this a while ago, then forgot about it. But it feels useful again now!)
 
 When thinking about my energy levels at work, I often use a battery metaphor. I've had very low energy levels in the second half of 2022.
 
