@@ -14,6 +14,7 @@ I have, apparently, quite a strong resistance to getting a diagnosis. I think I'
 
 - **Treating a fairly arbitrary category as objective truth.** A line has been drawn around certain levels of certain traits. But that line could have been drawn somewhere else. (See also: [Layers](/thinking/layers/). If it's useful as context-provider, that's fine.
 - **Not seeing how it would be fruitful for me.** Whether the diagnosis is positive or negative, I am still like what I'm like, whatever you call it or name it. My patterns, behaviours, and many and extensive coping mechanisms are what they are.
+- **It's reductive.** Behaviours and traits are usually the result of a complex web of causes and conditions.
 - **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. Divergent can have an implied value judgement in it. The idea that there's a right (or more right) way to be is a cultural construct.
     - **Treating it as a fixed condition / state.** "It's just what I'm like." Well, yes and no. Life is change. Neuroplasticity says our brains can (and do) change. Or: "I can't change." We change our behaviour all the time, depending on context. All our behaviours are learned over time, and can be (mostly) unlearned. But also: change does include some things staying the same.
 - **Not giving the Inner Critic more to work with.** Either as a stick to hit me with, or something to use (disingenuously) as an excuse.
