@@ -4,7 +4,6 @@ title: Like a ball in a pinball machine
 longerform: true
 added: 2024-12-24
 updated: 2024-12-24
-wip: true
 ---
 
 Being a human in the world is like being the ball in a pinball machine.

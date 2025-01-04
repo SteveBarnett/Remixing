@@ -4,7 +4,6 @@ title: Like a net in a river
 longerform: true
 added: 2024-12-24
 updated: 2024-12-24
-wip: true
 ---
 
 I like metaphors as ways of thinking through things. And I like nature ones especially as they feel (ahem) earthy, and they (perhaps unsurprisingly) already have a lot of the qualities I want to think through (like unity, complexity, boundarylessness, flow). So here's one.

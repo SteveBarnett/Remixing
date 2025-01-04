@@ -4,7 +4,6 @@ title: "Zen Light: Unconventional Commentaries on the Denkoroku"
 zennotes: true
 added: 2024-12-21
 updated: 2025-01-01
-wip: true
 ---
 
 ## Gathered notes
