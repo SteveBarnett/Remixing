@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zen: true
 added: 2024-11-22
-updated: 2024-12-05
+updated: 2025-01-03
 wip: true
 ---
 
@@ -35,5 +35,10 @@ wip: true
 - It’s possible to reduce, or even to give up – if just for a little while – the endless quest to arrange our lives. And to find a very different kind of fulfillment, one that is intrinsic to the bare fact of being alive, and is always already here. 
 - In awakening, we can recognise that we are not actually the contents of awareness. Rather, we are in fact the broader context that awareness is. We are simply awareness itself. An open, boundless, center-less space in which all things arise.
 - In Buddhism they talk about two forms of knowing: ‘understanding’ and ‘recognizing’. We can cognitively understand something, but it’s a different thing to recognize it as true, through our own personal experience. 
+- The more we allow ourselves to release our need to do and to strive, the more we may come to feel like there really is a deeper part of us that is simply an ever-present state of restfulness.
+- We can start to discover a deep contentment in letting go of the need to move.
+- Learning not just to have a still body, but to be comfortable in it, is a tried and tested way for helping the mind slow down and become more still.
+- There is a place we can find in our own first-person field of experience that is always still.
+- Awareness itself is also somehow 'still'. It can't move. It doesn't change. Movement can only occur in relation to something else.
 
 [The Way app](https://www.thewayapp.com/)
