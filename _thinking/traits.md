@@ -2,12 +2,13 @@
 layout: page
 title: Traits
 added: 2024-12-15
-updated: 2025-01-03
+updated: 2025-01-06
 longerform: true
 ---
 
 <div class="boxout">
-A special interest about special interests.
+A special interest about special interests.<br>
+Disclaimer: this is me figuring out myself, not assessing or judging anyone else.
 </div>
 
 I have, apparently, quite a strong resistance to getting a diagnosis. I think I'm resisting for some of these reasons.
@@ -18,6 +19,7 @@ I have, apparently, quite a strong resistance to getting a diagnosis. I think I'
 - **It's reductive.** Behaviours and traits are usually the result of a complex web of causes and conditions.
 - **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. Divergent can have an implied value judgement in it. The idea that there's a right (or more right) way to be is a cultural construct.
     - **Treating it as a fixed condition / state.** "It's just what I'm like." Well, yes and no. Life is change. Neuroplasticity says our brains can (and do) change. Or: "I can't change." We change our behaviour all the time, depending on context. All our behaviours are learned over time, and can be (mostly) unlearned. But also: change does include some things staying the same.
+    - **It puts "can't" forward as an option. It can be used an excuse instead of a reason.** Things are fairly rarely "can't"s. They're more often, more truthfully, won't or don't want to or not aligned with my values. Sometimes something feels very difficult, or very awkward, or very upsetting. Those are okay reasons not to do something. But it's not the same as can't.
 - **Not giving the Inner Critic more to work with.** Either as a stick to hit me with, or something to use (disingenuously) as an excuse.
 - **Just me being ornery** and not wanting to be put in a box.
 
