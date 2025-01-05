@@ -13,6 +13,7 @@ A special interest about special interests.
 I have, apparently, quite a strong resistance to getting a diagnosis. I think I'm resisting for some of these reasons.
 
 - **Treating a fairly arbitrary category as objective truth.** A line has been drawn around certain levels of certain traits. But that line could have been drawn somewhere else. (See also: [Layers](/thinking/layers/). If it's useful as context-provider, that's fine.
+    - **The category is "empty"**. Like [the chariot simile](/thinking/empty/#the-chariot-simile). The condition is not one of the traits. It's not all of the traits. It's not something separate from the traits. It exists only by convention.
 - **Not seeing how it would be fruitful for me.** Whether the diagnosis is positive or negative, I am still like what I'm like, whatever you call it or name it. My patterns, behaviours, and many and extensive coping mechanisms are what they are.
 - **It's reductive.** Behaviours and traits are usually the result of a complex web of causes and conditions.
 - **Framing as disorder.** Something being at the edges doesn't (necessarily) make it a disorder. Variation is the norm for humans. Divergent can have an implied value judgement in it. The idea that there's a right (or more right) way to be is a cultural construct.
