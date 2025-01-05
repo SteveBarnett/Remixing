@@ -12,6 +12,19 @@ updated: 2025-01-01
 - Unity of form and emptiness.
 - **Between opposites lies emptiness, creative potential.**
 
+## The chariot simile
+
+From a Buddhist story about Nagasena and King Milinda, an illustration about not-self (anatman).
+
+- The chariot is not one of its part.
+    - You can't take one part and say "this is a chariot."
+- The chariot is not all of its parts.
+    - You can remove (at least) one part and still say "this is a chariot."
+    - If you start removing parts, at what point does it stop being a chariot?
+- The chariot is not something separate from the parts.
+    - There's no no-part part you can point at and say "this is a chariot."
+- The chariot exists by convention, in aggregate, only.
+
 ## Gathered notes
 
 Empty as in:
