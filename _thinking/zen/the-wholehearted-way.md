@@ -2,9 +2,19 @@
 layout: page
 title: The Wholehearted Way
 added: 2024-12-28
-updated: 2025-01-04
+updated: 2025-01-06
 zennotes: true
 ---
+
+- Abstract concepts and living reality are entirely different.
+    - Reality exists before our naming and dividing, our dichotomies and discriminations.
+    - Reality is not something fixed. It's vivid, fresh, and vigorous.
+- Emptiness is the complete interdependence of all things.
+- Great awakening is the enlightenment that goes beyond delusion and enlightenment.
+- Practice and enlightenment are not two.
+- As long as we're human, thoughts will come up no matter how hard we practice zazen.
+    - We can't calm the mind with the mind. It's like trying to pull up a mat we're sitting on.
+- Waiting is a substitute for zazen.
 
 ## Gathered notes
 

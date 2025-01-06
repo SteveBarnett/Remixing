@@ -3,8 +3,25 @@ layout: page
 title: "Zen Light: Unconventional Commentaries on the Denkoroku"
 zennotes: true
 added: 2024-12-21
-updated: 2025-01-04
+updated: 2025-01-06
 ---
+
+- There aren't specific answers to specific koans
+- Zen is in the ordinary details of life
+- To be enlightened is to be aware, awake, present
+    - We find all sorts of ways to escape from dealing with the present
+- Zazen is the non-separation of subject and object
+- To talk about The Way is to miss it
+- Not-knowing is the state of openness, leaving space, being open to possibilities
+    - Not judging, just seeing things as they are
+    - By eliminating the words “good” and “bad,” we directly deal with reality
+    - Our preconceptions are obstacles
+- Practice itself is the goal
+    - There is nothing to attain. We already have it
+    - The goal is not perfection. It's acceptance of ourselves as imperfect humans
+- Realising the impermanency of it all, nonattachment is the pragmatic way to go
+
+> Yüeh-shan was meditating.<br>Shih-t’ou asked him, “What are you doing?”<br>Yüeh-shan: “I’m not doing anything.”<br>Shih-t’ou: “If you’re not doing anything, what a waste of time it is.”<br>Yüeh-shan: “If I were wasting my time, I’d be doing something.”
 
 ## Gathered notes
 
@@ -12,7 +29,7 @@ updated: 2025-01-04
 - The truth of Zen is in the most insignificant and ordinary details of life.
 - To be enlightened is to be aware, awake, present, not absent.
 - The Buddha Way is a way of unity. The Way is a way that transforms from many to one.
-- Hui-neng, defines zazen as the non-separation of subject and object.
+- Hui-neng defines zazen as the non-separation of subject and object.
 - We think we can "understand" the Way. We think we know what we are talking about when we talk about Zen. But to talk about it is to miss it.
 - Not-knowing is the state of openness. When we don't know, there's space for anything to happen.
 - "knowing" leaves no space. "Knowing" is a position that says that only what can fit in this little box of "knowing" is the way it is and nothing else will do.

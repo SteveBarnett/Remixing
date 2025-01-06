@@ -3,8 +3,22 @@ layout: page
 title: "The Heart Sutra: A Comprehensive Guide To The Classic Of Mahayana Buddhism"
 zennotes: true
 added: 2024-12-15
-updated: 2025-01-04
+updated: 2025-01-06
 ---
+
+- shunyata, emptiness, zeroness, **boundlessness**, hollowness, nonsubstantiality
+    - no difference between eyes, ears, nose, and so on
+    - the interdependent origination of all existing phenomena
+    - the lack of self-identity and the lack of absolute separation in all things
+    - **nonduality - not a negation of both monism and dualism, a dynamic interaction of them**
+- When we transcend distinctions and boundaries, we become more compassionate
+- **freedom as in improvisation, not as in unconstrained randomness**
+- prajñā, wisdom beyond wisdom
+- **a person is a manifestation of their combined activity, a process**
+    - no self, only an unrecognised conscious self-model
+- **paramita as a dynamic state of arriving, practice being actualized**
+- stream more than path more than aggregate
+- the Mahayana tradition views nirvana as not separate from samsara.
 
 ## Gathered notes
 

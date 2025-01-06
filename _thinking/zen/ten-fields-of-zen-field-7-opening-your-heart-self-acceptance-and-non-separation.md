@@ -2,9 +2,24 @@
 layout: page
 title: "Ten Fields of Zen, Field 7 – Opening Your Heart: Self-Acceptance and Non-Separation"
 added: 2025-01-04
-updated: 2025-01-04
+updated: 2025-01-06
 zennotes: true
 ---
+
+- **Self and other are not separate. Practice is manifesting and realising this.**
+- **Broaden the circle of whom you can turn to with an unconditional open heart.**
+    - The broader your circle, the more stable, peaceful, and joyful your life will be.
+- Our practice is to respond appropriately to the things that come easily to us as human beings: being defensive, angry, irritated, suspicious, judgmental, and competitive.
+- **When you find compassion limited or blocked, expand your attention beyond someone’s immediate distress to their situation as a whole.**
+- Equanimity - Keeping the largest possible perspective, creating a bigger container to hold everything.
+- When you try to extend unconditional goodwill toward yourself, you’re likely to encounter resistance from negative narratives about yourself.
+- Everything is grist for the mill, all aspects of being a weird human.
+- The place to start practicing with a relationship is to **carefully examine your attitude** toward the other person.
+    - What thoughts, beliefs, emotions, fears, or hopes do you have that seem to be resulting in unmet needs or conflict?
+    - **Notice your expectations about how people "should" behave.**
+    - **Transform your expectations into lightly held hopes.**
+    - This shifts your attention from insufficiency to the possibility of gratitude.
+- Everyone is on their own path. Everyone's bad behaviours arises from their struggles, not their attitude to you.
 
 ## Gathered notes
 
@@ -27,7 +42,7 @@ zennotes: true
 - This shifts your attention from insufficiency to the possibility of gratitude.
 - If you can manage to cultivate the Brahmaviharas toward the people in your life, it helps you recognize that they are on their own path and their life doesn’t center around you. 
 - their less-than-ideal behavior arises because of their own struggles, not because they don’t care about or respect you.
-- Open Heart maximizes your ability to respond appropriately and compassionately.This gives you a chance to uncover the false view(s) that are giving rise to Dukkha – probably in the form of expectations about how people should behave**
+- Open Heart maximizes your ability to respond appropriately and compassionately. This gives you a chance to uncover the false view(s) that are giving rise to Dukkha – probably in the form of expectations about how people should behave.
 
 ## Raw highlights
 

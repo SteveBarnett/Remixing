@@ -2,9 +2,19 @@
 layout: page
 title: "Ten Fields of Zen, Field 8 – Realization: Direct Experience of Reality-with-a-Capital-R"
 added: 2025-01-04
-updated: 2025-01-04
+updated: 2025-01-06
 zennotes: true
 ---
+
+- Rather than striving for (big) Enlightenment, that will solve all your problems and make you into a saint, appreciate the many (small) enlightenments you experience over years.
+- Transformative insight comes from direct, personal experiences of Reality
+    - Intellectual knowledge is important, but not a substitute for direct experience
+- Pay attention to what's happening, regardless of its relevance to your self-interest
+- With time, the difference between Sesshin and the rest of your life becomes less and less.
+- **Samadhi is not a state that can be forced through effort. That such effort involves separation from a state, something to realise.**
+- On the Soto Zen path, Realization, Quiet Mind, and Samadhi are **not goals but descriptions of what happens as you let go.**
+    - Coming home to your true nature. Not achieving something special through the exercise of will.
+- There's no need to get puritanical about the path. Do what you need, when you need it.
 
 ## Gathered notes
 
