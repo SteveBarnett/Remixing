@@ -3,10 +3,10 @@ layout: page
 title: Empty
 zen: true
 added: 2025-01-01
-updated: 2025-01-01
+updated: 2025-01-11
 ---
 
-- **Empty as in possibility, before name and form.**
+- **Empty as in possibility, before name and form. The matrix of all phenomenon.**
     - Empty like a cup before it's filled.
 - **Existing only by convention. Not fixed, permanent, separate.**
 - Unity of form and emptiness.
