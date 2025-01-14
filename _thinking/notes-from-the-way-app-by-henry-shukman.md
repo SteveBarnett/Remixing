@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zen: true
 added: 2024-11-22
-updated: 2025-01-03
+updated: 2025-01-07
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.
@@ -39,5 +39,9 @@ updated: 2025-01-03
 - Learning not just to have a still body, but to be comfortable in it, is a tried and tested way for helping the mind slow down and become more still.
 - There is a place we can find in our own first-person field of experience that is always still.
 - Awareness itself is also somehow 'still'. It can't move. It doesn't change. Movement can only occur in relation to something else.
+- Yaoshan: 'take the backward step that shines the lamp inward.'
+    - Something like: 'relax, don't strive, release back into a light of awareness that is already present.'
+    - The advice of taking a 'backward step' seems to suggest that it won't help to be 'striving forward'.
+- (from email) It’s not an answer on the same level that any question about it is asked. It’s not on the same level as all other questions and answers we have known.
 
 [The Way app](https://www.thewayapp.com/)
