@@ -8,8 +8,7 @@
 {% if currentsectionpostyear == page.year %}
 
 <li data-month="{{ sectionpost.updated | date: "%m" }}">
-  {% if sectionpost.done == true %}✔ {% endif %}<a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a>{% if sectionpost.wip == true %} (<abbr title="Work In Progress">WIP</abbr>){% endif %}
-    (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
+  {% if sectionpost.done == true %}✔ {% endif %}<a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
 </li>
 {% endif %}
 
