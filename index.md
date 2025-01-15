@@ -3,9 +3,7 @@ title: Steve Barnett dot me
 layout: page
 ---
 
-Hi, I’m Steve Barnett.
-
-I tend to be quite reflective. I like setting [Themes for years](/themes/) (and months) and then [reviewing](/review/) the years (and months). Most recent update: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}).
+Hi, I’m Steve. I tend to be quite reflective. I like setting [Themes for years](/themes/) (and months) and then [reviewing](/review/) the years (and months). Most recent update: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}).
 
 ## Personal
 
