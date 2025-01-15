@@ -3,7 +3,7 @@ layout: page
 title: Ideas for OMB sessions
 omb: true
 added: 2024-10-03
-updated: 2024-11-28
+updated: 2025-01-16
 ---
 
 - Update and run [The Headless Way](/thinking/the-headless-way-session-for-one-mindful-breath/).
@@ -18,14 +18,6 @@ updated: 2024-11-28
     - Doubt as a hindrance, some classical vibes.
     - Just keep showing up. The way takes care of itself. Just practising is always good enough.
 - Roxy Roshi. Lessons from my favourite Zen master: my dog.
-- Keep Going.
-    - Inspired by the [Austin Kleon book](https://austinkleon.com/keepgoing/). [My notes](https://stevebarnett.me/notes/process/keep%20going.jpg).
-    - Using things that are not-meditation to help with our practice.
-    - Seeing practice as a creative endeavour.
-    - Things like:
-        - The process, not the prize.
-        - Forget the noun, do the verb.
-        - The extraordinary is just the ordinary with extra attention applied to it.
-        - To exercise is to exorcise.
-        - Plant your garden.
 - Talk through my [Wider RAIN practice](/thinking/wider-rain-practice/). Tara's original. My remixes / extensions. [TSOL's Philotation](/notes/philosophy/philosophical%20meditation.jpg) too?
+- Part two of [Keep Going](/thinking/keep-going-omb-session/)
+- Sketch out an opposites session based on Kelly Boys [Meeting Emotions](https://dynamic.wakingup.com/course/COAF002?code=SC541514D&share_id=73292B02&source=content%20share) and [Meeting Thoughts](https://dynamic.wakingup.com/course/CO92D29?code=SC541514D&share_id=34149210&source=content%20share) session from her [Easing the Nervous System series](https://dynamic.wakingup.com/pack/PKAC84D?code=SC541514D&share_id=4A52731F&source=content%20share) on [Waking Up](https://dynamic.wakingup.com/shareOpenAccess/SC541514D?share_id=690D4C7E).
