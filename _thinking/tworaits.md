@@ -6,12 +6,29 @@ updated: 2025-01-16
 longerform: true
 ---
 
-Following on from [Traits](/thinking/traits/).
-
 The fact that AuDHD is a thing, that two (seemingly) opposite things can exist in the same person seems to me to support:
 
-- my line of thinking in Traits about (the arbitray nature of) Categories and [Layers](/thinking/layers/) 
+- my line of thinking in [Traits](/thinking/traits/) about (the arbitray nature of) Categories and [Layers](/thinking/layers/) 
 - how [paradoxes](/thinking/paradoxes/) are usually conceptual only (in reality, opposites exist together all the time).
+
+Some thoughts...
+
+- Fighting and resisting the two opposite pulls / poles, trying to satisfy both or land in the middle is exhausting. And being exhausted makes my skin thinner. And my energy levels low; see [potato](/thinking/potato/).
+- I often feel like I need some noise and/or people around to help me concentrate. But my sweet spoot of noise/quiet seems to be small, so I often get distracted or overstimulated by it.
+- My analytical side makes me quiet aware of my unskilful, problematic, behaviours, usually to an unhealthy point.
+- I have a tendency to binary thinking, or to swing between opposites. (This is partly why I'm so obsessed with spectrums and nuance. I know, I can see, that binaries are not how the world is, how it works, despite my tendencies.)
+    - I tend to hyperfocus, but also hyper-attention
+    - I easily deep dive into a special interest and find it calming and soothing, but I also have a tendency get bored of them quite quickly
+    - I have a similar story with routine. I work best with "a wide path": guidelines, but not rules. Clear, concise, tight guidelines, but with room to move.
+        - Related, something like: it's essential that I do the planning, but I might not follow the plan.
+    - Something I've been noticing at work especially: I have quite high attention to detail, I'm good at spotting things, especially little differences. But I am also prone to mistakes, often in bits that seem less important (and therefore less interesting) to me.
+    - I am really analytical and calculating. But I also made big sideways, unexpected, improvised connections and leaps that people often find... peculiar.
+
+Some steps towards something...
+
+- This push/pull between the poles is a kind of [energy, tension](/thinking/tension/), itself.
+- What if, instead of resisting or judging the push/pull, I treated it more like **being on a swing** in a playground? Kick your legs and follow the direction you're going, then change and go the other way.
+- What if I [let go of should be, who I could be, and just rest in who I am](/thinking/the-three-uhds/)?
 
 ## Bit of a short list
 
