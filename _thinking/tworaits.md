@@ -2,7 +2,7 @@
 layout: page
 title: Tworaits (Traits 2, the sequel to Traits)
 added: 2025-01-16
-updated: 2025-01-16
+updated: 2025-01-18
 longerform: true
 ---
 
@@ -23,6 +23,7 @@ Some thoughts...
         - Related, something like: it's essential that I do the planning, but I might not follow the plan.
     - Something I've been noticing at work especially: I have quite high attention to detail, I'm good at spotting things, especially little differences. But I am also prone to mistakes, often in bits that seem less important (and therefore less interesting) to me.
     - I am really analytical and calculating. But I also made big sideways, unexpected, improvised connections and leaps that people often find... peculiar.
+    - I can be really quite stubborn and stick to my guns, but I can also give up easily. This tends to result in my coming back and beating myself up for giving up. I am aware of the contradiction.
 
 Some steps towards something...
 
