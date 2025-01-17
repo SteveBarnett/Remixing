@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from Joan Tollifson books and articles
-longerform: true
+notes: true
 added: 2025-01-01
 updated: 2025-01-01
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Choose Freedom? (from "Right Now, Just As It Is")
 added: 2025-01-04
 updated: 2025-01-04
-longerform: true
+notes: true
 ---
 
 - Acceptance opens up possibilities.
