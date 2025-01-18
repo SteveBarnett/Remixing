@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from The Way app by Henry Shukman
-zen: true
+zennotes: true
 added: 2024-11-22
 updated: 2025-01-07
 ---
