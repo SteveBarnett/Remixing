@@ -73,14 +73,13 @@ Emerge where he does not expect it.
 one who does not thoroughly know the harm from employing the military 
 Cannot thoroughly know the advantage from employing the military
 
- the wise general looks to the enemy for food.
+the wise general looks to the enemy for food.
 
- the military values victory.
+the military values victory.
 It does not value prolonging
 
 Taking a state whole is superior.
 Destroying it is inferior to this.
-
 
 one hundred victories in one hundred battles is not the most skillful.
 Subduing the other’s military without battle is the most skillful
@@ -107,7 +106,6 @@ Volume gives birth to counting.
 Counting gives birth to weighing.
 Weighing gives birth to victory.
 
-
 the victorious military is first victorious and after that does battle.
 The defeated military first does battle and after that seeks victory.
 
@@ -131,33 +129,22 @@ How one can make the enemy arrive of their own accord—offer them advantage.
 One who takes position first at the battleground and awaits the enemy is at ease.
 One who takes position later at the battleground and hastens to do battle is at labor.
 
-
-6
 The Solid and Empty
 
-5
 Shih
 
-2
 Doing Battle
 
-1
 Appraisals
 
-
-4
 Form
 
-
-3
 Strategy of Attack
-
 
 To attack and surely take it, attack where they do not defend.
 To defend and surely hold firm, defend where they will surely attack.
 Thus with one skilled at attack, the enemy does not know where to defend.
 With one skilled at defense, the enemy does not know where to attack.
-
 
 To advance so that one cannot be resisted, charge against the empty.
 To retreat so that one cannot be stopped, go so far that one cannot be reached
@@ -171,11 +158,9 @@ Form them and know the ground of death and life.
 Appraise them and know the plans for gain and loss.
 Probe them and know the places of surplus and insufficiency.
 
-
 Do not repeat the means of victory,
 But respond to form from the inexhaustible
 
-7
 The Army Contending
 
 make their road circuitous
@@ -190,42 +175,35 @@ Use ease to await labor.
 Use fullness to await hunger.
 This is ordering strength.
 
-8
 The Nine Transformations
 
-
-9
 Moving the Army
 
-10
 Forms of the Earth
 
 Know the other and know oneself, 
 Then victory is not in danger
 
-11
 The Nine Grounds
 
 Ride others’ inadequacies.
 Go by unexpected ways.
 Attack where he has not taken precautions.
 
-
-12
 Attack by Fire
 
 One who uses water to aid an attack is strong. 
 Water can be used to cut off. 
 It cannot be used to seize. 
 
-13
 Employing Spies
 
 conquering without aggression. It teaches victory over war.
 
 how the Sun Tzu views the world as whole. It begins with the minutest of details, noting their interconnectedness. Then it identifies the patterns they form and the opportunities for effective action these afford
 
-PART TWO
+### PART TWO
+
 Three Essays
 
 Taking Whole
@@ -246,7 +224,7 @@ This is not a question of definitions; it’s a matter of how to act effectively
 
 If we take advantage of certain qualities of the environment, our power greatly increases.
 
- we must appraise not just the object but how it will interact with other objects and situations—that is, we must know its relationships
+we must appraise not just the object but how it will interact with other objects and situations—that is, we must know its relationships
 
 in this world we are not a thing in and of ourselves; we have qualities like height or bravery only in contrast with other things. Thus what is called “tall” is dependent on what’s called “short.”
 
@@ -266,7 +244,6 @@ each of these—rocks, people, air—assumes its shape only temporarily, appeari
 
 The world, then, consists not of solid things but of flows of forces or movements of energy or shifting configurations of shih. These are Tao.
 
-
 like a rock in a roaring stream: it holds firm a while—a few moments or maybe several centuries— then it is swept away
 
 take that large view, if we become the stream as well as the rock, if we see the rock itself as energy, not fixation, then we open to a bigger mind, beyond petty concerns, beyond self-importance
@@ -274,7 +251,6 @@ take that large view, if we become the stream as well as the rock, if we see the
 apprehended effortlessly through immediate awareness of the situation
 
 The Sage Commander
-
 
 The Military
 
@@ -298,7 +274,6 @@ For the Sun Tzu, the key to skillful action is in knowing those things that make
 
 It is not necessary to change the nature of things in order to come to victory.
 
-
 Because the sage commander has settled into being who he is, he is no longer constantly comparing himself to others
 
 Since his mind is not distracted, he can catch the opportunities that arise from each circumstance
@@ -319,7 +294,6 @@ Addressing a problem as it is presented often reinforces the fixation that initi
 
 The Sage Commander in the World
 
-
 The sage commander holds no fixed position or identity. Thus he is free to be whatever he needs to be to achieve victory
 
 Victory
@@ -329,12 +303,10 @@ Aggression gives the enemy something against which to fight. This
 
 The sage commander responds to aggression by creating space, which relaxes the situation and paradoxically brings it more under his control. It’s like controlling a bull by giving him a very large pasture.
 
-
 The sage commander attains victory when the enemy can see no other alternative and chooses what he has offered. He is all-victorious when they see that option as best for them and have no idea that they were directed there
 
 Taking whole allows him to preserve the possibilities—to keep every option open.
 Taking whole means conquering the enemy in a way that keeps as much intact as possible—both your own resources and those of the enemy. Such a victory leaves something available to build upon, for both you and your former foe. Destruction leaves nothing, and its aftermath diverts valuable energy from the larger victory.
-
 
 Defeating that strategy unravels the enemy’s cohesion and dissolves their alliances
 
@@ -344,19 +316,17 @@ Victory is ongoing, a way of being rather than a final goal
 
 Joining the Tradition
 
-
 The Warring States Context
 
 The Emergence of a Text
 
 Like nearly all Warring States texts, the Sun Tzu is a collection, an anthology created and maintained by members of its lineage. The Analects of Confucius is a good example of this practice. It could not have been written by Confucius, since most sections begin “The Master said.” 
 
- It is impossible to locate the modern sense of an “author” anywhere in this process.
+It is impossible to locate the modern sense of an “author” anywhere in this process.
 
 The text is not concerned with argumentation but with establishing a point of view. This view manifests in every passage and from a variety of perspectives
 
 Where Are We Now?
-
 
 as practices and a view, as traditions of wisdom.
 
@@ -366,24 +336,19 @@ In the process philosophy of Alfred North Whitehead (1861–1947), events, not i
 
 In place of the categories “being, permanence and uniformity,” there is only “becoming, change and newness.”
 
+### PART THREE
 
-PART THREE
 Commentary
 
-1
 Appraisals
-
 
 shih,” the power inherent in a situation.
 
-
 Through comparisons, we learn where relative advantage lies. We can thus act to bring about a favorable disposition or shih
 
-2
 Doing Battle
 
- If victory cannot be quickly attained, it is destructive to attempt it.
-
+If victory cannot be quickly attained, it is destructive to attempt it.
 
 This is prolongation, in which one mistakes the intensity of engagement for the path to victory. Although speed in battle can be misapplied, it is difficult for prolongation to bring advantage
 
@@ -394,54 +359,40 @@ Living off the enemy brings one closer to victory.
 This passage is an initial summary of the chapter.
 Victory means taking whole. Battle is costly. When prolonged, it is devastating to all. If battle is necessary, it must be quick.
 
-
-3
 Strategy of Attack
-
 
 one hundred victories” places battle at the center, ignoring the fact that conflict may lead to further conflict
 
 Victory comes from taking whole. It includes both self and other in a single vision.
 
-4
 Form
 
-
 One must wait for the enemy’s vincibility to arise. Skill is knowing that moment.
-
 
 Tao is the way things are, the way things go of their own accord, the natural momentum. Method is ordering human actions in ways that are in accord with Tao. The general assumes this power when he is tuned in to the larger perspective
 
 If one can see the depth and subtlety of measurable things, then victory is not mysterious
 
-5
 Shih
-
 
 Engage people with what they expect. It is what they are able to discern and confirms their projections. It settles them into predictable patterns of response, occupying their minds while you wait for the extraordinary moment—that which they cannot anticipate.
 The orthodox prepares the ground for the possibility of the extraordinary
 
 Cowardice and bravery are two moments of a single cycle. Instead of manipulating one part of the cycle, shape the environment using counting, shih or form, and the quality you seek readily occurs.
 
-
 If your offer is made from the perspective of victory, they choose it as if it were their own idea. This is skill.
 
-
-6
 The Solid and the Empty
-
 
 Because you appear unexpectedly at a vital point, the enemy must rush to meet you
 
 you cannot entirely control where the enemy will attack, but if you know in advance the location of their attack, your defense can be secure.
 
-
 True knowledge of the enemy comes from active contact, which the general initiates and conducts. He provokes them to reveal themselves, assessing the full extent of their reactions and resources.
 
-7
 The Army Contending
 
- He makes the adverse advantageous not by overcoming obstacles but by giving those difficulties to the enemy—making their road circuitous
+He makes the adverse advantageous not by overcoming obstacles but by giving those difficulties to the enemy—making their road circuitous
 
 rushing to seize advantage on another’s ground brings loss of every kind
 
@@ -451,14 +402,10 @@ The day, the seasons, the enemy’s ch’i—all are cycles. The general does no
 
 You order the heart-mind by remaining in the stillness and order that are already present at the center of all chaos and clamor.
 
-
-8
 The Nine Transformations
-
 
 even virtues become vulnerabilities when taken to an extreme
 
-9
 Moving the Army
 
 Some conditions take time to run their course before they are favorable to your movement
@@ -467,8 +414,6 @@ Because all its parts are connected, the environment around the enemy contains i
 
 Thus the importance of maintaining the orthodox, and of noting the enemy’s apparently trivial deviations from it.
 
-
-10
 Forms of the Earth
 
 The earth—or the ground of any situation—offers certain conditions within which battle can take place. One must respect these conditions and follow the actions they dictate. They cannot be manipulated
@@ -479,35 +424,26 @@ he advances yet does not seek fame.
 He retreats yet does not avoid blame.
 He seeks only to preserve the people,
 
-
 nothing can prevent him from proper action, he keeps to victory by taking whole.
-
 
 Knowledge of self and other is vital to the general in every endeavor. Yet it is insufficient without knowledge of the ground, the environment within which battle occurs
 
 The general is clear-minded and inexhaustible
 
-11
 The Nine Grounds
 
-
- build our repertory of understanding, to begin to master all possibilities that may arise
+build our repertory of understanding, to begin to master all possibilities that may arise
 
 Bravery arises from cowardice. Threatened with loss of life, they fight desperately to survive. Placed in the right shih, their natural response unleashes enormous power.
 
-
 If you know the enemy’s purpose, you can find their vital point. Focus your energy there, and strike. Thus you can end the conflict with a single blow, even from a great distance. You need not destroy their goods or people. This is taking whole.
 
-
-12
 Attack by Fire
 
 Fire consumes and devastates. It is a primordial element, immediately directing the enemy’s attention to the most critical factors. Thus its power to abruptly transform a situation is greater than other forms of direct attack.
 
 Employ fire only when events support it and conditions are auspicious.
 
-
-13
 Employing Spies
 
 Each day the army is in the field costs one thousand gold pieces. Yet real knowledge of the enemy can give you victory in a day. Such knowledge can only be obtained through spies
@@ -516,6 +452,4 @@ When the general knows taking whole, deception can be a part of genuineness
 
 The more extreme your action, the more detailed your foreknowledge must be.
 
-
 The general, then, must be able to maintain or cross boundaries without regard to how others see them
-
