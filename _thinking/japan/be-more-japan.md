@@ -6,8 +6,47 @@ added: 2024-10-18
 updated: 2025-01-18
 ---
 
+* Display TOC
+{:toc}
+
+## Places to look up
+
+- Matsuyama. Regional city, more relaxed urban experience. Hilltop castle, trams.
+- Yasgui. Adachi Museum garden.
+- Tono Valley in Iwate
+- Iya Valley in Tokushima Prefecture
+- Yokohama
+- Osaka for directness and outgoingness
+- Nagoya for food
+- Kyoto: Kinkaku-ji Zen temple
+- Kiyomizu-dera Overlooking Kyoto, the 8th-century Kiyomizu-dera is famous for its capacious wooden terrace
+- Nara: Todai-ji The Great Buddha Hall at Todai-ji
+- Byodo-in garden near Kyoto
+- Kanazawa: Kenroku-en stroll garden
+- Okayama: Koraku-en stroll garden
+- Shikoku’s 88 temple pilgrimage
+
+## Notes
+
+- simplicity and the ephemeral nature of life
+- Deliberately embracing imperfection and asymmetry
+- the hallmarks of a wabi-sabi design are that its attraction derives from it being incomplete, imperfect and impermanent
+- shibui (simple and modest beauty) - simplicity, implicity, modesty, naturalness, everydayness, imperfection, and silence
+- six virtues of the ideal garden: spaciousness, serenity, venerability, scenic views, subtle design
+- wa: the importance of the group dynamic, prioritises solidarity of community over individual interests
+- One trend you will notice while in Japan is regionality
+
+### Food-related
+
+- seasonal produce and regional characteristics shape menus
+- Eating - Before itadakimasu, After gochisosama
+- shojin-ryori, a multi-dish form of Buddhist cuisine centred on tofu variations and seasonal vegetables
+- Kaiseki-Ryori A traditional tasting menu
+
+## Initial scribbles
+
 - Sapporo. September food festival.
-- Tono. Traditional countryside life. Magariya (L-shpaed houses)
+- Tono. Traditional countryside life. Magariya (L-shaped houses)
 - Matsuyama. Regional city, more relaxed urban experience.
 - Yaeyama islands.
 
@@ -15,9 +54,6 @@ updated: 2025-01-18
 - Nagoya. Atsuta Jingu shrine.
 - Kyoto. Fushima Inari Taisha shrine.
 - Yasgui. Adachi Museum garden.
-
-* Display TOC
-{:toc}
 
 ## Exported Highlights
 
@@ -122,7 +158,7 @@ country’s varied climates have created distinct local cultures
 - Karesansui or “dry-landscape” gardens are also commonly known as Japanese rock or Zen gardens
 - **Byodo-in near Kyoto, with a pond that represents the Western Ocean**
 - **Kaiyu-shiki or “stroll” gardens are designed for walking**
-- **Kenroku-en This stroll garden in Kanazawa (Ishikawa Prefecture) embodies six virtues of the ideal garden: spaciousness, serenity, venerability, scenic views, subtle design and coolness.**
+- **Kenroku-en This stroll garden in Kanazawa (Ishikawa Prefecture) embodies six virtues of the ideal garden: spaciousness, serenity, venerability, scenic views, subtle design.**
 - **Koraku-en Completed in 1700, this scenic stroll garden in Okayama (Okayama Prefecture) features a path circumnavigating a central pond, which contains three islands that replicate the scenery around Lake Biwa near Kyoto.**
 - Kairaku-en Located in Mito (Ibaraki Prefecture), this garden is famous for its 100 different types of plum trees that explode into blossom in February. It is unique in that it was designed as a public park rather than a private garden.
 
