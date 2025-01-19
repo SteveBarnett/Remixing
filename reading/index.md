@@ -3,7 +3,7 @@ title: Reading
 layout: page
 ---
 
-My ratings: 5 is "Really good"; 4 is "Good"; 3 is "Okay"; 2 is "Bad"; 1 is "Really bad". The rating is imprecise on purpose. Here's a <a href="/reading/five-stars/">list of all the books I've rated five stars</a>.
+Here's a list of <a href="/reading/five-stars/">all the books I've rated five stars</a>. That means "really good"; marked with a ★ below.
 
 <!--
 {%- assign booksthisyear = site.data.books2025.size -%}
@@ -69,11 +69,11 @@ Other: {{ totalOther }}.
 {%- assign previousMonth = currentMonth -%}
 {% endif %}
 
-	<li class="{% if book.my_rating == 5 %} five-star{% endif %}{% if currentMonth != previousMonth %} month-change{%- assign previousMonth = currentMonth -%}{% endif %}">
+	<li class="{% if book.fivestar %} five-star{% endif %}{% if currentMonth != previousMonth %} month-change{%- assign previousMonth = currentMonth -%}{% endif %}">
+		{% if book.fivestar %}★ {% endif %}
 		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>.
 		<span class="genre">{{ book.genre }}</span>.
 		<span class="read">{%- if book.reread -%}(Re)re{%- else -%}Re{%- endif -%}ad {{ book.date_read | date: "%d-%m-%Y" }}.</span>
-		<span class="rating">Rated {{ book.my_rating }}/5</span>.
 		{%- if book.my_notes -%}
 		&nbsp;<a href="{{ book.my_notes }}">My notes<span class="sr-only">on {{ book.title }}</span></a>.
 		{%- endif-%}
