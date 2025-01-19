@@ -1,32 +1,28 @@
 - title: "Be more Japan"
   author: DK Eyewitness Travel
   genre: Travel
-  my_rating: 4
   date_read: 2025/01/19
 - title: "The Art of War: The Denma Translation"
   author: Tzu, Sun
   genre: Philosophy
-  my_rating: 4
   date_read: 2025/01/17
   my_notes: /thinking/the-art-of-war/
 - title: "Discover Japan"
   author: Lonely Planet
   genre: Travel
-  my_rating: 4
   date_read: 2025/01/17
 - title: "Simply Zen: Interiors Gardens"
   author: Scott, David
   genre: Design
-  my_rating: 4
   date_read: 2025/01/14
   my_notes: /thinking/zen/simple-zen-interiors-gardens/
-- title: Pace Layers 02024 Annual Journal
-  author: The Long Now Foundation
-  genre: Nonfiction
-  my_rating: 5
-  date_read: 2025/01/04
 - title: Sitting with Koans
   author: Loori, John Daido
   genre: Zen
-  my_rating: 3
   my_notes: /thinking/zen/sitting-with-koans/
+  date_read: 2025/01/06
+- title: Pace Layers 02024 Annual Journal
+  author: The Long Now Foundation
+  genre: Nonfiction
+  fivestar: true
+  date_read: 2025/01/04
