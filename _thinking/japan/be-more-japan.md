@@ -2,7 +2,7 @@
 layout: page
 title: "Be More Japan: The Art of Japanese Living (DK Eyewitness)"
 japan: true
-added: 2024-10-18
+added:  2025-01-18
 updated: 2025-01-18
 ---
 
