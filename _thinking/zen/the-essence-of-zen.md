@@ -6,6 +6,27 @@ added: 2024-01-20
 updated: 2025-01-20
 ---
 
+## Gathered highlights
+
+- All existence is anicca, impermanent, so the desire for things to stay the same is a source of suffering.
+- Things are constantly changing, there can be no eternal, unchanging Self.
+- Existence is characterised by sunyata, emptiness. This means related to everything else, rather than void.
+- All things are interdependent.
+- The non-duality of samsara and nirvana - the everyday world and the world of enlightenment are not separate.
+- The bodhisattva ideal - wisdom and insight are to be shared for the benefit of all sentient beings.
+- Directing pointing to the mind of humankind.
+... insight and wisdom are lived experiences that cannot be encapsulated in words.
+Satori, momentary flashes of enlightenment, cannot be predicted, let alone forced, but the ground for them by long periods of zazen (and koan) practice.
+- Dogen realised that Buddha-nature is not something we own like a suit, but must be lived from moment to moment, and that meditation is the best way to do this.
+- Spiritual teaching can be misused. A complete religious life also involves rational reflection and the exercise of moral judgement.
+- However many precepts one has vowed to uphold, the ethics of Zen are contextual rather than absolute. The Mahayana tradition calls with upaya, "skilful means".
+- What lies beyond our habitual way of seeing things? What is the essence of things? What is your true nature?
+- "Zen aesthetic" - characterised by simplicity, refinement, spontaneity, and a love of natural forms, textures, and lines.
+- No-mind is also "beginner's mind" or "everyday mind": at the end of their arduous training, the master returns to the innocence and spontaneity of a child - and yet is infused with experience and insight.
+- Develop a simple ritual to end zazen, like a simple gassho (hands together and upright at heart level, short bow forward) or ringing a bell, then get up and get on with other things without mulling over zazen.
+- Humans are part of nature, "plain members of this biotic community", rather than its stewards or overlords.
+- The more we pay attention to the world around us, the less separate we feel from it.
+- There is no essence of Zen. That is the essence of Zen.
 
 ## Raw highlights
 
