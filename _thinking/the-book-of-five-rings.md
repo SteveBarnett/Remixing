@@ -6,6 +6,30 @@ updated: 2025-01-25
 notes: true
 ---
 
+(I ended up not enjoying this so much.I had just read [The Art of War](/thinking/the-art-of-war/), and TAoW's "Taking whole”, and real victory being victory over aggression is much more my style.)
+
+- Make your opponent flinch
+- Act decisively and intuitively
+- Keep pressing the advantafe
+- Avoid excess, in any direction
+- Every situation is workable
+
+## Gathered notes
+
+- “You should investigate this thoroughly”  - use your experience, be self-reliant
+- Consider yourself lightly; consider the world deeply
+- Do not complain or feel bitterly about yourself or others
+- **Learn skills that are useful at many times, for many things**
+- If you do not know others, it is difficult to understand yourself
+- **Going too far is the same as not going far enough**
+- **You cannot ignore rhythm in any of the arts and accomplishments**
+  - Discriminate thoroughly between the rhythm of success and the rhythm of failure
+- **Whether a stance is large or small, it should follow the circumstances and the advantage you wish to take**
+- It is essential to think that anything at all is an opportunity to cut him down (Me: every and any situation is workable)
+- **In the midst of the fight, if you are intent on making your opponent flinch, you will have already obtained the victory**
+- Suppress what your opponent might think of doing even before the first letter of the word could be pronounced
+- It is your primary consideration to not let them recover even a little
+
 ## Raw highlights
 
 Musashi wrote The Book of Five Rings at the end of his life as a guidebook for the disciples he had taught face-to-face
@@ -52,7 +76,7 @@ Within the rhythms of large and small, slow and fast, know the rhythm of contact
 
 your mind should not change in the least, but should be broad and straightforward, neither drawn too tight nor allowed to slacken even a little
 
-There is observation and there is seeing.1 The eye of observation is strong. The eye of seeing is weak
+There is observation and there is seeing. The eye of observation is strong. The eye of seeing is weak
 
 Immobility means a dead hand; mobility means a living hand
 
@@ -70,7 +94,7 @@ Parry your opponents’ rhythm, know where they will crumble, and you will have 
 
 From time to time practice herding your opponents into a group and chasing after them
 
-temper yourself with one thousand days of practice, and refine yourself with ten thousand days of training.
+Temper yourself with one thousand days of practice, and refine yourself with ten thousand days of training.
 
 ### The Fire Chapter
 
@@ -118,4 +142,4 @@ The heart of taking a stance is in waiting for the initiative
 
 ### The Emptiness Chapter
 
-...
+&nbsp;
