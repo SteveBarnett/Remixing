@@ -2,7 +2,7 @@
 layout: page
 title: The Constable
 added: 2024-03-12
-updated: 2024-09-23
+updated: 2025-01-25
 ifs: true
 ---
 
@@ -19,6 +19,10 @@ I'm going to explore this Constable angle a bit more. This character framing is 
 An excellent question that the Constable might ask, short-circuiting the Critic:
 
 > What **would** be good enough? Be specific.
+
+## "I have questions"
+
+The Constable is a big part of what I'm like. I like to ask questions. I like to poke. It's a bit more like sceptical and a bit less like (just) curious.
 
 ## Talk amongst yourselves
 
