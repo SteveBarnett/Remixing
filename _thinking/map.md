@@ -7,16 +7,18 @@ updated: 2025-01-25
 
 The living version of several previous swirls.
 
-An extremely brief summary:
+A brief summary:
 
 - The path is goal. Living a good enough, ordinary, life.
 - My practice is meditation and mindfulness.
-- I use layers as a way of finding concrete things to do. I like using the rule of three, like mind, body, spirit.
+- I use layers as a way of finding concrete things to do. I like using the rule of threes.
 - Reality is one, complex, empty, flow. It's free of concepts, language, characteristics.
 - The infinite causes and conditions of Reality create everything.
 - Our true nature is the (open, empty, luminous) context of consciousness.
 - All matter is swirls of degrees of consciousness.
-- The cosmos is purposeful, patterned, and playful. It's is consciousness as a verb.
+- The cosmos is purposeful, patterned, and playful. It's consciousness as a verb.
+
+---
 
 * Display TOC
 {:toc}
@@ -24,6 +26,10 @@ An extremely brief summary:
 ## Practice
 
 An important part is that this is a stance. [A direction(ional heading), a vector, a posture](/thinking/direction-word-salad/).
+
+- It's like a wide path. I work better with a path, with guidelines, with signposts. But it needs to have flexibility.
+- It's approached iteratively. Subject to constant revision and updates, subject to new understanding and knowledge and feedback. It's tentative.
+- It's contextual, rather than hierarchical. Use the stance, tool, approach that's the best fit, the most appropriate, the most skilful response. There's seldom a right or correct choice, but there are usually better and worse ones.
 
 When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense. A sort of mix of single-tasking and one-pointedness and commitment and focus.
 
@@ -60,7 +66,9 @@ Living a good enough, ordinary, life.
 
 ## Layers
 
-Spheres, area. Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints.
+Spheres, area. Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. 
+
+All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints to get something more truthful.
 
 - Body, Mind, Spirit
 - Personal, Professional, Practice
