@@ -3,8 +3,31 @@ layout: page
 title: The Essence of Zen
 zennotes: true
 added: 2024-01-20
-updated: 2025-01-20
+updated: 2025-01-22
 ---
+
+## Notes
+
+- What lies beyond our habitual way of seeing things? What is the essence of things? What is our true nature?
+- **All things are impermanent**
+    - The desire for things to stay fixed, permanent, is a source of suffering
+    - There can't be a fixed, permanent, self
+- **All things are interdependent**
+    - The more we pay attention to the world, the less separate we feel from it
+    - **Humans are part of nature** rather than its stewards or overlords
+- **The non-duality of samsara and nirvana**
+    - The everyday world and the world of enlightenment are not separate
+- **Insight and wisdom are lived experiences that cannot be encapsulated in words**
+    - Insight and wisdom are to be shared for the benefit of all sentient beings (the bodhisattva ideal)
+- Momentary flashes of enlightenment cannot be predicted, let alone forced
+    - **Practice, zazen, lays the ground for flashes**
+- Dogen realised that **Buddha-nature is something that must be lived moment to moment**
+    - Meditation is the best way to do this
+- **The ethics of Zen are contextual rather than absolute**
+- Spiritual teaching can be misused
+    - A complete religious life also involves rational reflection and the exercise of moral judgement
+- “Zen aesthetic”: simplicity, refinement, spontaneity, naturalness
+- Beginner’s mind or everyday mind: innocence and spontaneity, but/and infused with experience and insight
 
 ## Gathered highlights
 
