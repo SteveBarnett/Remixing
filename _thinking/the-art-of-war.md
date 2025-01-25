@@ -2,11 +2,41 @@
 layout: page
 title: 
 added: 2025-01-17
-updated: 2025-01-17
+updated: 2025-01-22
 notes: true
 ---
 
-
+- Conflict is an integral part of human life, but/and **aggression leads to destruction, brings devastation to all parties.** **Work with conflict in ways that are kindly and effective.**
+    - **True victory is victory over aggression, a victory that respects the enemy’s basic humanity and thus renders further conflict unnecessary**
+        - **Superior and inferior desiring the same is victory**
+        - Open to a bigger mind, beyond petty concerns, beyond self-importance
+    - **Wisdom and knowledge emerge in the moment**, rather then from a fixed position or identity, or using a particular form
+- Skillful action emerges only from knowledge of all the details that go to make up the situation
+    - If we take advantage of certain qualities of the environment, our power greatly increases
+    - For the Sun Tzu, the key to skillful action is in knowing those things that make up the environment and then arranging them so that their power becomes available
+    - **It is not necessary to change the nature of things in order to come to victory.**
+- Create momentum and bring about the tipping point to achieve success
+- Preserve possibilities: keep the options open and include the welfare of the other
+    - create openness for the consideration of whatever arises
+- **"Taking whole" means conquering in a way that keeps as much intact as possible**. Both our own resources and those of our opponent.
+- The military is a Tao of deception
+- **We have to know the harms of an action to know the advantage of an action**
+- **The military values victory. It does not value prolonging.**
+- Subduing the other’s military without battle is the most skillful
+- Knowing the other and knowing oneself, In one hundred battles no danger. Not knowing the other and knowing oneself, One victory for one loss. Not knowing the other and not knowing oneself, In every battle certain defeat.
+- **Use the orthodox to engage. Use the extraordinary to attain victory.**
+- How one can make the enemy arrive of their own accord—offer them advantage.
+- To attack and surely take it, attack where they do not defend. ... To advance so that one cannot be resisted, charge against the empty.
+- The world consists of flows of forces or movements of energy, not solid things
+    - We are not “objects”; we’re in a process of trajectory through space and time, always reacting with others
+    - we are not a thing in and of ourselves; we have qualities like height or bravery only in contrast with other things
+- Allowing a chaotic situation to develop demands courage, for it often means that in the short term things will get worse rather than better
+- Addressing a problem as it is presented often reinforces the fixation that initially gave rise to it. The sage commander focuses on the bigger perspective that holds the key to both the problem and the solution.
+- The sage commander responds to aggression by creating space, which relaxes the situation and paradoxically brings it more under their control
+- The sage commander attains victory when the enemy can see no other alternative and chooses what they has offered
+- In place of the categories “being, permanence and uniformity,” there is only “becoming, change and newness.”
+- Make the adverse advantageous by giving difficulties to the enemy, making their road circuitous, not by overcoming obstacles yourself
+- Because all its parts are connected, the environment around the enemy contains invaluable messages of their activity
 
 ## Raw highlights
 
@@ -299,7 +329,7 @@ The sage commander holds no fixed position or identity. Thus he is free to be wh
 Victory
 
 the general who is not victorious over his anger brings destruction to his own troops as well as to the enemy.
-Aggression gives the enemy something against which to fight. This
+Aggression gives the enemy something against which to fight.
 
 The sage commander responds to aggression by creating space, which relaxes the situation and paradoxically brings it more under his control. It’s like controlling a bull by giving him a very large pasture.
 
@@ -342,7 +372,7 @@ Commentary
 
 Appraisals
 
-shih,” the power inherent in a situation.
+shih, the power inherent in a situation.
 
 Through comparisons, we learn where relative advantage lies. We can thus act to bring about a favorable disposition or shih
 
@@ -361,7 +391,7 @@ Victory means taking whole. Battle is costly. When prolonged, it is devastating 
 
 Strategy of Attack
 
-one hundred victories” places battle at the center, ignoring the fact that conflict may lead to further conflict
+one hundred victories places battle at the center, ignoring the fact that conflict may lead to further conflict
 
 Victory comes from taking whole. It includes both self and other in a single vision.
 
