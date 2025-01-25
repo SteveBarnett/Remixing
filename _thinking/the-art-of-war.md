@@ -6,6 +6,22 @@ updated: 2025-01-22
 notes: true
 ---
 
+## Notes (broad!)
+
+- "Taking whole". Winning in a way that keeps as much intact as possible for everyone.
+    - Work with conflict in ways that are kindly and effective
+- Use the orthodox to engage. Use the extraordinary to attain victory
+- It's not necessary to change the nature of things in attain victory
+- Wisdom and knowledge emerge in the moment
+
+### True victory
+
+- Victory over aggression. Aggression leads to destruction, brings devastation to all parties
+- Making further conflict unnecessary, by respecting the enemy’s basic humanity
+- Superior and inferior desiring the same
+
+## Gathered notes
+
 - Conflict is an integral part of human life, but/and **aggression leads to destruction, brings devastation to all parties.** **Work with conflict in ways that are kindly and effective.**
     - **True victory is victory over aggression, a victory that respects the enemy’s basic humanity and thus renders further conflict unnecessary**
         - **Superior and inferior desiring the same is victory**
