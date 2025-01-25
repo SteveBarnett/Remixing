@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2025-01-01
+updated: 2025-01-25
 ---
 
 The living version of several previous swirls.
@@ -74,6 +74,7 @@ Spheres, area. Distinctions, not division. Useful ways of getting a handle on th
     - outer to inner
     - noise, sounds, silence
     - thoughts, thoughts as illusion, before thought
+- Progressive path, direct path, pathless path
 
 "(You are) the ocean, not the waves" is a perhaps a bit cheesy and overused now. But it is also very good and accurate and fruitful. So I'm using that here as: ride the waves, calm the waves, be the waves.
 
@@ -146,6 +147,7 @@ The nature of Reality, Consciousness, the cosmos.
     - There are distinctions, but not divisions.
         - A network of interdependence and mutual support.
         - Most things exist on a spectrum, not as a binary.
+        - Things manifest as opposites, usually asymmetrical.
     - All forms are relational.
     - Things that are separate can't influence and act on each other.
     - The unity of Absolute and Relative, of emptiness and form.
