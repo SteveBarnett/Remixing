@@ -54,3 +54,7 @@ Related: often people who have been through big struggles and survived (for exam
 - Part of this is the human story-making brain, finding a way to survive something deeply painful and traumatic.
 - Part of it is that this is what a fully-lived human life is like. One without any ups and downs would be flat, lifeless, meaningless.
 - Part of it is that this big gap, taking a big hit, is what promotes growth.
+
+Big struggle events can also increase the sense of meaning and connection and other positive feelings. Other intense experiences, often dangerous, can often have the same effect. There is a casual link between the positive feelings and the intensive, often struggle, event. And, the heightened senses and emotions make the positive things more intense.
+
+However, I think it's a mistake to assume that the best way to get those positive feelings again is a repeat of the initial experience. For example, a war reporter may find their appreciation and gratitude for life and the people around that much increased after coming home from the war zone. That does not mean that going back a war zone is the best way to get those feelings again. Additionally, habituation will have an impact in lessening both sides.
