@@ -11,7 +11,7 @@ notes: true
 - "Taking whole". Winning in a way that keeps as much intact as possible for everyone.
     - Work with conflict in ways that are kindly and effective
 - Use the orthodox to engage. Use the extraordinary to attain victory
-- It's not necessary to change the nature of things in attain victory
+- It's not necessary to change the nature of things to attain victory
 - Wisdom and knowledge emerge in the moment
 
 ### True victory
