@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2025-01-25
+updated: 2025-01-26
 ---
 
 The living version of several previous swirls.
@@ -68,7 +68,7 @@ Living a good enough, ordinary, life.
 
 Spheres, area. Distinctions, not division. Useful ways of getting a handle on things, not actually separate things. 
 
-All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints to get something more truthful.
+All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints to get something more truthful, because it's a more complete picture.
 
 - Body, Mind, Spirit
 - Personal, Professional, Practice
