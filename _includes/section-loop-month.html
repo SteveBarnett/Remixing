@@ -1,0 +1,16 @@
+{%- assign sectionposts = site.thinking | where: include.section, "true" | sort: "updated" | reverse -%}
+
+<ul>
+{%- for sectionpost in sectionposts -%}
+
+{%- assign currentsectionpostyear = sectionpost.updated | date: "%Y" | plus: 0 -%}
+{%- assign currentsectionpostmonth = sectionpost.updated | date: "%m" | plus: 0 -%}
+
+{% if currentsectionpostyear == page.year and currentsectionpostmonth == page.month %}
+<li data-month="{{ sectionpost.updated | date: "%m" }}">
+  {% if sectionpost.done == true %}✔ {% endif %}<a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
+</li>
+{% endif %}
+
+{%- endfor -%}
+</ul>
