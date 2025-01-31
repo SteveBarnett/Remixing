@@ -518,6 +518,10 @@ summary:focus {
   content: ".";
 }
 
+h1:empty {
+  display: none;
+}
+
 h2:has(+ ul:empty), h2:has(+ ol:empty),
 h3:has(+ ul:empty), h3:has(+ ol:empty)  {
   display: none;
