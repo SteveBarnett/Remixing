@@ -13,23 +13,25 @@ Style and substance.
 - whittler, smoother
 - research, remix, replay
 - poker, constable
-- empiricist, scientist
+- empiricist, **scientist**, experimenter, tinkerer, tester, validator
 - 2nd order thinker, helping people so that they can help people, **indirect**
-- student, **nerd**, academic, **learner**
+- student, **nerd**, academic, **learner**, **researcher**
 - pragmatic, practical
 - being a human search engine that's connected the dots
 - pattern-matcher
 - framework builder
 - attentive, small detail noticer
 - sensitive
-- asking questions, guiding, advising
+- asking questions, guiding, advising, reflecting
 - widener, broadener, contextualiser, integrator
 - being the opposite
 - **explorer**
 - map-maker, **guidebook writer**, note-leaver, field guider (from the desk, guy in the chair), signpost-maker
-- examiner, socratic questioner
+- examiner, socratic questioner, sceptic
 - **organiser**, sorter, filterer, **tidier**, categoriser
 - **clarifier**, focuser
+- bringing it back to the human
+- janitor, quartermaster
 
 ## Some digging from Socrates and friends
 
