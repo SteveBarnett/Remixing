@@ -24,58 +24,33 @@
 
 <h2 id="thinking">Thinking</h2>
 
-<h3 id="collections">Collections</h3>
+<h3 id="zen" tabindex="-1">Zen</h3>
+{% include section-loop-month.html section="zen" %}
 
-<ol>
-{%- assign thinkingposts = site.thinking | sort: "updated" | reverse -%}
-{%- assign currentThinkingCount = 0 -%}
+<h3 id="zen-notes" tabindex="-1">Zen notes</h3>
+{% include section-loop-month.html section="zennotes" %}
 
-{% for thinkingpost in thinkingposts %}
-    {% unless thinkingpost.longerform %}
+<h3 id="longer-form" tabindex="-1">Longer form</h3>
+{% include section-loop-month.html section="longerform" %}
 
-    {%- assign thinkingPostYear = thinkingpost.updated | date: "%Y" | plus: 0 -%}
-    {%- assign thinkingPostMonth = thinkingpost.updated | date: "%m" | plus: 0 -%}
+<h3 id="notes" tabindex="-1">Notes from books, articles, talks</h3>
+{% include section-loop-month.html section="notes" %}
 
-    {%- if currentYear == thinkingPostYear and currentMonth == thinkingPostMonth -%}
-        <li>
-            <a href="{{ thinkingpost.url }}">{{ thinkingpost.title }}</a>
-            (added {{ thinkingpost.added }}{% if thinkingpost.updated != thinkingpost.added %}, updated {{ thinkingpost.updated }}{% endif %})
-        </li>
+<h3 id="buddhism" tabindex="-1">Buddhism</h3>
+{% include section-loop-month.html section="buddhism" %}
 
-    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
+<h3 id="omb" tabindex="-1">OMB</h3>
+{% include section-loop-month.html section="omb" %}
 
-    {% endif %}
+<h3 id="ifs" tabindex="-1">IFS-ish</h3>
+{% include section-loop-month.html section="ifs" %}
 
-    {% endunless %}
-{% endfor %}
-</ol>
-
-<h3 id="longer-form">Longer form</h3>
-
-<ol>
-{%- assign longerformposts = site.thinking | where: "longerform", "true" | sort: "updated" | reverse -%}
-
-{% for longerformpost in longerformposts %}
-
-    {%- assign longerFormPostYear = longerformpost.updated | date: "%Y" | plus: 0 -%}
-    {%- assign longerFormPostMonth = longerformpost.updated | date: "%m" | plus: 0 -%}
-
-    {%- if currentYear == longerFormPostYear and currentMonth == longerFormPostMonth -%}
-
-    <li>
-        <a href="{{ longerformpost.url }}">{{ longerformpost.title }}</a>
-        (added {{ longerformpost.added }}{% if longerformpost.updated !=  longerformpost.added %}, updated {{ longerformpost.updated }}{% endif %})
-    </li>
-
-    {%- assign currentThinkingCount = currentThinkingCount | plus: 1 -%}
-
-    {% endif %}
-{% endfor %}
-</ol>
+<h3 id="collections" tabindex="-1">Collections</h3>
+{% include section-loop-month.html section="sbcollection" %}
 
 <h3 id="posts">Posts</h3>
 
-<ol>
+<ol reversed>
 {%- assign recentposts = site.posts | where: "categories", "thinking"  -%}
 {%- assign reversedRecentPosts = recentposts | reverse -%}
 
