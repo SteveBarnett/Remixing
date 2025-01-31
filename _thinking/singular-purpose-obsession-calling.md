@@ -2,7 +2,7 @@
 layout: page
 title: "Singular purpose / obsession / calling"
 added: 2025-01-30
-updated: 2025-01-30
+updated: 2025-02-01
 longerform: true
 ---
 
@@ -28,6 +28,8 @@ Style and substance.
 - **explorer**
 - map-maker, **guidebook writer**, note-leaver, field guider (from the desk, guy in the chair), signpost-maker
 - examiner, socratic questioner
+- **organiser**, sorter, filterer, **tidier**, categoriser
+- **clarifier**, focuser
 
 ## Some digging from Socrates and friends
 
