@@ -2,7 +2,7 @@
 layout: page
 title: Strugferring
 added: 2025-01-26
-updated: 2025-01-26
+updated: 2025-02-01
 longerform: true
 ---
 
@@ -12,7 +12,9 @@ longerform: true
 
 (Strugferring = Struggling + Suffering. Pronounce with a wet g for most humorous effect.)
 
-Suffering and struggle go together in a human life to create meaning and growth. Something like that.
+Suffering and struggle go together in a human life to create meaning and growth.
+
+Suffering and happiness exist together. We can transform our suffering into understanding, compassion, and joy for ourselves and for others.
 
 - Impermance. Reality is in constant motion. Things change.
 - This creates dukkha, suffering, dissatisfaction, uneasiness. We move to rebalance, restabilising, settle.
@@ -37,6 +39,8 @@ Although "suffering" is the most common translation of *dukkha*, other ones incl
 
 The book "Why Buddhism Is True" talks about this from a Natural Selection angle. Natural Selection's "design goals" are to focus first on goals bringing pleasure, and that pleasure shouldn't last forever.
 
+In "No Mud, No Lotus" Thich Nhat Hanh says that suffering and happiness are not separate. Where there is no suffering, there can be no happiness, and vice versa.
+
 ## Struggle
 
 Growth requires energy. Any gap between a current state and a desired state requires change, action. That often involves some kind of struggle.
@@ -44,6 +48,8 @@ Growth requires energy. Any gap between a current state and a desired state requ
 Hunger requires eating. There's a built-in system in animals (and plants) that tilts us towards acquiring more energy to keep going.
 
 Muscles need resistance to grow. The weight, the resistance, need to be "a bit too much" so that some effort and strain is involved. That's what sends the signals to the body to promote new growth.
+
+"No Mud, No Lotus" Thich Nhat Hanh: we can transform our suffering into understanding, compassion, and joy for ourselves and for others.
 
 Learning happens when we have to exert effort to acquire new knowledge and skills. I contracted at a really great place that did maths practice exercises. One of the key features of the product was the dynamic difficulty. The key was that success rate for the student shouldn't be 100%. (I think the sweet spot was something like 2/3 or 4/5 success.) The gap created energy, impetus. Related: as schools of thought like Taoism or Stoicism say: avoid excess, practice moderation.
 
