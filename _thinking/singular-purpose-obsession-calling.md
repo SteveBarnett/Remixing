@@ -6,7 +6,17 @@ updated: 2025-02-01
 longerform: true
 ---
 
-Style and substance.
+Thinking about style and substance, but more interested in what kind of hat it is than the colour, material, and so on.
+
+### Questions to tease out the hat
+
+- What do I do with good friends?
+- What do I do here and on the work site?
+- What do I do at work?
+
+## Bullet hell
+
+There are lots of hats here. What I'd like to find is root one. The one that others are flavours of, remixes of, styles of.
 
 - support, **maintenance**, **upkeep**, admin
 - untangle knots, dissolver
@@ -17,7 +27,7 @@ Style and substance.
 - 2nd order thinker, helping people so that they can help people, **indirect**
 - student, **nerd**, academic, **learner**, **researcher**
 - pragmatic, practical
-- being a human search engine that's connected the dots
+- being a human search engine that's **connected** the dots
 - pattern-matcher
 - framework builder
 - attentive, small detail noticer
@@ -25,13 +35,14 @@ Style and substance.
 - asking questions, guiding, advising, reflecting
 - widener, broadener, contextualiser, integrator
 - being the opposite
-- **explorer**
+- **explorer**, **ranger**
 - map-maker, **guidebook writer**, note-leaver, field guider (from the desk, guy in the chair), signpost-maker
 - examiner, socratic questioner, sceptic
 - **organiser**, sorter, filterer, **tidier**, categoriser
 - **clarifier**, focuser
 - bringing it back to the human
 - janitor, quartermaster
+- editor, refiner, iterator
 
 ## Some digging from Socrates and friends
 
