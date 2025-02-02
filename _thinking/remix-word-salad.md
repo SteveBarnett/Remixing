@@ -2,11 +2,14 @@
 layout: page
 title: Remix word salad
 added: 2025-02-02
-updated: 2025-02-02
+updated: 2025-02-03
 longerform: true
 ---
 
-The way I tend to remix things is through iterative highlighting and summarising from several sources. The summary is personal, temporal, contextual, interpretative. The summary is intended to be signposts, reminders, a [map](/thinking/map/).
+The way I tend to remix things is through iterative highlighting and summarising from several sources.
+
+- The summary is personal, temporal, contextual, interpretative. It's not intended to be an objective, true, accurate representation of the sources.
+- The summary is intended to be signposts, reminders, a [map](/thinking/map/). It's not intended to be a complete, exhaustive, full representation of the sources.
 
 A rework, remaster, remake, revamp. A transformation, transmutation, modification, adapation.
 
