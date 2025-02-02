@@ -18,3 +18,5 @@ A bit like: this is "my thing." My way of doing this that's a maybe a bit differ
     - This helps the idea(s) stick.
 
 With waiting gaps in-between to allow some stewing, incubation.
+
+See also: [Remix word salad](/thinking/remix-word-salad/).
