@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My pattern / skillset
+title: "My pattern / skillset: research, remix, replay"
 longerform: true
 added: 2023-04-24
 updated: 2024-07-28
