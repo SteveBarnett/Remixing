@@ -6,7 +6,41 @@ updated: 2025-02-03
 zennotes: true
 ---
 
-Gathering notes.
+- Pain is part of life.
+    - It's not separate, an enemy, or a failure.
+    - It's a salience signal. It helps us respond quickly and appropriately.
+    - We can't make it go before it's ready to.
+- For most of us, death will be long and slow. An unravelling, decay, and disintegration.
+- Contracting, tightening, around the sense of self only increases our suffering.
+- Waking up is a release from the need to die a good death.
+
+## Gathered notes
+
+- Death is a long, slow, unravelling. A distortion of who we were.
+    - We are most likely to die in a coma or under heavy sedation.
+    - We will likely have very little control over how we die. How we have lived is more important.
+- Meditation, awareness practice, can make the long death more manageable and endurable.
+- Contracting around the sense of self increase our suffering.
+- Waking up is a release from the fear of disintegration, imperfection, death.
+- Few of us are likely to enjoy the privilege of the “good death”.
+- "Enlightenment is not dying a good death. Enlightenment is not needing to die a good death" – Katagiri Roshi 
+- Pain is an important and necessary part of life.
+    - Some pain is a salience signal, to help us respond quickly and appropriately. 
+    - It's not an enemy, a disorder, a mistake.
+- Become familiar with, listen to, the messages pain sends us.
+- We can't make it go away before it's ready to.
+    - The way to deal with it isn't to ignore it, or get past it.
+    - We can’t practice with pain in order to get rid of pain.
+    - Let go of your desire to be free of the pain.
+- Pain is not other, it's not separate.
+- Pain is not the same thing as suffering.
+- Give everything a warm welcome.
+
+## [Notes from "Death: The End of Self-Improvement" by Joan Tollifson](/thinking/notes-from-death-the-end-of-self-improvement-by-joan-tollifson/)
+
+- Waking up is a release from the fear of disintegration, imperfection, death.
+- "Enlightenment is not dying a good death. Enlightenment is not needing to die a good death" – Katagiri Roshi
+- Death is a long, slow process. Everything unravels.
 
 ## [Understanding a Good Death - Zen Buddhism and the End of Life](https://zen-and-end-of-life.org/meditation/)
 
