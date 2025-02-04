@@ -2,17 +2,19 @@
 layout: page
 title: Cooking in Buddhism
 added: 2025-02-04
-updated: 2025-02-04
+updated: 2025-02-05
 zennotes: true
 ---
 
-- fostering a sense of gratitude by deeply recognizing the life source of ingredients
-- fostering a sense of empathy by deeply recognizing the lives of the people who are eating
-- fostering a sense of gratitude by deeply recognizing the life source of ingredients
-- fostering a sense of gratitude by deeply recognizing the lives of the people who cook
-- fostering a sense of empathy by deeply recognizing the lives of the people eating together
+Fostering a sense of gratitude and empathy by deeply recognising
 
-we repeat cooking and eating everyday, and those activities can become so trivial to us. That is why only a few people pay close attention to the true meaning of preparing meals and eating. However, the activity of eating, which is crucial for living, has a serious meaning -- that we receive the lives of animals and plants.
+- the life source of ingredients
+- the lives of the people who are eating
+- the life source of ingredients
+- the lives of the people who cook
+- the lives of the people eating together
+
+We repeat cooking and eating everyday, and those activities can become so trivial to us. That is why only a few people pay close attention to the true meaning of preparing meals and eating. However, the activity of eating, which is crucial for living, has a serious meaning -- that we receive the lives of animals and plants.
 
 ## The Verse of Five Contemplations
 
