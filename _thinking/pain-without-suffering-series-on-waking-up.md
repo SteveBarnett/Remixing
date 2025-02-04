@@ -19,3 +19,8 @@ notes: true
     - The experience, before the story
 - See thoughts as passing events, not tyrants or bullies
 - Let experience be like water flowing through a river, not like a rock in a river.
+- Sometimes it's not just one second arrow, but many, multiple
+- Resisting, resenting, tightening causes suffering
+- We **can't** avoid the first arrow.
+- Suffering from resisting? Open, soften, yield, go closer
+- Suffering from feeling overwhelmed? Broaden your attention.
