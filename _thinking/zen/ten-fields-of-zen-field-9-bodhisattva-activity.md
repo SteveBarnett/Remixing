@@ -2,11 +2,25 @@
 layout: page
 title: Ten Fields of Zen, Field 9 – Bodhisattva Activity
 added: 2025-02-04
-updated: 2025-02-05
+updated: 2025-02-06
 zennotes: true
 ---
 
 From [Ten Fields of Zen, Field 9 – Bodhisattva Activity: Enacting Vows to Benefit All Beings](https://zenstudiespodcast.com/bodhisattva-activity-ten-fields/)
+
+## Gathered notes
+
+- **The impossibility of the Bodhisattva vow gives it power: a never-ending orientation for your life.**
+- Never settle on "good enough", **keep expanding your ability to be of benefit.**
+- You're always being challenged, so you become more effective, more creative, more flexible.
+- Keep moving toward the truth.
+- Bear Witness. **Tolerate the discomfort of witnessing without being able to do anything tangible to help.**
+    - Being heard helps you feel less alone.
+- Take Care of yourself so you can better serve others.
+- Keep working on your Realization of Emptiness / boundarylessness.
+- The whole benefits from natural, compassionate, responses.
+
+## Exported highlights
 
 A Bodhisattva is someone who considers their own spiritual awakening as inseparable from that of other beings.
 
@@ -38,6 +52,6 @@ The more subtle or profound way to make your Bodhisattva Activity sustainable is
 
 Why, though, does a Bodhisattva care so much about the welfare of beings if they see them as temporary manifestations like waves in the ocean? Because true compassion doesn’t work the way we usually think it does. 
 
-The boundless compassion of a Bodhisattva, however, is described in Buddhism as being like a hand reaching for a pillow in the night.[vii] Think of yourself lying asleep. Your body is experiencing some discomfort. Would you say that, out of compassion, your mind decides you need your pillow, even though you’re unconscious? And then, out of compassion, your arm sacrifices some of its own comfort to reach for the pillow on behalf of your head and shoulders? Should your head and shoulders feel grateful to your arm? Should your arm feel virtuous? Of course not – any sacrifice or benefit is ultimately experienced by your whole body. It doesn’t make any sense to differentiate parts of your body, as if one part is doing another part a favor. Although there is benefit, it is the result of a natural response.
+The boundless compassion of a Bodhisattva, however, is described in Buddhism as being like a hand reaching for a pillow in the night. Think of yourself lying asleep. Your body is experiencing some discomfort. Would you say that, out of compassion, your mind decides you need your pillow, even though you’re unconscious? And then, out of compassion, your arm sacrifices some of its own comfort to reach for the pillow on behalf of your head and shoulders? Should your head and shoulders feel grateful to your arm? Should your arm feel virtuous? Of course not – any sacrifice or benefit is ultimately experienced by your whole body. It doesn’t make any sense to differentiate parts of your body, as if one part is doing another part a favor. Although there is benefit, it is the result of a natural response.
 
 Anything you have to contribute does not originate with you but is the result of an infinite number of supportive causes and conditions. 
