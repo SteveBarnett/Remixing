@@ -2,7 +2,7 @@
 layout: page
 title: 'Notes from "Intelligence in the Age of Mechanical Reproduction"'
 added: 2025-02-04
-updated: 2025-02-04
+updated: 2025-02-05
 notes: true
 ---
 
@@ -10,7 +10,19 @@ From [Intelligence in the Age of Mechanical Reproduction by Charles Eisenstein](
 
 ## Gathered notes
 
-...
+- When we outsource physical or cognitive functions, that function can atrophy in ourself
+- The convergence of recording technology with generative technology requires that we know and trust the source
+- The commodity-based object is detached from its origins and stripped of its uniqueness
+- When machines do the work for us we risk succumbing to a passive conditioned helplessness disconnected from our creative authorship
+- The orthodoxy and homogenization of cognitive output of a human brain on autopilot and generative AI is uncanny
+- (AI-generated) summaries (of video meetings) don't include many contextual details that change the embodied experience: speech speed and tone, building on or tearing down, facial expressions and body language
+- Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don't fit the model.
+- AI draws on the database of all recorded human knowledge. Only information that can be and has been recorded.
+- AI entrenches certain orthodoxies, erodes our own resistance to the unorthodox.
+- AI text generation tends to produce "the Wikipedia version of reality" - rational discourse of the educated classes of society
+- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
+- As with AI, orthodoxies filter out and distort the very information that would overthrow them
+- It is the latest iteration of the original alignment problem of symbolic culture that every society has grappled with. AI merely brings to it a new level of urgency.
 
 ## Exported highlights
 
