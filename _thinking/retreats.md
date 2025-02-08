@@ -3,7 +3,7 @@ layout: page
 title: Retreats
 buddhism: true
 added: 2024-03-31
-updated: 2024-11-24
+updated: 2025-02-09
 ---
 
 * Display TOC
@@ -33,6 +33,43 @@ Supportive, not prescriptive.
 - afternoon tea
 - 30m sit
 - **silence ends**
+
+### OMB programme: experimental midday debrief
+
+- welcome, introduction
+- **silence begins**, 20m guided sit, 20m guided walk, 30m sit
+- morning tea
+- 30m sit, 20m walk, *20m sit*
+- *20m walk, or 20m "formal" debrief*
+- *40m lunch*
+- 30m sit, 20m walk, 30m sit
+- afternoon tea
+- 30m sit
+- **silence ends**
+- debrief
+
+(For the Summer 2025 retreat, I'm guided [the first sit](#guided-sit-notes) and the first [walk](/thinking/walking-meditation/))
+
+#### Guided sit notes
+
+If you'd like some guidance, we'll offer some. If you'd don't want guidance, treat the sound of my voice as one of the many sounds you can hear, without focusing on the words.
+
+- Settle into posture, adjust mindfully
+- Few deep breaths
+- After 5m, prompt to let go, soften, relax
+- After another 10m, prompt yo let go, soften, relax
+- Last 2 or 3m: begin again
+
+Some scattered notes:
+
+- Settle into a comfortable posture. So you feel stable and solid.
+- Take a few deeper breaths. Then let your breath settle back into its natural rhythm.
+- Notice where your body is making contact with the chair or the mat.
+- Now bring your attention to your anchor. That might be your breath, or part of your body, or sounds.
+- Pay close attention to your anchor. Notice everything you can about it.
+- When something pulls you away, just notice it. There’s no need for judgement or evaluation.
+	- See if you can let whatever is there be there. No need to try and push it away. Just see if you can soften around it.
+- Then, gently come back to your anchor.
 
 ### Waking Up programme
 
