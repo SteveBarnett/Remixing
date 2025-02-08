@@ -6,7 +6,48 @@ added: 2025-02-08
 updated: 2025-02-08
 ---
 
-For the first walking meditation of the retreat, we'll do some light guidance inside. You're welcome to go outside instead, or to stay inside and just use the sound of my voice as another object of meditation.
+* Display TOC
+{:toc}
+
+## Instructions
+
+For the first 20m walking meditation of the retreat, we'll do some light guidance inside. You're welcome to go outside instead, or to stay inside and just use the sound of my voice as another object of meditation.
+
+### Short notes
+
+- Pick a spot
+- Walk very slowly
+- Body: weight, torso, arms
+- After 2m - legs: lifting, moving, placing
+- After another 2m - feet: heel, middle, ball, toes
+- After another 2m next turn around: pause, breath, first few steps
+- After another 5m - lost in thought: put the thought down, let it go, notice your the lifting, moving, placing
+- Final minutes: very close attention on your feet
+
+### Long notes
+
+- Pick a spot to practice. Just a few metres of clear ground, 10 steps or so
+    - Where can you walk as slowly as you like back and forth
+- Notice the sensations of lifting, moving, placing your foot
+    - If you find labels useful while meditating, you might like to use “lifting, moving, placing” for walking
+- Feel each part of your foot as you place it down gently
+    - The heel, the middle, the ball, the toes
+- Pay attention to the sensations in your body
+    - The bottoms of your feet touching the floor
+    - The weight of your feet on the floor
+    - Your legs holding you up
+    - The muscles of your body moving and tensing and relaxing
+- Notice how the sensations in your body are constantly changing
+    - Notice how your body shifts, how your weight shifts, even before you lift your foot
+- When you turn around, you might like to pause for a moment
+    - Take a few deep breaths
+    - Then pay extra attention to the first few steps
+- When you notice you've been lost in thought, come back to the feeling of walking
+    - Put the thought down, let it go, relax into the sensations without the story
+    - The lifting, moving, placing, of each foot
+    - The temperature, tingling, pressure, movement, air on your skin, weight shifting
+- In the final minutes of the session, focus very closely on the sensations in your feet
+    - See if you can notice everything there is to notice
 
 ## Raw notes
 
@@ -30,7 +71,7 @@ Some scribbled notes from walking sessions on the Waking Up app.
     - pay extra attention to the first step. like it's the first step.
 - When you notice that your mind has wandered, you've been lost in thought: no problem. Just begin again
 - Notice how your body shifts, how your weight shifts, even before you lift your foot
-- Notice how your experience never starts changing
+- Notice how your experience never stops changing
 
 ### [Walking Meditation - Sam Harris](https://dynamic.wakingup.com/course/CO566AA21?code=SC541514D&share_id=E579D643&source=content%20share) and [Walking Meditation from Retreat - Sam Harris](https://dynamic.wakingup.com/course/C1C0E1?code=SC541514D&share_id=339F09F7&source=content%20share)
 
