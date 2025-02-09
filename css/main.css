@@ -213,7 +213,7 @@ strong:target:before, span:target:before {
   margin-right: 0.25em;
 }
 
-div, h1, h2, h3 {
+div, h1, h2, h3, strong, span {
   scroll-margin-top: 1rem; 
 }
 
