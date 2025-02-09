@@ -2,11 +2,13 @@
 layout: page
 title: Pain Without Suffering series on Waking Up
 added: 2025-02-01
-updated: 2025-02-01
+updated: 2025-02-09
 notes: true
 ---
 
 (In progress)
+
+## Raw notes
 
 - There is no "If I do X" that will fix it
     - (This reminds me of [the wisdom of no escape](/notes/zen/pema chodron - the wisdom of no escape.jpg) and of Koans: an unresolvable thing)
@@ -24,3 +26,7 @@ notes: true
 - We **can't** avoid the first arrow.
 - Suffering from resisting? Open, soften, yield, go closer
 - Suffering from feeling overwhelmed? Broaden your attention.
+- The first step is to soften your aversion to pain
+- Numbing to pain also numbs us to pleasure
+- Resisting pain (instead of accepting it) makes us resist pleasure, makes it more difficult to accept pleasure
+- Pain can trap us in our threat response mode of flight, flight, freeze
