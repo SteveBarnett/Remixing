@@ -8,6 +8,10 @@ longerform: true
 
 Some recent reading and listening are (re)bringing home to me the importance of acceptance. In particular, **the importance of accepting pain** (at the time of writing for me, painful situation(s)). For me, non-acceptance usually takes the form of [avoidance](/thinking/the-avoidance-alarm/).
 
+It can be very difficult to embody the opposite before truly accepting the painful side of the coin. And it can be very difficult to notice being the context of consciousness without holding this and not-this.
+
+(I say re-bringing because it's come up before in Stoicism and CBT / Acceptance and commitment therapy. This current angle on it feels like an extension of that.)
+
 ## Sensitivity dial
 
 An idea I picked up from somewhere in my Daoist reading (possibly an Alan Watts book) is that as humans we only have one sensitivity dial. We can make ourselves less sensitive to pain, but that means less sensitive to pleasure too. If we let ourselves feel the pleasurable things in life more intensely, we'll also feel the painful things more intensely.
