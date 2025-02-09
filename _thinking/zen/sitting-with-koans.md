@@ -15,7 +15,7 @@ A koan is a "case record" or “public notice”.
     - “Does a dog have Buddha-nature?” What is involved is not a matter of “has” or “has not.” Either answer would be absurd.
 - We are not separate from the world, just like bubbles on a the surface of the ocean are not separate from the ocean.
 - Zen frees us to make free and lively use of ethics and common sense rather than be constrained and limited by them. We can push past the habits and patterns of what we think works for our lives.
-- The leap from the hundred-foot-pole (from the conditioned to the unconditioned) is immediate, sudden. But it takes time to build up the courage to jump.
+- <span id="direct-and-gradual">The leap from the hundred-foot-pole (from the conditioned to the unconditioned) is immediate, sudden. But it takes time to build up the courage to jump</span>.
 
 ## Gathered notes
 

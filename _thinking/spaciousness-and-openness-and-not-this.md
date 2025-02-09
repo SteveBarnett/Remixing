@@ -10,7 +10,7 @@ ANT: **And Not-This**.
 
 - Look for yourself at zero distance.
 - Notice you are boundless, open, space.
-- Notice the wider space that contains "this" and "not-this".
+- <span id="and-not-this">Notice the wider space that contains "this" and "not-this"</span>.
     - They always exist together. The "not-this" is the backdrop to the "this."
 
 ## Theory
