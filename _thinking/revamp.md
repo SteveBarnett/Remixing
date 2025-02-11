@@ -15,7 +15,7 @@ updated: 2024-11-10
 - Nirvana is a transitory mind state free of greed, hatred, and delusion. Life continues, but with added clarity and commitment.
 - Embrace the whole of the human condition and work with it.
 - Dukkha is the inescapable aspects of the human condition, whether we indulge in “craving” or not.
-- Perfectionism seeks an exit from the human condition, not an exploration and enrichment of it.
+- <span id="perfectionism">Perfectionism seeks an exit from the human condition, not an exploration and enrichment of it.</span>
 
 ## Raw notes
 
