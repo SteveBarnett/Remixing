@@ -3,7 +3,7 @@ layout: page
 title: Self-compassion
 ifs: true
 added: 2023-08-13
-updated: 2024-01-04
+updated: 2025-02-11
 ---
 
 {%- assign selfcompassionposts = site.posts | where: "selfcompassion", "true" | sort: "order" -%}
@@ -38,6 +38,7 @@ updated: 2024-01-04
 	<li>The People-Pleaser perhaps formed as a increase-the-feedback-loop reaction to a model of quiet, subtle, praise.</li>
 	<li>The Perfectionist perhaps formed as a bit of a clarity-based complementary-opposite-reaction to a model of quietness and indirectness.</li>
 	<li>The Critic is perhaps part of my natural tendency for analysis.</li>
+	<li>I have a perhaps <a href="/thinking/traits/">trait</a>-based tendency towards thinking in binaries, so either something is a success or a failure, no middle ground.</li>
 </ul>
 
 <h2>Practice approach</h2>
