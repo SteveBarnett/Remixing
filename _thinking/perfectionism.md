@@ -2,17 +2,19 @@
 layout: page
 title: Perfectionism
 added: 2025-02-11
-updated: 2025-02-11
+updated: 2025-02-12
 longerform: true
 ---
 
 Conclusion from [Remixing gathering notes](#remixing-gathering-notes).
 
-- The way out is acceptance of “not good enough”
+- The way out is acceptance, rejecting the rigged game of "not good enough"
 - Using self-compassion, self-forgiveness, to turn avoid into approach
 - Bringing attention to pain and unmet needs
 
 Using the [mirror metta](/thinking/my-mirror-metta/) style to sneak around any resistance.
+
+Taking the imperfect, incomplete, unresolved human life as a koan.
 
 ---
 
