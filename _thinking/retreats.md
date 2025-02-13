@@ -48,17 +48,20 @@ Supportive, not prescriptive.
 - **silence ends**
 - debrief
 
-(For the Summer 2025 retreat, I'm guided [the first sit](#guided-sit-notes) and the first [walk](/thinking/walking-meditation/))
+(For the Summer 2025 retreat, I'm guiding [the first sit](#guided-sit-notes) and the first [walk](/thinking/walking-meditation/))
 
 #### Guided sit notes
 
 If you'd like some guidance, we'll offer some. If you'd don't want guidance, treat the sound of my voice as one of the many sounds you can hear, without focusing on the words.
 
-- Settle into posture, adjust mindfully
-- Few deep breaths
-- After 5m, prompt to let go, soften, relax
-- After another 10m, prompt yo let go, soften, relax
-- Last 2 or 3m: begin again
+- Settle, comfortable, stable
+- After 2m - breath: few deeper, then natural rhythm
+	- nose, chest, belly
+- After 2m - body: contact, hands, feet
+	- pressure, temperature, tingling
+- After 5m - lost in thought: no problem
+	- come back to the breath or body
+- Last few minutes: begin again
 
 Some scattered notes:
 
