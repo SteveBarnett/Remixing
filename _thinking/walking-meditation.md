@@ -3,7 +3,7 @@ layout: page
 title: "OMB summer 2025 retreat: Walking Meditation"
 omb: true
 added: 2025-02-08
-updated: 2025-02-08
+updated: 2025-02-13
 ---
 
 * Display TOC
@@ -15,13 +15,13 @@ For the first 20m walking meditation of the retreat, we'll do some light guidanc
 
 ### Short notes
 
-- Pick a spot
-- Walk very slowly
+- Pick a spot, a few metres, 10 steps or so
+- Walk very slowly back and forth
 - Body: weight, torso, arms
 - After 2m - legs: lifting, moving, placing
 - After another 2m - feet: heel, middle, ball, toes
-- After another 2m next turn around: pause, breath, first few steps
-- After another 5m - lost in thought: put the thought down, let it go, notice your the lifting, moving, placing
+- After another 2m next turn around: pause, breath, begin again. Notice the next step as though it's the first step.
+- After another 5m - lost in thought: no problem. Let the thought pass away, come back to noticing lifting, moving, placing
 - Final minutes: very close attention on your feet
 
 ### Long notes
