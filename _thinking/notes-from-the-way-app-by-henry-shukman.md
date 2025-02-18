@@ -42,6 +42,8 @@ updated: 2025-01-07
 - Yaoshan: 'take the backward step that shines the lamp inward.'
     - Something like: 'relax, don't strive, release back into a light of awareness that is already present.'
     - The advice of taking a 'backward step' seems to suggest that it won't help to be 'striving forward'.
-- (from email) It’s not an answer on the same level that any question about it is asked. It’s not on the same level as all other questions and answers we have known.
+- It’s not an answer on the same level that any question about it is asked. It’s not on the same level as all other questions and answers we have known.
+- By seeing the operation of preference within us, we can learn to identify with it less, be less caught by it in daily life.
+- Preferences act as a strong reinforcing mechanism for the idea of the self. When we really observe desire or aversion arising as phenomena in and of themselves, we start to see that they can arise without the need for any self to be implicated in them.
 
 [The Way app](https://www.thewayapp.com/)
