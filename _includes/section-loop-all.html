@@ -3,7 +3,7 @@
 <{%- if include.ordered -%}ol reversed{%- else -%}ul{%- endif -%}>
 {%- for sectionpost in sectionposts -%}
 
-<li {%- unless include.ordered -%}data-month="{{ sectionpost.updated | date: "%m" }}"{%- endunless -%}>
+<li {% unless include.ordered %}data-month="{{ sectionpost.updated | date: "%m" }}"{% endunless %}>
   {% if sectionpost.done == true %}✔ {% endif %}<a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
 </li>
 
