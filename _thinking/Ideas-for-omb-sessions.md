@@ -12,6 +12,7 @@ updated: 2025-02-03
     - Doubt as a hindrance, some classical vibes.
     - Just keep showing up. The way takes care of itself. Just practising is always good enough.
     - No particular, specific, outcome required. Just all of us, making our mistakes, and noticing that they happen.
+- [Growth Mindfulnessset](/thinking/growth-mindfulnessset/)
 - Mindfulness and conflict. Pull together [The Zen of You and Me: conflict](/thinking/the-zen-of-you-and-me-conflict/), [Argument and Conflict](/thinking/argument-and-conflict/), and [Compassion and conflict](/thinking/compassion-and-conflict/). Maybe the [conflict section of my notes](/notes/#conflict) too.
 - Update and run [The Headless Way](/thinking/the-headless-way-session-for-one-mindful-breath/).
 - Tao Te Ching. A few ideas from my favourite book.
