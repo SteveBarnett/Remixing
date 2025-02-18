@@ -2,7 +2,7 @@
 layout: page
 title: The Constable
 added: 2024-03-12
-updated: 2025-01-25
+updated: 2025-02-10
 ifs: true
 ---
 
@@ -23,6 +23,8 @@ An excellent question that the Constable might ask, short-circuiting the Critic:
 ## "I have questions"
 
 The Constable is a big part of what I'm like. I like to ask questions. I like to poke. It's a bit more like sceptical and a bit less like (just) curious.
+
+The Constable treats the Critic gently and carefully. They look for the nugget of truth in what the Critic is saying. The Critic is trying to protect me from "danger". They're just exaggerating it and expressing their concern unskilfully. Sort of like the Constable interviewing a witness in shock.
 
 ## Talk amongst yourselves
 
