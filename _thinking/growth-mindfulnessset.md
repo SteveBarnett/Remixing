@@ -2,13 +2,49 @@
 layout: page
 title: Growth Mindfulnessset
 added: 2025-02-17
-updated: 2025-02-17
+updated: 2025-02-22
 longerform: true
 ---
 
 I think that maybe Growth Mindset and No-self have some overlap, things in common. And I don't think I've read about this anywhere before.
 
-Have a Growth Mindset. See that setbacks are a chance to learn, that success comes from effort not innate skill.
+## Overlaps, intersections, and crossovers
+
+The Three Marks of Existence
+
+- Impermanence
+- Suffering
+- No-self
+
+The Four Noble Truths
+
+1. There is suffering
+2. The origin of suffering is craving
+3. There is an end to suffering
+4. The way to the end of suffering is the Eightfold Path
+
+The Four Heavenly Abodes / brahmavihārās
+
+- metta (loving-kindness)
+- karuna (compassion)
+- mudita (empathetic joy)
+- upekkha (equanimity)
+
+The counters to the three poisons
+
+- Generosity (counters Grasping)
+- Lovingkindness (counters Aversion)
+- Wisdom (counters Ignorance)
+
+Growth Mindset
+
+- A key part of having a Growth Mindset is the belief that intelligence and ability can be improved through effort. Things can get better, I can do something. This feels a bit like the Third Noble Truth: there is an end to suffering, there is a(n eightfold) path. It's also a bit like No-self: a person's qualities are not fixed and static.
+- Another part is the a person with a Growth Mindset embraces challenges. They see they as unavoidable, and a good way to learn and improve. The angle that challenges, unsatisfactoriness, is inevitable feels like it aligns with the First Noble Truth.
+- There's also the more broad idea that growth happens best when we're both held to high standards and are in a supportive environment. 
+- A person with a Growth Mindset has a strong desire to keep learning. They're focused on continuous improvement and progress.
+- A person with a Growth Mindset believes that effort is what brings success. This aligns with the Third Noble Truth.
+- GM learns from from criticism, embraces feedback. Sees failure as a learning opportunity, a wake up call to bounce back. Upekkha (equanimity).
+- Finds lessons and inspiration in the success of others. This is mudita (empathetic joy).
 
 ## Fixed mindset
 
@@ -32,23 +68,23 @@ Assigns blame, finds excuses.
 
 ## Growth mindset
 
-Believes intelligence can be developed. (The Third Noble Truth, "there is an end to suffering", aka things can be improved. Also No-self. Patience,)
-Leads to a desire to learn. (Impermanence. No-self. First of Fourfold task, "Embrace life")
+Believes intelligence can be developed.
+Leads to a desire to learn.
 Keeps reaching new levels of achievement.
 Greater sense of free will.
 
 Praise for effort can push toward Growth mindset.
 
-Growth happens best when you're held to a high standard and have a nurturing atmosphere. (Self-compassion) Feedback promotes learning.
+Growth happens best when you're held to a high standard and have a nurturing atmosphere. Feedback promotes learning.
 
-Focuses on continuous improvement, progress, learning new things. (The Third Noble Truth, "there is an end to suffering", aka things can be improved, also Impermanence. Patience)
-Sees feedback or failure as a learning opportunity, a wake up call to bounce back. (First of Fourfold task, "Embrace life". upekkha (equanimity).)
-Believes effort is what brings success. (The Four Noble Truth / the Eightfold Path. Patience)
+Focuses on continuous improvement, progress, learning new things.
+Sees feedback or failure as a learning opportunity, a wake up call to bounce back.
+Believes effort is what brings success.
 
 ### Tendencies
 
-- Embraces challenges (the first noble truth?)
-- Persists in the face of setbacks (the first Noble truth, upekkha (equanimity). Patience)
-- Sees effort as the path to mastery (Precepts (as aspiration, not as prohibition). Patience)
-- Learn from criticism (Right Effort. upekkha (equanimity))
-- Finds lessons and inspiration in the success of others (metta (loving-kindness), mudita (empathetic joy), Generosity)
+- Embraces challenges
+- Persists in the face of setbacks
+- Sees effort as the path to mastery
+- Learn from criticism
+- Finds lessons and inspiration in the success of others
