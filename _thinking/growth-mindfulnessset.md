@@ -24,6 +24,7 @@ Some qualities of a person with a Growth Mindset, and things that seem to correl
     - upekkha (equanimity)
 - Enjoys feedback and constructive criticism
     - The Third Noble Truth: there is an end to suffering
+    - metta (loving-kindness)
     - Wise
 - Finds lessons and inspiration in the success of others
     - mudita (empathetic joy)
