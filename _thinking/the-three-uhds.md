@@ -26,6 +26,17 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
 - **Accepting** loosens things some more.
 - When you can't do a step, don't fight it. Just notice how it feels.
 
+## As a practice
+
+- Make a short list of the shoulds
+    - Write out the detail a little bit
+    - Loosen your grip on them, one by one
+- Make a short list of the coulds
+    - Write out the detail a little bit
+    - Loosen your grip on them, one by one
+- Make a short list of the goods
+- Write a bit answering "What do I need?"
+
 ## Flavours of [tension](/thinking/tension/)
 
 Applying the three uhds is a way of quietening down. But I tend to be quite high energy, and some of that comes from the tension around these.
