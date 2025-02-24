@@ -159,7 +159,7 @@ The nature of Reality, Consciousness, the cosmos.
     - All forms are relational.
     - Things that are separate can't influence and act on each other.
     - The unity of Absolute and Relative, of emptiness and form.
-        - <span id="why-cant-it-be-both">Why can't it be both?"</span>
+        - <span id="why-cant-it-be-both">Why can't it be both?</span>
         - Both/and instead of either/or.
 - **Reality is complex, deep, rich.**
     - Concepts make forms, draw lines, build fences.
