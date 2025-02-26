@@ -8,6 +8,10 @@ updated: 2025-02-27
 
 > “The Way is not difficult for those who have no preferences.”<br>&mdash; the Third Chinese Patriarch of Zen
 
+- One interpretation of this could be: once you're enlightened, you'll have no preferences.
+- Another could be: humans have preferences, and this is why The Way is difficult for us all.
+- Another another could be: when we're having difficulties on The Way, a common cause is our preferences.
+
 ## Gathered notes
 
 We suffer when we add stories, shoulds, and preferences. This includes the Inner Critic's judgements about ourselves.
