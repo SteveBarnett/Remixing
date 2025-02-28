@@ -190,6 +190,10 @@ summary h3 {
   border-bottom: none;
 }
 
+details + details {
+  margin-top: 1rem;
+}
+
 h2 .subtitle {
   display: block;
 }
