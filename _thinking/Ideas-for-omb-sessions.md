@@ -6,12 +6,8 @@ added: 2024-10-03
 updated: 2025-02-03
 ---
 
+- 👉 [Making (no) progress in meditation](/thinking/making-no-progress-in-meditation/). Re-inspired by [you are progressing just fine - by Sunni Brown / Sun Kagami](https://nothingintheway.substack.com/p/you-are-progressing-just-fine)
 - 👉 Talk through my [Wider RAIN practice](/thinking/wider-rain-practice/). Tara's original. My remixes / extensions. [TSOL's Philotation](/notes/philosophy/philosophical%20meditation.jpg) too?
-- 👉 Making (no) progress in meditation. Re-inspired by [you are progressing just fine - by Sunni Brown / Sun Kagami](https://nothingintheway.substack.com/p/you-are-progressing-just-fine)
-    - Practice is like walking in a fine mist. After some time you find you are thoroughly wet. It doesn't take any special effort.
-    - Doubt as a hindrance, some classical vibes.
-    - Just keep showing up. The way takes care of itself. Just practising is always good enough.
-    - No particular, specific, outcome required. Just all of us, making our mistakes, and noticing that they happen.
 - [Growth Mindfulnessset](/thinking/growth-mindfulnessset/)
 - Mindfulness and conflict. Pull together [The Zen of You and Me: conflict](/thinking/the-zen-of-you-and-me-conflict/), [Argument and Conflict](/thinking/argument-and-conflict/), and [Compassion and conflict](/thinking/compassion-and-conflict/). Maybe the [conflict section of my notes](/notes/#conflict) too.
 - Update and run [The Headless Way](/thinking/the-headless-way-session-for-one-mindful-breath/).
