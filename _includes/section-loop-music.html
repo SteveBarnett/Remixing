@@ -1,0 +1,16 @@
+{%- assign tracks = site.posts |  where: "categories", "music" | reverse -%}
+
+<ul>
+{%- for track in tracks -%}
+
+{%- assign currenttrackyear = track.date | date: "%Y" | plus: 0 -%}
+{%- assign currenttrackmonth = track.date | date: "%m" | plus: 0 -%}
+
+  {% if currenttrackyear == include.year and currenttrackmonth == include.month %}
+<li data-month="{{ track.updated | date: "%m" }}">
+  <a href="{{ track.url }}">{{ track.title }} ({{ track.date | date: "%Y-%m-%d" }})</a>
+</li>
+  {% endif %}
+
+{%- endfor -%}
+</ul>
