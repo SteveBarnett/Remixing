@@ -25,3 +25,5 @@ defaults:
 exclude:
     - art-originals
     - notes-originals
+    - vendor
+    
