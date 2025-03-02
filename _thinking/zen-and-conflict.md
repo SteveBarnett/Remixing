@@ -11,7 +11,7 @@ updated: 2025-03-02
 
 ## Blurb for meetup
 
-In this session we'll be discussing some ways to deal with conflict from the Zen tradition. In particular, we'll go through some ideas from ["The Zen of You and Me: A Guide to Getting Along with Just About Anyone"](https://www.goodreads.com/author/show/6983887.Diane_Musho_Hamilton) by [Diane Musho Hamilton](https://www.dianemushohamilton.com/about-diane/). We'll cover preparing, listening, and practice applying the tools and techniques to a conflict in our own lives. 
+In this session we'll be discussing some ways to deal with conflict from the Zen tradition. In particular, we'll go through some ideas from ["The Zen of You and Me: A Guide to Getting Along with Just About Anyone"](https://www.goodreads.com/author/show/6983887.Diane_Musho_Hamilton) by [Diane Musho Hamilton](https://www.dianemushohamilton.com/about-diane/). We'll cover preparing, listening, and how to apply the tools and techniques to conflict in our own lives.
 
 ## What's on top?
 
@@ -28,11 +28,18 @@ In this session we'll be discussing some ways to deal with conflict from the Zen
     - She has decades experience with conflict resolution
     - She often says that “mediate” and “meditate”, share the same purpose: to bring what is divided or in dispute into harmony
 - There's also a recently released series "Resolving Conflict" by her on the Waking Up app
+- Conflict is intrinsic to being human
+    - Handling it well can make creative opportunity from destructive potential
+    - It can show us our unhelpful patterns, or where we want or need to change something
+    - But we need to see it differently, overcome our need to win
 
 ### Tinytation 🧘⏱️
 
 - Bring to mind some conflict that you're experiencing now, or have done recently
 - Something on the lighter side, not something traumatic
+- How did you act? What was your behaviour?
+- What were you thinking?
+- What were you feeling in your body?
 - As we go through the session, I'll prompt you to bring that situation to mind
 
 ## Five steps
@@ -49,6 +56,7 @@ We'll talk mostly about 1 and 2 in this session.
 
 - Our deepest nature is the unity that includes diversity
 - The harmony that includes our differences is deeper and more durable
+- Using Zen words, you could say that unity is the Absolute and difference is Relative
 - We have the same basic values and needs
     - For example, from Maslow: food, water, warmth, rest; safety, security; relationships, friendships
 - This means taking a world-centric view, not an ethnocentric one, or an egocentric one
@@ -69,6 +77,8 @@ We'll talk mostly about 1 and 2 in this session.
 - What story am I telling myself about my role in this?
 - Remember to relate to emotions as states
     - An experience of thought, mood, body
+- Be clear on you what you want from an interaction
+    - Intention guides attention
 
 ### Emotions
 
@@ -134,3 +144,7 @@ We'll talk mostly about 1 and 2 in this session.
     - About yourself, about them
 - Let go of the emotions you've been feeling about it 
     - They'll come back, you don't need to hold on to them
+
+## Closing
+
+- Homework!
