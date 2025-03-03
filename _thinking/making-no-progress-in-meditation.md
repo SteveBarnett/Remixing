@@ -63,8 +63,12 @@ We can, and do, make progress. But often in not in the way we *think* we do.
 
 > Just being alive is enough &mdash; Shinryu Suzuki
 
-## Progress is visible, quantifiable, measurable
+### Progress is visible, quantifiable, measurable
 
+- We're not always aware of the progress we're making
+    - Every time we're quiet and still, it registers in our unconscious
+    - Something is going on beneath the surface
+    - Like the roots of a tree, underground, unseen
 - Meditation metrics: length, width, depth
 - Measuring is avoiding being present
 - A new tool or technique or teacher can be disguised resistance or aversion
