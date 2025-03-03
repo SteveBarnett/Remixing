@@ -45,5 +45,8 @@ updated: 2025-01-07
 - It’s not an answer on the same level that any question about it is asked. It’s not on the same level as all other questions and answers we have known.
 - By seeing the operation of preference within us, we can learn to identify with it less, be less caught by it in daily life.
 - Preferences act as a strong reinforcing mechanism for the idea of the self. When we really observe desire or aversion arising as phenomena in and of themselves, we start to see that they can arise without the need for any self to be implicated in them.
+- The gateless gate. The wisdom of these great meditation traditions is that to recognize this shift is not so easy to do in a deliberate way. It is often better done more by a process of releasing, of letting go, of letting things drop, as we sit. 
+- ... Mindfulness, Support and Flow. There are so many treasures that meditation helps us with in these zones, without needing to worry about the question of awakening. We can consider awakening a compass heading that guides the vessel of our practice, but meanwhile the voyage itself is full of adventure and learning all along the way.
+- I had been sitting with a koan for months, seemingly getting nowhere. But in fact, I was slowly learning to be patient with the practice, and stop minding whether anything 'happened' or not. And that was already a kind of progress.
 
 [The Way app](https://www.thewayapp.com/)
