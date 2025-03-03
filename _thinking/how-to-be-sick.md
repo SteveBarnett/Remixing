@@ -2,11 +2,37 @@
 layout: page
 title: How to Be Sick
 added: 2025-02-23
-updated: 2025-02-23
+updated: 2025-03-03
 notes: true
 ---
 
-How to Be Sick (Second Edition): A Buddhist-Inspired Guide for the Chronically Ill and Their Caregivers by Bernhard, Toni
+Notes from [How to Be Sick (Second Edition): A Buddhist-Inspired Guide for the Chronically Ill and Their Caregivers by Bernhard, Toni](https://www.goodreads.com/book/show/7902654-how-to-be-sick)
+
+## Gathered notes
+
+- Buddha was realistic and honest about the human condition rather than pessimistic
+- unpleasant and painful experiences are part of the human condition
+    - we create dukkha — suffering, stress, anguish — when we resist this
+- we have an “unquenchable thirst” to have only pleasant experiences and not unpleasant ones
+- impermanence is necessary for life and growth
+    - But it brings uncertainty and unpredictability
+    - And we crave security and assurance
+- What happens in life arises out of conditions, not from a “me” in control
+- Don't treat the inner critic voice as an authentic, fixed feature of yourself
+- To see if your words are genuinely intended to alleviate your suffering, ask if these are words you’d use to comfort a loved one
+- Give in instead of give up
+- Kindness, compassion, empathetic joy, and equanimity. The goal is to cultivate them until they become the natural response to whatever you encounter in life.
+- Once clinging or attachment to the object of our desires and aversions takes hold, the sense of a solid self arises
+- Byron Katie’s ("The Work") five-step inquiry practice to question the validity of the thought
+    1. Is the thought true?
+    2. Are you absolutely sure it's true?
+    3. How do you feel when you believe the thought?
+    4. Who would you be without the thought?
+    5. The turnaround: a statement of the thought in a way that’s opposite from its original expression
+         - Note at least three reasons why it might be true
+- Wise inaction: refraining from actions that make our condition worse
+
+## Raw highlights
 
 ### Preface to the Revised Edition
 
@@ -49,8 +75,7 @@ assurance
 
 - Buddhism understands an emotion to be a thought plus a physical reaction to that thought.
 - Here’s a crucial point, and it doesn’t only apply to empathetic joy — it applies to all four sublime states. Their cultivation is not to be looked upon as a pass/fail test.
-- sticking with a practice
-- begins to change your conditioned response.
+- sticking with a practice begins to change your conditioned response.
 - Being kind to myself in this way enabled me to drop the painful stories I was spinning about how unfair life can be.
 
 ### 7 Soothing the Body, Mind, and Heart
@@ -63,21 +88,21 @@ assurance
 - I’d never talk to others that way.
 - Here I’m going to offer five other practices I use to cultivate compassion for myself.
 - Disidentify from Your Inner Critic
-- For several years I’ve been working to turn that inner critic into an inner ally who will refuse to disparage me, just as I refuse to disparage those I care about. Taming the inner critic is truly an act of self-compassion.
-- The practice that has been most helpful is called disidentifying — that is, not treating the inner critic voice as an authentic, fixed feature of yourself.
-- You’ll recognize that the critic is present because you’ll hear the words should and shouldn’t, and you’ll realize that you’re directing blame at yourself.
+    - For several years I’ve been working to turn that inner critic into an inner ally who will refuse to disparage me, just as I refuse to disparage those I care about. Taming the inner critic is truly an act of self-compassion.
+    - The practice that has been most helpful is called disidentifying — that is, not treating the inner critic voice as an authentic, fixed feature of yourself.
+    - You’ll recognize that the critic is present because you’ll hear the words should and shouldn’t, and you’ll realize that you’re directing blame at yourself.
 - Craft Phrases That Directly Address Your Suffering
-- Rather than using nonspecific phrases such as “May I be free from suffering,” choose a set of words that speak directly to the specific circumstances that are making you sad, disappointed, or dispirited.
-- If speaking to yourself seems odd, reflect on how your inner critic doesn’t have any trouble speaking words of criticism to you. If you can talk to yourself in harsh and self-judgmental ways, there’s no reason not to talk to yourself in soothing, gentle, self-compassionate ways instead.
-- To see if your words are genuinely intended to alleviate your suffering, ask if these are words you’d use to comfort a loved one who shared his or her suffering with you.
-- This has brought me to tears sometimes, but tears of compassion are healing tears.
+    - Rather than using nonspecific phrases such as “May I be free from suffering,” choose a set of words that speak directly to the specific circumstances that are making you sad, disappointed, or dispirited.
+    - If speaking to yourself seems odd, reflect on how your inner critic doesn’t have any trouble speaking words of criticism to you. If you can talk to yourself in harsh and self-judgmental ways, there’s no reason not to talk to yourself in soothing, gentle, self-compassionate ways instead.
+    - To see if your words are genuinely intended to alleviate your suffering, ask if these are words you’d use to comfort a loved one who shared his or her suffering with you.
+    - This has brought me to tears sometimes, but tears of compassion are healing tears.
 - instead of following through on an initial impulse to be generous, I force myself, in this compassion practice, to do the reverse of my initial impulse.
 - The principal feature that Sharon’s practice and my practice share is how, unless we remain vigilant by cultivating awareness — often called “mindfulness” — the mind can talk us into or out of just about anything, no matter how counterproductive or harmful the consequences.
 - Once again, the storyline I’d spun regarding someone else’s motives failed to reflect what was really going on.
 - Patient endurance suggests that, in addition to being patient (that is, serene and uncomplaining), we actively “endure”; we survive difficulties, we face hardship without giving up.
 - Open Your Heart to Your Suffering
 - Sometimes it’s difficult to label stressful mental states without falling prey to aversion,
-- “My heart is big enough to hold this
+- My heart is big enough to hold this
 - Many of us have to overcome a lifetime of conditioning in which we were taught that looking after our own well-being is selfish. It’s not. We are as worthy of our care and compassion as anyone.
 
 ### 9 Facing the Ups and Downs of Chronic Illness with Equanimity
@@ -130,23 +155,23 @@ assurance
 - more essential to me than formal meditation has been mindfulness outside of meditation.
 - here are five simple practices that are easy to try. See which ones resonate with you.
 - Describe Your Present-Moment Experience Objectively
-- Leaving out the emotional descriptors minimizes the likelihood that you’ll start spinning stressful stories that will only make you feel worse,
-- the only thing that was true for sure,
+    - Leaving out the emotional descriptors minimizes the likelihood that you’ll start spinning stressful stories that will only make you feel worse,
+    - the only thing that was true for sure,
 - Try Thich Nhat Hanh’s Mindfulness Exercises
-- In The Miracle of Mindfulness, the Vietnamese Zen master Thich Nhat Hanh offers several exercises for staying mindful of the present moment as we engage in activities of everyday life, from brushing our teeth to making the bed
+    - In The Miracle of Mindfulness, the Vietnamese Zen master Thich Nhat Hanh offers several exercises for staying mindful of the present moment as we engage in activities of everyday life, from brushing our teeth to making the bed
 - Half-smile while listening to music.
 - Mindfulness while making tea.
-- keep this sad or stressful memory strong in your mind and then . . . drop it. As
-- you do this, immediately direct your attention to some current sensory input.
-- Can you feel the relief?
-- Take your mind back in time to a stressful memory, and drop it. Take your mind forward in time to a stressful thought, and drop it.
-- When you drop it, you relax into the present moment and the suffering that was generated by your thoughts lifts as if you’ve shed a heavy weight.
+- keep this sad or stressful memory strong in your mind and then . . . drop it.
+    - As you do this, immediately direct your attention to some current sensory input.
+    - Can you feel the relief?
+    - Take your mind back in time to a stressful memory, and drop it. Take your mind forward in time to a stressful thought, and drop it.
+    - When you drop it, you relax into the present moment and the suffering that was generated by your thoughts lifts as if you’ve shed a heavy weight.
 
 ### 14 Wise Action
 
 - Wise inaction can thus be thought of as simply not engaging in those actions that make our condition worse.
 - The challenge is to find the balance between too much and too little.
-- Pacing Pacing refers to alternating periods of activity and rest.
+- Pacing refers to alternating periods of activity and rest.
 - Pacing is the perfect example of combining wise action and wise inaction to improve quality of life
 - Here are four suggestions that can help you succeed with this “treatment”:
     - Make a schedule.
