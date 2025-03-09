@@ -3,14 +3,16 @@ layout: page
 title: Binary flip-flopping
 longerform: true
 added: 2025-03-09
-updated: 2025-03-09
+updated: 2025-03-10
 ---
 
 I find it hard to hold opposites together, to sit in and with the larger space that holds both. I tend to flip-flop between the two poles instead, often energetically. Less like a pendulum swinging and more like a coin flipping.
 
-I think my path through it is to hold the concepts of the two poles more lightly and notice how Reality, experience, does both. Give up the fight of conceptualising the poles. Stop confusing the finger pointing at the moon for the moon.
+I think my path through it is to hold the concepts of the two poles more lightly and notice how Reality, experience, does both. The poles have distinction, but not difference. They're concepts, [empty](/thinking/empty/), partial truths.
 
-The coin flipping seems to be happening, but it's an illusion.
+Give up the fight of conceptualising, clarifying, hardening, the poles. The coin flipping (between poles) seems to be happening, but it's an illusion. Stop confusing the finger pointing at the moon for the moon.
+
+Sometimes I feel aligned with the more radical nondual, more like Advaita Vedanta, take on things. That leads me down the path to believing that awareness isn't really a thing. We can't experience it. But it's actually more like awareness isn't a concept, a solid and fixed idea. It can be experienced, before thought. It's only when we try and conceptualise it that it starts to seem weird and paradoxical and nonsensical. (This sounds like I conceptually get the non-conceptual idea 🫠)
 
 ---
 
