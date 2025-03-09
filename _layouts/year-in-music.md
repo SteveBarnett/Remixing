@@ -1,7 +1,6 @@
----
-title: Table of contents
----
-{% include header.html title="Music" %}
+{% include header.html title=page.title %}
+
+{{ content }}
 
 {%- for category in site.categories reversed -%}
 {%- if category[0] == "thinking" -%}
@@ -12,6 +11,10 @@ title: Table of contents
   {% continue %}
 {% else %}
 
+{% assign latestTrackYear = category[1][0]["date"] | date: "%Y" %}
+{% if latestTrackYear != page.year %}
+  {% continue %}
+{% else %}
 <h2 id="{{ category[0] | downcase }}">Album: {{ category[0] }}</h2>
 
 <ol reversed class="music">
@@ -25,7 +28,9 @@ title: Table of contents
   </li>
   {%- endfor -%}
 </ol>
+{% endif}
 
+{%- endif -%}
 {%- endif -%}
 {%- endfor -%}
 
