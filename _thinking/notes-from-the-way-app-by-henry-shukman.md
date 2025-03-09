@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zennotes: true
 added: 2024-11-22
-updated: 2025-01-07
+updated: 2025-03-09
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.
@@ -48,5 +48,6 @@ updated: 2025-01-07
 - The gateless gate. The wisdom of these great meditation traditions is that to recognize this shift is not so easy to do in a deliberate way. It is often better done more by a process of releasing, of letting go, of letting things drop, as we sit. 
 - ... Mindfulness, Support and Flow. There are so many treasures that meditation helps us with in these zones, without needing to worry about the question of awakening. We can consider awakening a compass heading that guides the vessel of our practice, but meanwhile the voyage itself is full of adventure and learning all along the way.
 - I had been sitting with a koan for months, seemingly getting nowhere. But in fact, I was slowly learning to be patient with the practice, and stop minding whether anything 'happened' or not. And that was already a kind of progress.
+- koans are a 'language' that will only make sense when we let go of our ordinary construal of reality, and come to know the experience of any ordinary moment in a very different light – one not filtered and shaped by the assumptions and preconceptions of our everyday sense of self. For sure, they are not the only way to catch a glimpse of the non-dual. But the fact that they are mysterious and elliptical, and work indirectly, through poetic phrasing, seems to me to greatly recommend them. After all, we are grappling with the inexpressible here. It seems only right that it be conveyed by the nudges, winks and asides of the koan way.
 
 [The Way app](https://www.thewayapp.com/)
