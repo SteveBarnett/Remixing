@@ -151,7 +151,7 @@ The nature of Reality, Consciousness, the cosmos.
 
 <div class="boxout">Reality is one, complex, empty, flow.</div>
 
-- **Reality is one.**
+- **<span id="reality-is-one">Reality is one</span>.**
     - There are distinctions, but not divisions.
         - A network of interdependence and mutual support.
         - Most things exist on a spectrum, not as a binary.
