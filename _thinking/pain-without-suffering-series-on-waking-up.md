@@ -2,7 +2,7 @@
 layout: page
 title: Pain Without Suffering series on Waking Up
 added: 2025-02-01
-updated: 2025-02-09
+updated: 2025-03-11
 notes: true
 ---
 
@@ -30,3 +30,7 @@ notes: true
 - Numbing to pain also numbs us to pleasure
 - Resisting pain (instead of accepting it) makes us resist pleasure, makes it more difficult to accept pleasure
 - Pain can trap us in our threat response mode of flight, flight, freeze
+- Mountain, Ocean, Sky
+    - Body flowing like a mountain: moving, but slowly
+    - Emotions spacious, like waves in the ocean
+    - Mind open like the sky
