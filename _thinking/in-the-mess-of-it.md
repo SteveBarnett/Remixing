@@ -3,8 +3,21 @@ layout: page
 title: In the mess of it
 longerform: true
 added: 2025-03-13
-updated: 2025-03-13
+updated: 2025-03-14
 ---
+
+The end of suffering is not what we think it is. It's not what we **think** it is. It's not the thinking about it, it's before thought, the experience of it.
+
+The mind creates thoughts. Thoughts are what create the gap because what is and what should or could be. But in Reality, before thought, there is only what is. There is only one Reality. Shoulds and coulds are abstract concepts, not the living unified oneness that is Reality.
+
+"I don't like it" or "I don't want it" or "I want it and I don't have it" are all thoughts created by the mind. They create separation, a gap, that doesn't really exist.
+
+## Truths and Marks
+
+I feel like this is swirling around the First Noble Truth (there is suffering), Third Noble Truth (there is an end to suffering), and Impermanence as a Mark of Existence. There's no complete and final end to suffering because: everything is impermanent; there is suffering. But there can moment, pockets, of cessation of unsatisfactoriness.
+
+
+## Bit of a gatherup
 
 - Being human means always having this ongoing visceral feeling that things aren't quite right
 - We think that this is a problem we can solve, but we can't find security, stability, safety
