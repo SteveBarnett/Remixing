@@ -13,20 +13,28 @@ updated: 2025-03-15
 
 Bringing together bits to keep the [One Bright Pearl](/thinking/zen/one-bright-pearl/) feeling going. It's all in the same pot, but my focus is less on the emptiness angle and more on the connectedness and interbeing angle.
 
+### Short version
+
+- The infinite causes and conditions of Reality creating everything
+- Everything showing up together all at once, with distinctions but not division
+- The direct experience of it is an objective view that includes us, not subject a view from am "I"
+
+### Long version
+
 - There's an underlying unity and wholeness to Reality
-- Reality exploring and realising itself
-- Nothing else but it, nothing outside it to compare it to
-- Everything showing up together all at once
-- Everything is relative, everything depends on everything else
-- The infinite causes and conditions of Reality create everything, including our bodies, actions, thoughts, stories
-- There's distinction, but not division
-- Thought divides Reality up, separates, labels, judges, then invents stories
-- Like the unity of birds and sky, fish and water
-- The direct experience of unity is not a subjective "I" witnessing it, but an objective view, including us
-- The experience of the Absolute is inwardly like wood or stone (motionless), outwardly like the void (without bounds or obstructions)
-- Zen practice is integrating The Absolute and the Relative, without losing their distinctness
-- Fully being in the Relative is how we touch the Absolute
-- From the perspective of the Absolute there is only what is: no problems, no choices, no separation, no shoulds, no coulds
+    - Nothing else but it, nothing outside it to compare it to
+    - **Everything showing up together all at once**
+    - Everything is relative, **everything depends on everything else**
+    - There's **distinction, but not division**
+    - Like the unity of birds and sky, fish and water
+- **The infinite causes and conditions of Reality create everything**, including our bodies, actions, thoughts, stories
+    - Reality exploring and realising itself
+    - From the perspective of the Absolute there is only what is: no problems, no choices, no separation, no shoulds, no coulds
+- **The direct experience of unity is not a subjective "I" witnessing it, but an objective view, including us**
+    - The experience of the Absolute is inwardly like wood or stone (motionless), outwardly like the void (without bounds or obstructions)
+- **Thought divides Reality up, separates, labels, judges, then invents stories**
+- **Zen practice is integrating The Absolute and the Relative, without losing their distinction**
+    - Fully being in the Relative is how we touch the Absolute
 
 ## Polished bits
 
