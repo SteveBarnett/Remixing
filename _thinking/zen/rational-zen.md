@@ -21,7 +21,7 @@ zennotes: true
 
 ## Universal Book of Eternal Peace
 
-- Three exercises: contemplating impermanence of the subject; contemplating impermanence of the object; alterness in the immediate present.
+- Three exercises: contemplating impermanence of the subject; contemplating impermanence of the object; alertness in the immediate present.
 - Remove obstructing fixations.
 - Realisation of the absolute does not extinguish experience of the relative.
 - **As long as the idea of something to be transcended remains, this obscures our inherent Buddha-nature.**

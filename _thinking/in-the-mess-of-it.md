@@ -14,7 +14,7 @@ The mind creates thoughts. Thoughts are what create the gap because what is and 
 
 ## Truths and Marks
 
-I feel like this is swirling around the First Noble Truth (there is suffering), Third Noble Truth (there is an end to suffering), and Impermanence as a Mark of Existence. There's no complete and final end to suffering because: everything is impermanent; there is suffering. But there can moment, pockets, of cessation of unsatisfactoriness.
+I feel like this is swirling around the First Noble Truth (there is suffering), Third Noble Truth (there is an end to suffering), and Impermanence as a Mark of Existence. There's no complete and final end to suffering because: everything is impermanent; there is suffering. But there can moments, pockets, of cessation of unsatisfactoriness.
 
 
 ## Bit of a gatherup
