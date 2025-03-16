@@ -41,7 +41,7 @@ The whole universe is **one bright pearl**.
 
 ## So what?
 
-A far question about all this One Bright Pearl and Friends gathering is: so what? For me, this has been an exploration of an angle into a little more peace and calm in the midst of, finding space around, some big waves and high-energy swells of emotion.
+A far question about all this One Bright Pearl and Friends gathering is: so what? For me, this has been an exploration of an angle into a little more peace and calm in the midst of, finding space around, some big waves and high-energy swells of emotion. It also makes things feel a bit less personal. In the "it's not your fault" kind of way.
 
 "Everything" includes not just our bodies, but also internal and external manifestations in the world. Our actions. Our emotions, feelings, thoughts, stories.
 
