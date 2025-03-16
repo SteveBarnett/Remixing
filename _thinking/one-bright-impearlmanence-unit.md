@@ -39,7 +39,24 @@ The whole universe is **one bright pearl**.
     - *Thought tries to make things static*
     - Let impermanence intensify the preciousness
 
-## One Bright Pearl
+## So what?
+
+A far question about all this One Bright Pearl and Friends gathering is: so what? For me, this has been an exploration of an angle into a little more peace and calm in the midst of, finding space around, some big waves and high-energy swells of emotion.
+
+"Everything" includes not just our bodies, but also internal and external manifestations in the world. Our actions. Our emotions, feelings, thoughts, stories.
+
+- Everything is included, showing up together all at once.
+    - Take the wider view. Notice the many other things that are appearing here and now as well.
+- Everything is created by ongoing infinite causes and conditions.
+    - An angle into [the three uhds](/thinking/the-three-uhds/). Letting go of the idea that I should feel differently. Letting go of the idea that I could feel differently.
+- Everything is a verb, arising and passing away without a pause.
+    - Remembering that this too shall pass. Even right now, things are flowing and changing.
+
+---
+
+## Gathered strands
+
+### One Bright Pearl
 
 - The whole universe is one bright pearl
 - There’s a brightness to experience, awareness
@@ -47,13 +64,13 @@ The whole universe is **one bright pearl**.
 - Every event is part of life, everything is included
 - In the intimacy of one bright pearl there’s no way to understand because understanding requires separation
 
-## Unity
+### Unity
 
 - The infinite causes and conditions of Reality creating everything
 - Everything showing up together all at once, with distinctions but not division
 - The direct experience of it is an objective view that includes us, not subject a view from am “I”
 
-## Flux and flow
+### Flux and flow
 
 - Things are constantly changing and changeable
 - Reality is in constant flux and motion
@@ -62,7 +79,7 @@ The whole universe is **one bright pearl**.
 - Only the verb: no subject, no object
 - Everything, including our sense of self, is a process
 
-## Impermanence
+### Impermanence
 
 - Impermanence is necessary for life and growth
 - With impermanence comes uncertainty and unpredictability
