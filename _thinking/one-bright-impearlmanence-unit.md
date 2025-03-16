@@ -3,10 +3,41 @@ layout: page
 title: One Bright Impearlmanence Unit
 zen: true
 added: 2025-03-15
-updated: 2025-03-15
+updated: 2025-03-16
 ---
 
 Mashing up [One Bright Pearl](/thinking/zen/one-bright-pearl/), [Unity](/thinking/unity-the-absolute/), and Impermanence.
+
+## Mashup
+
+A short version and a longer version. In particular, focusing on this interconnection, interdependence, inseparability. The wholeness, the completeness, the Perfection (in the Buddhist sense).
+
+### Shorter version
+
+The whole universe is **one bright pearl**. 
+
+- Everything is included, showing up together all at once
+- Everything is a verb, arising and passing away without a pause
+- Everything is created by ongoing infinite causes and conditions
+
+### Longer version
+
+- The whole universe is one bright pearl
+    - **Everything shows up together all at once**
+    - **Everything is included**
+    - Distinction but not division
+    - *Thought tries to divide things up*
+- Everything appears brightly, luminously, clearly
+- The ongoing infinite causes and conditions of Reality create everything
+- Everything is a verb
+    - Complete and constant flux and flow
+    - Constant arising and passing away
+        - The more closely we observe, the more clearly we see this
+        - No solid, separate, persisting things ever form
+    - Impermanence brings uncertainty and unpredictability
+        - Which brings anxiety and stress because we crave the opposite
+    - *Thought tries to make things static*
+    - Let impermanence intensify the preciousness
 
 ## One Bright Pearl
 
