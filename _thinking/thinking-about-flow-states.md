@@ -6,7 +6,7 @@ added: 2024-08-25
 updated: 2024-08-27
 ---
 
-Some elements that are liminal and criss-cross-y for flow state and [nondual glimpse-y](https://stevebarnett.me/thinking/some-nondual-glimpses/).
+Some elements that are liminal and criss-cross-y for flow state and [nondual glimpse-y](/thinking/some-nondual-glimpses/).
 
 - Activity-based timing, not clock-based timing.
 - High effort and focus, not high difficulty.

@@ -6,7 +6,7 @@ added: 2025-02-25
 updated: 2025-02-25
 ---
 
-Mashing up [Why can't it be both?](https://stevebarnett.me/thinking/why-cant-it-be-both/), [Together in the middle](https://stevebarnett.me/thinking/together-in-the-middle/), [Tension](https://stevebarnett.me/thinking/tension/).
+Mashing up [Why can't it be both?](/thinking/why-cant-it-be-both/), [Together in the middle](/thinking/together-in-the-middle/), [Tension](/thinking/tension/).
 
 ---
 
