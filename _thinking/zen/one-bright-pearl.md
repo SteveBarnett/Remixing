@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One bright pearl
+title: One Bright Pearl
 zen: true
 added: 2025-03-12
 updated: 2025-03-12
