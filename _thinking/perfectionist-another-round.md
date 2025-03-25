@@ -2,7 +2,7 @@
 layout: page
 title: Perfectionist, another round
 added: 2025-03-22
-updated: 2025-03-22
+updated: 2025-03-23
 longerform: true
 ---
 
@@ -12,7 +12,7 @@ longerform: true
     - But root our sense of self-worth in being a flawed human being doing the best we can in the moment
 - Acceptance, self-compassion, and self-forgiveness let our imperfections become signposts on the path rather than obstacles on the path
     - Bring attention to pain and unmet needs
-    - Refuse to play the rigged game of “not good enough”
+    - Refrain from playing the rigged game of “not good enough”
 - Keep don’t-know mind
 - Continued recommitment to aligning our actions with our values
 
