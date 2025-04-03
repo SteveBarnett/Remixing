@@ -11,7 +11,11 @@ Here's a list of <a href="/reading/five-stars/">all the books I've rated five st
 {% assign rereads = site.data.books2025 | where: "reread", "true" %}
 {% assign fivestar = site.data.books2025 | where: "fivestar", "true" %}
 
-<p>📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}. 🌟 Five stars: {{ fivestar.size }}. ⏪ Rereads: {{ rereads.size }}.</p>
+<ul>
+
+<li>
+📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}. 🌟 Five stars: {{ fivestar.size }}. ⏪ Rereads: {{ rereads.size }}.
+</li>
 
 {%- assign Fiction = site.data.books2025 | where: "genre", "Fiction" -%}
 {%- assign ScienceFiction = site.data.books2025 | where: "genre", "Science Fiction" -%}
@@ -30,6 +34,7 @@ Here's a list of <a href="/reading/five-stars/">all the books I've rated five st
 {%- assign totalPhilosophy = Buddhism.size | plus: Zen.size | plus: Nonduality.size | plus: Philosophy.size | plus: Taoism.size | plus: Stoicism.size -%}
 {%- assign totalOther = booksthisyear | minus: totalFiction | minus: totalPhilosophy -%}
 
+<li>
 🎭 Genre stats:&nbsp;
 {%- unless Fiction.size == 0 -%}Fiction: {{ Fiction.size }};&nbsp;{%- endunless -%}
 {%- unless ScienceFiction.size == 0 -%}Science Fiction: {{ ScienceFiction.size }};&nbsp;{%- endunless -%}
@@ -43,12 +48,18 @@ Here's a list of <a href="/reading/five-stars/">all the books I've rated five st
 {%- unless Stoicism.size == 0 -%}Stoicism: {{ Stoicism.size }};&nbsp;{%- endunless -%}
 {%- unless Accessibility.size == 0 -%}Accessibility: {{ Accessibility.size }};&nbsp;{%- endunless -%}
 {%- unless Nonfiction.size == 0 -%}Nonfiction: {{ Nonfiction.size }}.{%- endunless -%}
-<br>
+</li>
 
+<li>
 📊 Broad summary: 
 Philosophy: {{ totalPhilosophy }};
 Fiction: {{ totalFiction }};
 Other: {{ totalOther }}.
+</li>
+
+</ul>
+
+{% include search-form.html title=page.title %}
 
 {% assign thisMonth = site.data.books2025[0].date_read | date: "%m" %}
 {% assign siteMonth = site.time | date: "%m" %}
@@ -96,3 +107,5 @@ Other: {{ totalOther }}.
 </ul>
 
 <p>Long list of <a href="/reading/all">all the books I've read since 2017</a>.</p>
+
+{% include search-js.html %}

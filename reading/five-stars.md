@@ -3,6 +3,8 @@ title: Reading - five stars
 layout: page
 ---
 
+{% include search-form.html title=page.title %}
+
 <p>Books that I've rated 5/5: really good.</p>
 
 <h2>2025</h2>
@@ -112,3 +114,5 @@ layout: page
 	{%- endif -%}
 {% endfor %}
 </ol>
+
+{% include search-js.html %}
