@@ -34,21 +34,6 @@
           el.remove();
         }
       });
-
-      const emptyheadings3 = document.querySelectorAll('h3 + ul:empty');
-      emptyheadings3.forEach(el => {
-          el.previousElementSibling.remove();
-      }); 
-
-      const emptyheadings2 = document.querySelectorAll('h2 + ul:empty');
-      emptyheadings2.forEach(el => {
-          el.previousElementSibling.remove();
-      });
-
-      const lists = document.querySelectorAll('ul:empty');
-      lists.forEach(el => {
-          el.remove();
-      });
     }
   })();
 </script>
