@@ -26,7 +26,7 @@ Not giving up.
     - You don't have to ride the escalator you've been put on
     - What society presents as rules, treat as guidelines
     - Throw away society's rule book
-    - Find escapes and tricks for the most problematic norms
+    - Find escapes and tricks for avoiding the most problematic norms
 - Values    
     - Using an inner compass instead of an outer map
     - Find your core set of values and don't compromise
