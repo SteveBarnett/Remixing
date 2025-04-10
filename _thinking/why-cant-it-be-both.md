@@ -8,6 +8,80 @@ updated: 2025-04-11
 
 Thinking about "Why Can't It Be Both" in terms of acceptance and holding happy and sad thoughts at the same time.
 
+## Summed up
+
+- Multiple perspectives, both/and, for a more complete, more truthful, picture
+- Struggling against bad feelings, against life as it is, doesn't work
+- Notice, acknowledge, welcome our suffering to suffer less
+- We can be happy alongside being sad, we don't have to wait for the end of all our suffering
+- Preferences, thoughts, create a gap that doesn't exist
+- The leap from the hundred-foot-pole is sudden, but it takes time to build up the courage to jump
+
+### Perspective
+
+- Both/and instead of either/or
+- Take multiple perspectives to get a more complete, more truthful, picture
+
+### Acceptance
+
+- Giving everything a warm welcome
+- Take care of, tenderly embrace, painful emotions as soon as they come up
+- We can't actually push bad feelings away: all we can do is point awareness at them and wait
+- Struggling against life as it is doesn’t work, doesn’t help, and causes damage
+- When we learn to acknowledge, embrace, and understand of our suffering, we suffer much less
+
+### It can be both
+
+- We can allow ourselves to be happy now, before the end of our suffering
+- We can have joy now, alongside our sadness
+- It doesn't require a special effort, just a letting go, a dropping of the story
+- Don't miss the happy, playful, bright activity by pursuing an imagined future, a should
+    - Everyday life, filled with noise and the lively activities of people
+
+### Thoughts and stories
+
+- Thoughts like “I don’t like it” or “I don’t want it” create separation, a gap, that doesn’t really exist
+- What’s the limiting belief that’s stopping you from carrying on?
+    - Which is not the same as getting over it
+    - What story are you adding?
+
+### Progress
+
+The leap from the hundred-foot-pole (from the conditioned to the unconditioned) is immediate, sudden. But it takes time to build up the courage to jump.    
+
+## Tightened up
+
+- Both/and instead of either/or.
+- Considering and taking multiple perspectives and viewpoints to get something more truthful, because it’s a more complete picture.
+- Embracing wholeness is a loving act of reclamation
+- The causes and conditions of your life have made you like this.
+- Struggling against who you are doesn’t work, doesn’t help, and causes damage.
+- Don’t be in a hurry to find the source of bad feelings, to make them disappear; just illuminate them.
+- Don’t wait until you have no more suffering before allowing yourself to be happy.
+- We don’t need a special effort, we don’t need to practice, to enjoy the beauty of the blue sky.
+- The feeling of everything showing up together all at once
+- The feeling of happy, playful, bright activity
+- When we learn to acknowledge, embrace, and understand of our suffering, we suffer much less.
+- We risk missing the precious unfolding of life as it is right now in the pursuit of an imagined future outcome or destination.
+- Question our beliefs about what we think our life should be and to turn our effort toward full presence of how it is.
+- The way to be liberated from suffering is to be quickly absorbed into it.
+- If you can recognise and accept your pain without running away from it, you will discover that joy can be there at the same time
+- Our everyday life, filled with noise and lively activities of people
+- The visceral experience of feeling that things aren’t right 
+- Make friends with yourself as you are, not as you wish you are, or think you out to be, honestly and kindly.
+- The practice is to stop and take care of, tenderly embrace, painful emotions as soon as they come up.
+- Embracing and understanding our suffering generates love and compassion
+- We’re allowed to feel happy now, before the end of all our suffering.
+- “I don’t like it” or “I don’t want it” or “I want it and I don’t have it” are all thoughts created by the mind. They create separation, a gap, that doesn’t really exist.
+- What's the limiting belief that's stopping you from carrying on (not the same as getting over it)?
+- Leave things as they are, without adding a label or a story
+- Noticing and working with the opposite comes after noticing, working with, and accepting the initial experience
+- The leap from the hundred-foot-pole (from the conditioned to the unconditioned) is immediate, sudden. But it takes time to build up the courage to jump.
+- the foundational importance of acceptance.
+- Suffering and struggle go together in a human life to create meaning and growth.
+- The three uhds
+
+## Gathered up
 
 - Why can’t it be both?
 - **Both/and instead of either/or.**
