@@ -3,7 +3,7 @@ layout: page
 title: Avoidant Attachment Style
 longerform: true
 added: 2025-04-02
-updated: 2025-04-03
+updated: 2025-04-16
 ---
 
 Historically, I know I've had a bit of an avoidant attachment style. In particular, turning away from discomfort. These days, I try and turn towards it, make it awkward, talk about the difficult stuff.
@@ -22,7 +22,7 @@ Something I'm wary of is something like false positives, misattribution, or conf
 
 ### Things that ring true
 
-- Value independence
+- Value independence, need time/space
 - Reluctant to ask for help or support
 
 ### Things that used to ring true
@@ -30,6 +30,8 @@ Something I'm wary of is something like false positives, misattribution, or conf
 - Struggle to express emotions or needs, suppress or downplay them
 - Withdraw during conflicts
 - Uncomfortable with vulnerability and intimacy
+- Don't ask for help when struggling
+- Avoid deep conversations, fearing vulnerability
 
 ### Things that do not ring true
 
@@ -137,3 +139,13 @@ Avoidant attachment is characterized by having discomfort with emotional intimac
 - Prioritizing work or personal needs above all else (detached)
 - Prematurely ending romantic relationships 
 - Avoiding intimate relationships altogether 
+
+### [5 Ways Avoidants TEST You (And What It Really Means!)](https://www.youtube.com/watch?v=tjZB3u7HEvs)
+
+Subconscious defense mechanisms, protecting themselves.
+
+1. They disappear when things get too good
+2. They get irritable over small things
+3. They talk about needing space, but keep tabs on you
+4. They ignore deep conversations, but crave them
+5. Overly independent, even when struggling
