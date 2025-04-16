@@ -6,9 +6,21 @@ added: 2025-04-16
 updated: 2025-04-16
 ---
 
-From [The Myth Of Sisyphus - by Robert Saltzman](https://robertsaltzman.substack.com/p/the-myth-of-sisyphus-ea5?publication_id=1031398&post_id=161318220&isFreemail=true&r=13ali&triedRedirect=true)
+> [Sisyphus] is the patron saint of radical clarity.<br>
+> ...<br>
+> He rolls the stone not because he’s deluded but because there is nothing else to do.
+
+Freedom from illusions.
+
+- That the task can be completed
+- (That suffering can ever permanently cease)
+- That a life has to be meaningful to be worthy
+- That there is meaning to life
+
 
 ## Highlights
+
+From [The Myth Of Sisyphus - by Robert Saltzman](https://robertsaltzman.substack.com/p/the-myth-of-sisyphus-ea5?publication_id=1031398&post_id=161318220&isFreemail=true&r=13ali&triedRedirect=true)
 
 Not freedom from the task, but freedom from illusion. Freedom from the search for final answers.
 
