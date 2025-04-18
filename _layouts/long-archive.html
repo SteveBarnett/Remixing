@@ -3,6 +3,8 @@
 {{ content | markdownify }}
 
 {% include skip-toc.html %}
+<br><br>
+{% include search-form.html title=page.title %}
 
 <h2 id="zen" tabindex="-1">Zen</h2>
 {% include section-loop-all.html section="zen" ordered="true" %}
@@ -31,5 +33,7 @@
 <h2>See also</h2>
 
 {% include thinking-links.html %}
+
+{% include search-js.html %}
 
 {% include footer.html %}
