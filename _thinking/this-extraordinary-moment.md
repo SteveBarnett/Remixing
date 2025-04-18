@@ -3,8 +3,38 @@ layout: page
 title: This Extraordinary Moment
 notes: true
 added: 2025-04-17
-updated: 2025-04-17
+updated: 2025-04-18
 ---
+
+## Key points
+
+- Things are much more than the labels we give them 
+	- Remember that The Map Is Not the Territory
+	- Forgetting this is the source of much of our confusion
+	- (Also: All models are wrong but some are useful)
+- Notice that you are already Resting as The View
+- Notice all the other things in experience, distinct from your focus
+
+## Gathered notes
+
+- Every moment is full and complete
+- All experiences transcend attempts at mapping them
+- Things are much more than the labels we give them
+	- more texture, more subtlety, more depth, more mystery
+- Having a name for a thing doesn't mean we know completely what the thing is
+- We mistake our conceptual approximations of reality for reality
+	- This is the source of much of our confusion
+- Remember that The Map Is Not the Territory
+- (All models are wrong but some are useful)
+- Cognitive diffusion: our thoughts about what's happening are not the same as what's happening
+- All explanations are partial
+- Countless other things are always occurring in experience that have nothing to do with our suffering
+- Well-being in and as the flow of experience, the continuous flow of perception
+- It's the nature of life to spin and whirl and dance with freedom and abandon
+- The perceiver and perceived co-arise
+- There’s no need to favour one thing over another
+- Resting as the View: there's no possibility of not resting as the view, there is only the view
+- Words, thoughts, are by their nature reductionist
 
 ## Kobo highlights
 
@@ -290,7 +320,7 @@ Can you sense how nonlinear and nonrational so much of that movement of mind is,
 
 ### Wide Open
 
-openness is always and already the nature of every moment, even those we conceive of and experience as more “closed down
+openness is always and already the nature of every moment, even those we conceive of and experience as more "closed down"
 
 notice how open everything is, how experience has no borders, no edges, no lines delineating or
 
