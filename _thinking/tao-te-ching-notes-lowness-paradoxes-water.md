@@ -9,7 +9,29 @@ updated: 2025-05-26
 * Display TOC
 {:toc}
 
+## Highlights
+
+<div class="boxout-light" markdown="1">
+- Nothing is as soft, weak, submissive, yielding as water.
+- Nothing can surpass it. Nothing can take its place. Nothing can alter it. 
+- Changing overcomes unchanging. Shapeless water takes the shapes of everything.
+<hr>
+- To be whole, first be broken.
+- Keep empty and you will be filled.
+- Wear out to be renewed.
+</div>
+
+---
+
 ## The Flip
+
+To be something, you must first be its opposite. This prepares the path.
+
+No-thing remains itself.
+
+- To be whole, first be broken.
+- Keep empty and you will be filled.
+- Wear out to be renewed.
 
 ### 22. Growing Downward (UKLG)
 
@@ -99,11 +121,15 @@ This is called subtle dsicernment.
 
 ## Water
 
+- Nothing is as soft, weak, submissive, yielding as water.
+- Nothing can surpass it. Nothing can take its place. Nothing can alter it. 
+- Changing overcomes unchanging. Shapeless water takes the shapes of everything.
+
 ### 78. Paradoxes (UKLG)
 
 Nothing in the world<br>
 is as soft, as weak, as water;<br>
-nothing else an wear away<br>
+nothing else can wear away<br>
 the hard, the strong,<br>
 and remain unaltered.<br>
 Soft overcomes hard,<br>
