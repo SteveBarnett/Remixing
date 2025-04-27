@@ -2,8 +2,8 @@
 layout: page
 title: Unpausing
 longerform: true
-added: 2025-05-26
-updated: 2025-05-26
+added: 2025-04-26
+updated: 2025-04-26
 ---
 
 This week my very old dog Roxy died. About a year and a half ago the vet used the phrase "palliative care" and something in me clicked (maybe snapped) and I turned almost my full attention to looking after this old doggo. 
