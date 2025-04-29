@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Happy
+title: Happiness, Comfort
 longerform: true
 added: 2025-04-28
 updated: 2025-04-28
@@ -48,3 +48,23 @@ Sufficient conditions for happiness are already here.
 - There are seeds of happiness and joy in us and when they are watered they give rise to the energy of joy and happiness. The contemplation here is to recognize these seeds.
 - Your search for happiness is what makes you feel miserable.
 - Happiness can't be acquired, only revealed.
+- Comfort is already here and now.
+- Instead of trying to avoid the discomfort, open yourself completely to it
+- Chasing comfort makes us avoid pain: we never see what's on the other side
+- Explore just a bit beyond your comfort zone.
+- When we use a soft front and strong back to stay with the discomfort of difficult emotions, they tend to arise, do their little dance, then move on.
+- stop and recuperate, despite the discomfort of knowing that the work remains unfinished.
+- We're addicted to running away from discomfort.
+- Turn towards feelings, especially uncomfortable ones.
+- Calm, comfort, pleasure is not the point of practice. It’s contact with yourself as you are.
+- If you notice any tightness or discomfort, invite yourself to settle, to be soft, to relax, to settle.
+- Dodging triggers may seem to create a feeling of comfort and safety, but therapists know that behavioural avoidance most often leads to a worsening of symptoms, not a healing of them.
+- This discomfort, this sense of being triggered because things are not “right,” because we want them to last longer or to go away, is the felt experience, the visceral experience of the fundamental ambiguity of being human.
+- The uncomfortable territory of "life not on my terms"
+- Dukkha is the existential angst we add to our experiences of pain, discomfort, unease, longing.
+- When you feel discomfort with something, including your zazen, expand your awareness and notice how the feeling is part of a larger whole, is less central than it seems.
+- We can radically change our relationship to whatever causes us discomfort, such that the discomfort can be recognized and endured without it overwhelming or destroying us.
+- Learn to let go and relax into the moment. Your interest in being right, safe, under control begins to fall away.
+
+
+
