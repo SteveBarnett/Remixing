@@ -2,8 +2,8 @@
 layout: page
 title: "Tao Te Ching notes: lowness, paradoxes, water"
 notes: true
-added: 2025-05-26
-updated: 2025-05-26
+added: 2025-04-26
+updated: 2025-04-26
 ---
 
 * Display TOC
