@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preferences
-longerform: true
+zennotes: true
 added: 2025-02-27
 updated: 2025-02-27
 ---
