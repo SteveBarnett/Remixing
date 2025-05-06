@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Notes from "The Playful Practice of Saying Yes"'
-longerform: true
+notes: true
 added: 2025-05-04
 updated: 2025-05-04
 ---
