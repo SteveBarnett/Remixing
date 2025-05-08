@@ -21,6 +21,12 @@ updated: 2025-05-08
 - Accept the unanswerability and unresolvability of it all
 - Give everything that arises a warm welcome
 
+## What to look for
+
+- the centre
+- the edges (or lack thereof)
+- the changes
+
 ## Bullets from earlier pages
 
 - ANT: And Not-This
