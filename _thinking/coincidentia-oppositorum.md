@@ -1,12 +1,20 @@
 ---
 layout: page
 title: Coincidentia Oppositorum
-longerform: true
+notes: true
 added: 2025-05-10
 updated: 2025-05-10
 ---
 
-- Both/and, not either/or
+- Both/and and either/or
+- “The road up and the road down are the same thing”
+- **Both arise at the same time**
+- A thing and its opposite can both be true at the same time
+- To have seen it from one side only is not to have seen it
+- Mutually sustaining opposites, like magnetic poles or mountains and valleys
+- Reconciliation and holding together of opposites
+    - Not a midpoint or a collapsing of them
+- **Linearity and circularity co-exist in a spiral**
 
 ## [Unity of opposites](https://en.m.wikipedia.org/wiki/Unity_of_opposites)
 
