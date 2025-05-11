@@ -3,7 +3,7 @@ layout: page
 title: Retreats
 buddhism: true
 added: 2024-03-31
-updated: 2025-02-09
+updated: 2025-05-11
 ---
 
 * Display TOC
@@ -21,6 +21,27 @@ Supportive, not prescriptive.
 		- focused series
 - 10m or 20m walking
 - 1h dharma talk
+
+### May 2025 one-day
+
+#### Vibe check
+
+- Lots of silent sits
+- Read a copy of Tao Te Ching
+- Sketching the view
+- A beach walk after lunch
+- Evening "off"
+
+#### Agenda
+
+- 20m guided sit, 20m sketching, 30m sit
+- morning tea
+- 30m sit, 20m sketching, 30m sit
+- lunch
+- beach walk
+- 30m sit, 20m sketching, 30m sit
+- afternoon tea
+- 30m sit, 20m sketching, 30m sit
 
 ### OMB programme
 
