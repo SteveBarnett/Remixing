@@ -8,6 +8,13 @@ updated: 2025-03-20
 
 At the start of 2024, [I decided to commit to Zen for the year](/themes/2024/#philosophy). Study, practice, and life more broadly. In July 2024 I made some [Notes from six months of studying and practicing Zen](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/).
 
+## No SAGE
+
+- No separation
+- No answers
+- No goal
+- No escape
+
 ## Some new angles
 
 - No escape
