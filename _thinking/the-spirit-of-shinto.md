@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes from The Spirit of Shinto
-zennotes: true
+notes: true
 added: 2025-05-14
 updated: 2025-05-15
 ---
