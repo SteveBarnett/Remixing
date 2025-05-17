@@ -37,3 +37,26 @@ updated: 2025-05-15
 - Japanese culture is very sensitive to the "context." We have to change and adapt our behaviour to the situation we are in, understanding that there are a series of implicit social norms or rules that are not apparent at first sight.
     - [I agree with context-sensitivity, but not necessarily with following the norms]
 - In Japanese, instead of "sin" they use the words <span lang="jp">tsumi</span> (violation of rules) or <span lang="jp">kegare</span> (dishonour, defilement, corruption)
+
+### Chapter 6: Buddhism, Confucianism, and Taoism
+
+- The Three Vinegar Tasters
+    - Confucianism: sour expression
+    - Buddhism: bitter expression
+    - Taoism: happy expression
+- Confucianism's five most important virtues: benevolence, justice, ritualism, wisdom, integrity
+- Wu wei: the best strategy is usually to follow the most natural course of action, the one requiring the least effort to resolve a tricky situation
+
+### Chapter 7: Morality and Philosophy
+
+- We tend to think our mission is to protect the forests. The Japanese version says it's also important for the forest and other creatures to protect us. It's a reciprocal, symbiotic, relationship.
+- Integration and symbiosis on natural and artificial things (compared to Western separation)
+- Harmony with natural environment and creating an atmosphere of peace (compared to Western trying to impress)
+- Wakeiseijaku: wa harmony; kei respect; sei purity; jaku tranquility
+
+### Chapter 8: Shinto-Inspired Practices for Everyday Life
+
+- Adding space. Empty space is important in its own right.
+- Reconnect with the rhythm of nature
+- Use your intuition to make decisions
+- Treat your home like a shrine
