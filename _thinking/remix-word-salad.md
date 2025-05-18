@@ -2,7 +2,7 @@
 layout: page
 title: Remix word salad
 added: 2025-02-02
-updated: 2025-02-03
+updated: 2025-05-18
 longerform: true
 ---
 
@@ -11,7 +11,15 @@ The way I tend to remix things is through iterative highlighting and summarising
 - The summary is personal, temporal, contextual, interpretative. It's not intended to be an objective, true, accurate representation of the sources.
 - The summary is intended to be signposts, reminders, a [map](/thinking/map/). It's not intended to be a complete, exhaustive, full representation of the sources.
 
-A rework, remaster, remake, revamp. A transformation, transmutation, modification, adapation.
+A rework, remaster, remake, revamp. A transformation, transmutation, modification, adaptation.
+
+## World salad 2025-05
+
+- Mix again, re-record, re-combine
+- Synthesise, integrate, mix, consolidate
+- Transform, change, convert, alter
+- Summarise? Remix, but opinionated. Sifting, selecting, refining, honing.
+- Learning, **interpreting, interpolating, interconnecting**
 
 ## Word salad
 
