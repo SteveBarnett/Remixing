@@ -3,9 +3,31 @@ layout: page
 title: Notes from The Spirit of Shinto
 notes: true
 added: 2025-05-14
-updated: 2025-05-15
+updated: 2025-05-18
 ---
 
+- It's impossible to make explicit and clear that which by its nature is vague 
+- Sacred places tend to be designed for us to feel transition or transformation
+- Focus more on preserving the methods and ways instead of trying to preserve the product / outcome
+- Context-sensitivity: change and adapt our behaviour to the situation we're in
+- Wu wei: the natural course, the one requiring the least effort to resolve a tricky situation
+- Harmony with natural environment and creating an atmosphere of peace
+
+## Some highlights
+
+- It's impossible to make explicit and clear that which by its nature is vague
+- Rituals are more important than objectives
+- Mythology, folk tales, and scared texts contain important truths and moral lessons
+- Sacred places tend to be designed for us to feel transition or transformation
+- A shrine, a temple, a synagogue, a mosque, are all works of art that contain human wisdom and tradition
+- In Shinto architecture, and Japanese culture in general, the emphasis tends to be placed on the traditions, methods, and ways of constructing or creating a work of art. [Compared to conservation, trying to alter as little as possible, allowing the appearance to decline over time]
+- Japanese culture is very sensitive to the “context.” We have to change and adapt our behaviour to the situation we are in
+- The Three Vinegar Tasters
+    - Confucianism: sour expression
+    - Buddhism: bitter expression
+    - Taoism: happy expression
+- Wu wei: the best strategy is usually to follow the most natural course of action, the one requiring the least effort to resolve a tricky situation
+- Harmony with natural environment and creating an atmosphere of peace
 
 ## From the book
 
