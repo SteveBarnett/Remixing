@@ -6,16 +6,38 @@ added: 2025-05-19
 updated: 2025-05-19
 ---
 
+ICT for D
+
+- Keep as much **intact** as possible for everyone
+- Use **connection**, sensitivity, calmness to **transform** things
+- Subtly **divert** energy so it can't land effectively
+
+## Gathered notes
+
+- Yielding, suppleness, softness goes with life
+- Work with conflict in ways that are compassionate, effective, non-aggressive
+- **Keep as much intact as possible for everyone**
+- **Use connection, sensitivity, calmness to transform things**
+- **Subtly divert energy so it can't land effectively**
+
+### Life
+
 - Tenderness and softness go with life
 - Yielding and suppleness go with life
 - Bending and bowing means you’re alive
+
+## Conflict
+
 - To be the aggressor is to throw away compassion
-- Prevail by transforming the relationship between you
-- Using softness, connection, sensitivity, calmness to transform a situation
-- Subtly diverting energy so it can't land effectively
 - “Taking whole”: Keeps as much intact as possible for everyone
 - Work with conflict in ways that are kindly and effective
 - True victory is victory over aggression
+
+## Transform
+
+- Prevail by transforming the relationship between you
+- Using softness, connection, sensitivity, calmness to transform a situation
+- Subtly diverting energy so it can't land effectively
 
 ## Older notes
 
