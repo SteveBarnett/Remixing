@@ -535,6 +535,10 @@ ul:empty, ol:empty {
   display: none;
 }
 
+span[lang] {
+  font-style: italic;
+}
+
 
 /* ==========================================================================
    Helper classes
