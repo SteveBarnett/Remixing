@@ -3,10 +3,27 @@ layout: page
 title: Notes from Awakening to Zen
 zennotes: true
 added: 2025-05-11
-updated: 2025-05-14
+updated: 2025-05-21
 ---
 
 Notes from [Awakening to Zen by Roshi Philip Kapleau](https://www.goodreads.com/book/show/6556673-awakening-to-zen)
+
+## Gathered notes
+
+- **Respect the worth of every single object**
+- **Have an open heart for every single person**
+- **There is nothing to say, nothing to teach, nothing to point to, nothing to know, and no questions and answers to be concerned with**
+- **Spontaneous, free-flowing, creative, without compulsiveness, without regret or remorse**
+- The more we think about Reality the further we go from it
+    - Don't speculate about life and the world. Live it!
+- Striving for results is attachment. Striving to be unattached is a subtle kind of attachment.
+    - Names and forms aren't a problem: clinging to names or forms is
+    - If your identity becomes seeker, you may never find
+- Satori is like flipping over a watch, seeing the back face, and realising it has two sides all along
+- Zen operates in the concrete and real, the down to earth
+    - "[Reality] calls for Zen no more than water calls for wetness or fire for heat”
+- Koans are Zen’s method of demonstrating truth directly without recourse to logic or reason
+    - A good koan has a “bite” to it, a contradictory element that cannot be logically resolved.
 
 ## Direct notes
 
@@ -14,7 +31,7 @@ Notes from [Awakening to Zen by Roshi Philip Kapleau](https://www.goodreads.com/
 
 ### Author's Preface
 
-- ... alert wisdom of one walks the Path in the midst of life
+- ... alert wisdom of one who walks the Path in the midst of life
 
 ### Part I: Living Zen In America
 
@@ -22,8 +39,8 @@ Notes from [Awakening to Zen by Roshi Philip Kapleau](https://www.goodreads.com/
 
 - Koans are Zen's method of demonstrating truth directly without recourse to logic or reason.
 - More often that not, such questions [about what Zen is, about what a Zen person does] are a dodge, a subterfuge to avoid facing up to one's own life problems.
-- [You have everything you need to save yourself. Why, the, don't you do so and stop engaging in speculations?]
-- The average person is perpetually weaving ideas and embroidering notionsn *about* what they see or hears.
+- [You have everything you need to save yourself. Why, then, don't you do so and stop engaging in speculations?]
+- The average person is perpetually weaving ideas and embroidering notions *about* what they see or hears.
 - Basho: "How fortunate the person who sees a flash of lightning and does not think 'How brief life is!'"
 - **With each mental judgement or colouration the viewer or hearer is being take farther and farther away from the object itself, the experience itself, so their knowledge becomes correspondingly weaker and more distant and limited.**
 - Every explanation, no matter how subtle, is but looking from a single side at something that has infinite dimensions.
@@ -62,7 +79,7 @@ Notes from [Awakening to Zen by Roshi Philip Kapleau](https://www.goodreads.com/
 
 - It is fundamental that we can't help anybody until we first help ourselves. Until we have enough, we have nothing to spare.
     - [I don't agree with this. Or maybe the framing that someone has to be "finished" before helping someone else]
-- When there is no struggle in life, when things are provided, then a deep boredom can set in, a real inner dissatisfaction. There's nothing to strive for anymore and this provides its own pain,
+- When there is no struggle in life, when things are provided, then a deep boredom can set in, a real inner dissatisfaction. There's nothing to strive for any more and this provides its own pain.
 
 #### Mind-Altering Drugs: Commentary and Reflections
 
