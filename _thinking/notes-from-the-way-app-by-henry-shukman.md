@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zennotes: true
 added: 2024-11-22
-updated: 2025-04-21
+updated: 2025-05-24
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.
@@ -50,5 +50,6 @@ updated: 2025-04-21
 - I had been sitting with a koan for months, seemingly getting nowhere. But in fact, I was slowly learning to be patient with the practice, and stop minding whether anything 'happened' or not. And that was already a kind of progress.
 - koans are a 'language' that will only make sense when we let go of our ordinary construal of reality, and come to know the experience of any ordinary moment in a very different light – one not filtered and shaped by the assumptions and preconceptions of our everyday sense of self. For sure, they are not the only way to catch a glimpse of the non-dual. But the fact that they are mysterious and elliptical, and work indirectly, through poetic phrasing, seems to me to greatly recommend them. After all, we are grappling with the inexpressible here. It seems only right that it be conveyed by the nudges, winks and asides of the koan way.
 - **Meditation will not stop thoughts and feelings from arising, any more than you can stop the sound of a car horn beeping nearby from reaching your ears.**
+- With a koan, said Da-hui: eventually the mind may be so deep in the conundrums and paradoxes of a koan that eventually it just can’t move any more. It gets stuck. Exhausted by its own efforts, silenced by its own questioning, it may finally start to doubt its own version of reality, and relax its grip. It’s then, caught in its own entrapment, stuck in its tracks, that it can become still. Suddenly it’s truly silenced. And an entirely different view of reality breaks forth
 
 [The Way app](https://www.thewayapp.com/)
