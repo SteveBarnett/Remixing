@@ -3,7 +3,7 @@ layout: page
 title: 'The "just" in "just sitting"'
 zen: true
 added: 2024-05-28
-updated: 2024-09-10
+updated: 2025-05-30
 ---
 
 
@@ -22,6 +22,9 @@ updated: 2024-09-10
 Don’t do anything but sit there. You only need to sit. Just allow the sitting to take place.
 
 Sit like a mountain.
+
+- Thorough-minded sitting
+- Complete sitting
 
 ## Unproductive
 
