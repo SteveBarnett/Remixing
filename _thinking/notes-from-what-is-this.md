@@ -94,7 +94,7 @@ moment.
 
 ### Effortless effort
 
-- We have to say aware that we need to balance calmness/energy and stillness/brightness.
+- We have to stay aware that we need to balance calmness/energy and stillness/brightness.
 
 ## Good snowflakes: they don't fall anywhere else
 
