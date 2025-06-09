@@ -2,9 +2,17 @@
 layout: page
 title: Antifragile
 added: 2024-12-29
-updated: 2024-12-30
+updated: 2025-06-10
 longerform: true
 ---
+
+## Practical Practice bits
+
+Things that I'd like to keep front of mind
+
+- Focus more on **avoiding bad outcomes** than on trying to achieve good outcomes
+- Prefer **simpler, older, rules** and guidelines
+- Do lots of **small experiments**
 
 ## Memory version
 
