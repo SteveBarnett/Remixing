@@ -3,7 +3,34 @@ layout: page
 title: Shatterproof
 notes: true
 added: 2025-06-12
-updated: 2025-06-12
+updated: 2025-06-15
+---
+
+## Summarised bits
+
+- (Some overlap with antifragile (and kintsugi))
+- Harness life's chaos, break if you must, then build back better
+- humans’ three hardwired stress responses—bad things bias, the cortisol conundrum, and the anarchy of uncertainty—simply haven’t evolved to handle the complex challenges of contemporary life.
+- Resilience helps us maintain or regain our baseline strength and well-being, but not become better or stronger (is this definitional?).
+- We can't always control our levels of resistance.
+- We can overwork our resilience muscle.
+- Becoming shatterproof: harnessing our broken parts to access the best version of ourselves.
+    - Change is pain repurposed.
+- Pain is a signal to pay attention.
+- How does my history explain my responses? (Causes and conditions)
+    - What's the unmet need?
+- Three universal human needs
+    - confidence, brings feelings of worthiness, pride, learning, growth, and self-acceptance.
+    - choice, free to function without pressure or threat, acting with agency and integrity, and staying true to ourselves.
+    - connection, the sense that we belong, get along with others, and experience mutual closeness and support.
+- Spot your shadows: the automatic responses and behaviours we tend towards when our needs are thwarted.
+    - How is my current behavior different from when I’m my best?
+- What am I pretending not to know?
+- Confidence: find new ways to add value that don’t depend on naysayers’ opinions.
+- Choice: delegitimise the oppressor. Use humour to get the courage to act.
+- Connection: turn conflict into connection. Connection is belonging plus depth.
+- "conditional regard" when others only show affection or approval when we behave the way they want
+
 ---
 
 Notes from [Shatterproof: How to Thrive in a World of Constant Chaos (And Why Resilience Isn’t Enough) by Eurich, Tasha](https://www.shatterproof-book.com/)
@@ -122,11 +149,16 @@ emotions and physical symptms worsen. (3) Your behavior becomes less well-contro
        
 ## PART THREE Shatterproof Transformations and Tools
     
+### CHAPTER 9 Crafting Confidence
+
 - a fundamental level, confidence has two elements: a sense that we are doing well and a sense that we are getting better.
 - Because perfectionists tend to fuse their self-worth with their achievements, even small setbacks set off a spiral of self-doubt.
 - reflected best
-- (Conveniently for perfectionists, research shows that regular confidence crafting is a powerful strategy to distract us from dwelling on our deficiencies.)- What am I pretending not to know? 
-- Finding confidence when others challenge it ◦ Remember that we don’t need other people’s approval to craft confidence. ◦ Find new ways to add value that don’t depend on naysayers’ opinions.
+- (Conveniently for perfectionists, research shows that regular confidence crafting is a powerful strategy to distract us from dwelling on our deficiencies.)
+- What am I pretending not to know? 
+- Finding confidence when others challenge it
+    - Remember that we don’t need other people’s approval to craft confidence.
+    - Find new ways to add value that don’t depend on naysayers’ opinions.
 
 ### CHAPTER 10 Crafting Choice
 
@@ -141,7 +173,7 @@ emotions and physical symptms worsen. (3) Your behavior becomes less well-contro
 - The 2-2-2 tool permits us to pause for exactly forty-eight hours—no more, no less—while prioritizing what we need in the next two minutes, two hours, and two days
 - the groups and roles we identify with offer particular safety because of the social support and shared purpose that come with them.
 
-### CHAPTER 11 Crafting Connectio
+### CHAPTER 11 Crafting Connection
 - At our core, humans are relational beings.
 - Research reveals two basic building blocks of connection. The first is belonging.
 - The second connection building block is relationship depth.
@@ -150,9 +182,8 @@ emotions and physical symptms worsen. (3) Your behavior becomes less well-contro
 - OTHER WAYS TO CRAFT CONNECTIO
     - Turning Conflict into Connection
     - Something Greater Than Ourselves
-- Building blocks of connection: ) belonging (frequent, positive interactions), (2) relationship depth
+- Building blocks of connection: (1) belonging (frequent, positive interactions), (2) relationship depth
 (trust and intimacy-boosting interactions, reciprocal relationships).
-16
 
 ## CONCLUSION Building a Shatterproof Life
 
