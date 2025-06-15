@@ -3,7 +3,7 @@ layout: page
 title: Notes from The Way app by Henry Shukman
 zennotes: true
 added: 2024-11-22
-updated: 2025-05-26
+updated: 2025-06-15
 ---
 
 - Deep and transformative changes can happen when we sit and find stillness, even just for a little while, each day.
@@ -52,5 +52,10 @@ updated: 2025-05-26
 - **Meditation will not stop thoughts and feelings from arising, any more than you can stop the sound of a car horn beeping nearby from reaching your ears.**
 - With a koan, said Da-hui: eventually the mind may be so deep in the conundrums and paradoxes of a koan that eventually it just can’t move any more. It gets stuck. Exhausted by its own efforts, silenced by its own questioning, it may finally start to doubt its own version of reality, and relax its grip. It’s then, caught in its own entrapment, stuck in its tracks, that it can become still. Suddenly it’s truly silenced. And an entirely different view of reality breaks forth
 - The practice of meditation encourages resting in an awareness that holds all our thoughts and feelings – an awareness that is actually the space in which both cognitive and affective experience arises. But more than that, this awareness is the fundamental condition for all experience, of any kind at all. 
+- A reminder on these four primary faces of flow states:
+    - Effortlessness: That release where everything suddenly seems to be happening by itself.
+    - Fulfillment: A sense of intrinsic fulfillment, where nothing at all is lacking.
+    - Timelessness: When the present moment is the only time there is, and clock time vanishes.
+    - Selflessness: A beautiful shift where self-consciousness goes quiet.
 
 [The Way app](https://www.thewayapp.com/)
