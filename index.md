@@ -17,4 +17,4 @@ I occasionally run small ["events"](/eventing/) for small(ish) groups of friends
   
 ## Work
 
-I make **websites**. More specifically: I’m a human-centered front-end developer and user experience designer. I specialise in inclusive design and accessibility: making things that everyone can use, regardless of their device, the network they’re on, or any disabilities they might have. [Read more at my site naga.co.za](https://naga.co.za/).
+I make **websites**. More specifically: I’m a human-centred front-end developer and user experience designer. I specialise in inclusive design and accessibility: making things that everyone can use, regardless of their device, the network they’re on, or any disabilities they might have. [Read more at my site human-centred.nz](https://human-centred.nz/).

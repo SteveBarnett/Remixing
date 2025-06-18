@@ -154,7 +154,7 @@ Some things that I find relaxing:
 - reading
 - music(k?)ing.
 
-### [Naga list](https://naga.co.za/#enjoy)
+### [Naga list](https://human-centred.nz/#enjoy)
 
 The things I most enjoy doing at work are:
 

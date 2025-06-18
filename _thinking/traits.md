@@ -25,7 +25,7 @@ I have, apparently, quite a strong resistance to getting a diagnosis. I think I'
 
 A little like: "tall". What's "tall"? Above the average? Top 25%? We can't measure everyone, so how did we decide on the sample size? Does someone in the top 1% of heights have a height disorder? Is there one right height to be?
 
-This ties up with my thinking on [Layers](/thinking/layers/) and work-related thinking on disability generally: the [Think non-binary section of my MAP](https://naga.co.za/more-accessible-products/#think-non-binary) in particular.
+This ties up with my thinking on [Layers](/thinking/layers/) and work-related thinking on disability generally: the [Think non-binary section of my MAP](https://human-centred.nz/more-accessible-products/#think-non-binary) in particular.
 
 ## Gathered notes
 

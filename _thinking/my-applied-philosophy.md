@@ -183,7 +183,7 @@ What we can do.
 - Some Stoic and Cynic notes.
 - RWS
     - Relaxed (Reading, Art, Music (listen, make))
-    - Wise (Personal, Professional (see [STWPC on naga](https://naga.co.za/#enjoy), Practice)
+    - Wise (Personal, Professional (see [STWPC on naga](https://human-centred.nz/#enjoy), Practice)
     - Social
 - Antifragile
 - Redirects (Meditation, [Philotation](/notes/philosophy/philosophical meditation.jpg), Relax)
