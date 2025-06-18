@@ -3,7 +3,7 @@ layout: page
 title: Overcoming Performance Anxiety
 notes: true
 added: 2025-06-13
-updated: 2025-06-13
+updated: 2025-06-16
 ---
 
 I tend to be a little nervous and anxious, so I like (re)reading and (re)thinking and ways to soften that.
@@ -20,6 +20,20 @@ I tend to be a little nervous and anxious, so I like (re)reading and (re)thinkin
 - You get better with practice
     - With experience and time, the nerves usually fade a bit
     - **Give yourself some grace** for being human
+
+Tiny version, for a memory hook
+
+- **Ready**
+- **Care**
+- **Settle**
+- then
+- **Regulate**
+- and
+- **Grace**
+
+> Ready, Care, Settle! Regulate.
+
+Mental image: a runner of the starting blocks, hand on heart, floop onto floor, deep breaths.
 
 ## Notes from ["Overcoming Performance Anxiety" on The Growth Equation](https://thegrowtheq.com/overcoming-performance-anxiety/)
 
