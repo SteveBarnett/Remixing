@@ -3,10 +3,22 @@ layout: page
 title: Shatterproof
 notes: true
 added: 2025-06-12
-updated: 2025-06-15
+updated: 2025-06-21
 ---
 
-## Summarised bits
+## Summary of summary
+
+- Shatterproff: harnessing life's chaos to build better back, maybe including breaking along the way
+- Contemporary life has complex challenges our stress system haven't evolved to handle
+- Resilience is just about maintenance, not growth. We can run our resilience battery flat.
+- Pain is a signal to pay attention. 
+    - What’s the unmet need?
+    - What are the causes and conditions that led to this response?
+- Three universal human needs: confidence, choice, connection.
+- Ask: how is my current behavior different from when I’m my best?
+- Ask: what am I pretending not to know?
+
+## Summary
 
 - (Some overlap with antifragile (and kintsugi))
 - Harness life's chaos, break if you must, then build back better
