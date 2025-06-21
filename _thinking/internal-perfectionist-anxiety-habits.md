@@ -3,14 +3,36 @@ layout: page
 title: Internal Perfectionist Anxiety Habits
 longerform: true
 added: 2025-06-19
-updated: 2025-06-19
+updated: 2025-06-21
 ---
 
 Bringing together and mashing up some IFS bits, Perfectionist bits, Performance Anxiety, and Tiny Habits / Atomic Habits / Switch.
 
-Something I realised scribbling my [Overcoming Performance Anxiety](/thinking/performance-anxiety/) notes was how my thoughts still tended to veer towards Perfectionism. When this is combined with my tendency towards binary thinking, it can exacerbate into "The First Step Problem". I think that's the main thing I want to explore here.
+## Summary of sorts
+
+- Focus on good, then bad. One at a time.
+- Remove fear and demotivators rather than increase hope and motivators.
+- We change by feeling good, not by feeling bad
+
+Motivation is complex and unreliable, especially when towards an abstraction
+
+- Immediate, tiny, celebration
+- Follow the bright spots
+- Script the critical steps
+- Do the thing to bring about the mood; don’t wait for the mood to do the thing
+    - LSD (Listen, Slow your tempo, Doubt)
+    - Loosen your attachment to the idea of The First Step Problem
+    - Keep don’t-know mind
+    - Just begin again
+
+- For good habits
+    - Want/need a push
+- For bad habits
+    - Want/need a short-circuit
 
 ## The First Step Problem
+
+Something I realised scribbling my [Overcoming Performance Anxiety](/thinking/performance-anxiety/) notes was how my thoughts still tended to veer towards Perfectionism. When this is combined with my tendency towards binary thinking, it can exacerbate into "The First Step Problem". I think that's the main thing I want to explore here.
 
 The "once the event starts you’ll settle in" line in particular resonated for me. I've felt that very viscerally many times when I've done a talk about work stuff. That first ten minutes is a heart-pumping adrenaline-fuelled thrill ride. But then I settle in and start to enjoy it.
 
@@ -44,6 +66,8 @@ The blocker is stopping once you've started.
 
 Ideas for helping with The First Step Problem.
 
+Including: loosening the idea, the concept, of it.
+
 ### Both
 
 - Watch the first step.
@@ -68,7 +92,7 @@ Ideas for helping with The First Step Problem.
 - Tiny Habits
     - Behaviour = **Motivation** × Ability × **Prompt**
     - **We change by feeling good, not by feeling bad**
-    - Immediate, tiny, celebration
+    - **Immediate, tiny, celebration**
     - **Motivation is complex and unreliable, especially when towards an abstraction**
     - **Big actions make a good narrative, but small actions tend to more successful**
     - Action-based Prompts are more reliable than Person or Context.
@@ -84,7 +108,7 @@ Ideas for helping with The First Step Problem.
 ### Good
 
 - Pay extra attention to the first step.
-- Do the thing to bring about the mood; don't wait for the mood to do the thing.
+- **Do the thing to bring about the mood; don't wait for the mood to do the thing.**
 - Notice that your resistance is to the first step.
 - Remember that every step afterwards is easy in comparison.
 - Tip over the waterfall.
@@ -96,3 +120,9 @@ Ideas for helping with The First Step Problem.
 - Notice the next step as though it's the first step.
 - Is it really more difficult to stop after the first step? Can I just begin again?
 - Ride the wave, surf it.
+
+### Concept vs Reality
+
+- Concepts are many, simple, static. Reality is one, complex, flow.
+- The First Step Problem is a concept. It simplifies and calcifies and separates the Reality that's complex and changing and connected.
+- Loosen your attachment to the idea of The First Step Problem. Realise it's [empty](/thinking/empty/).
