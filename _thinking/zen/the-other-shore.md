@@ -3,10 +3,24 @@ layout: page
 title: The Other Shore
 zennotes: true
 added: 2025-06-15
-updated: 2025-06-15
+updated: 2025-06-21
 ---
 
-## Summarised bits
+## Summary of the summary
+
+- All phenomena are products of **interdependent co-arising**.
+- **To be is to inter-be**. Every *thing* is made of *non-thing* elements.
+- Everything is empty. **Empty of a fixed, separate, self-nature.**
+- Including the Path, insight, and attainment.
+    - Emptiness in space is interbeing. Emptiness in time is impermanence.
+- Being on the Path, chasing and grasping after something, means having to wait to be happy.
+- **Every step must be happy**, the process/means must be happy for the ends to be happy.
+- **No birth. No death. Only change and continuation.**
+- Polarities are just ideas, they don't correspond to Reality.
+    - Like being and non-being.
+    - Something can’t become nothing. Nothing can’t become something.
+
+## Summary
 
 - When we encounter polarities we tend to believe that one must be right and the other wrong.
 - But all phenomena are products of interdependent co-arising.
@@ -28,7 +42,7 @@ updated: 2025-06-15
     - (No edges, no centre. No fixity.)
 - The day the day you were born is just the day you manifested in this form.
 - There is no birth. There is not death. There is only change and continuation.
-- (Don't forget) Something can't be nothing. Nothing can't become something.
+- (Don't forget) Something can't become nothing. Nothing can't become something.
     - The categories of being and non-being do not correspond to reality.
 - Everything interpenetrates. Inside and outside are just ideas, they don't apply to Reality.
 - We need to transcend all pairs of opposites, all duality, to touch the Absolute.
