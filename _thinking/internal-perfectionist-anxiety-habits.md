@@ -3,18 +3,20 @@ layout: page
 title: Internal Perfectionist Anxiety Habits
 longerform: true
 added: 2025-06-19
-updated: 2025-06-21
+updated: 2025-06-23
 ---
 
 Bringing together and mashing up some IFS bits, Perfectionist bits, Performance Anxiety, and Tiny Habits / Atomic Habits / Switch.
 
 ## Summary of sorts
 
-- Focus on good, then bad. One at a time.
+- Focus on one type of behaviour at a time.
 - Remove fear and demotivators rather than increase hope and motivators.
-- We change by feeling good, not by feeling bad
+    - Motivation is complex and unreliable, especially when towards an abstraction.
+- We change by feeling good, not by feeling bad.
+- Everything is your main practice.
 
-Motivation is complex and unreliable, especially when towards an abstraction
+### Tools and techniques
 
 - Immediate, tiny, celebration
 - Follow the bright spots
@@ -24,7 +26,6 @@ Motivation is complex and unreliable, especially when towards an abstraction
     - Loosen your attachment to the idea of The First Step Problem
     - Keep don’t-know mind
     - Just begin again
-
 - For good habits
     - Want/need a push
 - For bad habits
