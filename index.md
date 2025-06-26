@@ -5,7 +5,7 @@ layout: page
 
 Hi, I’m Steve. I like [remixing](/thinking/my-pattern-skillset-research-remix-replay/) things.
 
-I tend to be quite reflective. I like setting [Themes for years](/themes/) (and months) and then [reviewing](/review/) the years (and months). Most recent update: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}).
+I tend to be quite reflective. I like setting [Themes for years](/themes/) (and months) and then [reviewing](/review/) the years (and months).
 
 ## Personal
 
@@ -18,3 +18,11 @@ I occasionally run small ["events"](/eventing/) for small(ish) groups of friends
 ## Work
 
 I make **websites**. More specifically: I’m a human-centred front-end developer and user experience designer. I specialise in inclusive design and accessibility: making things that everyone can use, regardless of their device, the network they’re on, or any disabilities they might have. [Read more at my site human-centred.nz](https://human-centred.nz/).
+
+## Now-ish
+
+Current Theme: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}).
+
+Most recent writing:
+
+{% include recent.html %}
