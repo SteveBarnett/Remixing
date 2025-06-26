@@ -6,6 +6,8 @@ added: 2025-06-21
 updated: 2025-06-21
 ---
 
+Notes from [Japan: A curated guide to the best areas, food, culture & art by Michelle Mackintosh and Steve Wide](https://www.goodreads.com/book/show/61199881-japan)
+
 * Display TOC
 {:toc}
 
@@ -20,7 +22,7 @@ updated: 2025-06-21
 ## Introduction
 
 - Japan's trains make intrepid adventures comfortable and interesting.
-- Crossing the souther divide and travelling down to Shikoku, Kyūshū, or Okinawa, you will find that the atmosphere becomes distinctly more relaxed and summery.
+- Crossing the southern divide and travelling down to **Shikoku, Kyūshū, or Okinawa**, you will find that the atmosphere becomes **distinctly more relaxed and summery**.
 
 ## Before you go
 
@@ -32,3 +34,29 @@ updated: 2025-06-21
 ### Autumn
 
 - Milder days, stunning foliage, a time for strolling and taking pictures.
+
+## Places to stay
+
+- Staying in a <span lang="jp">ryokan</span> in an <span lang="jp">onsen</span> area is one of life's highlights
+- Seven Stars in Kyushu - luxury train journey
+- For a real insight in Japan, a homestay
+- Reserve your seat – it's free if you have a JR pass.
+    - Buy before you leave
+- Autumn trains
+    - [Eizan railway](https://eizandensha.co.jp/en/) to Kurama Maple Leaf Tunnel
+    - [JP Rikii-To line](https://tohokuandtokyo.org/spot_31)
+- Spring trains
+    - [Hanwa line](https://www.osakastation.com/the-jr-hanwa-line-kishuji-rapid-service-for-otori-hineno-wakayama/)
+    - Kominato railway
+- Favourite things: Omiyage (regional souvenirs)
+
+## Culinary Japan
+
+- Gyoza
+    - Aomori, Tohoku - katsu served with (regional speciality) apple gyoza
+    - Halata, Kyushu - Japan's "food of the people" capital, chunky plate gyoza
+    - Kanazawa, Chubu - white gyoza, thicker dough, intense garlic in filling
+    - Utsunomiya, Kanto - gyoza capital of the world
+- Ramen in Fukuoka in Kyushu
+- Shojin Ryori - Buddhist cuisine, often served in temples
+- Kaiseki Ryori - haute cuisine
