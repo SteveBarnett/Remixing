@@ -3,10 +3,24 @@ layout: page
 title: Internal Perfectionist Anxiety Habits
 longerform: true
 added: 2025-06-19
-updated: 2025-06-23
+updated: 2025-06-27
 ---
 
 Bringing together and mashing up some IFS bits, Perfectionist bits, Performance Anxiety, and Tiny Habits / Atomic Habits / Switch.
+
+## Summary of sort of the summary of sorts
+
+PRC: Prompts, Removals, Celebrations.
+
+1. Script and **prompt** the critical steps
+2. **Remove** fear and demotivators
+3. Immediate, tiny, **celebration** after any size of success
+
+Next: application ideas, given The First Step / [Binary flip-flopping](/thinking/binary-flip-flopping/).
+
+- Before the first step
+- After the first step
+- After several steps?
 
 ## Summary of sorts
 
