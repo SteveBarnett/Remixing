@@ -3,7 +3,7 @@ layout: page
 title: Internal Perfectionist Anxiety Habits
 longerform: true
 added: 2025-06-19
-updated: 2025-06-27
+updated: 2025-06-28
 ---
 
 Bringing together and mashing up some IFS bits, Perfectionist bits, Performance Anxiety, and Tiny Habits / Atomic Habits / Switch.
@@ -21,6 +21,11 @@ Next: application ideas, given The First Step / [Binary flip-flopping](/thinking
 - Before the first step
 - After the first step
 - After several steps?
+
+### From older Practice notes
+
+- [The three uhds](/thinking/the-three-uhds/)
+- Give everything a warm welcome
 
 ## Summary of sorts
 
