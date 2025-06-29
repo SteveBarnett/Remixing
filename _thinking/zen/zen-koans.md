@@ -3,12 +3,17 @@ layout: page
 title: Zen Koans
 zen: true
 added: 2024-04-25
-updated: 2024-08-14
+updated: 2025-06-29
 ---
  
 - Koans aren't riddles to be solved. They're pointers on the path (noting that path is goal is path).
 - Sit with the question. Let the "answer" come forth and reveal itself.
 - Part of the practice is to accept their unanswerability.
+
+---
+
+* Display TOC
+{:toc}
 
 ## On Koans
 
@@ -102,3 +107,29 @@ Two monks were arguing about a flag. One said: "the flag is moving." The other s
 ### Proceed from the Top of the Pole
 
 Sekiso asked: "How can you proceed on from the top of a hundred-foot pole?"
+
+---
+
+## From "Writings from the Zen Masters"
+
+(The Gateless Gate)
+
+### Gutei's Finger ☝️
+
+> Gutei raised a finger whenever he was asked about his Zen. <br>...<br>"I attained my finger-Zen," he said, "from my teacher Tenryu, and in my whole life I could not exhaust it"
+
+### Kyogen Mounts The Tree
+
+> Kyogen said: "Zen is like a man hanging in a tree by his teeth over a precipice. His hands grasp no branch, his feet rest on no limb, and under the tree another person asks him: 'Why did Bodhidharma come from China to India?'"<br>"If the man in the tree does not answer, he fails; and if he does answer, he falls and loses his life. Now what shall he do?"<br><br>*Mumon's comment:* **In such a predicament the most talented eloquence is of no use.**
+
+### Tozan's Three Pounds
+
+> A monk asked Tozan when he was weighing some flax: "What is Buddha?"<br>Tozan said: "This flax weighs three pounds."
+
+### Do No Think Good, Do Not Think Not-Good
+
+> ...<br>The sixth patriarch said: "When you do not think good and when you do not think not-good, what is your true self?"
+
+### Shuzan's Short Staff
+
+> Shuzan held out his short staff and said: "If you call this a short staff, you oppose its reality. If you do not call it a short staff, you ignore the fact. Now what do you call this?"
