@@ -3,7 +3,7 @@ layout: page
 title: Notes from Joan Tollifson books and articles
 notes: true
 added: 2025-01-01
-updated: 2025-01-01
+updated: 2025-07-02
 ---
 
 Trying to focus on "this is it". Poking more at shoulds and coulds of [the three uhds](/thinking/the-three-uhds/) and "[The infinite causes and conditions of Reality create everything](/thinking/map/#causes-and-conditions)".
@@ -14,6 +14,7 @@ Trying to focus on "this is it". Poking more at shoulds and coulds of [the three
     - Events themselves aren't undignified or humiliating. **Events are free of the labels, stories, and judgements that thought adds.**
     - Do nothing. Resist nothing. Notice thoughts arise, capture and hypnotise us, then pass away.
     - **Tune into the felt experience, before thoughts.** Allow awareness to illuminate what is, let it loosen the grip.
+- **We act in the only way possible given our conditioning up to that moment and the infinite causes and conditions of the world, from which we are inseparable.**
 
 I still find this hard to settle into. A more "active" and involved stance like "[Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way](/thinking/map/#signposts)" feels like a better fit for me, for where I'm at.
 
