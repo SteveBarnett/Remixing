@@ -112,24 +112,38 @@ Sekiso asked: "How can you proceed on from the top of a hundred-foot pole?"
 
 ## From "Writings from the Zen Masters"
 
-(The Gateless Gate)
+### The Gateless Gate
 
-### Gutei's Finger ☝️
+#### Gutei's Finger ☝️
 
 > Gutei raised a finger whenever he was asked about his Zen. <br>...<br>"I attained my finger-Zen," he said, "from my teacher Tenryu, and in my whole life I could not exhaust it"
 
-### Kyogen Mounts The Tree
+#### Kyogen Mounts The Tree
 
 > Kyogen said: "Zen is like a man hanging in a tree by his teeth over a precipice. His hands grasp no branch, his feet rest on no limb, and under the tree another person asks him: 'Why did Bodhidharma come from China to India?'"<br>"If the man in the tree does not answer, he fails; and if he does answer, he falls and loses his life. Now what shall he do?"<br><br>*Mumon's comment:* **In such a predicament the most talented eloquence is of no use.**
 
-### Tozan's Three Pounds
+#### Tozan's Three Pounds
 
 > A monk asked Tozan when he was weighing some flax: "What is Buddha?"<br>Tozan said: "This flax weighs three pounds."
 
-### Do No Think Good, Do Not Think Not-Good
+#### Do No Think Good, Do Not Think Not-Good
 
 > ...<br>The sixth patriarch said: "When you do not think good and when you do not think not-good, what is your true self?"
 
-### Shuzan's Short Staff
+#### Shuzan's Short Staff
 
 > Shuzan held out his short staff and said: "If you call this a short staff, you oppose its reality. If you do not call it a short staff, you ignore the fact. Now what do you call this?"
+
+### Zen Stories
+
+#### The Sound of One Hand
+
+> At last little Toyo entered true meditation and transcended all sounds. "I could collect no more," he explained later, "so I reached **the soundless sound**."<br>Toyo had realised the sound of one hand.
+
+#### Learning to be Silent
+
+> The pupils of Tendai school used to study meditation before Zen entered Japan. Four of them who were intimate friends promised one another to observe seven days of silence.<br>On the first day all were silent. Their meditation had begun auspiciously, but when night came and the oil-lamps were growing dim one of the pupils could not help exclaiming to a servant: "Fix those lamps."<br>The second pupil was surprised to hear the first one talk. "We are not supposed to say a word," he remarked.<br>"You two are stupid. Why did you talk?" asked the third.<br>"I am the only one who has not talked," concluded the fourth pupil.
+
+#### The Taste of Banzo's Sword
+
+> "A man in such a hurry as you are to get results seldom learns quickly."
