@@ -15,6 +15,8 @@ Most recent writing:
 
 {% include recent.html %}
 
+See also: [Thinking archive](/thinking/archive/).
+
 ## Personal
 
 I like **reading** for fun and for learning. I keep a [reading list](/reading/) to look at patterns and interests over time. I try to read widely, but I particularly like sci-fi, psychology, and (several flavours of) philosophy. I write up notes to help me summarise and remember stuff. I used to do that on mostly on [index cards](/notes/), but at the moment I mostly put the notes in my [thinking section](/thinking/), in a digital [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)-like format.
