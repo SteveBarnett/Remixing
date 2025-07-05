@@ -2,12 +2,12 @@
 layout: page
 title: Unity, revisited
 added: 2025-07-04
-updated: 2025-07-04
+updated: 2025-07-05
 ---
 
-- Notice the distinctions, but don't name things and create division
-- Notice what's happening, but don't hold on to the story of the self
-- Notice the ingoing and complete flux and flow of everything
+- Notice the **distinctions**, but don't name things and create division
+- Notice what's happening, but **don't hold on to the story of the self**
+- Notice the **ongoing and complete flux and flow** of everything
 
 To revisit: **fully being in the Relative is how we touch the Absolute**.
 
