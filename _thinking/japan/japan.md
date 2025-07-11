@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-06-21
-updated: 2025-06-21
+updated: 2025-07-10
 ---
 
 Notes from [Japan: A curated guide to the best areas, food, culture & art by Michelle Mackintosh and Steve Wide](https://www.goodreads.com/book/show/61199881-japan)
@@ -60,3 +60,83 @@ Notes from [Japan: A curated guide to the best areas, food, culture & art by Mic
 - Ramen in Fukuoka in Kyushu
 - Shojin Ryori - Buddhist cuisine, often served in temples
 - Kaiseki Ryori - haute cuisine
+
+## Japan by region
+
+Main islands North to South
+
+- Kokkaido
+- Honshū
+- Shikoku
+- Kyūshū
+
+### Kantō
+
+#### Nikkō
+
+- Tranquil, historical, specatular, inspiring
+- Shrine-hopping, an embarrassment of food riches
+- Hiking is highly regarded in the area
+
+#### Takasaki
+
+City with a country atmosphere, friendly, the land of <span lang="jp">daruma</span>.
+
+#### Nasu
+
+Oukoku onsen - a view of capybara lazily soaking in their own hot springs.
+
+#### Utsunomiya
+
+Renowed for gyoza eateries.
+
+#### Tōhoku
+
+- (Top of Honshū)
+- Famous for hot springs, autumn foliage, winter snows, lakes, mountainous peaks and spectacular vistas.
+
+#### Akita city
+
+- City surrounded by nature, mountains, scenic, rustic, rural
+- Akita dog everything, bent-cedar woodcraft
+
+#### Aomori
+
+Northern port city, relaxed, sleepy, festive, underground arts scene.
+
+#### Morioka
+
+- Peaceful, somewhat gentle city
+- Relaxed, local, friendly, arts and crafts
+
+#### Naruko Onsen
+
+Premium <span lang="jp">onsen</span> town, obsessed with <span lang="jp">kakeshi</span> dolls, autumn colours in Naruko Gorge
+
+### Chūbu
+
+Central
+
+#### Kanazawa
+
+Some of the region's most amazing food.
+
+#### Matsumoto
+
+- Peaceful, creative, historical, architectural
+
+### Kansai
+
+
+
+
+
+
+---
+
+#### Shikoku Henro - Eighty-eight temple pilgrimage trail
+
+- Long hike spanning all of Shikoku
+- Four stages
+
+---
