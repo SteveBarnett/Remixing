@@ -3,9 +3,25 @@ layout: page
 title: The Happiness of Dogs
 notes: true
 added: 2025-07-08
-updated: 2025-07-08
+updated: 2025-07-17
 ---
 
+## Gathered notes
+
+- Meaning in life is authentic happiness. When there's no gap between identity and action.
+- We think we're better than other animal because we can examine our lives. But other animals don't need to examine their lives.
+- Reflection is consciousness turning back on itself. It's an agent of separation.
+- Flow states attenuate the sense of self.
+- Sometimes when an animal fails a psychological test set by humans, it's because it can't be bothered to pass it, not that it can't.
+- Nature prefers spectrums to binaries.
+- Reflection brings doubt, which stops us from being fully committed.
+    - Being aware of your resolve to do something, you cease to be resolved.
+- Anthropofabulation: a pronounced human tendency to provide overcomplicated accounts of how we manage to do things.
+
+### Dog-specific
+
+- Dogs can reason logically. However, all things being equal, they prefer not to.
+- As pen and paper changed the architecture of human cognition, domestication changed the architecture of canine cognition: the extended mind changed. Not worse, just changed.
 
 ## Raw notes
 
