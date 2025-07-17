@@ -3,15 +3,12 @@ layout: page
 title: Slowing down and making time
 notes: true
 added: 2025-07-17
-updated: 2025-07-17
+updated: 2025-07-18
 ---
 
-- When you slow down, you have more time
-- Rushing reinforces the sense of time pressure
-- The pull to be busy creates a self, what I am doing, where I am going
-- There's no need to be busy
-- We always have time for what we consider important
-- Being overly busy can't bring peace
+- There's no need to be busy.
+- Being overly busy can't bring peace. Rushing reinforces the sense of time pressure. The pull to be busy creates a self, what I am doing, where I am going.
+- When you slow down, you have more time.
 
 ## [Practice the Art of Slowing Down - Tricycle: The Buddhist Review](https://tricycle.org/article/slowing-down-buddhism/)
 
