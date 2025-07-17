@@ -1,7 +1,7 @@
 {%- assign sectionposts = site.thinking | sort: "updated" | reverse -%}
 
 <ul>
-{%- for sectionpost in sectionposts limit: 5 -%}
+{%- for sectionpost in sectionposts limit: 7 -%}
 
 <li data-month="{{ sectionpost.updated | date: "%m" }}">
   <a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
