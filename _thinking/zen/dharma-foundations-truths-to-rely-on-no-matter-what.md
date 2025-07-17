@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dharma Foundations: Truths to Rely on No Matter What"
-notes: true
+zennotes: true
 added: 2025-07-17
 updated: 2025-07-17
 ---
