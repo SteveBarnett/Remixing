@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-06-21
-updated: 2025-07-10
+updated: 2025-07-23
 ---
 
 Notes from [Japan: A curated guide to the best areas, food, culture & art by Michelle Mackintosh and Steve Wide](https://www.goodreads.com/book/show/61199881-japan)
@@ -12,12 +12,13 @@ Notes from [Japan: A curated guide to the best areas, food, culture & art by Mic
 {:toc}
 
 - Seasons
+    - **Spring - March-May - Cool mornings give way to warm days and cherry blossoms**
     - Summer - June-August - Humid, relentlessly hot
     - **Autumn - September-November, Cooler nights, mild to crisp days**
-    - Rainy season - Early-June to mid-June
     - Winter - December-February - Cold and crisp with blue skies
+- Weather
+    - Rainy season - Early-June to mid-June
     - Typhoon season - June-October - worst July-August
-    - **Spring - March-May - Cool mornings give way to warm days and cherry blossoms**
 
 ## Introduction
 
@@ -127,9 +128,60 @@ Some of the region's most amazing food.
 
 ### Kansai
 
+- Broad swath across Honshū - traditional, spiritual, inspirational Japan
+- Temples and shrines, mountains, food specialities, hidden secrets
 
+#### Kyoto
 
+- lush hiking paths, looming temples, inspiring gardens, deeply rooted culture
+- living the quiet life, worshipping nature and everything it provides
+- a present-day city snuggled in the arms of an ancient world
+- [Another Kyoto Official Travel Guide](https://www.kyototourism.org/en/)
+- [Kyoto Travel - Kyoto City Official Guide](https://kyoto.travel/en)
+- Higashiyama - the hills are alive with shrines and temples
+- The north: forest glades, hidden temples, old towns with a new attitude
+- The "suburbs" further north
+- Tōfuku-ji - one of the most important temples of the Rinsai sect
 
+#### ★ Arashiyama 
+
+- Kyoto on a condensed scale in the quaintest country setting, surrounded by verdant mountains and lying on the banks of the rolling Katsura river.
+- Atmosphere: Relaxed, walks, mountains, rivers, bridges, spiritual, temples and shrines
+- On the northern side of Togetsu-kyō is Sagano, where you'll find fewer people and a more relaxed atmosphere, along with plenty of natural wonders and ancient sights.
+
+#### Nara
+
+- Kasugayama Primeval Forest: woodlands, waterfalls, birds
+
+#### Osaka
+
+- Osaka is loose, rowdy, and busy
+
+#### Lake Biwa
+
+- Chikubu island, not populated, easy to reach from Nagahama, Imazu, Hikone
+
+#### Mount Kōya
+
+- Powerful and spiritual, big contrast to nearby Osaka
+
+### Chūgoku
+
+- rich in culture and history
+
+#### Izumo
+
+- historic, spiritual, tranquil, ancient
+
+### Hokkaidō
+
+- rugged coastlines, frosty mountains, frozen north
+- Sapporo - a mix of city and country
+
+#### Sapporo
+
+- Surrounded by mountains, forests, and vast open spaces.
+- Known all over Japan for its food.
 
 
 ---
