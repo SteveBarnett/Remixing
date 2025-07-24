@@ -108,6 +108,12 @@ Two monks were arguing about a flag. One said: "the flag is moving." The other s
 
 Sekiso asked: "How can you proceed on from the top of a hundred-foot pole?"
 
+### Blow Out the Candle
+
+Tokusan was studying Zen under Ryutan. One night he came to Ryutan and asked many questions. The teacher said: "The night is getting old. Why don't you retire?"<br>
+So Tokusan bowed and opened the screen to go out, observing: "It is very dark outside."<br>
+**Ryutan offered Tokusan a lighted candle to find his way. Just as Tokusan received it, Ryutan blew it out.** At that moment the mind of Tokusan was opened.
+
 ---
 
 ## From "Writings from the Zen Masters"
