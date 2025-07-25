@@ -3,12 +3,17 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-07-23
+updated: 2025-07-25
+permalink: /thinking/japan/
 ---
 
 ## Gathered thoughts
 
 - Autumn - September-November - mild to crisp, stunning foliage
+- Friend who lives there reckons end of Winter into Spring is better
+    - March, April, May?
+    - end of Winter, February - Cold and crisp with blue skies
+    - Spring - March-May - Cool mornings give way to warm days and cherry blossoms
 - Kansai, South Honshū
     - Japan’s cultural heartland, temples and shrines, mountains
         - Kyoto
