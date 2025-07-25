@@ -3,7 +3,7 @@ layout: page
 title: Zen Koans
 zen: true
 added: 2024-04-25
-updated: 2025-06-29
+updated: 2025-07-25
 ---
  
 - Koans aren't riddles to be solved. They're pointers on the path (noting that path is goal is path).
