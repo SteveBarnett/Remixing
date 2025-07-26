@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Philosophical Meditation
+title: Philotation (Philosophical Meditation)
 notes: true
 added: 2025-07-09
 updated: 2025-07-09
+star: true
 ---
 
 Note → Unpack → Reassure/plan
