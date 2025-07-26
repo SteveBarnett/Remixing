@@ -3,15 +3,23 @@ layout: page
 title: LSD
 longerform: true
 added: 2024-08-13
-updated: 2024-12-26
+updated: 2025-07-27
+star: true
 ---
 
-- **L**isten. Notice, without judgement, with acceptance. Notice:
-    - the centre (yourself at zero distance)
-    - the lack of edges (the boundarylessness of everything, distinction but not division)
-    - the changes (things arising and passing away on their own, the ever-moving flow of Reality)
+- **L**isten.
+    - Notice, and accept what's there
+    - Somatic
+        - *Where exactly* in your body you feel the somatic experience?
+        - *What else* is there?
+    - Meditative
+        - The *centre* (yourself at zero distance)
+        - The lack of *edges* (the boundarylessness of everything, distinction but not division)
+        - The *changes* (things arising and passing away on their own, the ever-moving flow of Reality)
 - **S**low your tempo
 - **D**oubt
+
+---
 
 I was thinking about [RAIN](/thinking/wider-rain-practice/) and [SNAIW](/thinking/revisiting-rest/#snaiw-) and [Slow, Accept, Open](/thinking/revisiting-rest/#slow-accept-open) and things, and about tweaking the wording to make it a better fit for me. I was looking for phrasing that helped me stay the course more, restricted me a bit more. I whittled down to this.
 
