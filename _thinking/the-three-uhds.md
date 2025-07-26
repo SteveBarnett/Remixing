@@ -4,6 +4,7 @@ title:  The three uhds
 longerform: true
 added: 2024-07-04
 updated: 2025-01-01
+star: true
 ---
 
 An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-of-letting-go-s/).
