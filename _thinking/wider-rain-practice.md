@@ -4,12 +4,12 @@ title: Wider RAIN practice
 longerform: true
 added: 2023-12-04
 updated: 2024-12-17
+star: true
 ---
 
 I'm a big fan of [Tara Brach's RAIN meditation](https://www.tarabrach.com/category/rain/) (Recognize, Allow, Investigate, Nurture) and it's companion "[After the RAIN](https://www.tarabrach.com/after-the-rain-i/)".
 
 I've been thinking about extending these forward / earlier slightly, continuing with the rain metaphor.
-
 
 ## Before the RAIN
 
