@@ -9,8 +9,9 @@ star: true
 
 - **L**isten.
     - Notice, and accept what's there
+        - The "Of course" from [could of The Three Uhds](/thinking/the-three-uhds/#coulds)
     - Somatic
-        - *Where exactly* in your body you feel the somatic experience?
+        - *Where exactly* do you feel the somatic experience?
         - *What else* is there?
     - Meditative
         - The *centre* (yourself at zero distance)
