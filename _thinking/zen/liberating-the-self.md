@@ -194,7 +194,186 @@ and energy of these emotions.
 
 ##### Envy and Jealousy: A Distortion of Empathetic Joy (Muditā)
 
-...
+- Envy is not just craving someone else’s success; it stirs our conviction of our future losses.
+- Practicing with Envy and Jealousy
+- Envy and Jealousy to Empathetic Joy
+- Common Resistances to Empathetic Joy
+    - Some resistances to empathetic joy include a lifetime of fear of scarcity; conviction that if we open to empathetic joy, it will confirm we are not worthy or valued; and the belief that if we open to empathetic joy, it will be taken away immediately.
+    - With repeated contact with the Absolute, we come to know and trust its offerings, which are given without qualifications and never withdrawn.
+- My Experience with Envy, Jealousy,and Empathetic Joy
+    - love and possessions as an undivided quantity. There is, in reality, always a surplus of both in the world. My perspective was the limiting factor.
+
+##### Guilt: A Distortion of Loving-Kindness (Mettā)
+
+- On our spiritual journey, from First Awakening to fully integrated self-realization, we must be oriented inward. We must become intimate with and adept at navigating our interiority of experience. This inner turn can feel disquieting.
+- The act of seeing it reduces its effect on us.
+- when witnessed, can become something we can engage rather than something that overwhelms us.
+- Practicing with Guilt
+- Guilt to Loving-Kindness
+    - By openly accepting the guilt without taking it personally, we soften. We can realize that guilt is a reaction of mind.
+- Common Resistances to Loving-Kindness
+- There are a number of well-known resistances to loving-kindness, including aversion and self-hatred.
+- Aversion is a sweeping rejection of what is happening now, and it allows us to hide from or avoid reality.
+- We are only temporarily masking the emotional suffering, and it will probably still be here after our aversion wanes.
+- My Experience with Guilt and Loving-Kindness (Unborn Love)
+
+##### Greed and Resentment: A Distortion of Equanimity (Upekkhā)
+
+- Greed is an unquenchable thirst for more.
+- This greed comes from our firm belief in our self-deficiency.
+- Practicing with Greed and Resentment
+- Greed and Resentment to Equanimity
+    - the goal of spiritual practice and engagement is not maintaining any particular state or spiritual quality—it is accurately and wholesomely being with whatever is present in this moment.
+- When we are openly present with these challenging emotions, the energy from the event that is embedded in these emotions is released or tapped off.
+- One crucial difference between indifference and equanimity is acceptance. With equanimity, there is a deep acceptance of what is happening
+- Common Resistances to Equanimity
+- Some of the common resistances to equanimity include a rejection of this moment and fear that life contains nearly exclusively bad results.
+- We avoid the present moment because it is crackling with aliveness. It is a little too real.
+- My Experience with Greed, Resentment, and Equanimity
+    - Rather than a crushing admission, it was a liberation from all the conflicting and competing thoughts I had had while trying to avoid the conclusion
+- Once we can accept the truth of our deep longing, our wanting to be loved and included, we can more fully accept the truth of how life actually is rather than holding on to our deepest wish for how life should be.
+- Everything in life was exactly in the right place regardless of whether that place matched my idea of the right place.
+
+##### Cruelty: A Distortion of Compassion (Karuṇā
+
+- must—be able to be with all aspects and expressions of our psychology.
+- our personal swamp, our rejected and disowned parts.
+- We need to honestly and courageously wade into the discomfort of our past hurtful behaviors to be fully open to compassion.
+- Practicing with Cruelty
+- Cruelty to Compassion
+- We can accept our human frailty by acknowledging that each of us carries the potential for harmful behavior or action.
+- This lets us settle more into the truth of who we are, while relaxing our sense of who we take ourselves to be. Instead of being fixated on an ideal self-image, we can be more honest to ourselves and therefore to others in our world.
+- It is important to distinguish compassion from pity, which can look similar. When we pity someone, we are observing them with superiority.
+- Our righteous anger on behalf of someone who is suffering is not compassion either. Like pity, righteous anger originates from an inner sense of superiority.
+- Common Resistances to Compassion
+    - Some of the common resistances to compassion include habitual hard- or closed-heartedness and fear of being confirmed forever weak and dependent.
+- In closing our heart, we feel we are protecting its vulnerability. The typical impact of closing our hearts is that we become weaker internally.
+- My Experience with Cruelty and Compassion
+    - Remaining present to our discomfort and pain allows us to fully feel them, to let them teach us their important lessons, and to fully receive the tenderness of the Absolute.
 
 ### Part 2: Unwinding and Releasing
 
+- When the time comes to more fully orient toward and invest in the unconditioned truth of the Absolute, it is challenging
+- it can be hard to release the dysfunction we know so well for the uncertainty of an unstructured and unfettered abiding in the Absolute.
+- Truth tasted better to me than my habituated inner lies and patent falsehoods.
+- This part of the book contains practices that will likewise help you loosen, unwind, and release your allegiance to the me.
+- In Chapter 4, the second section of Part II, we turn to protective meditations, specifically innate goodness meditation, foulness meditation, and death recollection. We practice these to ensure we have lots of inner stability before awareness and consciousness journey into other realms. Practicing innate goodness as a protective meditation supports the softening of our inner negative talk and negative self- judgments.
+- We chiefly employ shikantaza meditation (just sitting) to quiet the identity assertions of the body/mind and open ourselves to traversing mysterious realms with breathtaking beauty.
+
+#### Chapter 3 Samatha (Purification-of-Mind) Practices
+
+- This focus unifies awareness while balancing energy and meditative concentration.
+- There are three levels of meditative concentration available in samatha practices:
+    - Momentary concentration
+    - Access concentration
+        - maintain awareness on the meditative object for a minimum of fifteen to twenty minutes without serious interruption.
+        - In access concentration, we will also encounter the jhāna factors:
+            - Applied awareness (vitakka) is the intentional application of awareness to the solitary meditative object.
+            - Sustained awareness (vicāra) maintains awareness on the single meditative object.
+            - ever so slightly lessening our intention of awareness.6
+            - Joy (pīti) is a bodily felt enthusiasm
+            - Bliss (sukha) is the experience of everything being just right exactly as it is.
+            - One-pointedness awareness (ekaggatā) is experienced as a continual, deliberate focusing of awareness.
+            - Absorption or jhāna concentration is only available with samatha meditations. (Every meditation contains the first two levels of concentration.)
+            - The jhānas (concentration absorption) are a no-self experience of a nondual state.
+            - The jhāna practice is an amazing, mind-blowing, life-altering practice.
+- We begin to see who we might be and how we might function without the ever-present self.
+
+##### Thirty-Two Body Parts
+
+- The process of intentionally being with a body part causes it to peel itself away from the sense of self.
+- Thirty-Two-Body-Parts Meditation Practice
+- When you feel you have a clear mental picture of head hairs, close your eyes and check whether you can clearly see head hairs with eyes closed.
+- Let awareness drop below the conceptual or mental knowing to contact direct, nonconceptual knowing.
+- In reaching the conclusion of this practice, we can have a visceral knowing that identifying and thereby removing each body part ends in nothing.
+- There are no remainders after subtracting each body part. This means that once all body parts are recognized and released, there is no discernible me.
+- My Experience with Thirty-Two-Body-Parts Meditation
+    - As the practice progressed, I could see that staying with the felt sense of each body part allowed me to resolve any beliefs or issues I had with that body part, and consequently that body part dropped out of my definition of me.
+- Advanced Practice
+    - After deeply practicing the thirty-two body parts in your own body, you can attempt to discern these  same body parts in another person.
+
+##### Skeleton Meditation
+
+- Skeleton Meditation Practice
+- For the visual mediator: Start by picturing a bone, any bone. When you can meditate upon a bone with eyes closed, stay with the direct experience of bone until you feel awareness drop beneath the conceptual knowing to direct, intuitive, nonconceptual knowing.
+- My Experience with Skeleton Meditation
+    - Engaging this practice allowed me to loosen the grip identity held on the body and the body boundary, that is, the conviction that the me ends at the edge of the skin.
+- Advanced Practice
+    - When you are at the point of being with your entire skeleton beneath the conceptual level of knowing in
+direct, nonconceptual knowing, select another person whose skeleton you will practice seeing.
+
+##### Kasinas
+
+- There are color kasinas, four element kasinas (earth, water, fire, and air), and two very subtle kasinas, light kasina and space kasina.
+- Color Kasinas
+- Meditating with the color kasinas helps us disidentify with that color and with whatever meaning or identity we have for it.
+- By noticing where this color occurs on our body and externally, we loosen the identity we have with this color. We see it is a color appearing in many aspects of life.
+- Four Element Kasinas
+    - Drop beneath the conceptual knowing
+    - to the deeper, nonconceptual felt sense
+    - feels like internally, intuitively.
+    - Feel the softening of your beliefs in your own physical solidity,
+    - Allow the memories
+    - to relax to match your felt sense
+    - something known in deep intuition rather than through memories and history.
+    - Invite the softening of your attachment to ideas about or prior experiences with the solidity of yourself or your world.
+- My Experience with Kasinas
+
+#### Chapter 4 Protective Meditations
+
+- the protective meditations, which will ensure we have lots of inner stability before awareness and consciousness journey into other realms.
+- Our sense of self will be increasingly seen as an artifice, a psychological structure meant to imitate the free flow of love and the deep wisdom of the source—the Absolute.
+
+##### Innate Goodness Meditation
+
+- innate goodness, which helps us by keeping us connected to universal, unconditioned love.
+- Typically, we feel seen in our goodness only when we perform well for a caregiver, teacher, partner, or employer.
+- While we feel elated, we also know on a deeper level that we are being rewarded solely for our function, our performance, rather than for who we feel we are in our private moments. The validation therefore falls flat.
+- In practicing innate goodness meditation, we rest in the deep love and acceptance of the Absolute. We feel valued and seen in a thorough way.
+- Common Resistances to Innate Goodness
+    - There are several common resistances to innate goodness, including a conviction in a core identity of being bad, a belief that we are too broken or damaged to be worthy of innate goodness, and a feeling at our core that we are worthless and/or unlovable.
+    - This belief pattern, to expect the worst in most situations, is a protection.
+- My Experience with Innate Goodness Meditation
+    - My orientation and dedication to truth became more important than protecting my core wound.
+
+##### Foulness Meditation
+
+- Foulness meditation is intended to break down our conceptual allegiance to and reverence for our body based on our attractiveness and our handsome or beautiful qualities.
+- Foulness Meditation Practice
+    - With eyes closed, recall a corpse you have seen.
+    - We are searching for an image that conjures up a repulsed reaction in us.
+    - Feel the space or spaciousness as awareness separates from the thought-concept of a repulsive corpse.
+- My Experience with Foulness Meditation
+    - It is understood that while everyone has all three of these defilements, we each have an inherent proclivity for being predominantly either a desire or an aversion type.
+
+##### Death Recollection
+
+- This is practicing and meditating to connect with and feel the witnessing of your body’s demise.
+- Death Recollection Practice
+    - be the repulsive corpse in your meditation.
+    - As your self-identity concepts soften and fall away, open awareness to the end of your life. The end of this very lifetime. Feel your body in its last hours or moments.
+- Let yourself commit genuinely and profoundly to your intention for further deepening spiritual and meditative practice.
+- My Experience with Death Recollection
+
+#### Chapter 5 Shikantaza (Silent Illumination Meditation)
+
+- if I am this entirely independent being and what I want to feel good and happy in my life is that object over there, there is a twoness. I feel separate from what I want.
+- “not two, not one.” It is just this. Just this moment. Just this direct experience of reality. This realization of “not two, not one” is called suchness or thusness in Buddhism.
+- The silent illumination practice effectively involves transforming our awareness to a more unconditioned awareness.
+- The benefit of shikantaza is that it assists us in softening the concepts of identification, relaxing perception, and blurring all separation. That is, this meditation begins to gently challenge our beliefs that we are exclusively a separate self whose life success is entirely dependent for survival upon each of our individual actions.
+- Shikantaza Meditation Practice
+    - The core quality of the universe is hereness, also called thusness or suchness in Buddhism. That means there is nowhere other than right here that we can ever abide. These are the important experiential learnings shikantaza affords us.
+- Awareness is vast and without any kind of limitation, end point, or boundary.
+- My Experience with Shikantaza Meditation
+- three stages of shikantaza:
+    1. unity of inner awareness (unity of body and mind)
+    2. further unity of awareness (unity of inside the skin and outside the skin)
+    3. opening to the unity of our awareness and universal/Absolute awareness.
+- Shikantaza is being the Absolute seamlessly.
+
+### Conclusion
+
+- The way to hold this stage of development is to be as patient as possible and maintain contact with both minds. Let awareness reside in both background and foreground mind without holding a preference for either. Do not reject either. Just be with both.
+- With sustained contact with both background and foreground mind, the line separating these two softens and begins to fade.
+- We come to realize that these are simply two functions, two ways, of the Absolute appearing in the world.
+- When we can rest in whatever mind is right here, we can have complete freedom.
