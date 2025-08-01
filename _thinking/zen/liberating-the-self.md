@@ -3,11 +3,134 @@ layout: page
 title: "Liberating the Self: Buddhist Practices for an Authentic Life"
 zennotes: true
 added: 2025-07-24
-updated: 2025-07-24
+updated: 2025-08-01
 ---
 
 * Display TOC
 {:toc}
+
+## Gathered notes
+
+### Introduction
+
+- We all need to work on and explore and question our beliefs, habits, personality, and conviction about ourselves and our world
+- An awakening has three components
+    1. an absence of self
+    2. a deep unity experience
+    3. recognition that these two are who you truly are 
+- “core wound” - core egoic deficiency
+    - we believe the deficiency can't be fixed, so we try to hide it from ourselves and others
+    - we create a personality and use it to deflect attention from it
+        - a personality is how we perceive ourselves, how others mirror that, and the judgmental mix of the two
+- Transforming Dysfunction into Authenticity
+    - **What is the felt sense of deficiency?**
+        - Let your body assume the posture
+    - **What else is here?** What else can you feel in your body?
+        - When you locate where in your body it is, you will likely be surprised by all the places in your body it is not.
+    - **Let each have its own space.** Don't try to change anything. Just be with both. Let them interact.
+    - **The peace soothes the shameful sense of failure.**
+- **As we work through experiences of egoic deficiency we update the way we see ourselves, our self-identity**.
+    - We begin to see that the underlying belief that we are worthless is not fundamentally true.
+    - **Changing our self-belief from complete failure to a bit of a failure with occasional redeeming qualities.**
+- A spiritual journey is not about achieving perfection or escaping human life. It is a constant, engaged journey, opening and **gently challenging our deep-seated personal beliefs and convictions about who and what we are.**
+- The Absolute has two primary functions: manifest and unmanifest.
+    - The manifest is marked by the functions of pure unconditioned love, pure Presence (Beingness), and pure direct awareness (awareness without reflective capacity).
+    - The unmanifest is characterized by Absence (emptiness), deep peace, and pristine stillness.
+- **Each quality of our true nature is covered by layers of resistances**: concepts and beliefs about ourselves and how the world operates.
+- **Choose to be with the truth of any situation over protecting or reifying our historic sense of self.**
+
+### Part 1: Revealing and Updating
+
+#### Chapter 1 Foundational Practices
+
+- Observing, identifying, and modifying our behaviour is the most reliable and repeatable method to institute behavioural change.
+
+##### What Else Is Here?
+
+- Where exactly is it somatically?
+- This practice is helpful for quantifying a challenging thought-emotion and noticing it is not actually overwhelming your body or consciousness: it's quite manageable.
+- Opening lets the qualities communicate and interact. This often results in the neutralisation of the difficult emotion or experience.
+- Trace this emotion back to an early memory of it.
+- Replay the early memory being you as you are today: how would you act differently?
+
+##### Innate Goodness
+
+- We learn to equate our goodness with what we do rather than with our innate Beingness.
+- Self-talk and self-judgments is still there, but they feel less important.
+- **I-Am-Not Practice**
+- I-Am Practice
+
+##### Off the Cushion
+
+- two important brahmavihāras for lessening our sense of self and opening to Awakening: upekkhā (equanimity) and karuṇā (compassion).
+
+#### Chapter 2 Working with Specific Challenging Emotions
+
+- There are several benefits to working directly with challenging emotional responses.
+    1. noticing our patterns and beliefs loosens our grip on them
+    2. our sense of self changes in relation to our updated patterns and beliefs
+- **Releasing pent-up emotions (in a safe, private, place) also releases the energy being employed to repress them**
+    - When we are openly present with these challenging emotions, the energy embedded in these emotions is released.
+- **Recognize and accept unwanted emotions as possible life reactions: they lose much of their power to shame and torment us with the guilt of being a bad person.**
+- Deep acceptance is our goal when we work with challenging inner reactions and reactivity centres.
+- **Perfection is not avoiding all negative experiences and states of mind but rather accepting whatever is truly here in this moment.**
+- **Closing off our awareness to some emotional areas robs us of the natural potency and energy of these emotions.**
+- If you feel both an urge to leave and a sense that it is impossible to change, that is often a confirmation that you are in touch with that deep inadequacy or worthlessness.
+- **The strategy is to come as close to your discomfort as is possible without actually being overwhelmed or bolting to escape the discomfort.**
+    - Do not engage with your avoidant strategies; just feel their presence.
+    - Try to hold the understanding that this discomfort is conditioned—that is, subject to change.
+- **I give up is a powerful admission. In this opening, I can begin to feel or sense stability commence.**
+- **The act of seeing it reduces its effect on us. When witnessed, can become something we can engage rather than something that overwhelms us.**
+- **By openly accepting the emotion without taking it personally, we soften. We can realize that it's a reaction of mind.**
+- **The goal of spiritual practice and engagement is not maintaining any particular state or spiritual quality—it is accurately and wholesomely being with whatever is present in this moment.**
+- In closing our heart, we feel we are protecting its vulnerability. The typical impact of closing our hearts is that we become weaker internally.
+
+##### Distortions
+
+- Hatred: A Distortion of Authentic Peace and Power
+    - Common resistances to peace include compulsion to control the life around us, identification with activity, and anxiety about surrender.
+- Anger: A Distortion of Authentic Strength
+    - Common resistances to authentic strength include identification with weakness, helplessness, or being small; rejection of strength as being too aggressive; and fear of failure to assert strength.
+- Weakness and Insecurity: A Distortion of Unconditioned Support
+    - Common resistances to welcoming unconditioned support include the conviction that we are unworthy and valueless, fear of being overwhelmed by unconditioned support, and fear of fully becoming authentic.
+- Envy and Jealousy: A Distortion of Empathetic Joy (Muditā)
+    - Common resistances to empathetic joy include a lifetime of fear of scarcity; conviction that if we open to empathetic joy, it will confirm we are not worthy or valued; and the belief that if we open to empathetic joy, it will be taken away immediately.
+    - With repeated contact with the Absolute, we come to know and trust its offerings, which are given without qualifications and never withdrawn.
+- Guilt: A Distortion of Loving-Kindness (Mettā)
+    - Common resistances to loving-kindness include aversion and self-hatred.
+- Greed and Resentment: A Distortion of Equanimity (Upekkhā)
+    - Common resistances to equanimity include a rejection of this moment and fear that life contains nearly exclusively bad results.
+- Cruelty: A Distortion of Compassion (Karuṇā
+    - Common resistances to equanimity include a rejection of this moment and fear that life contains nearly exclusively bad results.
+
+##### Journaling Resistances Exercise
+
+- What is your lifetime history and experience with this?
+- In what circumstances does it arise?
+- How are it is helpful to you in your present life?
+
+### Part 2: Unwinding and Releasing
+
+- Practicing innate goodness as a protective meditation supports the softening of our inner negative talk and negative self-judgments.
+
+#### Innate Goodness Meditation
+
+- There are several common resistances to innate goodness, including a conviction in a core identity of being bad, a belief that we are too broken or damaged to be worthy of innate goodness, and a feeling at our core that we are worthless and/or unlovable.
+- This belief pattern, to expect the worst in most situations, is a protection.
+
+#### Chapter 5 Shikantaza (Silent Illumination Meditation)
+
+- three stages of shikantaza
+    1. unity of inner awareness (unity of body and mind)
+    2. further unity of awareness (unity of inside the skin and outside the skin)
+    3. opening to the unity of our awareness and universal/Absolute awareness.
+- Shikantaza is being the Absolute seamlessly.
+
+### Conclusion
+
+- **With sustained contact with both background and foreground mind, the line separating these two softens and begins to fade.**
+- We come to realize that these are **simply two functions, two ways, of the Absolute appearing in the world.**
+- When we can rest in whatever mind is right here, we can have complete freedom.
 
 ---
 
