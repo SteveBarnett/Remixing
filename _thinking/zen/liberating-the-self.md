@@ -3,7 +3,7 @@ layout: page
 title: "Liberating the Self: Buddhist Practices for an Authentic Life"
 zennotes: true
 added: 2025-07-24
-updated: 2025-08-01
+updated: 2025-08-03
 ---
 
 * Display TOC
@@ -100,8 +100,8 @@ updated: 2025-08-01
     - Common resistances to loving-kindness include aversion and self-hatred.
 - Greed and Resentment: A Distortion of Equanimity (Upekkhā)
     - Common resistances to equanimity include a rejection of this moment and fear that life contains nearly exclusively bad results.
-- Cruelty: A Distortion of Compassion (Karuṇā
-    - Common resistances to equanimity include a rejection of this moment and fear that life contains nearly exclusively bad results.
+- Cruelty: A Distortion of Compassion (Karuṇā)
+    - Common resistances to compassion include habitual hard- or closed-heartedness and fear of being confirmed forever weak and dependent.
 
 ##### Journaling Resistances Exercise
 
@@ -357,7 +357,7 @@ and energy of these emotions.
 - Once we can accept the truth of our deep longing, our wanting to be loved and included, we can more fully accept the truth of how life actually is rather than holding on to our deepest wish for how life should be.
 - Everything in life was exactly in the right place regardless of whether that place matched my idea of the right place.
 
-##### Cruelty: A Distortion of Compassion (Karuṇā
+##### Cruelty: A Distortion of Compassion (Karuṇā)
 
 - must—be able to be with all aspects and expressions of our psychology.
 - our personal swamp, our rejected and disowned parts.
