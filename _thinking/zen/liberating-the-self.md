@@ -3,11 +3,50 @@ layout: page
 title: "Liberating the Self: Buddhist Practices for an Authentic Life"
 zennotes: true
 added: 2025-07-24
-updated: 2025-08-03
+updated: 2025-08-04
 ---
 
 * Display TOC
 {:toc}
+
+## Wittled notes
+
+- We all need to work on and explore and question our beliefs, habits, personality, and conviction about ourselves and our world
+    - To gently challenge our deep-seated personal beliefs and convictions about who and what we are
+- We believe we're deficient, and we try to hide it from ourselves and others
+    - Our personality is the judgemental mix of our perception of ourselves and how others mirror that
+- We transform dysfunction (of wholesome and skilful qualities) into authenticity through practice
+    - **As we practice we update the way we see ourselves, our self-identity**
+    - We change our self-belief **from complete failure to a bit of a failure with occasional redeeming qualities**
+- Each quality of our true nature is covered by layers of resistances: concepts and beliefs about ourselves and how the world operates
+- Benefits to working directly with challenging emotional responses
+    - noticing our patterns and beliefs loosens our grip on them
+    - our sense of self changes in relation to our updated patterns and beliefs
+- **Feeling pent-up emotions releases the energy being employed to repress them**
+- **Recognize and accept unwanted emotions as possible life reactions**: they lose much of their power to shame and torment us with the guilt of being a bad person
+    - **The strategy is to come as close to your discomfort as is possible without actually being overwhelmed or bolting to escape the discomfort**
+- The goal of spiritual practice and engagement is being with whatever is present in this moment
+- **The typical impact of closing our hearts is not protection, but becoming weaker.**
+
+### Distortions
+
+- Hatred, of Peace
+- Anger, of Strength
+- Weakness, of Unconditioned Support
+- Envy, of Empathetic Joy (Muditā)
+- **Guilt, of Loving-Kindness (Mettā)**
+- **Greed, of Equanimity (Upekkhā)**
+- Cruelty, of Compassion (Karuṇā) 
+
+### Resistances
+
+- Peace: compulsion to control
+- Strength: rejection of strength as being aggressive
+- **Unconditioned Support: conviction that we are unworthy**
+- Empathetic Joy (Muditā): conviction that we are not valued
+- **Loving-Kindness (Mettā): self-hatred**
+- Equanimity (Upekkhā): rejection of this moment
+- **Compassion (Karuṇā): fear of being confirmed dependent**
 
 ## Gathered notes
 
