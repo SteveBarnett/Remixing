@@ -3,7 +3,7 @@ layout: page
 title: Journaling as Therapy practice
 notes: true
 added: 2025-07-27
-updated: 2025-07-27
+updated: 2025-08-06
 star: true
 ---
 
@@ -18,9 +18,9 @@ Draft of a kind of a [Philotation](/thinking/philosophical-meditation/) / [Journ
 
 ## Unpack (So what?)
 
-- What is your history and experience with this?
-- When else does this feeling arise? 
+- When else has this arisen historically?
 - How is it helpful to you in your present life?
+- How would you the best version of you act?
 
 ## Reassure (Now what?)
 
