@@ -2,7 +2,7 @@
 layout: page
 title: Intrepid Japan
 added: 2025-08-03
-updated: 2025-08-05
+updated: 2025-08-07
 japan: true
 ---
 
@@ -35,3 +35,12 @@ japan: true
     - tsukimi (moon viewing) falls between September and October
 - Nanzenji - a Buddhist campus once hosting more than 70 temples
 - Utsukushii Mura - the Association of the Most Beautiful villages in Japan
+
+## Food & Drink
+
+- Omotenashi - knowing what the customer wants or needs before they know themselves
+- [Tabelog](https://tabelog.com/en), [Gurunavi](https://gurunavi.com/)
+- Fukuoka has a distinctly cosmopolitan air
+    - Yatai (outdoor food stall) food tends to be bold
+- Yokocho (alleyways), akachochin (red paper lanterns)
+- Meibutsu (regional specialities)
