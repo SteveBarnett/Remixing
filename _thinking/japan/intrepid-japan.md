@@ -44,3 +44,18 @@ japan: true
     - Yatai (outdoor food stall) food tends to be bold
 - Yokocho (alleyways), akachochin (red paper lanterns)
 - Meibutsu (regional specialities)
+
+## Art & Culture
+
+- Art Islands: Naoshima, Teshima, Megijima, Ogijima, Oshima
+- Kanazawa - D. T. Suzuki museum
+
+## Architecture
+
+- Eiheiji - old headquarters of Soto Zen
+- Heisenji Hakusan Shrine
+
+## Slow Travel
+
+- [Japan Ryokan and Hotel Association](https://www.ryokan.or.jp/english/)
+- [The Ryokan Collection](https://www.ryokancollection.com/)
