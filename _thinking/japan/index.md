@@ -76,3 +76,4 @@ permalink: /thinking/japan/
 - [Be More Japan: The Art of Japanese Living (DK Eyewitness)](/thinking/japan/be-more-japan/)
 - [Discover Japan (Lonely Planet)](/thinking/japan/discover-japan/)
 - [Japan](/thinking/japan/japan/)
+- [Intrepid Japan](/thinking/japan/intrepid-japan/)
