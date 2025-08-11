@@ -16,7 +16,7 @@ I've also become much better at communicating my emotions and needs. Still not a
 
 Like every human, attachment style is just one of the many things that influence my thoughts, feelings, and actions. Some of the things under Avoidant Attachment are countered by other parts of how I'm made up, and some are perhaps made worse.
 
-Something I'm wary of is something like false positives, misattribution, or confirmation bias. Noticing a thought pattern and/or a behaviour pattern and attributing it to Avoidant Attachment when perhaps the root cause it something else. A little si,ilar to my thinking (and resisting) that I wrote about on the [Traits](/thinking/traits/) page.
+Something I'm wary of is something like false positives, misattribution, or confirmation bias. Noticing a thought pattern and/or a behaviour pattern and attributing it to Avoidant Attachment when perhaps the root cause it something else. A little similar to my thinking (and resisting) that I wrote about on the [Traits](/thinking/traits/) page.
 
 (An interesting, perhaps hilarious, aside is that Anxious and Avoidant Attachment people tend to get together. The two perspectives are almost opposites, which means they tend to view the other person as more extreme(ly into their side of the Attachment style) than they really are.)
 

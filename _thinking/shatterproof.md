@@ -8,7 +8,7 @@ updated: 2025-06-21
 
 ## Summary of summary
 
-- Shatterproff: harnessing life's chaos to build better back, maybe including breaking along the way
+- Shatterproof: harnessing life's chaos to build better back, maybe including breaking along the way
 - Contemporary life has complex challenges our stress system haven't evolved to handle
 - Resilience is just about maintenance, not growth. We can run our resilience battery flat.
 - Pain is a signal to pay attention. 
