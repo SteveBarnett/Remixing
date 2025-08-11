@@ -10,6 +10,11 @@ When am I comfortable(ish) when I would expect not to be? When am I comfortable 
 
 Thinking about using the Heath brothers Bright Spots as a way into Practice.
 
+## To Do (ish)
+
+- Remember POCK, especially Patient, Open, Clear
+- Do more things that make you (slightly!) uncomfortable
+
 ## Summary
 
 - Something that seems to be popping up is basically **habituation**. Getting used to something over time lessens the discomfort. Gaining experience in it.
