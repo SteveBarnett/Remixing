@@ -4,6 +4,7 @@ title: One Bright Flow
 zen: true
 added: 2025-03-19
 updated: 2025-03-19
+star: true
 ---
 
 Thinking about [One Bright Pearl](/thinking/zen/one-bright-pearl/) (and [One Bright Impearlmanence Unit](/thinking/one-bright-impearlmanence-unit/)) and [flow states](/thinking/thinking-about-flow-states/) / [nondual glimpses](/thinking/some-nondual-glimpses/).
