@@ -3,7 +3,7 @@ layout: page
 title: Zen Koans
 zen: true
 added: 2024-04-25
-updated: 2025-07-25
+updated: 2025-08-17
 ---
  
 - Koans aren't riddles to be solved. They're pointers on the path (noting that path is goal is path).
@@ -153,3 +153,9 @@ So Tokusan bowed and opened the screen to go out, observing: "It is very dark ou
 #### The Taste of Banzo's Sword
 
 > "A man in such a hurry as you are to get results seldom learns quickly."
+
+## How to Raise an Ox
+
+### (Hot and cold)
+
+> A certain monk asked the great master Tung-shan, "When the cold or heat arrives, how can one avoid it?" The maser answered, "Why don't you got to a place where there is no cold or heat?" "Where is thing place where this is neither cold not heat," asked the monk. Said Tung-shan: "When it is cold, the cold kills the monk; when it is hot, the heat kills the monk."
