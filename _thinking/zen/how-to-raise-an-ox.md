@@ -2,11 +2,41 @@
 layout: page
 title: How To Raise An Ox
 added: 2025-08-13
-updated: 2025-08-14
+updated: 2025-08-17
 zennotes: true
 ---
 
 Notes from How To Raise An Ox by Francis Dojun Cook.
+
+## Highlighted notes
+
+- "The oneness of practice and enlightenment"
+- This Dharma is amply present in every person, but unless one practices, it is not manifested, unless there is realisation, it is not attained.
+- Dogen Zenji says that all that is required is simple faith in one's intrinsic Buddha nature.
+-  "Zen is picking up your coat from the floor and hanging it up."
+- The difficulty lies on not adding something extra to the events of our life.
+- ... unless a person has a very real commitment to following the Way and understands this commitment as a total response to all events and activities, these ordinary activities will be a real burden.
+- Buddhism teaches that the faith will eventually be replaced by knowledge and that any teaching not verifiable in this way ought to be rejected.
+- To have faith in the Buddha and his teaching and to commit oneself without reservation to hard practice is atonement.
+- The direct pursuit of enlightenment is a confession of dualistic thinking
+- living one's ordinary life without attachment or loathing.
+- the thought of enlightenment is closely bound up with the perception of impermanence.
+- the Bodhisattva' slow progress towards final, complete enlightenment is the result of this other-directed activity.
+- Buddhism does not attempt to distract us from the reality of sentient existence,  the conditions of sentient life.
+- Instead of vainly seeking to escape the conditions which constitute our lives one finds a real and meaningful freedom through a radical, profound affirmation of one's very conditionedness.
+- one identifies one hundred percent with the circumstance.
+- completely, with nothing added, nothing but.
+- immerses the individual even more deeply into the flow of wordly existence, affirming and transforming worldly experience itself.  
+- with luck and hard work, we discover that what we really are is good enough and has been all along.
+-  worthy and unworthy, sacred and profane, good and bad
+- free and activate the total individual, with all his talents, functions, and abilities, this includes the mind, the feelings, the physical organism.
+- Service to others is the object of Zen practice.
+- the Zen patriarch gives life to all events and enters them completely and without reservation, the hedonist only enters fully, if ever, into those situations which he has prejudged worthwhile.
+- We kill our ordinary, everyday, lives by discriminating, devaluating, and demeaning, when we actively prefer other situations which we consider more valuable.
+the pattern of our lives is good enough.
+- free the realm of freedom from conditions, in the same way the the sky is free from the tracks of flying birds;
+-  great enlightenment is to be found in everyday activities such as eating, or drinking tea.
+-  committing oneself to continuous practice for no other reason that to practice continuously.
 
 ## Raw notes
 
@@ -53,7 +83,7 @@ In the world of Zen training, where there is neither good nor bad, reading and s
 - In making the vow, he destines himself to be forever excluded from the ultimate goal.
 - ... if any being enters the Dharma for themself, and not for others, is is not the Dharma, and they have not entered.
 
-#### Four – The Problem of Karma
+### Four – The Problem of Karma
 
 - Zen Buddhism is not Buddhist psychotherapy, ... but is the Buddhist means of dealing with karma and its consequences.
 - The psychological insight of Buddhism is that we are unable to perform [volitional] acts without their leaving some influence in our lives.
@@ -66,10 +96,36 @@ In the world of Zen training, where there is neither good nor bad, reading and s
 
 ### Five – The Scriptures
 
-
 - Bodhidharma: "no dependence on words or letters" - no dependence, not don't read or don't use.
 - A careful study of the scriptures can enhance and strengthen our central practice.
 - Zen practice itself has as its goal **the overcoming of a false dualism** whereby we tend to discriminate between things which are **worthy and unworthy, sacred and profane, good and bad**, Buddha and non-Buddha, and so on.
 - Many bad ideas, prejudice, baseless assumptions and other forms of ignorance can be removed by means of better information and calm, clear, thinking.
 - Zen practice is ... to **free and activate the total individual, with all his talents, functions, and abilities**, and **this includes the mind**, as well as all **the feelings**, **the physical organism**, and the will.
 - **Service to others is the object of Zen practice.**
+
+### Six – Giving Life to Our Lives
+
+- The Zen of Dogen is a way of dealing with ... the fact that we are stuck in the here and now.
+- Whereas **the Zen patriarch gives life to all events and enters them completely and without reservation**, **the hedonist** studiously avoids certain events and strives to manage his life in such a way that he **only enters fully, if ever, into those situations which he has prejudged worthwhile.**
+- **We kill our ordinary, everyday, lives by discriminating, devaluating, and demeaning**, which occurs **when we actively prefer other situations which we consider more valuable**.
+- Giving life to our lives means coming to understand that one place is really as good as another, and **the pattern of our lives is good enough**.
+- "You can't chase two rabbits at the same time." You lose both.
+- If while drinking plain water you yearn for beer, both the beer and the water are lost.
+- Perform any act in total commitment and absorption.
+
+### Fukan Zazengi
+
+- "General Recommendations for Doing Zazen"
+- Do not judge things as good or evil, and cease such discriminations as "is" and "is not".
+
+### Keisei Sanshoku
+
+- "The sounds of Valley Streams, the Forms of the Mountains"
+- non-self-assertive action, unconditioned, not performed for self-gratification
+
+### Gyōji
+
+- "Continuous Practice"
+- This continuous practice of not leaving the monastery is **free the realm of freedom from conditions, in the same way the the sky is free from the tracks of flying birds;** it is the realm where one is completely one with the whole universe.
+- Do not sit and wait for enlightenment, for **great enlightenment is to be found in everyday activities such as eating, or drinking tea.**
+- This present continuous practice is nothing other than just that, just **committing oneself to continuous practice for no other reason that to practice continuously**.
