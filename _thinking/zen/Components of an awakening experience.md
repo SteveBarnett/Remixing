@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Components of an awakening experience
+title: Components of an awakening experience / kensho
 added: 2025-02-03
 updated: 2025-02-03
 zennotes: true
