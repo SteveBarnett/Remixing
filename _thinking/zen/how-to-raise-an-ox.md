@@ -2,11 +2,32 @@
 layout: page
 title: How To Raise An Ox
 added: 2025-08-13
-updated: 2025-08-17
+updated: 2025-08-19
 zennotes: true
 ---
 
 Notes from How To Raise An Ox by Francis Dojun Cook.
+
+## Gathered notes
+
+- The oneness of practice and enlightenment.
+    - We practice to manifest enlightenment. There's no attainment without realisation.
+- Simple, not easy: don't add something extra to the events of our life.
+- Following the Way is a total response to all ordinary and everyday events and activities. They're not a burden.
+    - Living one’s ordinary life without attachment or loathing.
+- All Buddhist teachings are verifiable by experience. If they're not, reject them.
+- The direct pursuit of enlightenment is a confession of dualistic thinking.
+- Service to others is the object of Zen practice.
+    - Slow, indirect, progress towards enlightenment through other-directed activity.
+- Find a real and meaningful freedom and transformation through a radical, profound, affirmation of the reality of sentient existence, the conditions and conditioning of sentient life.
+    - Fully and completely identify with the circumstance, immerse in it, with nothing added.
+    - Give life to all events and enter them completely and without reservation.
+    - Free the realm of freedom from conditions, in the same way the the sky is free from the tracks of flying birds.
+- With luck and hard work, we discover that what we really are is good enough and has been all along.
+- Beyond the dualities of worthy and unworthy, sacred and profane, good and bad
+    - We kill our ordinary, everyday, lives by discriminating, devaluating, and demeaning, when we actively prefer other situations which we consider more valuable
+    - The pattern of our lives is good enough.
+- Committing oneself to continuous practice for no other reason that to practice continuously.
 
 ## Highlighted notes
 
