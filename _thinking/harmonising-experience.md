@@ -14,4 +14,4 @@ Notes from [Weirdness, the Dao, and Whether Trees have Experiences with philosop
 - Part of harmonising is celebrating and including differences
 - My role is harmonising with what's already here
 - There's no formula for answering "what's right?", but there is a mood, a rhythm
-- Remember that we use language to discuss things (like consciousness), which is a human invention, inherent;y human-biased
+- Remember that we use language to discuss things (like consciousness), which is a human invention, inherently human-biased
