@@ -3,7 +3,13 @@ layout: page
 title: Tao Te Ching and Unity
 notes: true
 added: 2025-08-19
-updated: 2025-08-19
+updated: 2025-08-20
+---
+
+Reality is without names. The Tao has no name.
+Naming creates division, fragments Reality. It makes (apparently) separate "things".
+The Tao can’t be seen, heard, or touched. Beyond reason, these three merge.
+
 ---
 
 * Display TOC
