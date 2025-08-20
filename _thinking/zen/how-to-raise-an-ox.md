@@ -2,11 +2,19 @@
 layout: page
 title: How To Raise An Ox
 added: 2025-08-13
-updated: 2025-08-19
+updated: 2025-08-20
 zennotes: true
 ---
 
 Notes from How To Raise An Ox by Francis Dojun Cook.
+
+## Top bits
+
+- The oneness of practice and enlightenment.
+- Practice is a total response to life.
+- Enter all life's events completely and without reservation. Don’t add anything extra to them.
+- The pattern of our ordinary, everyday, lives is good enough.
+- Rest beyond the dualities of enlightened and unenlightened, worthy and unworthy, sacred and profane, good and bad.
 
 ## Gathered notes
 
