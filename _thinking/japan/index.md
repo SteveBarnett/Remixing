@@ -3,9 +3,22 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-07-25
+updated: 2025-09-04
 permalink: /thinking/japan/
 ---
+
+## I Love It When a Plan Comes Together
+
+- March, April, or May
+- Kansai region
+    - Kyoto, especially outskirts
+        - Arashiyama. Kyoto on a condensed scale, on river bank.
+    - Nara
+    - Lake Biwa?
+    - Osaka
+- Not Tokyo, this time
+- Stay in a ryokan
+- Get a JR pass
 
 ## Gathered thoughts
 
@@ -29,7 +42,7 @@ permalink: /thinking/japan/
 
 ## Initial thoughts
 
-- [My Google map list](https://maps.app.goo.gl/fTRvV2SZjtiqN2fh6)
+- [My Google map list, long version](https://maps.app.goo.gl/fTRvV2SZjtiqN2fh6)
 - Season to go
     - Spring - March-May - Cool mornings, warm days
     - Autumn - September-November - Cooler nights, mild to crisp days
