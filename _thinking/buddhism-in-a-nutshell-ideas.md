@@ -83,7 +83,7 @@ Angles to feed in:
 
 ## The mind maps
 
-![map.jpg](/img/ban/map.jpg)
+![map.jpg](/img/bian/map.jpg)
 ![why cant it be both](/img/bian/why cant it be both.jpg)
 ![remix](/img/bian/map.jpg)
 ![secular buddhism](/img/bian/remix.jpg)
