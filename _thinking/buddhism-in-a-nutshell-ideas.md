@@ -8,6 +8,8 @@ longerform: true
 
 Ideas for a [Buddhism in a Nutshell book for Tuwhiri](https://tuwhiri.substack.com/p/generosity-of-heart-and-mind#:~:text=A%20SERIES%20OF%20SHORT%20SECULAR%20DHARMA%20TEXTS).
 
+> Here are some topics that we believe may be suitable for a short book: ... Philosophy, Focusing, Relationships, Music, Ethics, Identity, Happiness, ... and secular dharma
+
 ## Front-runners
 
 Keep away from Buddhist things, or high concepts. Stick to something in the world, something intensely human and human-centred, something concrete and grounded.
@@ -22,6 +24,7 @@ Keep away from Buddhist things, or high concepts. Stick to something in the worl
     - Conflict
     - Right Livelihood
     - Fertile ground for practice!
+    - Self and identity
     - Links to SB:
         - dependent origination
         - ELSA
@@ -29,7 +32,8 @@ Keep away from Buddhist things, or high concepts. Stick to something in the worl
         - Working with the world
         - Enrichment of the human condition
         - Flourishing for self and others
-
+- Friendship
+- Walking
 
 Angles to feed in:
 
