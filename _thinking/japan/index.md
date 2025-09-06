@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-09-04
+updated: 2025-09-07
 permalink: /thinking/japan/
 ---
 
@@ -19,6 +19,26 @@ permalink: /thinking/japan/
 - Not Tokyo, this time
 - Stay in a ryokan
 - Get a JR pass
+
+### Kyoto
+
+- Kyoto Imperial Palace gardens
+- [Kamigamo-jinja shrine](https://www.kamigamojinja.jp/en/)
+- Kamo-gawa river
+
+### Arashiyama
+
+- Arashiyama Bamboo Forest
+- Katsura River
+
+### Osaka
+
+- Dotonbori
+
+### Further afield
+
+- Seiganto-ji temple, Nachi
+- Himeji Castle, Himeji
 
 ## Gathered thoughts
 
