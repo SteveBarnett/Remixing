@@ -8,7 +8,7 @@ longerform: true
 
 Ideas for a [Buddhism in a Nutshell book for Tuwhiri](https://tuwhiri.substack.com/p/generosity-of-heart-and-mind#:~:text=A%20SERIES%20OF%20SHORT%20SECULAR%20DHARMA%20TEXTS).
 
-## Top three
+## Front-runners
 
 Keep away from Buddhist things, or high concepts. Stick to something in the world, something intensely human and human-centred, something concrete and grounded.
 
