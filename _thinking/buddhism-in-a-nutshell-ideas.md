@@ -2,7 +2,7 @@
 layout: page
 title: Buddhism in a Nutshell ideas
 added: 2025-09-07
-updated: 2025-09-07
+updated: 2025-09-08
 longerform: true
 ---
 
@@ -32,6 +32,13 @@ Keep away from Buddhist things, or high concepts. Stick to something in the worl
         - Working with the world
         - Enrichment of the human condition
         - Flourishing for self and others
+- Remixing
+    - Everything is a Remix
+    - Steal like an artist
+    - Research, remix, replay
+    - Make the teachings your own
+        - tailor their message to the audience
+        - adapt the teaching to the student
 - Friendship
 - Walking
 
