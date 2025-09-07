@@ -3,13 +3,21 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-09-07
+updated: 2025-09-08
 permalink: /thinking/japan/
 ---
 
 ## I Love It When a Plan Comes Together
 
 - March, April, or May
+    - Not first week of May
+- Public holidays
+    - 20 Mar, Thursday, Spring Equinox
+    - 29 Apr, Tuesday, Shōwa Day 
+    - 3 May, Saturday, Constitution Memorial Day 
+    - 4 May, Sunday, Greenery Day  
+    - 5 May, Monday, Children's Day
+    - 6 May, Tuesday, Greenery Day
 - Kansai region
     - Kyoto, especially outskirts
         - Arashiyama. Kyoto on a condensed scale, on river bank.
