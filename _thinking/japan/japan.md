@@ -66,7 +66,7 @@ Notes from [Japan: A curated guide to the best areas, food, culture & art by Mic
 
 Main islands North to South
 
-- Kokkaido
+- Hokkaido
 - Honshū
 - Shikoku
 - Kyūshū
