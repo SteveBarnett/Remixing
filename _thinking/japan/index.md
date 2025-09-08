@@ -9,6 +9,8 @@ permalink: /thinking/japan/
 
 ## I Love It When a Plan Comes Together
 
+### When
+
 - March, April, or May
     - Not first week of May, Golden week
     - May: good time to visit
@@ -20,23 +22,25 @@ permalink: /thinking/japan/
     - 4 May, Sunday, Greenery Day  
     - 5 May, Monday, Children's Day
     - 6 May, Tuesday, Greenery Day
-- Kansai region
-    - Japan’s Cultural Heartland
-    - A lot of traditional Japanese sights close together
-    - Kyoto, especially outskirts
-        - Arashiyama. Kyoto on a condensed scale, on river bank.
-        - - [Another Kyoto Official Travel Guide](https://www.kyototourism.org/en/)
-        - [Kyoto Travel - Kyoto City Official Guide](https://kyoto.travel/en)
-        - Higashiyama - the hills are alive with shrines and temples
-        - The north: forest glades, hidden temples, old towns with a new attitude
-        - The "suburbs" further north
-        - Tōfuku-ji - one of the most important temples of the Rinsai sect
-    - Nara
-        - rewarding destinations, compact
-    - Lake Biwa?
-    - Osaka
-        - [Hanwa line](https://www.osakastation.com/the-jr-hanwa-line-kishuji-rapid-service-for-otori-hineno-wakayama/)
-        - Kominato railway
+
+### Where
+
+Not Tokyo, this time.
+
+Kansai region.
+
+- Japan’s Cultural Heartland
+- A lot of traditional Japanese sights close together
+
+#### Kyoto
+
+- especially outskirts
+- [Another Kyoto Official Travel Guide](https://www.kyototourism.org/en/)
+- [Kyoto Travel - Kyoto City Official Guide](https://kyoto.travel/en)
+- The north: forest glades, hidden temples, old towns with a new attitude
+- The "suburbs" further north
+- Tōfuku-ji - one of the most important temples of the Rinsai sect
+- Higashiyama - the hills are alive with shrines and temples
 - Southern Higashiyama
     - Main sightseeing district
     - Kiyomizu-dera temple, Kodai-ji temple, Chion-in template
@@ -44,37 +48,37 @@ permalink: /thinking/japan/
     - Path of Philosophy (Tetsugaku-no-Michi) Neighbourhood
     - Nanzen-ji temple, expansive grounds and subtemples
     - Ginkaku-ji temple, gardens
-- Arashiyama & Sagano Area
-    - base of Kyoto's western mountains
-- Southeast Kyoto
-    - Stones foxes
-    - Eikan-do, Kenning-ji, Myoshin-ji temples
-- the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
-- Not Tokyo, this time
-- Stay in a ryokan
-    - [Japan Ryokan and Hotel Association](https://www.ryokan.or.jp/english/)
-    - [The Ryokan Collection](https://www.ryokancollection.com/)
-- Get a JR pass
-
-### Kyoto
-
 - Kyoto Imperial Palace gardens
 - [Kamigamo-jinja shrine](https://www.kamigamojinja.jp/en/)
 - Kamo-gawa river
 
-### Arashiyama
+#### Elsewhere
 
-- Arashiyama Bamboo Forest
-- Katsura River
-
-### Osaka
-
-- Dotonbori
-
-### Further afield
-
+- Arashiyama & Sagano Area
+    - Kyoto on a condensed scale, on river bank
+    - base of Kyoto's western mountains
+    - Arashiyama Bamboo Forest
+    - Katsura River
+- Nara
+    - rewarding destinations, compact
+- Lake Biwa?
+- Osaka
+    - [Hanwa line](https://www.osakastation.com/the-jr-hanwa-line-kishuji-rapid-service-for-otori-hineno-wakayama/)
+    - Kominato railway
+    - Dotonbori
+- Southeast Kyoto
+    - Stones foxes
+    - Eikan-do, Kenning-ji, Myoshin-ji temples
+- the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
 - Seiganto-ji temple, Nachi
 - Himeji Castle, Himeji
+
+### What
+
+- Stay in a ryokan
+    - [Japan Ryokan and Hotel Association](https://www.ryokan.or.jp/english/)
+    - [The Ryokan Collection](https://www.ryokancollection.com/)
+- Get a JR pass
 
 ## Gathered thoughts
 
