@@ -2,11 +2,23 @@
 layout: page
 title: The Identity of Relative and Absolute
 added: 2025-09-05
-updated: 2025-09-09
+updated: 2025-09-10
 zennotes: true
 ---
 
 From [74 – Sekito Kisen’s Sandokai: The Identity of Relative and Absolute – Part 1](https://zenstudiespodcast.com/sandokai-1/) and [75 – Sekito Kisen’s Sandokai: The Identity of Relative and Absolute – Part 2](https://zenstudiespodcast.com/sandokai-2/)
+
+## Gathered notes
+
+- “The Apparently Paradoxical Fact that Absolute and Relative are Intimately Related and Mutually Dependent.”
+- The relative (difference and particularity) and absolute (everything is a seamless whole) aspects of reality aren’t really separate
+    - They're simultaneously true, the same reality perceived at different levels
+    - One of the other aspect will be more forward at different times and situation, but both are always there
+    - They don't interfere with or impede each other
+- Understanding the absolute helps us have a larger perspective, not get stuck in one perspective, not be knocked about so much by the relative
+- We harmonise the two aspects by wholly and directly experiencing this moment, where both manifest together
+    - This is difficult in part because our minds are naturally inclined toward dualism
+- We can only experience the absolute in the relative, where we're embodied
 
 ## Raw notes
 
