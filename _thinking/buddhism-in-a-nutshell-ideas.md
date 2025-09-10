@@ -2,7 +2,7 @@
 layout: page
 title: Buddhism in a Nutshell ideas
 added: 2025-09-07
-updated: 2025-09-08
+updated: 2025-09-10
 longerform: true
 ---
 
@@ -10,15 +10,12 @@ Ideas for a [Buddhism in a Nutshell book for Tuwhiri](https://tuwhiri.substack.c
 
 > Here are some topics that we believe may be suitable for a short book: ... Philosophy, Focusing, Relationships, Music, Ethics, Identity, Happiness, ... and secular dharma
 
+My way to do this is to [research, remix, replay](/thinking/my-pattern-skillset-research-remix-replay/), to Steal Like An Artist, to turn my stock into flow.
+
 ## Front-runners
 
 Keep away from Buddhist things, or high concepts. Stick to something in the world, something intensely human and human-centred, something concrete and grounded.
 
-- Hobbies
-    - Sketching, gardening, video games
-    - Links to SB:
-        - mindfulness
-        - flow states and their transitory-ness
 - Work
     - Relationships
     - Conflict
@@ -32,6 +29,11 @@ Keep away from Buddhist things, or high concepts. Stick to something in the worl
         - Working with the world
         - Enrichment of the human condition
         - Flourishing for self and others
+- Hobbies
+    - Sketching, gardening, video games
+    - Links to SB:
+        - mindfulness
+        - flow states and their transitory-ness
 - Remixing
     - Everything is a Remix
     - Steal like an artist
@@ -41,6 +43,7 @@ Keep away from Buddhist things, or high concepts. Stick to something in the worl
         - adapt the teaching to the student
 - Friendship
 - Walking
+- Dating
 
 Angles to feed in:
 
@@ -50,7 +53,6 @@ Angles to feed in:
 - Layers
 - Keep Going
 - Valued Action and Continued recommitment
-
 
 ## First pass after a big mind-mapping session
 
