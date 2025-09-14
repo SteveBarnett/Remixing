@@ -2,15 +2,20 @@
 layout: page
 title: Buddhism in a Nutshell ideas
 added: 2025-09-07
-updated: 2025-09-10
+updated: 2025-09-14
 longerform: true
 ---
 
-Ideas for a [Buddhism in a Nutshell book for Tuwhiri](https://tuwhiri.substack.com/p/generosity-of-heart-and-mind#:~:text=A%20SERIES%20OF%20SHORT%20SECULAR%20DHARMA%20TEXTS).
+## Pulling it together a bit
 
-> Here are some topics that we believe may be suitable for a short book: ... Philosophy, Focusing, Relationships, Music, Ethics, Identity, Happiness, ... and secular dharma
+Something like "On having more good days at the office". (or "at work" or "better days")
 
-My way to do this is to [research, remix, replay](/thinking/my-pattern-skillset-research-remix-replay/), to Steal Like An Artist, to turn my stock into flow.
+Slices it into layers.
+
+- me, my team, my org 
+    - maybe my profession, my role
+- identity, conflict, right livelihood
+- mastery, autonomy, purpose
 
 ## Front-runners
 
@@ -103,3 +108,11 @@ Angles to feed in:
 ![ideas, wide](/img/bian/secular buddhism.jpg)
 ![ideas, tighter](/img/bian/ideas, tighter.jpg)
 ![ideas](/img/bian/ideas, wide.jpg)
+
+## Series blurb
+
+Ideas for a [Buddhism in a Nutshell book for Tuwhiri](https://tuwhiri.substack.com/p/generosity-of-heart-and-mind#:~:text=A%20SERIES%20OF%20SHORT%20SECULAR%20DHARMA%20TEXTS).
+
+> Here are some topics that we believe may be suitable for a short book: ... Philosophy, Focusing, Relationships, Music, Ethics, Identity, Happiness, ... and secular dharma
+
+My way to do this is to [research, remix, replay](/thinking/my-pattern-skillset-research-remix-replay/), to Steal Like An Artist, to turn my stock into flow.
