@@ -2,7 +2,7 @@
 layout: page
 title: Buddhism in a Nutshell ideas
 added: 2025-09-07
-updated: 2025-09-14
+updated: 2025-09-15
 longerform: true
 ---
 
@@ -16,6 +16,8 @@ Slices it into layers.
     - maybe my profession, my role
 - identity, conflict, right livelihood
 - mastery, autonomy, purpose
+
+Starting some ideas: [Work and secular dharma](/thinking/work-and-secular-dharma/)
 
 ## Front-runners
 
