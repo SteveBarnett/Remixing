@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-09-08
+updated: 2025-09-16
 permalink: /thinking/japan/
 ---
 
@@ -11,17 +11,17 @@ permalink: /thinking/japan/
 
 ### When
 
+For three weeks.
+
 - March, April, or May
-    - Not first week of May, Golden week
+    - Not first week of May, Golden week (29 April to 5 May)
     - May: good time to visit
     - Cool mornings give way to warm days
-- Public holidays
-    - 20 Mar, Thursday, Spring Equinox
-    - 29 Apr, Tuesday, Shōwa Day 
-    - 3 May, Saturday, Constitution Memorial Day 
-    - 4 May, Sunday, Greenery Day  
-    - 5 May, Monday, Children's Day
-    - 6 May, Tuesday, Greenery Day
+    - Monday 11th May to Sunday 31st May?
+    - Monday 6th April to Sunday 26th April?
+    - Holidays in NZ: Good Friday Fri 3rd April, Easter Monday Mon 6th April, Day off for ANZAC Mon 27th April
+    - Aim for **Mon 30 Mar to Sun 19 Apr** Includes two NZ public holidays.
+        - Kyoto: high 16°C, low 7°C; Osaka 20 and 11.
 
 ### Where
 
