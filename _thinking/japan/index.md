@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-09-16
+updated: 2025-09-17
 permalink: /thinking/japan/
 ---
 
@@ -22,6 +22,22 @@ For three weeks.
     - Holidays in NZ: Good Friday Fri 3rd April, Easter Monday Mon 6th April, Day off for ANZAC Mon 27th April
     - Aim for **Mon 30 Mar to Sun 19 Apr** Includes two NZ public holidays.
         - Kyoto: high 16°C, low 7°C; Osaka 20 and 11.
+
+### How (much)
+
+Quick notes on costs.
+
+Flights: between $2,000 and **$3,000**, multi-stop, 24 hours or longer. Wellington to Auckland, then one more stop, then Japan.
+
+Accommodation
+
+- AirBnb: between $600 and $1200 for 6 nights in Osaka ($100+ a night)
+- AirBnb: between $1500 and $2000 for 6 nights in Kyoto ($250+ a night)
+- Kyoto: ryokan start around $115, hover around $170, mostly higher
+
+Call it $150 a night, makes about **$3150** for the three weeks.
+
+Flights and accomm $6,000 or more.
 
 ### Where
 
