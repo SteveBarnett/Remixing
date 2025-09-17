@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-09-16
+updated: 2025-09-18
 longerform: true
 ---
 
@@ -18,6 +18,12 @@ My practice has helped me loosen and soften around these things quite a lot. Muc
 These days "at the office" can mean many things. A few floors of a skyscraper. A hot desk at a co-working space. A room at home with a standing desk. All these of I consider "at the office" for this book: the place where we do our work.
 
 We're going cover a couple of aspect of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help: identity, conflict, right livelihood. We'll also link to it to Daniel Pink's theory of motivation: autonomy, mastery and purpose.
+
+...
+
+Writing this tiny book is part of my practice. I'm down with (I think Dogen's) idea that everything is your main practice.
+
+I'm also down with Austin Kleon and his idea of "write the book you want to read."
 
 ### A quick aside on layers
 
@@ -35,6 +41,19 @@ I find it fruitful to think about aspects of things, like work, in terms of laye
 
 
 ## Me
+
+The thing I have struggled with the most over the years has been having too much of my identity in work. This had a bunch of knock-on effects. When work wasn't going well, I read it as a reflection of me: I am not going well. The meaning of my life was to do good work with good people. I'm a recovering perfectionist, so I held myself and my work to unachievably high standards. My work was who I was. Sure, I did lots of other things, and there were lots of other aspects to who I was. But this was the biggest slice of the identity pizza by far.
+
+The dharma has helped me loosen these tight grips over the years. The first thing that helped was seeing more clearly what was going on. Realised how much I thought about and cared about work, and how that was impact my life. In particular my stress levels and general happiness. Noticing what I was doing helped me decide that I wanted to do something about it. This did not feel like flourishing!
+
+The next thing that helped was noticing the shape of my self, looking more closely at what I tool to be my identity. I began to pay more attention to how my sense of self changed, depending on who I was talking to, what we were talking about, how I was when things were going well or badly.
+
+Finally, I starting coming around to the reality that some parts of me are just not going to change very much. All I can do is accept them, with as much grace as I can, and let them people around me know what's going on.
+
+Something I picked up from a psychology and psychotherapy direction was talking. Once I tried it, I learned quite quickly that talking about things almost always helped. And that when I have that gritty, uncomfortable, grumpy, feeling of really not wanting to talk about something, that was a sure sign that this was something I really should be talking about!
+
+
+SB stuff I may want to fold in.
 
 - Identity
 - Self as process, fluid, interconnected
@@ -63,132 +82,33 @@ Work with who your team are, not against
 
 Dependent origination. Let go of the shoulds. Let go of the coulds. Rest in the good(s).
 
-### Compassion and conflict
+### Some gathered notes on conflict to fold in
 
-#### At first
+Conflict resolution is simple but not easy.
 
-- Adopt a **learning stance**.
-- Practice **Active Listening**.
-- Recognise the **common humanity**.
-
-#### And then
-
-- Find the feeling at the **heart of the matter**. See presenting issues as a window.
-- **Suspend judgement**.
-- Find the **common ground**.
-
-(👇 ideas from [a sketch for an OMB session on conflict](/thinking/zen-and-conflict/))
-
-### Tinytation 🧘⏱️
-
-- Bring to mind some conflict that you're experiencing now, or have done recently
-- Something on the lighter side, not something traumatic
-- How did you act? What was your behaviour?
-- What were you thinking?
-- What were you feeling in your body?
-- As we go through the session, I'll prompt you to bring that situation to mind
-
-### Five steps
- 
-1. **Prepare.**  Thinking ahead gives us a chance to calm down, prepare to listen, and clarify what we want to say. Preparing will also help us listen better.
-2. **Listen.** Don’t mix listening with problem solving or negotiating. Wait until both of you have heard each other out to start the next step. Listening does not mean agreement. If you can keep that clear, your listening will improve.
-3. **Share Your Perspective.** The use of the third person asserts a truth and invites disagreement. The first person expresses a relative perspective and is easier to hear because it doesn’t claim the position of truth. Including our feeling states humanizes our communication and helps bring the heart online.
-4. **Relax and wait.**
-5. **Problem solve.** Skillful negotiation involves seeing where our wants and needs overlap.
-
-### Unity
-
-- Our deepest nature is the unity that includes diversity
-- The harmony that includes our differences is deeper and more durable
-- Using Zen words, you could say that unity is the Absolute and difference is Relative
-- We have the same basic values and needs
-    - For example, from Maslow: food, water, warmth, rest; safety, security; relationships, friendships
-- This means taking a world-centric view, not an ethnocentric one, or an egocentric one
-
-### Difficulty and growth
-
-- (Simple but not easy)
-- Skilful inclusion of our differences is difficult
-- Resolving conflict is an exercise is growth
-- Working with differences overrides our deepest protective habits
-- Over time, we can develop a taste for it
-- When we can work with the tension, we become confident in our ability to discuss and integrate ways in which we are not the same
-
-### 1. Prepare
-
-- Meditation and mindfulness is deliberate and focused, yet relaxed
-- If we want to change, we have to notice what happens to us in stressful situations
-- What story am I telling myself about my role in this?
-- Remember to relate to emotions as states
-    - An experience of thought, mood, body
-- Be clear on you what you want from an interaction
-    - Intention guides attention
-
-#### Emotions
-
-- Emotions can be a powerful source of information
-- Feel them completely, then let them go entirely
-- Don't stay trapped in them
-- Notice that your heart is big enough to include things that get you down **and** things that lift you up
-
-### 2. Listen
-
-- Listening is the best tool to open into togetherness
-- It can help lower anxiety, diminish division, and open into sameness
-- Listen by letting go of your reactivity
-- Empty out, receive
-- For a moment, become one with another point of view
-- This isn't agreement, just listening
-    - Keeping this clear can help us listen better
-
-#### Barriers to listening
-
-- Judgements and stories make barriers
-- Barriers make listening harder
-- A narrow perspective of "I'm right, you're wrong" makes us feel safest
-
-### Growth
-
-- Resolving a conflict is an exercise in growth
-- Engaging differences is engaging judgement, stories
-
-### Energy
-
-- In an exchange that unsettles or agitates us, for instance, we can smooth things out by creating more sameness.
-- When discussions become sluggish, flat, or uninspiring, we can inject a dose of difference.
-
-### Skillful
-
-- Including differences in conversation, allowing them to energize and provoke us, but not to alienate us, requires a lot of skill.
-- When we lean toward conflict, we are literally overriding our oldest, deepest protective habits.
-
-### Argument and Conflict
-
-- Be open, admit your ignorance
-- Practice active listening: repeat, summarised in your own words, to check your understanding.
-- Be patient, keep at it.
-- Be more clear, keep ask for clarifying, asking if you are clear
-- Give love, support, sympathy to those who need it, not those who "deserve" it.
-- Make the most generous, respectful, interpretation.
-- "You are partly right."
+- Adopt a learning stance.
+- Practice Active Listening. 
+- Recognise the common humanity.
+- Find the feeling at the heart of the matter. See presenting issues as a window.
+- Suspend judgement.
 - Find the common ground.
-- The three conversations: what happened, feelings, identity.
-- "Is this helpful?" rather than "is this a final, fundamental, truth?"
-- Bring out and work with fears.
-- Bring out the underlying values and needs.
-- Don't interrupt others. If you're interrupted, point it out.
-- Find the inconsistency. Find the counter-example. Find a wider context.
-- "What's your point?" steers towards a tell.
-- When you oppose and don't understand: "how did we get here?"
-- "What do you mean?"
-- Map out the argument.
-- Admit ignorance, give power.
-- Improve your understanding.
-- Make your assumptions explicit.
-- Evaluate claims. Data, plausibility, practicality, history.
-- What's the actual, not perceived risk? Likelihood x Impact.
-- What's your confidence level?
-- Let them trip over the truth.
+
+Include minitations?
+
+1. Settle beforehand. Bring mindfulness to yourself, the situation. Be ready to act from a place of clarity. (A mini-ELSA?)
+2. Listen. Just listen, only listen. No need to agree, no need to judge. Listen by letting go of your reactivity. Fully accept the other point of view. Improve your understanding of the other PoV, admit your ignorance. Can Active Listen: repeat n your own words to check understanding.
+3. Make I statements about your feelings. Emotions as states. Feel fully, then allow them to dissipate.
+4. Wait.
+5. (Eventually) problem-solve and negotiate, finding common needs.
+
+NVC?
+
+- Take the widest view. Our deepest nature is the unity that includes diversity. The harmony that includes our differences is deeper and more durable.
+- Skilful inclusion of our differences is difficult. Resolving conflict is an exercise is growth.
+- Like many things, we can get better at it over time, even come to enjoy it. Be patient.
+- Difference brings energy.
+- Give love, support, sympathy to those who need it, not those who "deserve" it.
+- "Is this helpful?" rather than "is this a final, fundamental, truth?" (conflict resolution as a task, not as a truth-finding exercise)
 
 ## My clients (?)
 
