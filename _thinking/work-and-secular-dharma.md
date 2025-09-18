@@ -25,6 +25,23 @@ Writing this tiny book is part of my practice. I'm down with (I think Dogen's) i
 
 I'm also down with Austin Kleon and his idea of "write the book you want to read."
 
+...
+
+
+Some links to Stephen Batchelor’s ten theses of secular dharma
+
+- Each person, **in each moment**, has the potential to be more awake, responsive and free.
+- The practice of the dharma is as much concerned with how one speaks, **acts and works in the public realm** as with how one performs spiritual exercises in private.
+- A practitioner is committed to an ethics of care, founded on **empathy, compassion and love for all** creatures who have evolved on this earth.
+- A practitioner of the dharma aspires to nurture **a culture of awakening** that finds its **inspiration in Buddhist and non-Buddhist**, religious and secular sources alike.
+
+Also:
+
+- scepticism and questions more than answers
+- following a middle way (between two poles)
+- embracing one's habitual aversions
+- "appropriate response", not "right" or Truth
+
 ### A quick aside on layers
 
 At some point in my life I stumbled over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2), and found it very compelling. Not so much the specific layers, but the framework.
