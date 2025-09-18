@@ -2,9 +2,58 @@
 layout: page
 title: "Don't Be a Jerk notes"
 added: 2025-09-01
-updated: 2025-09-07
+updated: 2025-09-19
 zennotes: true
 ---
+
+## Gathered notes
+
+- Dōgen adopted four points of view when talking about any given topic
+    1. idealism/subjectivism
+    2. materialism/objectivism
+    3. action
+    4. realism, which synthesizes the other three
+- **The truth is everywhere all around us, but if we don’t practice, it doesn’t show itself and we can’t experience it.**
+- **in the quietness, with nothing to accomplish, there is only direct experience**
+- you cannot know your own enlightenment because whatever you call enlightenment can’t be enlightenment
+- you don’t do zazen in order to achieve some result like enlightenment in the future. Zazen itself, he said, is enlightenment.
+- mind/spirit and body/matter are undivided. **The separation we believe exists between the two is an illusion.**
+- **zazen is a physical practice as much as it a mental one**
+- stop chasing words, take a step backward, and turn our light inward
+- When thoughts come, don’t try to stop or suppress them. Just allow them to pass away naturally. Some take longer to fade than others, but all thoughts will always fade given enough time, especially if you can learn to avoid the temptation to feed into them or play with them.
+- in zazen we strive to see the answers we already possess.
+- **Emptiness** in Buddhist terms doesn’t mean nothingness. It means that **every single thing we encounter** — including ourselves — **goes beyond our ability to conceive of it**.
+- Meditation practice helps make this clearer. Moments of transcendence and oneness no longer seem like anomalies. You start to notice that **your individual identity and the identity of the universe itself are not two separate things.**
+- matter and the immaterial were different aspects of the same unified reality. Form is emptiness, emptiness is form.
+- The idea of no-self means that we do not interrupt this oneness with our individuality.
+- we can’t step outside of what is and look back at it.
+- We just need to feel we know, or we can’t rest. And yet **much of life is unknowable and will remain so.**
+- If we hate others for the mistakes they’ve committed in the past, ... We’d have to hate everyone.
+- He believed that nature could often explain the dharma to people better than people could explain it to each other through words.
+- What is often called **“kensho”** or “satori” or an “enlightenment experience” is not the introduction of a novel event into our otherwise mundane lives. Rather, it **is the momentary recognition of our actual state from “before our parents were born”**
+- it’s referring to our most genuine, original nature, completely unadorned and indefinable.
+- What Dōgen is trying to convey to us across the span of eight hundred years is not facts or information. He’s trying to pass along an attitude.
+- This is why it’s very good to **have an in-person teacher**. Without a teacher you can still absorb all kinds of facts and learn to regurgitate quotations on command. But you might never cop the proper attitude unless you **see it in action in the form of an actual human being who lives it**.
+- When you finally grasp this point, even the thought, “Oh, hell, I was a jerk back then” is just energy arising from your desire not to be a jerk again. However, to say that this realization is some kind of weird rationale for being a jerk is totally stupid.
+- time and existence are inseparable
+- Keep in mind that although we sometimes say that there are many kinds of water, there isn’t one true original water, nor are there many kinds of water.
+- **rituals can satisfy a need we have to feel connected with our fellow humans.**
+- We don’t put any extra value on these kinds of surreal experiences or think of them as being somehow better than our usual state. Rather, we think that **our usual state** — because it’s the one we experience more than any other — **is the state we should pay the most attention to**.
+- Shakyamuni Buddha was the physical manifestation of something living and eternal that still remains with us today. The Buddha is a living and eternal principle.
+- When you do zazen, you’re not trying to achieve a totally empty mind. That would be impossible. But you are **trying to avoid the deliberate habitual manipulation of thoughts and images we usually engage in**.
+- There is no permanent state of enlightenment, and there are no forever-enlightened beings.
+- **It’s still quite possible to fall right back into the old patterns even while knowing full well that it’s a mistake to do so.**
+- **try to sit quietly within our delusion until we can see it clearly for what it is.**
+- **People who never assert their own views can’t be trusted.**
+- **We look at the mind with the mind itself, so we can never be completely objective.** In Dōgen’s style of Buddhism we just accept this as a given, acknowledge that we can’t really grab (or grasp) the mind, and continue working on it anyway.
+- **Most of the time we don’t really know what reasons we had in the past for doing something. But we invent an explanation, and then we begin to believe our made-up story.**
+- As practitioners of Zen, we **try to respond clearly and not out of our accumulated habits and messy emotions**.
+- **It’s not that there is a subject who experiences an object. Subject and object arise together. **
+- The object of Zen training, if there can be said to be an object, is to become totally yourself.
+- **in real action we transcend any notion of an idealized state.**
+- An intellectual understanding alone is incomplete. It has to be balanced by understanding in action.
+- **Zen is a communal practice of individual deep inquiry.**
+- **An interesting thing happens when we do this together. You discover that what is truly important is shared with everyone and everything you encounter.**
 
 ## Raw notes
 
@@ -68,20 +117,12 @@ zennotes: true
 
 ### 4. NOTE TO SELF: THERE IS NO SELF
 
-What he’s talking about is metaphorically taking everything that you think of as your self out of your
-head and looking at it carefully and critically to see if it’s really necessary. He does say you can bring
-some of it back inside. But read between the lines, and you can see that he’s implying that there’s a lot of
-stuff in there you won’t want to bring back.
-we imagine that it only happens at rare, special times and places. We miss the fact that this
-transcendence is actually continuously happening throughout every moment of every day. Meditation
-practice helps make this clearer. Moments of transcendence and oneness no longer seem like anomalies.
-You start to notice that your individual identity and the identity of the universe itself are not two
-separate things.
-The Buddha could see no reason to believe in the existence of something beyond the material universe.
-It’s not that he thought matter was the only thing there was. Rather, he saw that matter and the
-immaterial were different aspects of the same unified reality. Form is emptiness, emptiness is form.
-The idea of no-self means that we do not interrupt this oneness with our individuality.
-We are both individuals and expressions of the universe. These are not mutually exclusive.
+- What he’s talking about is metaphorically taking everything that you think of as your self out of your head and looking at it carefully and critically to see if it’s really necessary. He does say you can bring some of it back inside. But read between the lines, and you can see that he’s implying that there’s a lot of stuff in there you won’t want to bring back.
+- we imagine that it only happens at rare, special times and places. We miss the fact that this transcendence is actually continuously happening throughout every moment of every day. Meditation practice helps make this clearer. Moments of transcendence and oneness no longer seem like anomalies. You start to notice that your individual identity and the identity of the universe itself are not two separate things.
+- The Buddha could see no reason to believe in the existence of something beyond the material universe.
+- It’s not that he thought matter was the only thing there was. Rather, he saw that matter and the immaterial were different aspects of the same unified reality. Form is emptiness, emptiness is form.
+- The idea of no-self means that we do not interrupt this oneness with our individuality.
+- We are both individuals and expressions of the universe. These are not mutually exclusive.
 
 ### 5. YOU ARE NOT YOURSELF Genjo Koan The Realized Universe
 
@@ -114,7 +155,7 @@ We are both individuals and expressions of the universe. These are not mutually 
 - Basing our action on fleeting thoughts is just brought about by our limited understanding. when Gensa stubbed his toe, he saw through that. He understood how he had created his own delusions and therefore had the power to end them, right there and then.
 - The other key point in this piece is something Dōgen comes back to again and again. It’s that even our mistakes are part of the perfection of the universe.
 
-## 8. YOU CAN’T SAY “I MISS YOU” IN JAPANESE
+### 8. YOU CAN’T SAY “I MISS YOU” IN JAPANESE
 
 ...
 
@@ -187,15 +228,14 @@ We are both individuals and expressions of the universe. These are not mutually 
 ### 17. PSYCHEDELIC DŌGEN Uji Being-Time
 
 - This is one of my favorite pieces of Dōgen’s writing because it’s so psychedelic.
-- Just stick with what’s really happening. Don’t mistakenly say that it’s nonexistence or existence. Don’t
+- Just stick with what’s really happening. Don’t mistakenly say that it’s nonexistence or existence.
 - just see how relentlessly time passes, without seeing that it never arrives.
 - People see time as leaving and coming, but nobody ever sees how it stays in one place. watch and see how the flow of time continues without there ever being anything external to it. Spring passes through itself moment by moment. The truth of the here and now is realized as spring. It’s not like there’s something called spring and then nature goes and embodies it.
 - Mountains and oceans are time. Without time there’d be no mountains or oceans.
 - What Dōgen is really trying to say is that time and existence are inseparable. Heidegger said it too, in his book Being and Time. We tend to think that they’re not the same thing, though. Because of this mistaken understanding we suffer over a lot of things that aren’t really worth suffering over.
 - In some cases this kind of feeling can spur you on to improving a genuinely bad situation. But a little of that goes a long way. Most of us overdo it to such an extent that we feel horribly depressed and drained by our own relentless attacks on ourselves and our situation. We are not entities who experience time. We are time itself. All Dōgen is doing in this essay is trying to get us to notice that.
 - Dōgen’s view takes the Middle Way. Yes, our measuring devices tell us every hour is the same. But our subjective sense of time is just as real.
-- when we say there’s no self, we only mean that there is no fixed and limited entity that remains
-- unchanging while life and time go on around it.
+- when we say there’s no self, we only mean that there is no fixed and limited entity that remains unchanging while life and time go on around it.
 - what we mistakenly call “self” still exists. We just have completely wrong ideas about what it is and make huge mistakes by acting on those wrong ideas.
 - the past doesn’t leak away. It exists right there with us in tangible form.
 - David Brazier says, “Dōgen likes to use the term ‘half’ in order to indicate what it is like for actual human beings rather than idealized ones. We do not necessarily do the best possible job every time.”
@@ -283,8 +323,7 @@ most sense.
 
 ### 25. CHANTING SUTRAS Kankin Reading — or Chanting — Sutras
 
-- It’s not that Zen is a philosophy that forbids or even discourages reading or chanting. It’s just that
-- Buddhism is a philosophy of action.
+- It’s not that Zen is a philosophy that forbids or even discourages reading or chanting. It’s just that Buddhism is a philosophy of action.
 - That doesn’t mean reading is worthless. By reading the sutras you can develop an intellectual understanding of Buddhist philosophy, and that’s useful. But an intellectual understanding alone is incomplete. It has to be balanced by understanding in action.
 - He is saying that the actual meaning within the sutras can be found everywhere. The teachers who wrote the sutras were not inventing doctrines. They were perceiving the world as it is and expressing their understanding of it for our benefit.
 - the ineffable, inexpressible, real nature of the universe.
@@ -314,5 +353,4 @@ most sense.
 - This active stuff, with all its movements and coordination, helps bond the group.
 - the hierarchies present in Zen temples that people so struggle with in my country are also intended just to maintain the atmosphere necessary for practice.
 - People get upset when some random guy at the library says shush to them, but if the librarian does it we understand that he or she is empowered to shush us.
-- An interesting thing happens when we do this together.
-- You discover that what is truly important is shared with everyone and everything you encounter.
+- An interesting thing happens when we do this together. You discover that what is truly important is shared with everyone and everything you encounter.
