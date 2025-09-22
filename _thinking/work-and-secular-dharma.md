@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-09-18
+updated: 2025-09-23
 longerform: true
 ---
 
@@ -15,20 +15,20 @@ Work is the thing I have struggled most with over the years. I haven't tended to
 
 My practice has helped me loosen and soften around these things quite a lot. Much of my practice has been Budddhist, and Buddhist-adjacent, of various flavours. I'm particularly fond of some flavours of Zen and their focus on living a good enough, ordinary, life. I've also soaked in various flavours of philosophy and psychology, trying to find my way through.
 
-These days "at the office" can mean many things. A few floors of a skyscraper. A hot desk at a co-working space. A room at home with a standing desk. All these of I consider "at the office" for this book: the place where we do our work.
+"At the office" can mean many things. A few floors of a skyscraper. A hot desk at a co-working space. A room at home with a standing desk. All these of I consider "at the office" for this book: the place where we do our work.
 
 We're going cover a couple of aspect of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help: identity, conflict, right livelihood. We'll also link to it to Daniel Pink's theory of motivation: autonomy, mastery and purpose.
 
 ...
 
-Writing this tiny book is part of my practice. I'm down with (I think Dogen's) idea that everything is your main practice.
+Writing this tiny book is part of my practice. I'm down with the idea that everything is your main practice.
 
 I'm also down with Austin Kleon and his idea of "write the book you want to read."
 
 ...
 
 
-Some links to Stephen Batchelor’s ten theses of secular dharma
+Some thematic links to Stephen Batchelor’s ten theses of secular dharma.
 
 - Each person, **in each moment**, has the potential to be more awake, responsive and free.
 - The practice of the dharma is as much concerned with how one speaks, **acts and works in the public realm** as with how one performs spiritual exercises in private.
@@ -44,7 +44,9 @@ Also:
 
 ### A quick aside on layers
 
-At some point in my life I stumbled over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2), and found it very compelling. Not so much the specific layers, but the framework.
+I find it fruitful to think about things in terms of layers. A thing can have several aspects. Thee aspects are distinct but not divided. For work, I'm going to look at me, my team, and my organisation as layers.
+
+At some point in my life I stumbled over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2), and found it very compelling. The framework was what interested me more than the specific layers.
 
 Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers. The layers exist on a spectrum.
 
@@ -53,9 +55,6 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
 - **The zoomed-out layers are bigger; they move and change more slowly.** All the layers are in constant motion. 
 - **The faster layers get our attention, but the slower layers have the power.** Slow and big controls fast and small by constraint and constancy. Fast and small instructs slow and big by accrued innovation and occasional revolution. The faster layers learn, the slower layers remember.
 - **The layer boundaries are fuzzy**. The boundaries are like tidemarks.
-
-I find it fruitful to think about aspects of things, like work, in terms of layers.
-
 
 ## Me
 
@@ -133,10 +132,9 @@ NVC?
 
 ## My organisation
 
-- Right Livelihood
-    - Increase happiness or reduce suffering
-- Care
-- Flourishing
+Livelihood is one element of The Eightfold Path. On the top level this means a job that doesn't cause harm. Putting on a secular dharma hat, we could give it a more active framing: a job that involves an ethic of care. Or perhaps a job that promotes and facilitates flourishing. With a very wide view, we could say a job that increases happiness or reduces suffering. I think there many kinds of jobs that fit these angles. Even in jobs that, on the face of it, don't seem like Right or Complete or Skilful Livelihood, there are often many opportunities to steer towards something more aligned with the kind of Livelihood The Eightfold Path suggests.
+
+I make websites. There's lots of room to manoeuvrer there. What kind of websites do I make? Do I make them so that everyone can use them, or only certain kinds of people? What do the websites let people do, or encourage people to do?
 
 ## My profession (?)
 
