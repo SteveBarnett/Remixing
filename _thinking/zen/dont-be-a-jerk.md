@@ -48,7 +48,7 @@ zennotes: true
 - **We look at the mind with the mind itself, so we can never be completely objective.** In Dōgen’s style of Buddhism we just accept this as a given, acknowledge that we can’t really grab (or grasp) the mind, and continue working on it anyway.
 - **Most of the time we don’t really know what reasons we had in the past for doing something. But we invent an explanation, and then we begin to believe our made-up story.**
 - As practitioners of Zen, we **try to respond clearly and not out of our accumulated habits and messy emotions**.
-- **It’s not that there is a subject who experiences an object. Subject and object arise together. **
+- **It’s not that there is a subject who experiences an object. Subject and object arise together.**
 - The object of Zen training, if there can be said to be an object, is to become totally yourself.
 - **in real action we transcend any notion of an idealized state.**
 - An intellectual understanding alone is incomplete. It has to be balanced by understanding in action.
