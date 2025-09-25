@@ -44,7 +44,7 @@ An important part is that this is a stance. [A direction(ional heading), a vecto
 - To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
 - To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
 - To address feeling bad about myself: **I do a [Polopposit](/thinking/polopposits/)**.
-- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/).
+- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/)**.
 
 ### The path
 
