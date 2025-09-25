@@ -2,21 +2,21 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2025-01-26
+updated: 2025-09-25
 ---
 
 The living version of several previous swirls.
 
 A brief summary:
 
+- My daily practice is meditation and mindfulness.
 - The path is goal. Living a good enough, ordinary, life.
-- My practice is meditation and mindfulness.
 - I use layers as a way of finding concrete things to do. I like using the rule of threes.
 - Reality is one, complex, empty, flow. It's free of concepts, language, characteristics.
 - The infinite causes and conditions of Reality create everything.
 - Our true nature is the (open, empty, luminous) context of consciousness.
-- All matter is swirls of degrees of consciousness.
 - The cosmos is purposeful, patterned, and playful. It's consciousness as a verb.
+- All matter is swirls of degrees of consciousness.
 
 ---
 
@@ -31,38 +31,33 @@ An important part is that this is a stance. [A direction(ional heading), a vecto
 - It's approached iteratively. Subject to constant revision and updates, subject to new understanding and knowledge and feedback. It's tentative.
 - It's contextual, rather than hierarchical. Use the stance, tool, approach that's the best fit, the most appropriate, the most skilful response. There's seldom a right or correct choice, but there are usually better and worse ones.
 
-When meditating, I try to [just sit](/thinking/zen/the-just-in-just-sitting/), like Zen [Shikantaza](/thinking/zen/shikantaza/). There's a relaxed, open, but watchful quality to it. A bit like alertness, but not tense. A sort of mix of single-tasking and one-pointedness and commitment and focus.
+### Some regulars
 
-When out and about, I have a few little practices.
-
-- To notice my true nature, I look for at the **centre**, for myself at zero distance.
-- To notice the nonduality of Reality, I look for the **edges**.
-    - Alternate take: Notice how things **show up together**.
-- To notice impermanence, I watch for the **changes**.
-- When I feel stressed, I remind myself of [the three uhds](/thinking/the-three-uhds/).
-- I remind myself that the path is goal.
-
-[LSD](/thinking/lsd/): Listen, Slow your tempo, Doubt.
+- To slow down or start from slowness, **I meditate**. In particular, zazen, [just sitting](/thinking/zen/the-just-in-just-sitting/). Relaxed and open, but watchful. Alert, but not tense.
+- To notice my true nature, **I look for the centre**, for myself at zero distance.
+- To notice the nonduality of Reality, **I look for the edges**.
+- To notice non-separation of an (apparent) opposite: **I look for how things show up together**.
+- To notice impermanence, **I watch the changes**.
+- To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
+- To reality-check myself, **I apply on [The Constable](/thinking/the-constable/) frame of mind**.
+- To address feeling like I'm not getting anywhere, **I remind myself that the path is goal**.
+- To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
+- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
+- To address feeling bad about myself: **I do a [Polopposit](/thinking/polopposits/)**.
+- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/).
 
 ### The path
 
-Living a good enough, ordinary, life.
-
-- Take the path as the goal.
-- Practice is enlightenment.
-- A gradual, never-ending, actualisation, embodiment, and integration.
+<details>
+    <summary><strong>Living a good enough, ordinary, life.</strong></summary>
+<div markdown="1">
+- Take the path as the goal. A gradual, never-ending, actualisation, embodiment, and integration.
 - Living more frequently, for longer periods, from Reality, direct experience, instead of concepts.
-- Continued recommitment to aligning your actions with your values.
-    - Use "grips" that are practical, pragmatic, feasible, workable.
-    - (From [Notes section of Precepts remixing](/thinking/precepts-remixing/#notes)) Using Valued Action as a way to examine deeply who I am, and into my failures to live up to the values.
+- Continued recommitment to aligning my actions with my values.
+- Using Valued Action as a way to examine deeply who I am, and into my failures to live up to the values.
 - Keeping things alive and fresh by changing them regularly (not necessarily frequently).
-- Stick to simple rules.
-- Build in redundancy.
-- Focus more on avoiding things that don't work than on trying to find out what does.
-- What's the stance you're taking? What direction are you going?
-    - Notice: does this lead towards suffering or away?
-    - Uncovering. Letting go.
-    - Notice and relax the patterns and conditioned identification.
+</div>
+</details>
 
 ## Layers
 
@@ -70,78 +65,71 @@ Spheres, area. Distinctions, not division. Useful ways of getting a handle on th
 
 All is included, all is needed: both/and, not either/or. Considering and taking multiple perspectives and viewpoints to get something more truthful, because it's a more complete picture.
 
+<details>
+    <summary>Some example layers</summary>
+<div markdown="1">
 - Body, Mind, Spirit
 - Personal, Professional, Practice
 - Inner/Outer and Individual/Collective
-- [Layers](/thinking/layers/), depths (layers: influences each other; are distinct, but not divided; offer changes in context, scale, extent; move at different paces; have fuzzy boundaries)
-    - ride the waves, calm the waves, be the waves
-    - psychology to philosophy
-    - mind, body, spirit
-    - outer to inner
-    - shallow to deep
-    - outer to inner
-    - noise, sounds, silence
-    - thoughts, thoughts as illusion, before thought
+- ride the waves, calm the waves, be the waves
+- thoughts, thoughts as illusion, before thought
 - Progressive path, direct path, pathless path
+</div>
+</details>
 
 "(You are) the ocean, not the waves" is a perhaps a bit cheesy and overused now. But it is also very good and accurate and fruitful. So I'm using that here as: ride the waves, calm the waves, be the waves.
 
 #### Ride the waves
 
-Look around. Apply psychological and logical understanding.
-
-Not rules to be good, but guides to examine deeply who we are.
-
-- Do less, not do more.
-- Just do what needs to be done. Free of goals or outcomes.
-- Notice (the details of) the map you're using.
-- Negative Capability: remain in doubt and uncertainty.
-- Take the more integrated picture, multiple viewpoints at once.
-- Listen for [The Avoidance Alarm](/thinking/the-avoidance-alarm/).
-- Right speech: true, kind, helpful, contextually appropriate.
-- Plain language: clear, concise, well-organised.
-- Piggyblocking. Establish a new habit more easily by putting it between two existing habits.
-- Ask yourself: "How would you advise a friend?"
-- Use Implementation Intentions on Redirects. Catch a bad habits and redirect to: Meditation; [Philotation](/notes/philosophy/philosophical meditation.jpg); another activity.
-- Use Negative visualisation to soften the stings.
+<details>
+    <summary><strong>Look around. Apply psychological and logical understanding.</strong></summary>
+<div markdown="1">
+- Watch actions and habits
+    - Do less, not do more.
+    - Piggyblocking. Establish a new habit more easily by putting it between two existing habits.
+    - Listen for [The Avoidance Alarm](/thinking/the-avoidance-alarm/).
+    - Catch a bad habit and it redirect to: Meditation; [Philotation](/notes/philosophy/philosophical meditation.jpg); another activity.
+- Watch the framing
+    - Notice (the details of) the map I'm using.
+    - Take the more integrated picture, multiple viewpoints at once.
+    - Ask myself: "How would you advise a friend?"
+    - Use Negative visualisation to soften the stings of bad things.
+- Use don't-know mind, curiosity.
+    - Negative Capability: remain in doubt and uncertainty.
+    - Settle into an energetic balance, “between” two poles.
+</div>
+</details>
 
 #### Calm the waves
 
-Look closer. Feel your way through the ups and downs of being an embodied human being.
-
+<details>
+    <summary><strong>Look closer. Feel my way through the ups and downs of being an embodied human being.</strong></summary>
+<div markdown="1">
 - Treat the everyday as sacred.
-- [Remember the three uhds](/thinking/the-three-uhds/). Let go of the shoulds. Let go of the coulds. Rest in the good(s).
-- Try, and fail, to find the edges. (Reality is one)
-- Watch as things arise and pass away. (Reality is in constant flux)
-- Watch as things happen on their own. (The infinite causes and conditions of Reality create everything)
-    - Notice the causes, conditions, and patterns.
-- Remember that the map is not the territory. (Reality is complex, deep, rich)
-    - Notice the fractal nature of everything.
-- Look for what's static, fixed. (Reality is flow, motion, change)
-    - Notice the motion, the changes. Watch it arise, watch it pass away.
-- Notice the directionality, purposefulness, of things. (The cosmos is purposeful, patterned)
-- Notice the playful nature of everything. There's exploring and realising, playing hide and seek. (The cosmos is playful)
+- Notice what wants attention or acceptance.
 - Leave things as they are, without adding a story or a label.
-- “What wants attention or acceptance right now?” (from Trusting the Gold).
+- Let go of "this isn't it."
 - <span id="signposts">Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.</span>
-- Be generous, give generously.
-- Work with what you find in the chaos of the world.
+- Come back to the direct, embodied, experience.
+</div>
+</details>
 
 #### Be the waves
 
-Look wider. Connect to a deeper sense of self.
-
+<details>
+    <summary><strong>Look wider. Connect to a deeper sense of self, to emptiness.</strong></summary>
+<div markdown="1">
 This links with "[The cosmos is playful](#playful)" later in this page: the waves are a playful expression of the ocean. They waves aren't separate from the ocean. The ocean doesn't like small waves and dislike big waves (or vice versa).
 
-- Notice the causes and conditions that lead to your suffering.
-- Notice the causes, conditions, patterns that make you who you are.
-- Look for source of an action, a decision, and notice the absence.
-- Look for yourself, at zero distance. (The context of consciousness, not the contents)
-    - Come back to the direct, embodied, experience.
-    - Look for thinker of thoughts and notice the absence.
-- Settle into an energetic balance, “between” two poles / opposites.
-- Letting go of "this isn't it."
-- Sit with koans to harness the energy of inquisitiveness and activate intuition.
+- Notice the causes, conditions, and patterns that make me who I am, how I am.
+- Look for the thinker of thoughts, the source of an action, a decision, and notice the absence.
+- Look for myself, at zero distance. Recognise I'm the context of consciousness, not the contents.
+- Notice the playful nature of everything. There's exploring and realising, playing hide and seek.
+- Notice the directionality, purposefulness, of things.
+- Look for the edges (and fail to find them).
+- Notice the motion, the changes. Watch as things arise and pass away.
+</div>
+</details>
 
 ## Theory
 
@@ -163,7 +151,7 @@ The nature of Reality, Consciousness, the cosmos.
         - Both/and instead of either/or.
 - **Reality is complex, deep, rich.**
     - Concepts make forms, draw lines, build fences.
-    - The closer you look, the more there is to see. Boredom is a failure to pay enough attention.
+    - The closer I look, the more there is to see. Boredom is a failure to pay enough attention.
 - **Reality is in constant flux and motion.**
     - Everything flows, changes, is impermanent.
     - "-ing"
@@ -188,7 +176,7 @@ The nature of Reality, Consciousness, the cosmos.
 <div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
 
 - **Our true nature, awareness, is the (open, empty, luminous) context of consciousness, not the contents.**
-    - Anything that can be named or located can’t be you: it must an object in awareness or you couldn't be aware of it.
+    - Anything that can be named or located can’t be me: it must an object in awareness or I couldn't be aware of it.
     - Subject and object arise as a pair in awareness.
     - The context is always bright, clear, boundless, whatever the contents of consciousness.
     - There’s no separate, solid, stable, self.
