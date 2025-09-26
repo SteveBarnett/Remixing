@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-09-23
+updated: 2025-09-27
 longerform: true
 ---
 
@@ -17,13 +17,13 @@ My practice has helped me loosen and soften around these things quite a lot. Muc
 
 "At the office" can mean many things. A few floors of a skyscraper. A hot desk at a co-working space. A room at home with a standing desk. All these of I consider "at the office" for this book: the place where we do our work.
 
-We're going cover a couple of aspect of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help: identity, conflict, right livelihood. We'll also link to it to Daniel Pink's theory of motivation: autonomy, mastery and purpose.
+We're going cover a couple of aspects of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help: identity, conflict, right livelihood. We'll also link to it to Daniel Pink's (danpink.com) theory of motivation: autonomy, mastery and purpose.
 
 ...
 
 Writing this tiny book is part of my practice. I'm down with the idea that everything is your main practice.
 
-I'm also down with Austin Kleon and his idea of "write the book you want to read."
+I'm also down with Austin Kleon (austinkleon.com) and his idea of "write the book you want to read."
 
 ...
 
@@ -82,25 +82,25 @@ SB stuff I may want to fold in.
 
 ## My team
 
-One thing that happens whenever human beings are around each other is conflict. Sometimes it's mild disagreement, sometimes it's big, shouty, explosions.
+One thing that happens whenever human beings are around each other is conflict. Sometimes it's mild disagreement, sometimes it's big, shouty, explosions. There are a few angles here that have helped me.
 
-Conflict is intrinsic to being human
+The first is embracing life as it is. In particular, truly and deeply accepting the fact that human life is inevitably difficult sometimes.
+
+Another is the idea of dependant origination, or conditional arising, or contingency. I usually apply this in the sense of thinking about all the causes and conditions and patterns that have lead a person (including me!) to think and act in the way they are. A warm, gentle, compassionate kind of "of course" tends to arise. I try to hold the "should"s and "could"s more lightly by considering everything in my life that's lead up to this point. Of course I'm thinking and acting like this. How else could I act, given all of that source material, all those inputs?
+
+One more aspect is the "yes, and" that comes after acceptance. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there.
+
+### Conflict is intrinsic to being human.
 
 - Handling it well can make creative opportunity from destructive potential
 - It can show us our unhelpful patterns, or where we want or need to change something
 - But we need to see it differently, overcome our need to win
 
-Embrace life: human life is inevitably difficult.
+### Practical ways to handle conflict
 
-Positive feedback loop, not linear progression.
+Conflict resolution is simple but not easy. Here are some tips
 
-Work with who your team are, not against
-
-Dependent origination. Let go of the shoulds. Let go of the coulds. Rest in the good(s).
-
-### Some gathered notes on conflict to fold in
-
-Conflict resolution is simple but not easy.
+I found Diane Musho Hamilton's book "The Zen Of You And Me: A Guide To Getting Along With Just About Anyone" interesting and helpful on the topic. It had some ideas that were new to me, and reminded me of some ideas I'd forgotten or let slip into the background. Other handy books: Conflict Transformation by John Paul Lederach; Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler; Difficult Conversations by Douglas Stone, Bruce Patton, Sheila Heen. Like all reading (including this book), I think the important thing is to pick out the nuggets that are helpful, even if you don't agree with the whole thing.
 
 - Adopt a learning stance.
 - Practice Active Listening. 
@@ -108,23 +108,20 @@ Conflict resolution is simple but not easy.
 - Find the feeling at the heart of the matter. See presenting issues as a window.
 - Suspend judgement.
 - Find the common ground.
-
-Include minitations?
-
-1. Settle beforehand. Bring mindfulness to yourself, the situation. Be ready to act from a place of clarity. (A mini-ELSA?)
-2. Listen. Just listen, only listen. No need to agree, no need to judge. Listen by letting go of your reactivity. Fully accept the other point of view. Improve your understanding of the other PoV, admit your ignorance. Can Active Listen: repeat n your own words to check understanding.
-3. Make I statements about your feelings. Emotions as states. Feel fully, then allow them to dissipate.
-4. Wait.
-5. (Eventually) problem-solve and negotiate, finding common needs.
-
-NVC?
-
 - Take the widest view. Our deepest nature is the unity that includes diversity. The harmony that includes our differences is deeper and more durable.
 - Skilful inclusion of our differences is difficult. Resolving conflict is an exercise is growth.
 - Like many things, we can get better at it over time, even come to enjoy it. Be patient.
 - Difference brings energy.
 - Give love, support, sympathy to those who need it, not those who "deserve" it.
 - "Is this helpful?" rather than "is this a final, fundamental, truth?" (conflict resolution as a task, not as a truth-finding exercise)
+
+#### A mindful approach to conflict
+
+1. Settle beforehand. Bring mindfulness to yourself, the situation. Be ready to act from a place of clarity. (A mini-ELSA)
+2. Listen. Just listen, only listen. No need to agree, no need to judge. Listen by letting go of your reactivity. Fully accept the other point of view. Improve your understanding of the other PoV, admit your ignorance. Can Active Listen: repeat n your own words to check understanding.
+3. Make I statements about your feelings. Emotions as states. Feel fully, then allow them to dissipate.
+4. Wait.
+5. (Eventually) problem-solve and negotiate, finding common needs.
 
 ## My clients (?)
 
