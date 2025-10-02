@@ -2,9 +2,38 @@
 layout: page
 title: "Zen Teaching of Homeless Kodo"
 added: 2025-09-26
-updated: 2025-09-26
+updated: 2025-09-29
 zennotes: true
 ---
+
+## Gathered notes
+
+- I thought writing these articles would be good for me as part of my practice.
+- We tend to do things without understanding why we’re doing them or which direction we want to go.
+- Buddhadharma is a religion that allows practitioners to open clear and fresh eyes, unimpaired by habitual ways of thinking.
+- Sit immovably in the place where being superior or inferior to others doesn’t matter.
+- Religion loses its vitality when people simply follow fixed doctrines and maintain religious institutions. Only when we seek the truth of our selves and create our own spiritual life can we give birth to the potential that can point the way for our time.
+- The Buddha taught the path to freedom from desires, not the way to satisfy them.
+- Do not engage in the human foolishness of discrimination.
+- Good or bad luck is always our main concern. But in reality, is there good or bad fortune? There isn’t. There are only calculations using our expectations as a yardstick.
+- Doing zazen is ceasing to be a person always gauging gain and loss and evaluating life according to such calculations.
+- How we live our everyday lives has to be the main concern of religion (awakening to reality).
+- Religion must manifest itself freely and inexhaustibly in all activities of life, everywhere and always.
+- A bodhisattva vow is not a goal but a direction.
+- Although they seem complicated, most problems can be solved with money, if we have enough. And yet there’s at least one thing that cannot be fixed this way: the belief that all problems can be solved with money.
+- We need to practice and work diligently with little desire, knowing satisfaction.
+- Although no map is reality itself, when we know how a map was made, what its distortions are, and how to use it, the map can be a useful tool for understanding reality.
+- That the moon corresponds to the condition of one’s karmic consciousness means that the way we see the moon is conditioned by the experiences we’ve had since birth.
+- When Dogen Zenji titled his manual of zazen Universal Recommendation of Zazen, or Fukanzazengi, he expressed the nature of his zazen practice as a true and universal religion, rather than a practice aimed at producing a select number of enlightened elite.
+- When we feel at a dead end, we should see the difficulties are merely in our thoughts, refresh ourselves, and welcome a new day.
+- to practice Buddhadharma is to allow our life force, here and now, to flow freely and vigorously without being caught up in any “ism,” including Buddhism.
+- being continuously attentive to every situation in our lives.
+- It would be more pertinent to consider our thoughts secretions of our brain, just as salivary glands secrete saliva, and the stomach secretes gastric juices.
+- Emptiness, or the lack of fixed entities existing independently of others, means we’re connected with everything in the universe.
+- Satori is simply settling down here and now, where things are unsatisfactory.
+- We have both thief nature and buddha nature. But unless we actually steal, we’re not a thief; unless we practice Buddha’s way, we’re not a buddha.
+- In attempting to gain something desirable, we’re already unstable. When we strive for enlightenment, we’re deluded because of our desire to escape our present condition.
+- For example, when we climb a mountain, we climb moment by moment, one step at a time. It’s not that we climb a mountain only when we reach the summit. To advance one step at a time is what’s important. We live moment by moment, step by step.
 
 ## Raw notes
 
@@ -202,7 +231,7 @@ Life is possibility; it’s not fixed.
 
 Money is the most common yardstick, and we think it’s objective, but it’s not very useful for measuring quality. Restaurants serving junk food and gourmet food can both make a lot of money.
 
-###55. Self-Centered Motivation
+### 55. Self-Centered Motivation
 - If our practice is a performance for an audience, it cannot be Buddhadharma.
 - The important point is to keep investigating one’s motivations.
 
