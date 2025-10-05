@@ -21,7 +21,7 @@ updated: 2025-10-02
     - focus on alternatives to what’s wrong
     - draw these solutions from time-tested traditions
 
-### PRINCIPLE #1: DO FEWER THINGS
+### Principle #1: Do Fewer Things
 
 - Strive to reduce your obligations to the point where you can easily imagine accomplishing them with time to spare. Leverage this reduced load to more fully embrace and advance the small number of projects that matter most.
 - When you approach a project without the hurried need to tend many barely contained fires, you enjoy a more expansive sense of experimentation and possibility.
@@ -45,7 +45,7 @@ updated: 2025-10-02
         - Intake Procedure
         - List Cleaning
 
-### PRINCIPLE #2: WORK AT A NATURAL PACE
+### Principle #2: Work At A Natural Pace
 
 - Don’t rush your most important work.
 - Allow it instead to unfold along a sustainable timeline, with variations in intensity, in settings conducive to brilliance.
@@ -72,7 +72,7 @@ updated: 2025-10-02
     - Strange Is Better Than Stylish
     - Rituals Should Be Striking
 
-### PRINCIPLE #3: OBSESS OVER QUALITY
+### Principle #3: Obsess Over Quality
 
 - Obsess over the quality of what you produce, even if this means missing opportunities in the short term.
 - Leverage the value of these results to gain more and more freedom in your efforts over the long term.
