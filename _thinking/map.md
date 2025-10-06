@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2024-12-14
-updated: 2025-09-25
+updated: 2025-10-06
 ---
 
 The living version of several previous swirls.
@@ -33,18 +33,20 @@ An important part is that this is a stance. [A direction(ional heading), a vecto
 
 ### Some regulars
 
+This list is not exactly sort-of, roughly, ordered by the ride the waves, calm the waves, be the waves layers.
+
 - To slow down or start from slowness, **I meditate**. In particular, zazen, [just sitting](/thinking/zen/the-just-in-just-sitting/). Relaxed and open, but watchful. Alert, but not tense.
+- To address feeling like I'm not getting anywhere, **I remind myself that the path is goal**.
+- To reality-check myself, **I apply on [The Constable](/thinking/the-constable/) frame of mind**.
+- To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
+- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/)**.
+- To address feeling bad about myself: **I do a [Polopposit](/thinking/polopposits/)**.
+- To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
+- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
 - To notice my true nature, **I look for the centre**, for myself at zero distance.
 - To notice the nonduality of Reality, **I look for the edges**.
 - To notice non-separation of an (apparent) opposite: **I look for how things show up together**.
 - To notice impermanence, **I watch the changes**.
-- To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
-- To reality-check myself, **I apply on [The Constable](/thinking/the-constable/) frame of mind**.
-- To address feeling like I'm not getting anywhere, **I remind myself that the path is goal**.
-- To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
-- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
-- To address feeling bad about myself: **I do a [Polopposit](/thinking/polopposits/)**.
-- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/)**.
 
 ### The path
 
