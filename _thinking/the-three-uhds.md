@@ -3,7 +3,7 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2025-01-01
+updated: 2025-10-06
 star: true
 ---
 
@@ -20,6 +20,12 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
 - **Rest in the good(s).**{: #goods }
     - That things are **good as they are**.
     - That **you** are good as you are.
+
+Alternate take on last step:
+
+- **Now move forward**.{: #forward }
+    - Exploring and mistakes are part of the path.
+    - Now what? Move forward.
 
 ## Application
 
