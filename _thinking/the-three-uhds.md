@@ -23,7 +23,7 @@ An update to / remix of [The three Os of letting go(s)](/thinking/the-three-os-o
 
 Alternate take on last step:
 
-- **Now move forward**.{: #forward }
+- **Now move forward.**{: #forward }
     - Exploring and mistakes are part of the path.
     - Now what? Move forward.
 
