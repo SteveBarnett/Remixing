@@ -11,6 +11,13 @@ updated: 2025-10-06
 
 ## Highlights highlights
 
+The main culprits feel like not limiting WIP and having fallen into shallow habits.
+
+- Focus in blocks of time: pomodoros
+- Look for things to remove, reduce, stop
+- Poke work about doing more retro-like things
+- Revisit company strategy and values and alignment
+
 ### Personal
 
 - Large time blocks of single focus
