@@ -6,13 +6,15 @@ updated: 2025-10-13
 longerform: true
 ---
 
-The silence on a silent retreat is really important. But/and it's about much more than just not speaking.
+The silence on a silent retreat is important. But/and it's about much more than just not speaking.
 
-- No communication, not just no talking.
-- Quietness in general. Moving and acting and placing quietly.
-- It's also about slowness. moving and acting slowly, which facilitates moving and acting carefully.
+It also means:
 
-The reason for the stillness and silence is to let things settle a little, including thoughts. To slow your tempo. To take a break from the habits of everyday speed and violence.
+- **no communication** more broadly. No signing or gesturing or eyebrow-raising.
+- **quietness more broadly**. Quietness of actions. Moving chairs, placing crockery and cutlery, washing up more quietly.
+- **slowness and carefulness**. Moving and acting slowly, which facilitates moving and acting carefully.
+
+The reason for the stillness and silence is to **let things settle a little**, including thoughts. To **slow your tempo**. To take a break from the everyday speed and sometimes violent tempo of life.
 
 ---
 
