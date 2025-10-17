@@ -3,11 +3,20 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-09-17
+updated: 2025-10-14
 permalink: /thinking/japan/
 ---
 
 ## I Love It When a Plan Comes Together
+
+### Flights
+
+More detail on costs, time, and where to land.
+
+- WLG - AKL - NRT (Tokyo), Air NZ ~ 15h
+- WLG - SYD - HND (Tokyo) - ITM (Osaka), Qantas and AirJ ~ 19h
+- WLG - SYD - HND - KIX (All Nippon (AirNZ)) ~ 20h
+
 
 ### When
 
