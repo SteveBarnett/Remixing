@@ -3,7 +3,7 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-18
+updated: 2025-10-19
 ---
 
 ## Existing Notes
@@ -79,3 +79,21 @@ updated: 2025-10-18
 - Refuse to compete on the machines' terms
 - Leave our human mark on the things we create
 - Prioritise human originality and human effort
+
+### [“AI is inevitable” is bullshit · Eric Eggert](https://yatil.net/blog/ai-is-inevitable-is-bullshit)
+
+- LLMs are useful when you need a compromise between fast and good. You will never get a good outcome fast.
+- This all is technoableism in its clearest form. Demoting accessibility and access to a technical problem that a magic script can make go away. Finally, one can breathe freely and not think about disabled people and how they use the web ever again. Instead of fixing the (admittedly more difficult) societal problems, we use mediocre tools that simulate access for our convenience
+
+### [My notes on "Against Technoableism"](https://human-centred.nz/2024/07/20/my-notes-on-against-technoableism/)
+
+## Ableism and normalcy
+
+- The ableist thinking and framing comes from social and structural problems.
+- The idea that there's one normal or healthy or right way to be is a culturally constructed fiction.
+- There's pressure to conform to the norm, to the average, to become normalised.
+- Impairments — lower functional differences — can exist without them being a problem.
+- Technoableism says that eliminating disability is the goal, a good goal, and that technology can and should do this.
+    - It says this under the guise of empowerment. 
+    - Technology increasingly separates our bodies from the world.
+- The views from disabled people are often very different from the "professionals." Many people value their experiences and community as disabled people.
