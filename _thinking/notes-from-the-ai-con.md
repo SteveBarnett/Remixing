@@ -3,10 +3,126 @@ layout: page
 title: "The AI Con"
 notes: true
 added: 2025-10-16
-updated: 2025-10-16
+updated: 2025-10-18
 ---
 
 Notes from The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want by Bender, Emily M., Hanna, Alex
+
+## Gathered notes
+
+### CHAPTER 1 An Introduction to AI Hype
+
+- p(doom) estimates are based in fantasy rather than data or empirical fact
+- p(doom) is the wrong metric and the wrong framing
+- The language of p(doom) is a ruse to keep us focused on imaginary scenarios
+- A few major well-placed players are poised to accumulate significant wealth by extracting value from other people’s creative work, personal data, or labor, and replacing quality services with artificial facsimiles
+- **too distracted to see the daily harms being done in its name**
+    - the technologies and the hype around them are causing harm in the here and now.
+- **what really matters is that they can sell it that way**
+    - **The commercial function of tech hype is to boost sales of a product.**
+    - dress something up as AI and investments flow.
+- **the conversation becomes clearer if one speaks in terms of “automation” rather than “AI” and looks at precisely what is being automated.**
+    - Decision making, Classification, Recommendation, Transcription/Translation, Text and Image Generation
+    - Lumping all of these different technologies under the label of “AI” creates the illusion of “intelligent” technology, perceived as even more “intelligent” or even “magical” than each alone,
+- **Hype doesn’t occur by accident, but rather because it fulfills a function: scaring workers and promising to save decision-makers and business leaders lots of money.**
+
+### CHAPTER 2 It’s Alive! The Hype of Thinking Machines
+
+- **neither large language models nor anything else being sold as “AI” is conscious, sentient, or able to function as an independent, thinking entity**.
+- technologies that synthesize text or solve mathematical puzzles are not artificial life-forms. **However, it serves many people to say so**
+- **when we imbue these systems with fictitious consciousness, we are implicitly devaluing what it means to be human, and endorsing a much longer line of thinking about the nature of intelligence based in eugenics and race science.**
+- **They also are prone to pick up not just linguistic facts but also many other patterns in the way people use language, including overtly hateful ways of speaking as well as more subtly socially biased ones**
+- Language models, problematically, have no subjectivity with which to perform intersubjectivity
+- **Language models thus represent nothing more than extensive information about what sets of words are similar and what words are likely to appear in what contexts.**
+- ★ **How our mind processes language can be contrasted with how we process the outputs of text-to-image models like Midjourney and DALL-E. no one is suggesting that they are sentient—we can interpret their output (images) without imagining a mind selecting symbols in an attempt to communicate**
+- AI hype reduces the human condition to one of computability, quantification, and rationality.
+- Weizenbaum argued the direct opposite: **computing reduced people and their experiences to data points, rather than relational and fully dimensional beings**.
+- General intelligence is not something that can be measured, but the force of such a promise has been used to justify racial, gender, and class inequality for more than a century.
+- **claims around consciousness and sentience are a tactic to sell you on AI.**
+
+### CHAPTER 3 Leisure for Me, Gig Work for Thee: AI Hype at Work
+
+- for corporations and venture capitalists, the appeal of AI is not that it is sentient or technologically revolutionary, but that it promises to make the jobs of huge swaths of labor redundant and unnecessary.
+- In the vast majority of cases, AI is not going to replace your job. But it will make your job a lot shittier.
+- **babysitters for synthetic media machines.**
+- It is intended to devalue labor by threatening workers with technology that can supposedly do their job at a fraction of the cost.
+- **none of these tools would work if it weren’t for a massive, underpaid workforce in the Majority World**
+- automation has always been part of a larger strategy of shifting costs onto workers and accruing wealth for those in control of the machines.
+- Luddites were instead against technologies of control and coercion, and concerned about the loss of jobs, health, and community
+- **Despite the optimism of philosophers, economists, and other technologists, calls for automation have meant a bending of labor to the will of the owners of the means of technology.**
+    - **AI is part of a longer tradition within global industry of finding ways to replace labor, and/or enforce grueling schedules and working conditions in the name of productivity.**
+- **the perniciousness of hype is that it doesn’t need to be true to have huge impacts**
+- ★ **Writing is intertwined with the act of thinking, not separate from**
+- If you build your workflows around tools like ChatGPT, what happens when OpenAI raises the price?
+- **creating dependencies on a set of centralized tools in a largely unregulated market is dangerous and may introduce risks that are hard to recover from down the line.**
+- **if they couldn’t be bothered to write this, why should we be bothered to read it?**
+- Robotaxis are best understood not as something from a maximally convenient high-tech future, but rather as **the end goal of Big Tech squeezing all value out of a system that once provided a living wage for many.**
+- AI hype at work is designed to hide the moves employers make towards the degradation of jobs and the workplace behind the shiny claims of techno-optimism.
+- We don’t have to accept a reorganization of the workplace that puts automation at the center, with devalued human workers propping it up.
+
+### CHAPTER 4 If It Quacks Like a Doc: AI Hype and Social Services
+
+- The point of talk therapy is not to exchange text strings, but rather human connection, which furthermore is guided by the expertise of the therapist.
+- AI boosters will brag that these machines will make key services more accessible for everybody: **In reality, the parts of these that actually matter—relationships, economies of care, and time spent with professionals who want to help and understand your problem—will be devalued and replaced with cheap fakes for people who can’t afford real professionals**
+- **The first guise that automated austerity has taken is automated decision-making systems**
+- These tools are positioned as commonsense efficiencies, but **in practice they are cheap stopgaps that allow us to shirk our collective responsibility to repair the holes in the social safety net**.
+- ★ **turning to automation is turning away from the human-scale efforts that would actually improve the situation**
+- ★ **ChatGPT doesn’t look into anything, it doesn’t have a database, and it has no way to select best references**
+- All they’re really good for is hype-filled headlines like “ChatGPT Passes Bar Exam”,54 **reinforcing the misconception that reciting the correct forms is all that is needed for practicing law, medicine, therapy, and the like.**
+    - a disregard for the creativity, person-to-person connection, and care involved in the jobs they claim to replace
+- ★ **empathy and personal interest both require subjective experience and human connection**
+- ★ Just because you’ve identified a social problem doesn’t mean LLMs or any other kind of so-called AI are a solution. When someone says so, **the problem is usually better understood by widening the lens, looking at it in its broader context.**
+- **Text synthesis machines can’t fill holes in the social fabric. We need people, political will, and resources.**
+
+### CHAPTER 5 Artifice or Intelligence? AI Hype in Art, Journalism, and Science
+
+- for these outputs to have any meaning, people still need to make sense of them and select the ones they training data, combined with their own sense-making, as creativity on the part of the algorithm itself.
+- Another, more subtle argument against AI art is the way that the AI models enshrine particular types of media, in terms of both content and style.
+- the promotion of AI art betrays a deep misunderstanding of the nature of what ought to be considered art. **The major functions of art include sharing experiences and providing insight into the human condition—not to mention the joy and fulfillment of artistic expression.**
+- art is generally produced as part of a community, in movements and in reply and reaction to the work of other artists and cultural critics.
+- ★ **Citational practice is an acknowledgment of what came before and that you were not the first person to develop an idea.**
+- ★ **We can’t delegate science to machines, because science isn’t a collection of answers. It’s a set of processes and ways of knowing.**
+- ★ **the allure and prestige of AI raise the risk of narrowing fields of inquiry to those questions which can be approached with these tools.**
+- When the creative and social work of doing and communicating science is treated as a simple input/output process that can be modeled algorithmically, the people involved are dehumanized.
+
+
+### CHAPTER 6 I’m Sorry, Dave, I’m Afraid I Can’t Do That: AI Doomers, AI Boosters, and Why None of That
+
+- Boosters and Doomers. **Neither depicts the real harms of actually existing automation, at best dismissing them as less important than the imaginary existential threats.**
+- these technologies serve as a means of centralizing power, amassing data, and generating profit, rather than providing technology that is socially beneficial.
+- ★ **Human values are also not static across time, nor are all groups granted the same dignities in the light of the law and human judgment.**
+- ★ **The danger is not from some hypothetical extinction-level event. The danger emerges from rampant financial speculation, the degradation of informational trust and environments, the normalization of data theft and exploitation, and the data harmonization systems that punish the people who have the least power in our society by tracking them through pervasive policing systems.**
+- The current generation of systems is bad enough on its own, but on top of that there is a drive for scale happening at three levels, all harmful: larger models, more models, and ever-growing user bases.
+- Google, Microsoft, and OpenAI are putting billions of dollars into new data centers. These companies have already admitted that they are dramatically missing their climate pledges because of generative AI.
+- Neither focuses on the very real harms happening now and AI’s contributions to the well established existential risk of the ongoing climate crisis. Their focus is squarely in the concerns of white, well-off people.
+- ★ **We need to redirect attention away from speculative risks to the actual harms being done now in the name of AI.**
+
+### CHAPTER 7 Do You Believe in Hope After Hype?
+
+- AI hype serves the purposes of people in power in a few different ways. It helps **particular companies and their investors profit by selling the technology**.  ... it helps those who are wont to **devalue the social contract by spinning the fiction that real social services—our collective responsibility to each other—can be replaced by cheap automated systems.**
+- we can and must resist narratives of inevitability through collective labor action and strategic refusal
+- To speak up to say the emperor has no clothes is difficult.
+- ★ **One of the best strategies to cut through the hype is to ask questions about the brass tacks of the system being promoted.**
+    - What is being automated? What goes in, and what comes out?
+    - Can you connect the inputs to outputs? What is the evidence that there is sufficient information in the input to determine the output?
+    - For any system sold as an “AI [human role]”, we can always ask: What motivates calling this thing by that name?
+        - What else do we expect of people in that role, and who is falling for the suggestion that this system can also do those things?
+    - How is the system evaluated?
+    - What was actually measured, and how does it relate to the intended use of the system?
+    - Who benefits from this technology, who is harmed, and what recourse do they have?
+    - If this system is implemented, who and which organizations will benefit? Who will be harmed, both in cases where the system gives the right answer, and in cases where it doesn’t?
+    - How was the system developed? What are their labor and data practices?
+- Software systems are tools, which people use to do things. We wouldn’t say that hammers have a “superhuman” ability to drive in nails, nor that airplanes have a “superhuman” ability to fly.
+- **If the past has been any guide, these tools will be introduced against the better judgment of workers because managers believe that it’ll increase productivity.**
+- **At an individual level, we can overtly value authenticity. Refuse the apparent convenience of chatbot answers and insist on going to original sources for answers to our own queries.**
+- ★ **Enforce existing laws, rather than acquiescing to the idea that new technology is somehow too new for existing laws to apply to;**
+- **force the burden onto companies to prove that their products are not harmful at every step of the product life cycle, rather than waiting for something to go terribly wrong.**
+- ★ **Models trained on existing data contain a representation of the patterns of the past,36 including the effects of discrimination of all kinds.**
+- **wisdom isn’t just about the output of the decisions, but where they come from: lived experience, integration into community, and accountability for the consequences.**
+- effective regulation channels innovation towards what is broadly beneficial rather than just what makes the rich richer
+- **specific tools geared towards specific tasks**
+- ★ **Never underestimate the power of saying no.**
+- We don’t have to accept technologies that will do us harm, no matter how well they are tested or honed.
 
 ## Raw notes
 
@@ -75,7 +191,8 @@ Notes from The AI Con: How to Fight Big Tech’s Hype and Create the Future We W
 - Language models, problematically, have no subjectivity with which to perform intersubjectivity
 - Language models thus represent nothing more than extensive information about what sets of words are similar and what words are likely to appear in what contexts. While this isn’t meaning or understanding, it is enough to produce plausible synthetic text,
 - How our mind processes language can be contrasted with how we process the outputs of text-to-image models like Midjourney and DALL-E.
-- no one is suggesting that they are sentient—we can interpret their output (images) without imagining a mind selecting symbols in an attempt to communicate. - Mistaking our own ability to make sense of text output by computers for thinking, understanding, or
+- no one is suggesting that they are sentient—we can interpret their output (images) without imagining a mind selecting symbols in an attempt to communicate.
+- Mistaking our own ability to make sense of text output by computers for thinking, understanding, or
 feeling on the part of the computer is dangerous on many levels.
 - AI hype reduces the human condition to one of computability, quantification, and rationality.
 - In this line of argumentation, humans can be reduced to our outputs and the ways in which we interact with our environment, with people, and with written and visual production. If we accept that, consciousness can be judged by how it manifests in phenomena that are external to the mind.
@@ -238,7 +355,8 @@ feeling on the part of the computer is dangerous on many levels.
 - One of the best strategies to cut through the hype is to ask questions about the brass tacks of the system being promoted.
 - What is being automated? What goes in, and what comes out?
 - Can you connect the inputs to outputs? What is the evidence that there is sufficient information in the input to determine the output?
-Are these systems being described as human- For any system sold as an “AI [human role]”, we can always ask: What motivates calling this thing by that name?
+Are these systems being described as human
+- For any system sold as an “AI [human role]”, we can always ask: What motivates calling this thing by that name?
 - What else do we expect of people in that role, and who is falling for the suggestion that this system can also do those things?
 - Relatedly, we should be on the lookout for ranked-order comparisons between automated systems and people.
 - Software systems are tools, which people use to do things. We wouldn’t say that hammers have a “superhuman” ability to drive in nails, nor that airplanes have a “superhuman” ability to fly.
