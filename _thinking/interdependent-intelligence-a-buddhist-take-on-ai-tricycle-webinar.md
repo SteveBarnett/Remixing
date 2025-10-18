@@ -8,13 +8,28 @@ updated: 2025-10-16
 
 By Nikki Mirghafori - AI Scientist and Dharma Teacher.
 
+- AI is a mirror of humanity's good and bad past patterns because it's been fed basically all of recorded human knowledge
+- The incentive structures in place influence our ethical compass
+- AI gives us knowledge, not wisdom for decision-making
+
+## Gathered notes
+
+- AI is very powerful because it’s a great mimic
+- **AI is a mirror of humanity because of the data we’ve been feeding it**
+- **AI is built off our (humanity's) past habit patterns**
+- **Our ethical compass is influenced by the incentive structures**
+- New technology has always had a social cost, but AI feels more sweeping
+- **Use AI as a support, not a replacement**
+- **Are we offshoring our agency, decision-making?**
+- **These systems give us knowledge but not wisdom**
+
 ## Raw notes
 
 [My notes-to-self in square brackets]
 
 [Felt like a bit of an overview, not too deep dive-y. And taking AI as a given.]
 
-### How can Buddhists guide AI dev? How do we use it? Some invitations, considerations. Some misperceptions.
+### How can Buddhists guide AI development and developers? How do we use it? Some invitations, considerations. Some misperceptions.
 
 - AI is a technology, like writing or print. Tech developments over many centuries. There’s always been the question of ethics and bias. In developing and using technology.
 - Every decision we make is an ethical decision.
