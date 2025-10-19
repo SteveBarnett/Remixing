@@ -3,7 +3,7 @@ layout: page
 title: "The AI Con"
 notes: true
 added: 2025-10-16
-updated: 2025-10-18
+updated: 2025-10-20
 ---
 
 Notes from The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want by Bender, Emily M., Hanna, Alex
@@ -114,6 +114,7 @@ Notes from The AI Con: How to Fight Big Tech’s Hype and Create the Future We W
     - How was the system developed? What are their labor and data practices?
 - Software systems are tools, which people use to do things. We wouldn’t say that hammers have a “superhuman” ability to drive in nails, nor that airplanes have a “superhuman” ability to fly.
 - **If the past has been any guide, these tools will be introduced against the better judgment of workers because managers believe that it’ll increase productivity.**
+- **Finding contradictory answers on different pages—and, crucially, knowing the source of each—allows us to learn what kinds of knowledge are contested, who is doing the contesting, and how each of those sources fits into our own positions.**
 - **At an individual level, we can overtly value authenticity. Refuse the apparent convenience of chatbot answers and insist on going to original sources for answers to our own queries.**
 - ★ **Enforce existing laws, rather than acquiescing to the idea that new technology is somehow too new for existing laws to apply to;**
 - **force the burden onto companies to prove that their products are not harmful at every step of the product life cycle, rather than waiting for something to go terribly wrong.**
