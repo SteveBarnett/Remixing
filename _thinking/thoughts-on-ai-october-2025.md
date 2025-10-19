@@ -3,7 +3,7 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-19
+updated: 2025-10-20
 ---
 
 ## Existing Notes
@@ -87,8 +87,6 @@ updated: 2025-10-19
 
 ### [My notes on "Against Technoableism"](https://human-centred.nz/2024/07/20/my-notes-on-against-technoableism/)
 
-## Ableism and normalcy
-
 - The ableist thinking and framing comes from social and structural problems.
 - The idea that there's one normal or healthy or right way to be is a culturally constructed fiction.
 - There's pressure to conform to the norm, to the average, to become normalised.
@@ -97,3 +95,11 @@ updated: 2025-10-19
     - It says this under the guise of empowerment. 
     - Technology increasingly separates our bodies from the world.
 - The views from disabled people are often very different from the "professionals." Many people value their experiences and community as disabled people.
+
+### [AI In UX: Achieve More With Less — Smashing Magazine](https://www.smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/)
+
+> Make it think.
+> Tell it to think deeply about its approach before responding. Get it to create a way to test for success (known as a rubric) and iterate on its work until it passes that test.
+> That second paragraph (the bit about thinking deeply and creating a rubric), I basically copy and paste into everything now. It is a universal way to get better output.
+
+SB: LLMs do not think. They return the most probable text that is associated with the words "think deeply".
