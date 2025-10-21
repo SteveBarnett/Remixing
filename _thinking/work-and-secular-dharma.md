@@ -2,12 +2,37 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-09-27
+updated: 2025-10-21
 longerform: true
 ---
 
 * tic
 {:toc}
+
+## Notes to self
+
+### Alternative subtitles:
+
+- compassion at the office
+- care at the office
+
+### Three aspects, three parts of the eightfold path
+
+- view, as part of wisdom
+- livelihood, as part of ethics
+- mindfulness, as part of discipline or meditation
+
+### Structure
+
+Asides or interludes?
+
+### Layers
+
+- Me
+- My team
+- My clients (?)
+- My organisation
+- My profession (?)
 
 ## Introduction
 
@@ -42,7 +67,7 @@ Also:
 - embracing one's habitual aversions
 - "appropriate response", not "right" or Truth
 
-### A quick aside on layers
+## Aside: layers
 
 I find it fruitful to think about things in terms of layers. A thing can have several aspects. Thee aspects are distinct but not divided. For work, I'm going to look at me, my team, and my organisation as layers.
 
@@ -56,41 +81,9 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
 - **The faster layers get our attention, but the slower layers have the power.** Slow and big controls fast and small by constraint and constancy. Fast and small instructs slow and big by accrued innovation and occasional revolution. The faster layers learn, the slower layers remember.
 - **The layer boundaries are fuzzy**. The boundaries are like tidemarks.
 
-## Me
+## Aside: Conflict
 
-The thing I have struggled with the most over the years has been having too much of my identity in work. This had a bunch of knock-on effects. When work wasn't going well, I read it as a reflection of me: I am not going well. The meaning of my life was to do good work with good people. I'm a recovering perfectionist, so I held myself and my work to unachievably high standards. My work was who I was. Sure, I did lots of other things, and there were lots of other aspects to who I was. But this was the biggest slice of the identity pizza by far.
-
-The dharma has helped me loosen these tight grips over the years. The first thing that helped was seeing more clearly what was going on. Realised how much I thought about and cared about work, and how that was impact my life. In particular my stress levels and general happiness. Noticing what I was doing helped me decide that I wanted to do something about it. This did not feel like flourishing!
-
-The next thing that helped was noticing the shape of my self, looking more closely at what I tool to be my identity. I began to pay more attention to how my sense of self changed, depending on who I was talking to, what we were talking about, how I was when things were going well or badly.
-
-Finally, I starting coming around to the reality that some parts of me are just not going to change very much. All I can do is accept them, with as much grace as I can, and let them people around me know what's going on.
-
-Something I picked up from a psychology and psychotherapy direction was talking. Once I tried it, I learned quite quickly that talking about things almost always helped. And that when I have that gritty, uncomfortable, grumpy, feeling of really not wanting to talk about something, that was a sure sign that this was something I really should be talking about!
-
-
-SB stuff I may want to fold in.
-
-- Identity
-- Self as process, fluid, interconnected
-- Layers of selfing, not self/no-self binary
-- Where and when does work-you begin and end?
-- dependent origination
-- Mindfulness - of feelings, thoughts
-- Autonomy, self-reliance
-- Work with who you are, not against
-
-## My team
-
-One thing that happens whenever human beings are around each other is conflict. Sometimes it's mild disagreement, sometimes it's big, shouty, explosions. There are a few angles here that have helped me.
-
-The first is embracing life as it is. In particular, truly and deeply accepting the fact that human life is inevitably difficult sometimes.
-
-Another is the idea of dependant origination, or conditional arising, or contingency. I usually apply this in the sense of thinking about all the causes and conditions and patterns that have lead a person (including me!) to think and act in the way they are. A warm, gentle, compassionate kind of "of course" tends to arise. I try to hold the "should"s and "could"s more lightly by considering everything in my life that's lead up to this point. Of course I'm thinking and acting like this. How else could I act, given all of that source material, all those inputs?
-
-One more aspect is the "yes, and" that comes after acceptance. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there.
-
-### Conflict is intrinsic to being human.
+Conflict is intrinsic to being human.
 
 - Handling it well can make creative opportunity from destructive potential
 - It can show us our unhelpful patterns, or where we want or need to change something
@@ -115,7 +108,7 @@ I found Diane Musho Hamilton's book "The Zen Of You And Me: A Guide To Getting A
 - Give love, support, sympathy to those who need it, not those who "deserve" it.
 - "Is this helpful?" rather than "is this a final, fundamental, truth?" (conflict resolution as a task, not as a truth-finding exercise)
 
-#### A mindful approach to conflict
+### A mindful approach to conflict
 
 1. Settle beforehand. Bring mindfulness to yourself, the situation. Be ready to act from a place of clarity. (A mini-ELSA)
 2. Listen. Just listen, only listen. No need to agree, no need to judge. Listen by letting go of your reactivity. Fully accept the other point of view. Improve your understanding of the other PoV, admit your ignorance. Can Active Listen: repeat n your own words to check understanding.
@@ -123,15 +116,61 @@ I found Diane Musho Hamilton's book "The Zen Of You And Me: A Guide To Getting A
 4. Wait.
 5. (Eventually) problem-solve and negotiate, finding common needs.
 
+### Aside: notifications and availability
+
+...
+
+## Me
+
+The thing I have struggled with the most over the years has been having too much of my identity in work. This had a bunch of knock-on effects. When work wasn't going well, I read it as a reflection of me: I am not going well. The meaning of my life was to do good work with good people. I'm a recovering perfectionist, so I held myself and my work to unachievably high standards. My work was who I was. Sure, I did lots of other things, and there were lots of other aspects to who I was. But this was the biggest slice of the identity pizza by far.
+
+The dharma has helped me loosen these tight grips over the years. The first thing that helped was seeing more clearly what was going on. Realised how much I thought about and cared about work, and how that was impact my life. In particular my stress levels and general happiness. Noticing what I was doing helped me decide that I wanted to do something about it. This did not feel like flourishing!
+
+The next thing that helped was noticing the shape of my self, looking more closely at what I tool to be my identity. I began to pay more attention to how my sense of self changed, depending on who I was talking to, what we were talking about, how I was when things were going well or badly.
+
+Finally, I starting coming around to the reality that some parts of me are just not going to change very much. All I can do is accept them, with as much grace as I can, and let them people around me know what's going on.
+
+Something I picked up from a psychology and psychotherapy direction was talking. Once I tried it, I learned quite quickly that talking about things almost always helped. And that when I have that gritty, uncomfortable, grumpy, feeling of really not wanting to talk about something, that was a sure sign that this was something I really should be talking about!
+s
+SB stuff I may want to fold in.
+
+- Identity
+- Self as process, fluid, interconnected
+- Layers of selfing, not self/no-self binary
+- Where and when does work-you begin and end?
+- dependent origination
+- Mindfulness - of feelings, thoughts
+- Autonomy, self-reliance
+- Work with who you are, not against
+
+## My team
+
+One thing that happens whenever human beings are around each other is conflict. Sometimes it's mild disagreement, sometimes it's big, shouty, explosions. There are a few angles here that have helped me.
+
+The first is embracing life as it is. In particular, truly and deeply accepting the fact that human life is inevitably difficult sometimes.
+
+Another is the idea of dependant origination, or conditional arising, or contingency. I usually apply this in the sense of thinking about all the causes and conditions and patterns that have lead a person (including me!) to think and act in the way they are. A warm, gentle, compassionate kind of "of course" tends to arise. I try to hold the "should"s and "could"s more lightly by considering everything in my life that's lead up to this point. Of course I'm thinking and acting like this. How else could I act, given all of that source material, all those inputs?
+
+One more aspect is the "yes, and" that comes after acceptance. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there.
+
 ## My clients (?)
 
 ...
 
 ## My organisation
 
-Livelihood is one element of The Eightfold Path. On the top level this means a job that doesn't cause harm. Putting on a secular dharma hat, we could give it a more active framing: a job that involves an ethic of care. Or perhaps a job that promotes and facilitates flourishing. With a very wide view, we could say a job that increases happiness or reduces suffering. I think there many kinds of jobs that fit these angles. Even in jobs that, on the face of it, don't seem like Right or Complete or Skilful Livelihood, there are often many opportunities to steer towards something more aligned with the kind of Livelihood The Eightfold Path suggests.
+Livelihood is one element of the eightfold path. On the top level this means a job that doesn't cause harm. Putting on a secular dharma hat, we could give it a more active framing: a job that involves an ethic of care. Or perhaps a job that promotes and facilitates flourishing. With a very wide view, we could say a job that increases happiness or reduces suffering. I think there many kinds of jobs that fit these angles. Even in jobs that, on the face of it, don't seem like Right or Complete or Skilful Livelihood, there are often many opportunities to steer towards something more aligned with the kind of Livelihood The Eightfold Path suggests.
 
-I make websites. There's lots of room to manoeuvrer there. What kind of websites do I make? Do I make them so that everyone can use them, or only certain kinds of people? What do the websites let people do, or encourage people to do?
+I make websites. There's lots of room to manoeuvre there. What kind of websites do I make? Do I make them so that everyone can use them, or only certain kinds of people? What do the websites let people do, or encourage people to do?
+
+Other bits to roll in:
+
+- contracting vs permanent
+- full-time vs part-time
+- consulting vs employee
+- employer vs employee
+
+
 
 ## My profession (?)
 
