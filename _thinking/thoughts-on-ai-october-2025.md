@@ -3,7 +3,7 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-20
+updated: 2025-10-23
 ---
 
 ## Existing Notes
@@ -103,3 +103,11 @@ updated: 2025-10-20
 > That second paragraph (the bit about thinking deeply and creating a rubric), I basically copy and paste into everything now. It is a universal way to get better output.
 
 SB: LLMs do not think. They return the most probable text that is associated with the words "think deeply".
+
+### [Notes from Holes in the web on Aeon](/thinking/notes-from-holes-in-the-web-on-aeon/)
+
+- Lots of human knowledge is missing from the internet, which means AI is missing lots of human knowledge
+- The world has profound power imbalances and these are reflected in the digital world. AI amplifies and may entrench these imbalances.
+- Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
+- Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
+- "Knowledge collapse": narrowing of available information, declining awareness of alternatives, due to less frequent retrival or citation
