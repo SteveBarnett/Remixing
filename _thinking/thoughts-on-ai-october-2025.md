@@ -6,6 +6,9 @@ added: 2025-10-18
 updated: 2025-10-23
 ---
 
+* tic
+{:toc}
+
 ## Existing Notes
 
 ### [A human-centred process is more important than an AI-tool-centred product](https://human-centred.nz/2025/01/30/a-human-centred-process-is-more-important/) on the work blog
@@ -111,3 +114,10 @@ SB: LLMs do not think. They return the most probable text that is associated wit
 - Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
 - Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
 - "Knowledge collapse": narrowing of available information, declining awareness of alternatives, due to less frequent retrival or citation
+
+### Notes from [The Majority AI View - Anil Dash](https://www.anildash.com/2025/10/17/the-majority-ai-view/)
+
+- The tech has utility, but it's over-hyped, being forced on everyone, and valid critiques are being ignored
+- It's just tech, not religion or magic
+- Most people in tech don't agree with the hype bubble, despite what the press reports
+- People don't speak up about their scepticism because they're worried about the impact on their career from people who have bought into the hype
