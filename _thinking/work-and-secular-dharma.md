@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-10-23
+updated: 2025-10-25
 longerform: true
 ---
 
@@ -11,16 +11,24 @@ longerform: true
 
 ## Notes to self
 
-### Alternative subtitles:
+### TODO
+
+- [ ] Review [More aspects?](#more-aspects)
+- [ ] Write [Three practices of the eightfold path](#three-practices-of-the-eightfold-path)
+- [ ] Tidy up [Layers](#layers)
+- [ ] Tidy up [Conflict](#conflict)
+- [ ] Write [Notifications and availability](#notifications-and-availability)
+- [ ] Organise existing [Me](#me)
+- [ ] Organise existing [My team](#my-team)
+- [ ] Organise existing [My organisation](#my-organisation)
+- [ ] Write start of [My clients](#my-clients)
+- [ ] Write start of [My profession](#my-profession)
+{: .todo}
+
+### Alternative subtitles
 
 - compassion at the office
 - care at the office
-
-### Three aspects, three parts of the eightfold path
-
-- view, as part of wisdom
-- livelihood, as part of ethics
-- mindfulness, as part of discipline or meditation
 
 ### More aspects?
 
@@ -29,21 +37,12 @@ longerform: true
 - Layers of selfing, not self/no-self binary
 - Where and when does work-you begin and end?
 - dependent origination
-- Mindfulness - of feelings, thoughts
 - Autonomy, self-reliance
 - Work with who you are, not against
-
-### Structure
-
-Asides or interludes?
-
-### Layers
-
-- Me
-- My team
-- My clients (?)
-- My organisation
-- My profession (?)
+- scepticism and questions more than answers
+- following a middle way (between two poles)
+- embracing one's habitual aversions
+- "appropriate response", not "right" or Truth
 
 ## Introduction
 
@@ -55,33 +54,24 @@ My practice has helped me loosen and soften around these things quite a lot. Muc
 
 We're going cover a couple of aspects of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help.
 
-...
-
 Writing this tiny book is part of my practice. I'm on board with the idea that everything is your main practice. I'm also a fan of Austin Kleon (austinkleon.com) and his idea of "write the book you want to read."
 
-...
+## Three practices of the eightfold path
 
-TODO: expand the bolded bits below.
+- view, as part of wisdom
+- livelihood, as part of ethics
+- mindfulness, as part of discipline or meditation
 
-Some thematic links to Stephen Batchelor’s ten theses of secular dharma.
+## Some thematic links to Stephen Batchelor’s ten theses of secular dharma
 
 - Each person, **in each moment**, has the potential to be more awake, responsive and free.
 - The practice of the dharma is as much concerned with how one speaks, **acts and works in the public realm** as with how one performs spiritual exercises in private.
 - A practitioner is committed to an ethics of care, founded on **empathy, compassion and love for all** creatures who have evolved on this earth.
 - A practitioner of the dharma aspires to nurture **a culture of awakening** that finds its **inspiration in Buddhist and non-Buddhist**, religious and secular sources alike.
 
-TODO: expanded each of these bullets. 
+## Layers
 
-Also:
-
-- scepticism and questions more than answers
-- following a middle way (between two poles)
-- embracing one's habitual aversions
-- "appropriate response", not "right" or Truth
-
-## Aside: layers
-
-I find it fruitful to think about things in terms of layers. A thing can have several aspects. Thee aspects are distinct but not divided. For work, I'm going to look at me, my team, and my organisation as layers.
+I find it fruitful to think about things in terms of layers. A thing can have several aspects. Thee aspects are distinct but not divided. For work, I'm going to look at me, my team, my clients, my organisation, my profession as layers.
 
 At some point in my life I stumbled over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2), and found it very compelling. The framework was what interested me more than the specific layers.
 
@@ -95,7 +85,7 @@ Reality is processes and fields that collapse into "things." We can draw a (fair
     - The smaller and faster layers get our attention. They instruct the slower and bigger by accrued innovation and occasional revolution. They learn.
     - The slower and bigger layers have the power. They control the fast and small by constraint and constancy. They remember.
     
-## Aside: Conflict
+## Conflict
 
 Conflict is intrinsic to being human.
 
@@ -104,8 +94,6 @@ Conflict is intrinsic to being human.
 - But we need to see it differently, overcome our need to win
 
 ### Practical ways to handle conflict
-
-TODO: tidy this whole section up.
 
 Conflict resolution is simple but not easy. Here are some tips
 
@@ -132,9 +120,9 @@ I found Diane Musho Hamilton's book "The Zen Of You And Me: A Guide To Getting A
 4. Wait.
 5. (Eventually) problem-solve and negotiate, finding common needs.
 
-### Aside: notifications and availability
+## Notifications and availability
 
-...
+
 
 ## Me
 
@@ -148,6 +136,18 @@ Finally, I starting coming around to the reality that some parts of me are just 
 
 Something I picked up from a psychology and psychotherapy direction was talking more frequently. Once I tried it, I learned quite quickly that talking about things almost always helped. One alarm bell I learned was a gritty, uncomfortable, grumpy, feeling of really not wanting to talk about something. That was a sure sign that this was something I really should be talking about!
 
+### View
+
+
+
+### Livelihood
+
+
+
+### Mindfulness
+
+
+
 ## My team
 
 One thing that happens whenever human beings are around each other is conflict. Sometimes it's mild disagreement, sometimes it's big, shouty, explosions. There are a few angles here that have helped me.
@@ -158,9 +158,33 @@ Another is the idea of **dependant origination**, or conditional arising, or con
 
 One more aspect is the "yes, and" that comes after **acceptance**. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there.
 
-## My clients (?)
+### View
 
-...
+
+
+### Livelihood
+
+
+
+### Mindfulness
+
+
+
+## My clients
+
+
+
+### View
+
+
+
+### Livelihood
+
+
+
+### Mindfulness
+
+
 
 ## My organisation
 
@@ -175,11 +199,34 @@ Other bits to roll in:
 - consulting vs employee
 - employer vs employee
 
+### View
 
 
-## My profession (?)
+
+### Livelihood
+
+
+
+### Mindfulness
+
+
+
+## My profession
 
 - Right Livelihood
     - Increase happiness or reduce suffering
 - Care
 - Flourishing
+
+### View
+
+
+
+### Livelihood
+
+
+
+### Mindfulness
+
+
+
