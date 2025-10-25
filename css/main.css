@@ -353,6 +353,10 @@ details form {
   background-color: transparent;
 }
 
+.todo li [type="checkbox"] {
+  margin-right: 0.25em;
+}
+
 th {
   text-align: left;
 }
@@ -538,6 +542,8 @@ ul:empty, ol:empty {
 span[lang] {
   font-style: italic;
 }
+
+
 
 
 /* ==========================================================================
