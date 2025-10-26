@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-10-25
+updated: 2025-10-26
 longerform: true
 ---
 
@@ -14,21 +14,26 @@ longerform: true
 ### TODO
 
 - [ ] Review [More aspects?](#more-aspects)
-- [ ] Write [Three practices of the eightfold path](#three-practices-of-the-eightfold-path)
 - [ ] Tidy up [Layers](#layers)
 - [ ] Tidy up [Conflict](#conflict)
-- [ ] Write [Notifications and availability](#notifications-and-availability)
+- [ ] First draft of [Notifications and availability](#notifications-and-availability)
 - [ ] Organise existing [Me](#me)
 - [ ] Organise existing [My team](#my-team)
 - [ ] Organise existing [My organisation](#my-organisation)
-- [ ] Write start of [My clients](#my-clients)
-- [ ] Write start of [My profession](#my-profession)
+- [ ] First draft of [My profession](#my-profession) intro
+{: .todo}
+
+#### Done
+
+- [x] Write [Three practices of the eightfold path](#three-practices-of-the-eightfold-path)
+- [x] First draft of [My clients](#my-clients) intro
 {: .todo}
 
 ### Alternative subtitles
 
 - compassion at the office
 - care at the office
+- caring and carefulness at the office
 
 ### More aspects?
 
@@ -58,9 +63,38 @@ Writing this tiny book is part of my practice. I'm on board with the idea that e
 
 ## Three practices of the eightfold path
 
+There are various ways of expressing the eighfold path. I'm most familiar with this version:
+
+- Ethics
+    - Right Speech
+    - Action
+    - Livelihood
+- Meditation
+    - Effort
+    - Mindfulness
+    - Concentration
+- Wisdom
+    - View
+    - Intention
+
+Another version is: 
+
+- Mindfulness
+- Collectedness
+- Perspective
+- Imagination
+- Application
+- Survival
+- Work
+- Voice
+
+The three parts/folds we're going to focus on here are:
+
 - view, as part of wisdom
 - livelihood, as part of ethics
 - mindfulness, as part of discipline or meditation
+
+For view we'll discuss seeing things more clearly, more truthfully, more dispassionately. For livelihood, we'll discuss ethical work, moral work, and work that creates happiness or reduces suffering. For mindfulness we'll discuss becoming better at noticing, being able to slow down and pay more attention.
 
 ## Some thematic links to Stephen Batchelor’s ten theses of secular dharma
 
@@ -172,7 +206,9 @@ One more aspect is the "yes, and" that comes after **acceptance**. We get the be
 
 ## My clients
 
+In every job we have some kind of client. A person who's receiving the product or service. In many cases we, or someone in our organisation, have some say about the clients are. In my own work, I'm an employee in a consultancy. I don't have any say in who our clients are, but I am interested and keep an eye on what they do. Like most of the things, it can be a bit murky. I wouldn't want to do any work for a client whose organisation actively promotes harm, like a weapons manufacturer. But even a client organsation that seems good on the face of it can be complicated. Perhaps an NGO, but they're know to have corruption at the higher levels of the organisation, or have a terrible ecological track record. Or the client could be neither good or bad. I'm really talking about something like feeling tone for the client organisation, in terms of aligning with my values. A separate matter is whether the values do, or even need to, align with the values of my organisation.
 
+Another thing to consider is how the client identifies our work, our organisation, our role. Is the client gleefully approaching us as helpful experts in our field? Or are they just looking for someone to do a quick check and give them a tick in a box?
 
 ### View
 
@@ -217,6 +253,9 @@ Other bits to roll in:
     - Increase happiness or reduce suffering
 - Care
 - Flourishing
+- work matching our vocation (or not)
+- meaningful work, the privilege to able to do that
+- how other people identify your work
 
 ### View
 
