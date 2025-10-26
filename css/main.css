@@ -357,6 +357,10 @@ details form {
   margin-right: 0.25em;
 }
 
+.todo li:has([type="checkbox"]:checked) {
+  text-decoration: line-through;
+}
+
 th {
   text-align: left;
 }
