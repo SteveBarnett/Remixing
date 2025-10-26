@@ -3,13 +3,15 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-23
+updated: 2025-10-26
 ---
 
 * tic
 {:toc}
 
 ## Existing Notes
+
+New technology doesn't mean it'll takeover, even if it's "better." We don't cook all our food in microwave ovens, but we do use them.
 
 ### [A human-centred process is more important than an AI-tool-centred product](https://human-centred.nz/2025/01/30/a-human-centred-process-is-more-important/) on the work blog
 
@@ -115,9 +117,16 @@ SB: LLMs do not think. They return the most probable text that is associated wit
 - Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
 - "Knowledge collapse": narrowing of available information, declining awareness of alternatives, due to less frequent retrival or citation
 
-### Notes from [The Majority AI View - Anil Dash](https://www.anildash.com/2025/10/17/the-majority-ai-view/)
+### [Notes from The Majority AI View - Anil Dash](/thinking/the-majority-ai-view/)
 
 - The tech has utility, but it's over-hyped, being forced on everyone, and valid critiques are being ignored
 - It's just tech, not religion or magic
 - Most people in tech don't agree with the hype bubble, despite what the press reports
 - People don't speak up about their scepticism because they're worried about the impact on their career from people who have bought into the hype
+
+### Notes from [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
+
+- The best way to understand generative AI art and aesthetics is to consider how previous “synthetics” lost value in the long-run
+- Today manufacturers continue to use polyester-cotton blends to create “wrinkle-free” garments, but the stigmas remain. A “beautiful” shirt from a high-end brand comes in real cotton or linen, despite all the inefficiencies involved.
+- While polyester took a few decades to lose its appeal, GenAI is already feeling a bit cheesy. We’re only a few years into the AI Revolution, and Facebook and X are filled to the brim with “AI slop.”
+- This is the main conclusion of Status and Culture: artifacts and styles take on their full value within a social context, and less value is created when all cultural artifacts are procurable with enough money, can be made anywhere by anyone, and offer no useful social distinctions between philistine and aesthete.
