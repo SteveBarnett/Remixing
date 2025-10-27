@@ -14,57 +14,46 @@ updated: 2025-10-27
 - The iron triangle still applies to AI. Fast, cheap, good: pick two.
     - If it looks like all three, look more closely to see the hidden cost or lower quality.
 
-### Attitudes to technology
+### Technology
 
-- New technology doesn’t mean it’ll takeover, even if it’s “better.” We don’t cook all our food in microwave ovens, but we do use them.
-- Using AI-powered tools to produce something seems to support a culture that says the end result is more important than the process.
-- I'm not against AI (... well, sort of). I am for care and consideration with technology usage, weighing the pros and cons. A Luddite in the historical sense, not [the modern sense of Luddite](https://en.wikipedia.org/wiki/Luddite#Modern_usage). I'm for technology used to empower humans, not devalue and displace them.
-- I'm trying to approach AI skeptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the modern sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
-    - Some social structures, laws, customs, conventions, foster bad behaviour
-    - Deface the currency, reject the terms, refuse to play the rigged game
-    - Leave our human mark on the things we create
-    - Refuse to compete on the machines’ terms
-- I'm human-centered
-    - Be humanly stubborn and specific
-    - Be rude to screens    - Prioritise human originality and human effort
+- What's happened with previous "sufficiently advanced technology"?
+    - New technology doesn’t mean it’ll takeover, even if it’s “better.” We don’t cook all our food in microwave ovens, but we do use them.
+- Social Media as a foreshadowing for what’s to come with AI. 
 - The tech has utility, but it’s over-hyped, being forced on everyone, and valid critiques are being ignored
     - It’s just tech, not religion or magic
+- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
+- LLMs gives us knowledge, not wisdom for decision-making
+- The best way to understand generative AI art and aesthetics is to consider how previous “synthetics” lost value in the long-run
+- Using AI-powered tools to produce something seems to support a culture that says the end result is more important than the process.
 - People don’t speak up about their skepticism because they’re worried about the impact on their career from people who have bought into the hype
 
-### Historical precedent
+### What AI misses - input
 
-- Social Media as a foreshadowing for what’s to come with AI. 
-- What's happened with previous "sufficiently advanced technology"?
-    - New technology doesn't mean it'll takeover, even if it's "better." We don't cook all our food in microwave ovens, but we do use them.
-- The best way to understand generative AI art and aesthetics is to consider how previous “synthetics” lost value in the long-run
-
-### What AI misses
-
-- AI summaries can't do contextual details that change the embodied experience
 - AI draws on the database of all recorded human knowledge. Only information that can be and has been recorded.
-- AI text generation tends to produce “the Wikipedia version of reality” - rational discourse of the educated classes of society
-- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
 - Lots of human knowledge is missing from the internet, which means AI is missing lots of human knowledge
-- Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
 
 ### Bias
 
-- LLMs gives us knowledge, not wisdom for decision-making
 - LLMs is a mirror of us: all of humanity’s recorded and encoded good and bad past patterns
 - Data represents the past, including our mistakes. In particular, systemic bias.
 - LLMs, algorithms, can’t be unbiased because humans are involved at some point and we are biased. Humans are involved in choosing the training data, refining the model, using the output, interpreting the output.
 - Reinforcement Learning from Human Feedback (RLHF). The AI is trained to say what we expect to hear, not what is true or correct.
+- Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
 - The world has profound power imbalances and these are reflected in the digital world. AI amplifies and may entrench these imbalances.
+- Uneven internal knowledge representation and mode amplification (mode average: the most frequent data point) in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
+
+### What AI misses - output
+
+- AI text generation tends to produce “the Wikipedia version of reality” - rational discourse of the educated classes of society
+- AI summaries can't do contextual details that change the embodied experience
+- Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don’t fit the model.
 
 ### Grey paste
 
-- GenAI enshrine orthodoxy and homogenisation
-- Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don’t fit the model.
 - AI entrenches certain orthodoxies, erodes our own resistance to the unorthodox.
-- As with AI, orthodoxies filter out and distort the very information that would overthrow them\
+- As with AI, orthodoxies filter out and distort the very information that would overthrow them.
 - The data implies what’s Average or Normal. But that’s reducing the complexity of human existence. Sometimes we want the outliers, the more creative options.
 - It’s more like regurgitative AI than generative AI
-- Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
 
 ### Errors
 
@@ -76,9 +65,21 @@ updated: 2025-10-27
 
 - When we outsource physical or cognitive functions, that function can atrophy in ourself
     - When machines do the work for us we risk succumbing to a passive conditioned helplessness disconnected from our creative authorship
+- “Knowledge collapse”: narrowing of available information, declining awareness of alternatives, due to less frequent retrieval or citation
 - The more we turn to AI to substitute for human generative cognition, the more we’ll mistrust what we see, read, hear
 - AI saturation could encourage duplicity as a normative way of life
-- “Knowledge collapse”: narrowing of available information, declining awareness of alternatives, due to less frequent retrival or citation
+
+### My stances
+
+- I'm not against AI (... well, sort of). I am for care and consideration with technology usage, weighing the pros and cons. A Luddite in the historical sense, not [the modern sense of Luddite](https://en.wikipedia.org/wiki/Luddite#Modern_usage). I'm for technology used to empower humans, not devalue and displace them.
+- I'm trying to approach AI skeptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the modern sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
+    - Some social structures, laws, customs, conventions, foster bad behaviour
+    - Deface the currency, reject the terms, refuse to play the rigged game
+    - Leave our human mark on the things we create
+    - Refuse to compete on the machines’ terms
+- I'm human-centered
+    - Be humanly stubborn and specific
+    - Be rude to screens    - Prioritise human originality and human effort
 
 ## Existing Notes
 
