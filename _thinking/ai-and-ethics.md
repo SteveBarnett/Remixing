@@ -10,7 +10,7 @@ Things that I'm thinking about:
 
 - **Social Media as a foreshadowing** for what's to come with AI. The Social Dilemma becomes the AI Dilemma. The Attention Economy becomes The Intimacy Economy.
 - **Bias.** 
-	- LLMs, algorithms, can't be biased because humans are involved at some point and we are biased. Humans are involved in choosing the training data, refining the model, using the output, interpreting the output.
+	- LLMs, algorithms, can't be unbiased because humans are involved at some point and we are biased. Humans are involved in choosing the training data, refining the model, using the output, interpreting the output.
 	- Data represents the past, including our mistakes. In particular, systemic bias.
 	- The data implies what's Average or Normal. But that's reducing the complexity of human existence. Sometimes we want the outliers, the more creative options.
 	- **Reinforcement Learning from Human Feedback (RLHF).** The training data to output to training data feedback loop. Only a small group of humans, with one set of perspectives, providing feedback. The AI trained to say what we expect to hear, not what is true or correct.
