@@ -38,6 +38,15 @@ updated: 2025-10-27
     - New technology doesn't mean it'll takeover, even if it's "better." We don't cook all our food in microwave ovens, but we do use them.
 - The best way to understand generative AI art and aesthetics is to consider how previous “synthetics” lost value in the long-run
 
+### What AI misses
+
+- AI summaries can't do contextual details that change the embodied experience
+- AI draws on the database of all recorded human knowledge. Only information that can be and has been recorded.
+- AI text generation tends to produce “the Wikipedia version of reality” - rational discourse of the educated classes of society
+- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
+- Lots of human knowledge is missing from the internet, which means AI is missing lots of human knowledge
+- Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
+
 ### Bias
 
 - LLMs gives us knowledge, not wisdom for decision-making
@@ -47,14 +56,15 @@ updated: 2025-10-27
 - Reinforcement Learning from Human Feedback (RLHF). The AI is trained to say what we expect to hear, not what is true or correct.
 - The world has profound power imbalances and these are reflected in the digital world. AI amplifies and may entrench these imbalances.
 
-### What AI misses
+### Grey paste
 
-- AI summaries can't do contextual details that change the embodied experience
-- AI draws on the database of all recorded human knowledge. Only information that can be and has been recorded.
-- AI text generation tends to produce “the Wikipedia version of reality” - rational discourse of the educated classes of society
-- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
-- Lots of human knowledge is missing from the internet, which means AI is missing lots of human knowledge
-- Over time, Western approaches to knowledge and knowing have come to be seen as objective and universal, rather than culturally situated or historically contingent
+- GenAI enshrine orthodoxy and homogenisation
+- Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don’t fit the model.
+- AI entrenches certain orthodoxies, erodes our own resistance to the unorthodox.
+- As with AI, orthodoxies filter out and distort the very information that would overthrow them\
+- The data implies what’s Average or Normal. But that’s reducing the complexity of human existence. Sometimes we want the outliers, the more creative options.
+- It’s more like regurgitative AI than generative AI
+- Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
 
 ### Errors
 
@@ -69,16 +79,6 @@ updated: 2025-10-27
 - The more we turn to AI to substitute for human generative cognition, the more we’ll mistrust what we see, read, hear
 - AI saturation could encourage duplicity as a normative way of life
 - “Knowledge collapse”: narrowing of available information, declining awareness of alternatives, due to less frequent retrival or citation
-
-### Grey paste
-
-- GenAI enshrine orthodoxy and homogenisation
-- Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don’t fit the model.
-- AI entrenches certain orthodoxies, erodes our own resistance to the unorthodox.
-- As with AI, orthodoxies filter out and distort the very information that would overthrow them\
-- The data implies what’s Average or Normal. But that’s reducing the complexity of human existence. Sometimes we want the outliers, the more creative options.
-- It’s more like regurgitative AI than generative AI
-- Uneven internal knowledge representation and mode amplification in output generation help explain why LLMs often reinforce dominant cultural patterns or ideas
 
 ## Existing Notes
 
