@@ -3,7 +3,7 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-27
+updated: 2025-10-28
 ---
 
 * tic
@@ -13,6 +13,7 @@ updated: 2025-10-27
 
 - The iron triangle still applies to AI. Fast, cheap, good: pick two.
     - If it looks like all three, look more closely to see the hidden cost or lower quality.
+- Be wary of looking for technology solutions to social problems
 
 ### Technology
 
@@ -73,14 +74,30 @@ updated: 2025-10-27
 ### My stances
 
 - I'm not against AI (... well, sort of). I am for care and consideration with technology usage, weighing the pros and cons. A Luddite in the historical sense, not [the modern sense of Luddite](https://en.wikipedia.org/wiki/Luddite#Modern_usage). I'm for technology used to empower humans, not devalue and displace them.
-- I'm trying to approach AI skeptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the modern sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
+- I'm trying to approach AI skeptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the colloquial vernacular sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
     - Some social structures, laws, customs, conventions, foster bad behaviour
     - Deface the currency, reject the terms, refuse to play the rigged game
     - Leave our human mark on the things we create
     - Refuse to compete on the machines’ terms
-- I'm human-centered
+- I'm human-centred
     - Be humanly stubborn and specific
-    - Be rude to screens    - Prioritise human originality and human effort
+    - Be rude to screens
+    - Prioritise human originality and human effort
+- I keep don't-know mind
+    - An open mind
+    - Ask a lot of questions
+    - Ask for the specifics
+- One of the best strategies to cut through the hype is to ask questions about the brass tacks of the system being promoted.
+    - What is being automated? What goes in, and what comes out?
+    - Can you connect the inputs to outputs? What is the evidence that there is sufficient information in the input to determine the output?
+    - For any system sold as an “AI [human role]”, we can always ask: What motivates calling this thing by that name?
+        - What else do we expect of people in that role, and who is falling for the suggestion that this system can also do those things?
+    - How is the system evaluated?
+    - What was actually measured, and how does it relate to the intended use of the system?
+    - Who benefits from this technology, who is harmed, and what recourse do they have?
+    - If this system is implemented, who and which organizations will benefit? Who will be harmed, both in cases where the system gives the right answer, and in cases where it doesn’t?
+    - How was the system developed? What are their labor and data practices?
+
 
 ## Existing Notes
 
