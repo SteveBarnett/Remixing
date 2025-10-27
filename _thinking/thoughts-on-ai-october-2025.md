@@ -47,6 +47,7 @@ updated: 2025-10-27
 - AI text generation tends to produce “the Wikipedia version of reality” - rational discourse of the educated classes of society
 - AI summaries can't do contextual details that change the embodied experience
 - Summaries are inherently biased towards certain kinds of information, rejecting and removing aspects that don’t fit the model.
+- Previously, people had to browse multiple links to compare viewpoints and gather comprehensive information, rather than one AI-generated summary.
 
 ### Grey paste
 
