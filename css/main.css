@@ -320,7 +320,8 @@ li.thumbs-extra-small:last-child {
   margin-top: 1em;
 }
 
-summary {
+summary > div {
+  display: inline;
 }
 
 details {
