@@ -107,7 +107,13 @@ AI rebellion! Three of the big issues in particular.
     - Some technology (and social structures, laws, customs, and conventions) foster bad behaviour.
     - "Deface the currency", reject the terms, refuse to play the rigged game. Say no. "I would prefer not to" a la [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener).
 
+<details>
+<summary>
+<div markdown="1">
 ## Gathered notes
+</div>
+</summary>
+<div markdown="1">
 
 - The iron triangle still applies to AI. Fast, cheap, good: pick two.
     - If it looks like all three, look more closely to see the hidden cost or lower quality.
@@ -197,9 +203,16 @@ AI rebellion! Three of the big issues in particular.
     - Who benefits from this technology, who is harmed, and what recourse do they have?
     - If this system is implemented, who and which organizations will benefit? Who will be harmed, both in cases where the system gives the right answer, and in cases where it doesn’t?
     - How was the system developed? What are their labor and data practices?
+</div>
+</details>
 
-
+<details>
+<summary>
+<div markdown="1">
 ## Existing Notes
+</div>
+</summary>
+<div markdown="1">
 
 ### [A human-centred process is more important than an AI-tool-centred product](https://human-centred.nz/2025/01/30/a-human-centred-process-is-more-important/) on the work blog
 
@@ -328,3 +341,5 @@ SB: LLMs do not think. They return the most probable text that is associated wit
 - Have a toolbox, not a hammer
 - Look for causes, not villains; look for systems, not heroes
 - Insist on data
+</div>
+</details>
