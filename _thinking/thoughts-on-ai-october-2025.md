@@ -19,72 +19,72 @@ AI rebellion! Three of the big issues in particular.
 
 ### Don't believe the hype
 
-- The hype fulfils a capitalist function: scaring workers and promising savings to business leaders.
+- **"AI" is a marketing term.** Be more specific. What is being automated? LLM text generation? Image generation?
+- **The hype fulfils a capitalist function**: scaring workers and promising savings to business leaders.
     - More important than what AI can do is what companies say it can do to sell it
     - It all comes down to the money
     - The hype doesn't have to be true to have big impacts
     - automated austerity
-- "AI" is a marketing term. Be more specific. What is being automated? LLM text generation? Image generation?
-    - cut through the hype by asking questions about the specifics
-- Are the current AI systems actually working?
-    - Do a critical evaluation. Seems like no, it's just making slop. Low quality, high quantity.
-    - The iron triangle still applies to AI. Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
-- Beware the hype. It's just tech. "Sufficiently advanced technology is indistinguishable from magic."
+- **It's just tech, not religion or magic**. "Sufficiently advanced technology is indistinguishable from magic."
     - LLMS are big and complex text prediction automation machines: what sets of words are similar and what words are likely to appear in what contexts.
-- Beware the hype. Historically, calls for automation have often meant worse conditions for workers in the name of productivity, to make more money for the owners of the automation.
-- It is not inevitable. Look at humans' history with technological innovation. For example: cars, microwaves, polyester, computers. These didn't eradicate the previous tech, they just replaces some specific uses.
-- Huge ethical concerns about how the models are built and trained: power consumption, gig worker abuse.
-    - none of these tools would work if it weren’t for a massive, underpaid workforce in the Majority World
-- Be wary of looking for technology solutions to social problems
-    - the problem is usually better understood by widening the lens, looking at it in its broader context.
+- **Learn from our history with technology.**
+    - **Automation has often meant worse conditions for workers and more money for owners**, in the name of productivity
+    - **The tech doesn't replace what came before.** It is not inevitable. Look at humans' history with technological innovation. **For example: cars, microwaves, polyester, computers.** These didn't eradicate the previous tech, they just replaces some specific uses.
+- **Keep in mind the huge ethical concerns** about how the models are built and trained: power consumption, gig worker abuse.
+    - None of these tools would work if it weren’t for a massive, underpaid workforce in the Majority World
+- **Be wary of looking for technology solutions to social problems**
+    - The problem is usually better understood by widening the lens, looking at it in its broader context.
     - Be particularly wary of technoableism: the idea that eliminating disability is the goal, a good goal, and that technology can and should do this.
+- **Check if the current AI systems actually working.**
+    - Do a critical evaluation. Seems like no: it's just making slop. Low quality, high quantity.
+    - **The iron triangle still applies.** Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
 
-### Resitance is not futile
+### Resistance is not futile
 
-- Enforce existing laws, rather than acquiescing to the idea that new technology is somehow too new for existing laws to apply to
-- Speaking up as a skeptic is scary because of the hype. You worry for your job security.
-- Don't get lost in possible futures. Especially when it distracts from current harms. Ground yourself in what's happening now.
-    - Redirect attention away from speculative risks to the actual harms being done now in the name of AI.
-- Never underestimate the power of saying no. We don’t have to accept technologies that will do us harm, no matter how well they are tested or honed.
-- Force the burden onto companies to prove that their products are not harmful at every step of the product life cycle, rather than waiting for something to go terribly wrong.
+- **Redirect attention away from speculative risks to the actual harms being done now in the name of AI.**
+- **Say no.** We don’t have to accept technologies that will do us harm, no matter how well they are tested or honed.
+    - Speaking up as a skeptic is scary because of the hype. You worry for your job security.
+- **Enforce existing laws**, rather than believing that new techn is somehow too new for existing laws to apply
+- **Force the burden onto companies to prove that their products are not harmful** at every step of the product life cycle, rather than waiting for something to go terribly wrong.
 
 ### No ghost in the machine
 
-- LLMs are not sentient or conscious. This a tactic to sell you AI.
+- **LLMs are not sentient or conscious. This a tactic to sell you AI.**
     - We imbue sentience into them because of how we process language. No-one is arguing that image generation tools are sentient and communicating with pictures.
     - LLMs do not hallucinate. Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
     -  LLMs do not think. They return the most probable text that is associated with the words like "think deeply".
     - ChatGPT doesn’t look into anything, it has no way to select best references.
-    - empathy and personal interest both require subjective experience and human connection. An LLM cannot have empathy or personal interest.
-- Headlines like "ChatGPT Passes Bar Exam" reinforce the misconception that reciting correct forms, knowing the letter of the law, is all that's needed.
-- We can’t delegate science to machines, because science isn’t a collection of answers. It’s a set of processes and ways of knowing.
-- LLMs gives us knowledge, not wisdom for decision-making
-    - wisdom isn’t just about the output of the decisions, but where they come from: lived experience, integration into community, and accountability for the consequences
+    - Empathy and personal interest both require subjective experience and human connection. An LLM cannot have empathy or personal interest.
+- **LLMs gives us knowledge, not wisdom for decision-making**
+    - Wisdom isn’t just about the output of the decisions, but where they come from: lived experience, integration into community, and accountability for the consequences
+    - Headlines like "ChatGPT Passes Bar Exam" reinforce the misconception that reciting correct forms, knowing the letter of the law, is all that's needed.
+    - We can’t delegate science to machines, because science isn’t a collection of answers. It’s a set of processes and ways of knowing.
 
 ### There is no "view from nowhere" where humans are involved
 
-- LLMs data is all recorded human knowledge. There's lots that isn't and can't be recorded. For example: the taste of an apple. The embodied experience, the wider context of human life and interaction.
+- **LLMs data is all recorded human knowledge. There's lots that isn't and can't be recorded.** The embodied experience, the wider context of human life and interaction.
     - The human condition becomes reduced to computability, quantification, and rationality. That is not what a human life is like!
-- LLM data is biased, because it involves humans: the source of all the data and RLHF (Reinforcement Learning from Human Feedback). We train the models for what we except or want to hear, not what is true or correct. It's no surprise people describe them as sycophants!
+- **The way LLMs are designed reinforces the dominant cultural patterns and ideas: the biased data and the mode amplification.**
+- **LLM data is biased, because it involves humans: the source of all the data and RLHF (Reinforcement Learning from Human Feedback).** We train the models for what we expect or want to hear, not what is true or correct. It's no surprise people describe them as sycophants!
     - LLMs pick up patterns of speech, including racism, sexism, and discrimination of all kinds.
-- Gramsci and cultural hegemony: Western ideas and approaches are seen as objective and universal, rather one slice of culture and history.
-- Many languages and cultures are massively under-represented in the digital world. That doesn't mean we need to, or can digitise them! Just that the data is missing them.
-- The system and structural power imbalances in the world and mirrored in LLM training data.
-- Mode amplification. The mode average is the most frequent data point. This is what's in the LLM output.
-- The way LLMs are designed reinforces the dominant cultural patterns and ideas. The data and the mode amplification.
-- AI text generation tends to produce "the Wikipedia version of reality" - rational discourse of the educated classes of society
-- It entrenches orthodoxies and erodes our resistance to the unorthodox by making it hidden (in the output) or unavailable (in the input).
-    - The output rejects and removes things that don't fit the model. The data that would challenge the orthodoxy.
-    - What's average (the mode) is presented as "normal".
-    - It's more like regurgitative AI than generative AI.
+    - Gramsci and cultural hegemony: **Western ideas and approaches are seen as objective and universal, rather one slice of culture and history.**
+        - Many languages and cultures are massively under-represented in the digital world. That doesn't mean we need to, or can digitise them! Just that the data is missing them.
+        - AI text generation tends to produce "the Wikipedia version of reality" - rational discourse of the educated classes of society
+    - **The system and structural power imbalances in the world and mirrored in LLM training data.**
 
 ### Knowledge collapse
 
-- Before AI summary search results, our searching was active, required comparison and evaluation. These skills will erode if we don't use them.
-    - Outsourcing memory is a long human tradition. Books! But outsourcing thinking is new, and worrying.
+- **Critical thinking skills atrophy when they're not used (like most skills).**
+- **LLMs entrench orthodoxies and erodes our resistance to the unorthodox by making it hidden (in the output) or unavailable (in the input).**
+    - The output rejects and removes things that don't fit the model. The data that would challenge the orthodoxy.
+    - What's average (the mode) is presented as "normal".
+    - It's more like regurgitative AI than generative AI.
+    - Mode amplification. The mode average is the most frequent data point.
+- Before AI summary search results, our searching was active, requiring comparison and evaluation. These skills will erode if we don't use them.
+    - Outsourcing memory is a long human tradition. For example: books. But outsourcing thinking is new, and worrying.
     - For example: writing is intertwined with the act of thinking, not separate from it.
     - Finding contradictory answers on different pages—and, crucially, knowing the source of each—allows us to learn what kinds of knowledge are contested, who is doing the contesting, and how each of those sources fits into our own positions.
-- The allure and prestige of AI raise the risk of narrowing fields of inquiry to those questions which can be approached with these tools
+- **The allure and prestige of AI raise the risk of narrowing fields of inquiry to those questions which can be approached with these tools**
 
 ### How I'm rebelling
 
