@@ -3,11 +3,71 @@ layout: page
 title: "Thoughts on AI - October 2025"
 notes: true
 added: 2025-10-18
-updated: 2025-10-28
+updated: 2025-10-29
 ---
 
 * tic
 {:toc}
+
+## Summarised notes
+
+- AI rebellion! Against three big issues
+    - AI is massively over-hyped
+    - It's being forced on everyone
+    - Valid problems and issues are being ignored or dismissed
+- Huge ethical concerns about how the models are built and trained: power consumption, gig worker abuse.
+    - none of these tools would work if it weren’t for a massive, underpaid workforce in the Majority World
+- The hype fulfils a capitalist function: scaring workers and promising savings to business leaders.
+    - More important than what AI can do is what companies say it can do to sell it
+    - It all comes down to the money
+    - The hype doesn't have to be true to have big impacts
+    - automated austerity
+- Are the current AI systems actually working?
+    - Do a critical evaluation. Seems like no, it's just making slop. Low quality, high quantity.
+    - The iron triangle still applies to AI. Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
+- Be wary of looking for technology solutions to social problems
+    - the problem is usually better understood by widening the lens, looking at it in its broader context.
+- Enforce existing laws, rather than acquiescing to the idea that new technology is somehow too new for existing laws to apply to
+- force the burden onto companies to prove that their products are not harmful at every step of the product life cycle, rather than waiting for something to go terribly wrong.
+- Beware the hype. It's just tech. "Sufficiently advanced technology is indistinguishable from magic."
+    - LLMS are bg and complex prediction automation: what sets of words are similar and what words are likely to appear in what contexts.
+- Beware the hype. Historically, calls for automation have often meant worse conditions for workers in the name of productivity, to make more money for the owners of the automation.
+- It is not inevitable. Look at humans' history with technological innovation. For example: cars, microwaves, polyester, computers. These didn't eradicate the previous tech, they just replaces some specific uses.
+- "AI" is a marketing term. Be more specific. What is being automated? LLM text generation? Image generation?
+    - cut through the hype by asking questions about the specifics
+- Speaking up as a skeptic is scary because of the hype. You worry for your job security.
+- LLMs data is all recorded human knowledge. There's lots that isn't and can't be recorded. For example: the taste of an apple. The embodied experience, the wider context of human life and interaction.
+    - The human condition becomes reduced to computability, quantification, and rationality. That is not what a human life is like!
+- **LLM data is biased, because it involves humans**: the source of all the data and RLHF (Reinforcement Learning from Human Feedback). We train the models for what we except or want to hear, not what is true or correct. It's no surprise people describe them as sycophants!
+    - LLMs pick up patterns of speech, including racism, sexism, and discrimination of all kinds.
+- Gramsci and cultural hegemony: Western ideas and approaches are seen as objective and universal, rather one slice of culture and history.
+- Many languages and cultures are massively under-represented in the digital world. That doesn't mean we need to, or can digitise them! Just that the data is missing them.
+- The system and structural power imbalances in the world and mirrored in LLM training data.
+- the allure and prestige of AI raise the risk of narrowing fields of inquiry to those questions which can be approached with these tools
+- Don't get lost in possible futures. Especially when it distracts from current harms. Ground yourself in what's happening now.
+    - Redirect attention away from speculative risks to the actual harms being done now in the name of AI.
+- LLMs are not sentient or conscious. This a tactic to sell you AI.
+    - We imbue sentience into them because of how we process language. No-one is arguing that image generation tools are sentient and communicating with pictures.
+    - LLMs do not hallucinate. Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
+    -  LLMs do not think. They return the most probable text that is associated with the words like "think deeply".
+    - ChatGPT doesn’t look into anything, it has no way to select best references.
+    - empathy and personal interest both require subjective experience and human connection. An LLM cannot have empathy or personal interest.
+- Headlines like "ChatGPT Passes Bar Exam" reinforce the misconception that reciting correct forms, knowing the letter of the law, is all that's needed.
+- We can’t delegate science to machines, because science isn’t a collection of answers. It’s a set of processes and ways of knowing.
+- LLMs gives us knowledge, not wisdom for decision-making
+    - wisdom isn’t just about the output of the decisions, but where they come from: lived experience, integration into community, and accountability for the consequences
+- Mode amplification. The mode average is the most frequent data point. This is what's in the LLM output.
+- The way LLMs are designed reinforces the dominant cultural patterns and ideas. The data and the mode amplification.
+- Before AI summary search results, our searching was active, required comparison and evaluation. These skills will erode if we don't use them.
+    - Outsourcing memory is a long human tradition. Books! But outsourcing thinking is new, and worrying.
+    - For example: writing is intertwined with the act of thinking, not separate from it.
+    - Finding contradictory answers on different pages—and, crucially, knowing the source of each—allows us to learn what kinds of knowledge are contested, who is doing the contesting, and how each of those sources fits into our own positions.
+- AI text generation tends to produce "the Wikipedia version of reality" - rational discourse of the educated classes of society
+- **It entrenches orthodoxies and erodes our resistance to the unorthodox by making it hidden (in the output) or unavailable (in the input).**
+    - The output rejects and removes things that don't fit the model. The data that would challenge the orthodoxy.
+    - What's average (the mode) is presented as "normal".
+    - It's more like regurgitative AI than generative AI.
+- Never underestimate the power of saying no. We don’t have to accept technologies that will do us harm, no matter how well they are tested or honed.
 
 ## Gathered notes
 
@@ -22,8 +82,6 @@ updated: 2025-10-28
 - Social Media as a foreshadowing for what’s to come with AI. 
 - The tech has utility, but it’s over-hyped, being forced on everyone, and valid critiques are being ignored
     - It’s just tech, not religion or magic
-- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
-- LLMs gives us knowledge, not wisdom for decision-making
 - The best way to understand generative AI art and aesthetics is to consider how previous “synthetics” lost value in the long-run
 - Using AI-powered tools to produce something seems to support a culture that says the end result is more important than the process.
 - People don’t speak up about their skepticism because they’re worried about the impact on their career from people who have bought into the hype
@@ -70,6 +128,9 @@ updated: 2025-10-28
 - “Knowledge collapse”: narrowing of available information, declining awareness of alternatives, due to less frequent retrieval or citation
 - The more we turn to AI to substitute for human generative cognition, the more we’ll mistrust what we see, read, hear
 - AI saturation could encourage duplicity as a normative way of life
+- Have a toolbox, not a hammer
+- The point is not that we should never use metrics, symbols, or categories, but that we must connect them repeatedly to the reality they represent, their material, sensory source, or we will be lost
+- LLMs gives us knowledge, not wisdom for decision-making
 
 ### My stances
 
@@ -79,6 +140,7 @@ updated: 2025-10-28
     - Deface the currency, reject the terms, refuse to play the rigged game
     - Leave our human mark on the things we create
     - Refuse to compete on the machines’ terms
+    - Saying no. "I would prefer not to" a la [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - I'm human-centred
     - Be humanly stubborn and specific
     - Be rude to screens
@@ -218,3 +280,13 @@ SB: LLMs do not think. They return the most probable text that is associated wit
 - Today manufacturers continue to use polyester-cotton blends to create “wrinkle-free” garments, but the stigmas remain. A “beautiful” shirt from a high-end brand comes in real cotton or linen, despite all the inefficiencies involved.
 - While polyester took a few decades to lose its appeal, GenAI is already feeling a bit cheesy. We’re only a few years into the AI Revolution, and Facebook and X are filled to the brim with “AI slop.”
 - This is the main conclusion of Status and Culture: artifacts and styles take on their full value within a social context, and less value is created when all cultural artifacts are procurable with enough money, can be made anywhere by anyone, and offer no useful social distinctions between philistine and aesthete.
+
+### [Index card notes from Factfulness](/notes/cognitive-biases/factfulness.jpg)
+
+- Compare spreads, not averages
+- Chart lines might bend. How much of the curve do you see?
+- Look for similarities and differences between groups and inside groups
+- Beware of exceptional examples
+- Have a toolbox, not a hammer
+- Look for causes, not villains; look for systems, not heroes
+- Insist on data
