@@ -88,22 +88,24 @@ AI rebellion! Three of the big issues in particular.
 
 ### How I'm rebelling
 
-#### My directions
+#### My directions: CSS
 
 - **Careful.** I am for care and consideration with technology usage, weighing the pros and cons.
-- **Skeptical.** Keeping a don't-know mind, an open mind. Asking a lot of questions. What's the endgame here?
-- **Clear.** Ask for the specifics, details. 
+- **Skeptical.**
+    - Asking a lot of questions. What's the endgame here?
+    - Ask for the specifics, details. 
     - What's being automated? What's the input? What's the output?
     - How are we measuring success? How confident are we about the output?
     - What are the pros and cons of using this tech? Who benefits and who is harmed?
+- **Stubborn**. Patient. Playing the long game. Not being easily distracted, or giving up the fight.
 
-#### My hats
+#### My hats: LHC
 
 - **Luddite.** In the historical sense (against technologies of control and coercion), not the modern sense (opposed or resistant to new technologies). Technology should be used to empower humans, not devalue and displace them.
+- **Human.** Humanly stubborn and specific. Rude to screens. Prioritise human originality and human effort.
 - A **Cynic.** In the [historical and philosophical sense of Cynic](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the colloquial vernacular sense](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
     - Some technology (and social structures, laws, customs, and conventions) foster bad behaviour.
     - "Deface the currency", reject the terms, refuse to play the rigged game. Say no. "I would prefer not to" a la [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener).
-- **Human.** Humanly stubborn and specific. Rude to screens. Prioritise human originality and human effort.
 
 ## Gathered notes
 
