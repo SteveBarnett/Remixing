@@ -14,19 +14,23 @@ longerform: true
 ### TODO
 
 - [ ] Review [More aspects?](#more-aspects)
-- [ ] Tidy up [Layers](#layers)
 - [ ] Tidy up [Conflict](#conflict)
 - [ ] First draft of [Notifications and availability](#notifications-and-availability)
 - [ ] Organise existing [Me](#me)
 - [ ] Organise existing [My team](#my-team)
 - [ ] Organise existing [My organisation](#my-organisation)
 - [ ] First draft of [My profession](#my-profession) intro
+- [ ] Think about timeline-ing each section.
+- [ ] First draft of My work timeline
+- [ ] First draft of My secular dharma timeline
 {: .todo}
 
 #### Done
 
 - [x] Write [Three practices of the eightfold path](#three-practices-of-the-eightfold-path)
 - [x] First draft of [My clients](#my-clients) intro
+- [x] Tidy up [Layers](#layers)
+- [x] Review some of [More aspects?](#more-aspects)
 {: .todo}
 
 ### Alternative subtitles
@@ -34,16 +38,12 @@ longerform: true
 - compassion at the office
 - care at the office
 - caring and carefulness at the office
+- compassion at the coalface
 
 ### More aspects?
 
-- Identity
-- Self as process, fluid, interconnected
-- Layers of selfing, not self/no-self binary
-- Where and when does work-you begin and end?
 - dependent origination
 - Autonomy, self-reliance
-- Work with who you are, not against
 - scepticism and questions more than answers
 - following a middle way (between two poles)
 - embracing one's habitual aversions
@@ -60,6 +60,25 @@ My practice has helped me loosen and soften around these things quite a lot. Muc
 We're going cover a couple of aspects of work: me, my team, and my organisation. For each one we'll look at how secular dharma intersects with it, and how it can help.
 
 Writing this tiny book is part of my practice. I'm on board with the idea that everything is your main practice. I'm also a fan of Austin Kleon (austinkleon.com) and his idea of "write the book you want to read."
+
+### My work timeline
+
+- office job
+- (moved countries)
+- freelancer
+- full-time jobs
+- consultant
+- (moved countries)
+- full-time jobs
+
+The move from webmaster to FED to a11y
+
+### My secular dharma timeline
+
+- nothing
+- philosophy
+- dharma
+- secular dharam
 
 ## Three practices of the eightfold path
 
@@ -105,19 +124,17 @@ For view we'll discuss seeing things more clearly, more truthfully, more dispass
 
 ## Layers
 
-I find it fruitful to think about things in terms of layers. A thing can have several aspects. Thee aspects are distinct but not divided. For work, I'm going to look at me, my team, my clients, my organisation, my profession as layers.
+I find it fruitful to think about things in terms of layers. A thing can have several aspects. The aspects are distinct but not divided. This thinking in layers was spurred on by stumbling over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2) a while ago, and finding it very compelling. The framework interested me more than the specific layers.
 
-At some point in my life I stumbled over [Pace Layering: How Complex Systems Learn and Keep Learning](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2), and found it very compelling. The framework was what interested me more than the specific layers.
+The big idea is that reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers.
 
-Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers. The layers exist on a spectrum.
-
-- **The layer boundaries are fuzzy**. The boundaries are like tidemarks.
-- **Each layer offers a change in context, scale, and/or extent.** Each layer is worth reviewing on its own.
+- **The layer boundaries are fuzzy**. The boundaries are movable and indistinct, like tidemarks.
+- **Each layer offers a change in context, scale, and/or extent.** Each layer has value, and is worth studying.
 - **Each layer influences, and is influenced by, its neighbours.** The layers are distinct, but not divided. They're interconnected and interdependent.
-- **All the layers are in constant motion.**
+- **All the layers are in constant motion.** There's movement within each layer, and between layers.
 - **The layers closer to the centre move and change more slowly.**
-    - The smaller and faster layers get our attention. They instruct the slower and bigger by accrued innovation and occasional revolution. They learn.
-    - The slower and bigger layers have the power. They control the fast and small by constraint and constancy. They remember.
+    - The smaller and faster layers get our attention. They learn, and instruct the bigger and slower layers by accrued innovation and occasional revolution.
+    - The slower and bigger layers have the power. They remember, and control the fast and small by constraint and constancy.
     
 ## Conflict
 
@@ -160,13 +177,15 @@ I found Diane Musho Hamilton's book "The Zen Of You And Me: A Guide To Getting A
 
 ## Me
 
-The thing I have struggled with the most over the years has been putting too much of my identity into my work. My work was who I was. I did lots of other things, and there were lots of other aspects to who I was. This was the biggest slice of the identity pizza by far, though. In addition, I held myself and my work to unachievably high standards. When work wasn't going well, I read it as a reflection of me: I am not going well.
+The thing I have struggled with the most over the years has been putting too much of my identity into my work. My work was who I was. I did lots of other things, and there were lots of other aspects to who I was. This was the biggest slice of the identity pizza by far, though. In addition, I held myself and my work to unachievably high standards. When work wasn't going well, I read it as a reflection of me: I am not going well. The dharma has helped me loosen these tight grips over the years.
 
-The dharma has helped me loosen these tight grips over the years. The first thing that helped was seeing more clearly what was going on. I realised how much I thought about and cared about work, and how that was impacting my life. In particular my stress levels and general happiness. Noticing what I was doing helped me decide that I wanted to do something about it. This did not feel like flourishing!
+The first thing that helped was seeing more clearly what was going on. I realised how much I thought about and cared about work, and how that was impacting my life. In particular my stress levels and general happiness. Noticing what I was doing helped me decide that I wanted to do something about it. This did not feel like flourishing!
 
-The next thing that helped was noticing the shape of my self, looking more closely at what I took to be my identity. I began to pay more attention to how my sense of self changed. It depended on who I was talking to, what we were talking about, how I was when things were going well or badly.
+The next thing that helped was noticing the shape of my self, looking more closely at what I took to be my identity. I began to pay more attention to how my sense of self changed. It depended on who I was talking to, what we were talking about, how I was when things were going well or badly. It was quite tightly strung and connected to parts of the job and how I read other people's perception of me.
 
-Finally, I starting coming around to the reality that some parts of me are just not going to change very much. All I can do is accept them, with as much grace as I can, and let them people around me know what's going on.
+I starting paying attention to where the edges where. I tried to look for where and when between home and the office I switched from home-me to work-me. I wondered if it more like a gradual mixing and changing. I poked around with this when I worked from home. For quite a while, it felt confusing and a bit frustrating: I couldn't find the flip. It was many years before I came to the dharma and started to settle into seeing into the emptiness of my idea of self: as in not fixed, permanent, or separate.
+
+Finally, I starting coming around to the reality that some parts of me are just not going to change very much. All I can do is accept them, with as much grace as I can, and let them people around me know what's going on. One way of looking at this that I've found fruitful (and difficult!) is: work with who you are, not against.
 
 Something I picked up from a psychology and psychotherapy direction was talking more frequently. Once I tried it, I learned quite quickly that talking about things almost always helped. One alarm bell I learned was a gritty, uncomfortable, grumpy, feeling of really not wanting to talk about something. That was a sure sign that this was something I really should be talking about!
 
@@ -190,7 +209,9 @@ The first is **embracing life** as it is. In particular, truly and deeply accept
 
 Another is the idea of **dependant origination**, or conditional arising, or contingency. I usually apply this in the sense of thinking about all the causes and conditions and patterns that have lead a person (including me!) to think and act in the way they are. A warm, gentle, compassionate kind of "of course" tends to arise. I try to hold the "should"s and "could"s more lightly by considering everything in my life that's lead up to this point. Of course I'm thinking and acting like this. How else could I act, given all of that source material, all those inputs?
 
-One more aspect is the "yes, and" that comes after **acceptance**. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there.
+One more aspect is the "yes, and" that comes after **acceptance**. We get the best results from working with who our team are, not against who they are. Meet them where they're at, and build from there. Work with who they are, not against who they are.
+
+In several of my jobs I've had a bit of a mixed role. Sort of like an internal consultant, I'd have my main job at a company, but also offer advice on my specialist area. The line between "my team" and "my organisation" became more fuzzy.
 
 ### View
 
@@ -256,6 +277,9 @@ Other bits to roll in:
 - work matching our vocation (or not)
 - meaningful work, the privilege to able to do that
 - how other people identify your work
+- work with what your profession is, not against
+
+For about five years I helped out with two extra-curricular activities meetup groups. There were links to my organisation(s), but I was there as a professional (ish), much more than an employee of a company.
 
 ### View
 
