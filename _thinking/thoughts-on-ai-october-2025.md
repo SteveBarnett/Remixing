@@ -29,9 +29,9 @@ AI rebellion! Three of the big issues in particular.
     - LLMS are big and complex text prediction automation machines: what sets of words are similar and what words are likely to appear in what contexts.
 - **Learn from our history with technology.**
     - **Automation has often meant worse conditions for workers and more money for owners**, in the name of productivity
-    - **The tech doesn't replace what came before.** It is not inevitable. Look at humans' history with technological innovation. **For example: cars, microwaves, polyester, computers.** These didn't eradicate the previous tech, they just replaces some specific uses.
-- **Keep in mind the huge ethical concerns** about how the models are built and trained: power consumption, gig worker abuse.
-    - None of these tools would work if it weren’t for a massive, underpaid workforce in the Majority World
+    - **The tech doesn't replace what came before.** It is not inevitable. Look at humans' history with technological innovation. **For example: cars, microwaves, polyester, computers.** These didn't eradicate the previous tech, they just replace some specific uses.
+- **Keep in mind the huge ethical concerns, social, cultural, and ecological costs**
+    - environmental harm, disregard for copyright, underpaid and traumatised gig workers without whom the tools wouldn't exist
 - **Be wary of looking for technology solutions to social problems**
     - The problem is usually better understood by widening the lens, looking at it in its broader context.
     - Be particularly wary of technoableism: the idea that eliminating disability is the goal, a good goal, and that technology can and should do this.
@@ -91,9 +91,8 @@ AI rebellion! Three of the big issues in particular.
 #### My directions: CSS
 
 - **Careful.** I am for care and consideration with technology usage, weighing the pros and cons.
-- **Skeptical.**
-    - Asking a lot of questions. What's the endgame here?
-    - Ask for the specifics, details. 
+- **Skeptical.** Asking a lot of questions. Ask for the specifics, details.
+    - What's the endgame here?
     - What's being automated? What's the input? What's the output?
     - How are we measuring success? How confident are we about the output?
     - What are the pros and cons of using this tech? Who benefits and who is harmed?
