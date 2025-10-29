@@ -3,18 +3,18 @@ layout: page
 title: Layers
 longerform: true
 added: 2023-01-30
-updated: 2025-10-23
+updated: 2025-10-29
 ---
 
-Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers. The layers exist on a spectrum.
+Reality is processes and fields that collapse into "things." We can draw a (fairly arbitrary) line around a group of processes or fields and call it a system. We can draw (fairly arbitrary) lines in a system to create layers.
 
-- **The layer boundaries are fuzzy**. The boundaries are like tidemarks.
-- **Each layer offers a change in context, scale, and/or extent.** Each layer is worth reviewing on its own.
+- **The layer boundaries are fuzzy**. The boundaries are movable and indistinct, like tidemarks.
+- **Each layer offers a change in context, scale, and/or extent.** Each layer has value, and is worth studying.
 - **Each layer influences, and is influenced by, its neighbours.** The layers are distinct, but not divided. They're interconnected and interdependent.
-- **All the layers are in constant motion.**
+- **All the layers are in constant motion.** There's movement within each layer, and between layers.
 - **The layers closer to the centre move and change more slowly.**
-    - The smaller and faster layers get our attention. They instruct the slower and bigger by accrued innovation and occasional revolution. They learn.
-    - The slower and bigger layers have the power. They control the fast and small by constraint and constancy. They remember.
+    - The smaller and faster layers get our attention. They learn, and instruct the bigger and slower layers by accrued innovation and occasional revolution.
+    - The slower and bigger layers have the power. They remember, and control the fast and small by constraint and constancy.
 
 ## References
 
