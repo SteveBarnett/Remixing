@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-10-14
+updated: 2025-10-29
 permalink: /thinking/japan/
 ---
 
@@ -16,7 +16,6 @@ More detail on costs, time, and where to land.
 - WLG - AKL - NRT (Tokyo), Air NZ ~ 15h
 - WLG - SYD - HND (Tokyo) - ITM (Osaka), Qantas and AirJ ~ 19h
 - WLG - SYD - HND - KIX (All Nippon (AirNZ)) ~ 20h
-
 
 ### When
 
@@ -76,6 +75,12 @@ Kansai region.
 - Kyoto Imperial Palace gardens
 - [Kamigamo-jinja shrine](https://www.kamigamojinja.jp/en/)
 - Kamo-gawa river
+
+#### Some Kyoto notes
+
+- Neighbourhoods: Arashiyama and Sagano (west, scenic), downtown; Imperial Palace and around (mid-north, quiet and green); Northern Higashiyama (east, historic sights, philosopher's path); Gion and Southern Higashiyama (east, picture-book streets and temples); Kyoto station and South Kyoto (monuments and museums)
+- Kyoto station area has cheap accommodation and good transport links
+- Takase River - check AirBnB and [machiya-inn-japan.com](https://www.machiya-inn-japan.com/)
 
 #### Elsewhere
 
