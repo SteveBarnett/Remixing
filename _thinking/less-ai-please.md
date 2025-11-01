@@ -1,27 +1,25 @@
 ---
 layout: page
-title: Less AI, Please
+title: AI Resistance
 added: 2025-10-31
-updated: 2025-11-01
+updated: 2025-11-02
 longerform: true
 ---
+
+This is mostly about LLMs. I'll bounce between using "LLMs" (which is mostly what I mean) and "AI" (which is mostly what we say in everyday conversation).
+
+I find myself being critical of the current AI hype partly because it feels familiar to other hype cycles from work: adoption of popular JavaScript libraries; accessibility overlays.
+
+<h2>Table of contents</h2>
 
 * tic
 {:toc}
 
-This is mostly about LLMs.
-
 ## Ways of being
 
-- **Careful.** I am for care and consideration with technology usage, weighing the pros and cons.
-- **Sceptical.** Asking a lot of questions. Ask for the specifics, details.
-    - What's the endgame here?
-    - What's being automated? What's the input? What's the output?
-    - How are we measuring success? How confident are we about the output?
-    - What are the pros and cons of using this tech? Who benefits and who is harmed?
-    - Keep an eye out for what they try and gloss over
-- **Stubborn**. Patient. Playing the long game. Not being easily distracted, or giving up the fight.
-- **Human.** Humanly stubborn and specific. Rude to screens. Prioritise human originality and human effort.
+- **Careful.** Care and consideration with technology usage, weighing the pros and cons.
+- **Stubborn** Patient, playing the long game. Not being easily distracted, or giving up the fight.
+- **Human-centre.** Prioritising human originality and human effort. Being rude to screens.
 
 ## Three Big Ideas
 
@@ -33,13 +31,16 @@ This is mostly about LLMs.
 
 ### Don't Believe The Hype
 
-AI is massively over-hyped. Don't fall for the sales pitch, the smoke and mirrors.
+<div class="boxout-light">
+AI is massively over-hyped.<br><strong>Be critical of the sales pitch.</strong>
+</div>
 
-Stance: be clear, be sceptical. Ask a lot of questions. Ask for the specifics, details.
-    - What's the endgame here?
-    - What's being automated? What's the input? What's the output?
-    - How are we measuring success? How confident are we about the output?
-    - What are the pros and cons of using this tech? Who benefits and who is harmed?
+#### Be a sceptic
+
+Ask a lot of questions.
+
+- Notice where information is lacking or fuzzy.
+- Ask for the specifics, the details
 
 #### The hype
 
@@ -63,7 +64,7 @@ Stance: be clear, be sceptical. Ask a lot of questions. Ask for the specifics, d
     - Our industry leans toward eliminating people from the process
     - We live in a techbro, technoableist, world
     - Automation has often meant worse conditions for workers and more money for owners, in the name of productivity
-    - The tech doesn’t replace what came before. It is not inevitable. Look at humans’ history with technological innovation. For example: cars, microwaves, polyester, computers. These didn’t eradicate the previous tech, they just replace some specific uses.
+    - The tech doesn’t replace what came before. It is not inevitable. Look at humans’ history with technological innovation. For example: cars, microwaves, polyester, computers, automated testing. These didn’t eradicate the previous tech, they just replace some specific uses.
     - For example: sewing machines, cars, computers, microwaves, React, mobile phones, VR
 - Social and systemic problems rarely have technology solutions
     - The problem is usually better understood by widening the lens, looking at it in its broader context.
@@ -84,6 +85,8 @@ Stance: be clear, be sceptical. Ask a lot of questions. Ask for the specifics, d
     - LLMs are not sentient or conscious.
     - Mode amplification, not choosing or selecting or deciding
     - We imbue meaning and mind into (text) language
+        - We see a mirror-like representation of a human
+    - Additional anthropomorphism comes from the UI and UX of the tools
     - No-one is saying the image generation tools are communicating with us through images!
     - There are other things where "magic" happens that we don't say are sentient
     - No thinking, empathy, no understanding. Only text prediction.
@@ -105,11 +108,16 @@ Stance: be clear, be sceptical. Ask a lot of questions. Ask for the specifics, d
 
 ### Fight The Power
 
-AI is being forced on most people. Don't just say, opt out.
+<div class="boxout-light">
+AI is being forced on many people; AI is being forced into many parts of work and life.<br><strong>Opt out, don't use it.</strong>
+</div>
 
-Scandalous framing: be a Cynic. In the [historical and philosophical sense of Cynic](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the colloquial vernacular sense](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
-    - Some technology (and social structures, laws, customs, and conventions) foster bad behaviour.
-    - "Deface the currency", reject the terms, refuse to play the rigged game. Say no. "I would prefer not to" a la [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener).
+#### Be a Cynic
+
+In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)) (question and challenge conventions and customs), not in [the everyday sense](https://en.wikipedia.org/wiki/Cynicism_(contemporary)) (question and challenge people in general).
+
+- Notice that some technology (and social structures, laws, customs, conventions) foster bad behaviour.
+- Reject the terms, refuse to play the rigged game, say no. "I would prefer not to" like [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener).
 
 #### Ask Why
 
@@ -131,6 +139,7 @@ Scandalous framing: be a Cynic. In the [historical and philosophical sense of Cy
     - Is not a good reason!
 - We'll fall back behind
     - Ask for specifics. Do we need AI to keep up? For what metric?
+    = How do we know we're losing business to our competitors? How do we know that it's because of AI?
 - The iron triangle still applies. Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
 - The process is part of the product
     - Writing is thinking, is learning, is understanding
@@ -157,9 +166,14 @@ Scandalous framing: be a Cynic. In the [historical and philosophical sense of Cy
 
 ### Bring The Noise
 
-Valid problems and issues are being ignored or dismissed. Keep the focus on the current harms, not the speculative risks.
+<div class="boxout-light">Valid problems and issues are being ignored or dismissed.<br><strong>Keep the focus on the current harms, not speculative risks.</strong></div>
 
-Scandalous framing: be a Luddite. In the historical sense (against technologies of control and coercion), not the modern sense (opposed or resistant to new technologies). Technology should be used to empower humans, not devalue and displace them.
+#### Be a Luddite
+
+In [the historical sense](https://en.wikipedia.org/wiki/Luddite) (oppose and resist technologies of control and coercion), not [in the modern sense](https://en.wikipedia.org/wiki/Luddite#Modern_usage) (oppose or resist new technologies in general).
+
+- Notice where technology is being used to devalue and displace humans.
+- Publicly and loudly voice your concerns.
 
 #### The Bad Parts
 
@@ -177,6 +191,7 @@ Scandalous framing: be a Luddite. In the historical sense (against technologies 
     - Tone of voice, facial expression, volume of voice, emotional valence, wider context of the day and the people
     - For example: meeting notes don't make it clear that someone kept interrupting, or that it's someone's first day back from holiday
 - LLMs data is all recorded human knowledge. There’s lots that isn’t and can’t be recorded. The embodied experience, the wider context of human life and interaction.
+- The gloss and shine, and the tone of the output makes for high interaction costs
 
 #### Output
 
@@ -188,6 +203,7 @@ Scandalous framing: be a Luddite. In the historical sense (against technologies 
 - Confabulation. AI’s are great at Confident Bullshitting. They make things up, but present it as fact.
 - Not "Hallucination". Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
 - LLMs pick up patterns of speech, including racism, sexism, and discrimination of all kinds.
+- LLMs are built to people-please, not to give true or correct answers
 
 #### The effect tech has on us
 
@@ -204,6 +220,8 @@ Scandalous framing: be a Luddite. In the historical sense (against technologies 
 - Over-reliance on LLM-powered tools can reduce our scope of interest to questions that this tool can answer
     - Like walking around your house with a hammer looking for things to nail
 - An LLM can give the most popular answer to a question, but the human has to ask the right question
+- How are we measuring success? How confident are we about the output?
+- What are the pros and cons of using this tech? Who benefits and who is harmed?
 
 <details>
 <summary>
