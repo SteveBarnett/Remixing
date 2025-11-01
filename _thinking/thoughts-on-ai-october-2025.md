@@ -91,7 +91,7 @@ AI rebellion! Three of the big issues in particular.
 #### My directions: CSS
 
 - **Careful.** I am for care and consideration with technology usage, weighing the pros and cons.
-- **Skeptical.** Asking a lot of questions. Ask for the specifics, details.
+- **Sceptical.** Asking a lot of questions. Ask for the specifics, details.
     - What's the endgame here?
     - What's being automated? What's the input? What's the output?
     - How are we measuring success? How confident are we about the output?
@@ -178,7 +178,7 @@ AI rebellion! Three of the big issues in particular.
 ### My stances
 
 - I'm not against AI (... well, sort of). I am for care and consideration with technology usage, weighing the pros and cons. A Luddite in the historical sense, not [the modern sense of Luddite](https://en.wikipedia.org/wiki/Luddite#Modern_usage). I'm for technology used to empower humans, not devalue and displace them.
-- I'm trying to approach AI skeptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the colloquial vernacular sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
+- I'm trying to approach AI sceptically. A [Cynic in the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)), not [in the colloquial vernacular sense of cynic](https://en.wikipedia.org/wiki/Cynicism_(contemporary)).
     - Some social structures, laws, customs, conventions, foster bad behaviour
     - Deface the currency, reject the terms, refuse to play the rigged game
     - Leave our human mark on the things we create
