@@ -6,10 +6,96 @@ updated: 2025-11-01
 notes: true
 ---
 
+## Gathered notes
 
+- Our power comes from taking collective action, fighting for dignity, protections, and safety
 
+### 1. Just Work
+
+- Power is a hierarchy of the people who make the decision and the people who have to conform to them
+- There’s a lot of uncertainty and unpredictability in our relationship to tech work
+- Unions are a good way to address
+    - How to keep the things you like about your job
+    - How to change the things you wish were different about your job
+
+### 2. In Our Strength, Safety
+
+- Ursula Franklin on what happens with every new technology 
+    - It appears with grand promises, often on liberation from toil
+    - This drives adoption, and the tech becomes expected and assumed and institutionalised
+    - The promise of liberation is never fulfilled, the tech is used to exploit workers
+    - For example: cars, computers, microwave ovens, React
+- When a group of workers act together it’s hard to ignore them
+- A strike is very powerful, when used intelligently
+- Solidarity is powerful because it's open, explicit, acknowledgement of our connections, dependencies, and common humanity
+- A disconnect between motto and reality is fairly common, especially in mission-driven organisations
+- The scale of our industry’s problems have changed, but the shape’s the same
+
+### 3. What is a Union?
+
+- A union is a group of workers who, through organization and collective action, fight for a better life.
+- Understanding labour law and how it protects you (and how it doesn’t) will make you a better, more effective, organizer
+- collective bargaining agreement
+- Unions provide legal and structural levers that allow us to open up space for ourselves to imagine something different
+
+### 4. Every Tech Worker Deserves A Union
+
+- A union election. Bargaining unit.
+
+#### Step 1: Building Support
+
+- Pay disparity is often a motivating factor: across departments, race, gender.
+- Clearer (and fairer) policy for promotions
+- "Just cause" protections from being fired
+- At some point, you should reach out to a union to help support your organizing campaign
+    - Going alone is very, very, difficult
+- A spreadsheet is useful to provide a picture of your bargaining unit’s current size, and of its current level of support for your union.
+    - you’re looking to build support for your union across a majority of your fellow workers
+    - Keep it secure, to keep yourselves safe
+
+#### Step 2: Outreach and Organizing
+
+- Listen for areas that overlap and have open conversations about how the union might help
+- Issues that the company has created and how a union can resolve that issue
+- Your union represents everyone in your bargaining unit, including the people who voted no
+
+#### Step 3: Winning Your Union
+
+- The management fighting back playbook hasn’t changed much precisely because it’s proven its ability to take the fight out of a union campaign: 
+    - Hiring a union-busting firm
+    - Captive audience meetings. To try to pressure you and your coworkers to vote against forming a union
+    - Adopting a sympathetic tack. They might acknowledge some of the issues you’re organizing around, and make promises about fixing them
+    - Third-partying your union. Your managers may start talking about your union as though it’s an external entity.
+    - Reducing the size of your bargaining unit
+    - Creating fear, uncertainty, and doubt
+- Management has exactly one pro-worker response to a union campaign going public: to voluntarily recognize the union
+    - Management fighting the formation of a union is a good indication that you need a union
+
+#### Step 4: Negotiating Your Contract
+
+- (?) all members of the bargaining unit gain legal protections, allowing you to request a union representative be present during any situations that could result in disciplinary action
+- Being on the bargaining committee is a lot of work
+- Open bargaining sessions may result in stronger contracts and a stronger union
+    - management’s behaviour in bargaining sessions can be wonderfully helpful in galvanizing your union
+
+### 5. Tech Solidarity, Forever
+
+- Our industry leans toward eliminating people from the process
+- Deskilling: technology is introduced, overseen by fewer workers, wages lowered and jobs cut. Demand for skilled labour reduced or eliminated. Works moved into roles they're overqualified for.
+- There are lots of loud voices saying tech workers are too numerous and dramatically overvalued, wanting to lower the value of our labour
+- Three broad strategies for using contractual language to mitigate technological harm
+    - Mandate that the union be involved in the decision-making process behind adopting a new technology
+    - Create protections that protect workers from any technologies introduced to the workplace
+    - Define limits on how technology can be used in the workplace
+- We work in a system that is actively trying to devalue our labour
+
+<details>
+<summary>
+<div markdown="1">
 ## Raw notes
-
+</div>
+</summary>
+<div markdown="1">
 - our power comes not from climbing ever-narrowing ladders, but from linking arms and taking collective action
 - workers do not fight for power, we fight for dignity
 - a book about unions in the tech industry: what they are, why they matter, and how you and your coworkers can form your own
@@ -201,3 +287,5 @@ But Redwine said the leadership’s retaliation definitely changed that. Everyon
 - The digital products we design and build depend upon these vulnerable and exploited workers. These exploited tech workers are directly responsible for the success of our industry; without their labor, our industry’s profits would dwindle
 - all of us—all of us—work in a system that is actively trying to devalue our work. The companies we work for are moving to automate our labor, and working to push us away from any semblance of long-term financial stability. But we have the power to change that. Not individually, but collectively—with our unions.
 - our industry has engaged in various ethical and moral lapses in the pursuit of scale. And with that scale, there’s a precarity visited upon every single tech worker. And as tech workers, we need to unionize to build power, which will allow us to protect our benefits, our workplaces, and ourselves.
+</div>
+</details>
