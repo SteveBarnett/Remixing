@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-10-29
+updated: 2025-11-02
 permalink: /thinking/japan/
 ---
 
@@ -67,6 +67,7 @@ Kansai region.
 - Higashiyama - the hills are alive with shrines and temples
 - Southern Higashiyama
     - Main sightseeing district
+    - Walk rather than bus, but/and bit hilly
     - Kiyomizu-dera temple, Kodai-ji temple, Chion-in template
 - Northern Higashiyama
     - Path of Philosophy (Tetsugaku-no-Michi) Neighbourhood
