@@ -126,11 +126,14 @@ Scandalous framing: be a Cynic. In the [historical and philosophical sense of Cy
     - For companies that are reporting 10X productivity (or something similar): what's the outcome? Are they now the number one company in the world? Most profitable? Most equitable? Most human(e)?
 - Clarify how the results of adding AI will be measured, and what will happen afterwards
     - What's the endgame?
+    - What human work is it replacing? What happens to the human?
 - Everyone else is doing it
     - Is not a good reason!
 - We'll fall back behind
     - Ask for specifics. Do we need AI to keep up? For what metric?
 - The iron triangle still applies. Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
+- The process is part of the product
+    - Writing is thinking, is learning, is understanding
 
 #### Say No
 
@@ -186,7 +189,7 @@ Scandalous framing: be a Luddite. In the historical sense (against technologies 
 - Not "Hallucination". Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
 - LLMs pick up patterns of speech, including racism, sexism, and discrimination of all kinds.
 
-#### The affect tech has on us
+#### The effect tech has on us
 
 - Knowledge collapse
     - Overuse can atrophy our critical thinking skills
@@ -197,8 +200,11 @@ Scandalous framing: be a Luddite. In the historical sense (against technologies 
     - It turns an embodied, active, process into a flat event, a product
         - Example: saying an LLM that can pass the bar exam can practice law is reinforcing the misconception that the textbook, theoretical, version of a thing is the same as the practical
     - We learn by doing, not by reading answers. We learn with applied effort.
+    - All the existing training data comes from learned human experience and knowledge. If we all become prompt and context engineers, no-one will have the skills left to solve new problems as they arise.
 - Over-reliance on LLM-powered tools can reduce our scope of interest to questions that this tool can answer
     - Like walking around your house with a hammer looking for things to nail
+- An LLM can give the most popular answer to a question, but the human has to ask the right question
+
 <details>
 <summary>
 <div markdown="1">
