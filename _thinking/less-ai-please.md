@@ -71,6 +71,11 @@ The tech industry in particular leans toward eliminating people from the process
     
 Some example of previous technology and advances that seemed magical at the time: cars, microwaves, polyester, computers, mobile phones, social media, VR, React JS, automated testing. These didn’t eradicate the previous tech, they just replaced some specific uses.
 
+Much of AI is solutions looking for a problem. Or solving something that wasn't a problem.
+
+- iPhones have Siri, but we still operate our phones by touch
+- We have social media, but we still meet people in person
+
 #### Ask what problem we're solving
 
 Social and systemic problems rarely have technology solutions. 
@@ -216,6 +221,8 @@ In [the historical sense](https://en.wikipedia.org/wiki/Luddite) (oppose and res
 - The process is part of the product
     - Writing is thinking, is learning, is understanding
     - Creativity is a process, not a product
+    - Art is more than just the finished artwork. It's the process of making and engaging with the work.
+    - Therapy is not an exchange of text strings, it's a relationship with another human
 - Entrenching of orthodoxies, and eroding our resistance to the unorthodox
 - Passive consumption of a single source presented as truth, rather than active comparing and contrasting
     - For example: AI generated search summary
@@ -226,6 +233,7 @@ In [the historical sense](https://en.wikipedia.org/wiki/Luddite) (oppose and res
     - Like walking around your house with a hammer looking for things to nail
     - An LLM can give the most popular answer to a question, but the human has to ask the right question
 - All the existing training data comes from learned human experience and knowledge. If we all become prompt and context engineers, no-one will have the skills left to solve new problems as they arise.
+
     
 ## Sources
 
