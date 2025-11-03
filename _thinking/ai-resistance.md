@@ -52,6 +52,7 @@ The hype fulfils a capitalist function.
 
 - AI is a tool that people use to do things, it does nothing on its own
 - LLMs are big and very complex text automation machines, matching similar words and words that are likely to appear in similar contexts
+- Don’t mistake conviction for correctness
 
 ##### Ask for the details and specifics
 
@@ -88,18 +89,25 @@ Humans relationship with technology follows the time-tested patterns.
 
 The tech industry in particular leans towards trying to eliminating people from the process.
 
-#### Recall recent example of "just tech, not magic"
+##### Recall recent examples of "just tech, not magic"
 
-These didn’t eradicate the previous technology, they just replaced some specific uses.
+These didn’t eradicate the previous technology, they just replaced some specific uses. Consider the impact these have had on the human race. Are we happier, healthier, more fulfilled?
 
 - Cars - we still walk places
-- Microwaves - we still cook using other
-- Polyester - we still use other fabrics
+- Microwaves - we still cook using other. See also: [In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)
+- Polyester - we still use other fabrics. See also: [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/).
 - Computers - we still do things by hand
 - Mobile phones - we do still do things on other devices
 - Social media - we still meet in person
 - React JS - we still write other code
 - Automated testing - we still do manual testing
+
+##### Notice how history is repeating itself
+
+1. Companies adopting AI at large scales, spending large amounts of money on it
+2. They fire many people, saying AI will do their job
+3. They realise AI is doing a low quality, error-ridden, version of the job
+4. They rehire the people, on lower pay and benefits, to fix the mistakes and babysit the AI
 
 ### 2. Fight The Power
 
@@ -168,6 +176,8 @@ AI causes widespread and varied harms.
 - **Ecological, environmental, harm.** Google, Microsoft, and OpenAI are dramatically missing their climate pledges because of AI.
 - **Cultural harm.** Violent disregard for copyright in the training data.
 - **Ethical harm.** Underpaid and traumatised gig workers on the training data and doing Reinforcement Learning from Human Feedback.
+- **Psychological harm.** People talking to ChatGPT over their loved ones, school, or work.
+- **Deadly harm**. AI-assisted suicides.
 - **Financial harm.** Multi-billion dollar investments with little or no return.
 
 #### Critique the narrow inputs and low quality outputs
