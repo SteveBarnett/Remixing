@@ -2,24 +2,20 @@
 layout: page
 title: AI Resistance
 added: 2025-10-31
-updated: 2025-11-02
+updated: 2025-11-03
 longerform: true
 ---
 
-This is mostly about LLMs. I'll bounce between using "LLMs" (which is mostly what I mean) and "AI" (which is mostly what we say in everyday conversation). It's a sketch of some of the things that have me concerned.
+This is mostly about LLMs. It's a sketch of some of the things that have me concerned.
 
 I find myself being critical of the current AI hype partly because it feels familiar to other hype cycles from work: adoption of popular JavaScript libraries; accessibility overlays.
+
+I'll bounce between using "LLMs" (which is mostly what I mean) and "AI" (which is mostly what we say in everyday conversation).
 
 <h2>Table of contents</h2>
 
 * tic
 {:toc}
-
-## Ways of being
-
-- **Human-centred.** Prioritising human originality and human effort. Being rude to screens.
-- **Stubborn.** Patient, playing the long game. Not being easily distracted, or giving up the fight.
-- **Careful.** Care and consideration with technology usage, weighing the pros and cons.
 
 ## Three Big Ideas
 
@@ -39,82 +35,71 @@ AI is massively over-hyped.<br><strong>Be critical of the sales pitch.</strong>
 
 Ask a lot of questions.
 
-- Notice where information is lacking or fuzzy.
+- Notice where information is lacking or fuzzy
 - Ask for the specifics, the details
 
 #### Read calls to use AI as a sales pitch
 
 The hype fulfils a capitalist function.
 
-- It's about selling AI, not about using AI
+- What they say it can do, to sell it
 - The hype doesn’t have to be true to have big impacts
-- More important than what AI can do is what companies say it can do to sell it
-- Note who benefits, in the long term, from our use of this tech
+- Note who benefits from our use of this tech
 
-#### Be clear that it's just tech, not magic
+#### Clarify that it's just tech, not magic
 
-“Sufficiently advanced technology is indistinguishable from magic.”
+“[Sufficiently advanced technology is indistinguishable from magic](https://en.wikipedia.org/wiki/Clarke's_three_laws#The_laws).”
 
-- Software systems are tools, which people use to do things. Like a hammer for nails or a plane for flying.
-- LLMs are big and complex text prediction automation machines: what sets of words are similar and what words are likely to appear in what contexts
-- LLMs are not sentient or conscious. They can't choose or select or decide.
+- AI is a tool that people use to do things, it does nothing on its own
+- LLMs are big and very complex text automation machines, matching similar words and words that are likely to appear in similar contexts
 
-##### Ask for the practical specifics
+##### Ask for the details and specifics
 
-"AI" is a marketing term. An LLM is (very complex) text-prediction machine.
-
-- What problem are we trying to solve?
-    - Social and systemic problems rarely have technology solutions. 
-    - Problems are often better understood looking at the broader context and surrounding systems.
-    - We need to be particularly wary of technoableism: the idea that eliminating disability is the goal, that it's a good goal, and that technology can and should do this.
 - What is being automated?
 - What are the inputs?
 - What are the outputs?
 
-##### Notice the human element
-
-- AI is not unbiased.
-    - It reinforces the dominant cultural ideas and approaches.
-    - The training data is the digital world, that replicates the biases and power imbalances of the physical world.
-    - The output is further biased by RLHF (Reinforcement Learning from Human Feedback)
-        - We train the models for what we expect or want to hear, not what is true or correct.
-    - Mode amplification, not choosing or selecting or deciding
-- It’s more like regurgitative AI than generative AI
-    - There was human intelligence in the process somewhere, but it's been turned into AI grey paste- Summaries miss things that humans pick up on
-    - Tone of voice, facial expression, volume of voice, emotional valence, wider context of the day and the people
-    - For example: meeting notes don't make it clear that someone kept interrupting, or that it's someone's first day back from holiday
-
 ##### Be wary of anthropomorphising
 
-- We imbue meaning and mind into language
-    - We see a mirror-like representation of a human, of ourselves
-- Additional anthropomorphism comes from the UI and UX of the tools
-    - The conversational framing
-    - The animation
-- There are other things where "magic" happens that we don't say are sentient
-    - No-one is saying that image generation tools are communicating with us through images
-- No thinking, only (very complex) text prediction.
-    - Writing "think deeply" in a prompt surfaces sources that use linked those kinds of words and phrases.
-    - No interpretation, no embodied understanding or experience
-- LLMs cannot have empathy or personal interest: they require subjective experience and human connection.
+- LLMs are not sentient or conscious: they can't choose or select or decide or interpet
+    - We add meaning and mind into language, we see human-like features
+    - Compare LLMs to other AI: no-one is saying that image generation tools are communicating with us with their output
+- Some anthropomorphism comes from the UI and UX of the tools
+- LLMs cannot have empathy or personal interest: these things require subjective experience and human connection
 
-#### Study our history with technology
+##### Notice where humans are involved
+ 
+- The training data is produced by humans
+    - Although we are entering a slop feedback loop
+- The output is tweaked by Reinforcement Learning from Human Feedback
+    - We train the models for what we expect or want to hear, not what is true or correct
+- It’s more like regurgitative AI than generative AI
+    - The output is a grey paste of human creativity        
 
-New technology often promises an easy life and liberation from toil, but ends up exploiting the workers. Automation has often meant worse conditions for workers and more money for owners, in the name of productivity.
+#### Study the history of humans and technology
 
-The tech industry in particular leans toward eliminating people from the process. We live in a techbro, technoableist, world.
+Humans relationship with technology follows the time-tested patterns.
 
-- The promises drive adoption
-- The tech becomes expected as a baseline
-- Demand for skilled labour is reduced
-- Workers are moved into roles that they're overqualified for
-    
-Some example of previous technology and advances that seemed magical at the time: cars, microwaves, polyester, computers, mobile phones, social media, VR, React JS, automated testing. These didn’t eradicate the previous tech, they just replaced some specific uses.
+1. New technology promises an easy life and liberation from toil
+2. The promises drive adoption
+3. The technology becomes expected as a baseline
+4. Demand for skilled labour is reduced
+5. People are moved into roles that they're underpaid and overqualified for, in worse conditions
 
-Much of AI is solutions looking for a problem. Or solving something that wasn't a problem.
+The tech industry in particular leans towards trying to eliminating people from the process.
 
-- iPhones have Siri, but we still operate our phones by touch
-- We have social media, but we still meet people in person
+#### Recall recent example of "just tech, not magic"
+
+These didn’t eradicate the previous technology, they just replaced some specific uses.
+
+- Cars - we still walk places
+- Microwaves - we still cook using other
+- Polyester - we still use other fabrics
+- Computers - we still do things by hand
+- Mobile phones - we do still do things on other devices
+- Social media - we still meet in person
+- React JS - we still write other code
+- Automated testing - we still do manual testing
 
 ### 2. Fight The Power
 
@@ -131,42 +116,39 @@ In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynici
 
 #### Use AI less
 
-- The iron triangle still applies. Fast, cheap, good: pick two. If it looks like all three, look more closely to see the hidden cost or lower quality.
 - Start with the problem, don't start with AI as the solution
     - What's our goal?
     - What do we want to achieve?
-- Ask why we're using AI for this case. Put the burden of proof of effectiveness on the AI systems.
+    - Social and systemic problems rarely have technology solutions
+    - Problems are often best understood looking at the wider context and systems
+- Ask why we're using AI instead of doing something else 
+    - Put the burden of proof of effectiveness on the AI systems
     - Extraordinary claims require extraordinary proof
-- For claims of "we'll fall behind", ask for specifics on competitors.
-    - How do we know we're losing business to our competitors?
-    - How do we know that it's because of AI?
-- Everyone else is doing it is not a good reason!
-    - For reports of increased productivity elsewhere, ask for second order effects: what has been the measurable outcome for the employees and for the company?
-- Ask who benefits, especially in the long term
-    - Following the money is usually very illuminating
 - Clarify how the results of adding AI will be measured, and what will happen afterwards
     - What's the endgame?
-    - What human work is it replacing? What happens to the human?
+    - What human work is it replacing?
+    - What happens to the humans?
+- Check if the iron triangle still applies. Fast, cheap, good: pick two.
+    - If it looks like all three, look more closely to see the hidden cost or lower quality.
 
 #### Don't use AI at all
 
-- Work on the problems, without AI
+- Say no: it's optional, not inevitable
+    - Work on the problem, without AI
     - Show your work
     - Show your progress
-- Be human-centred, not machine-driven
-    - Put people first
-- Use the right tool for the job
-- Use existing, old, laws and rules and ethic
-    - They still apply to this!
-- Keep asking if what you're doing aligns with your values
-- Say no. It's optional, not inevitable. Remember out history with technology.
-- We don’t have to accept technologies that will do us harm, no matter how well they are tested or honed.
+- Be human-centred, put people first
+    - Keep checking that what you're doing aligns with your values
+- Borrow from the Slow movement playbook
+    - Offer alternatives, drawn from time-tested traditions (including existing, old, laws and rules and ethics)
+- Don’t use harmful technology, even if it's well-tested and tweaked
 
 #### Use a human-centred, people-first, approach
 
-- Information and knowledge, not wisdom. Wisdom requires very broad context, weighing options, working with paradoxes, "it depends"
-- Wisdom isn’t just about the output of the decisions, but where they come from: lived experience, integration into community, and accountability for the consequences
-- We can’t delegate science to machines, because science isn’t a collection of answers. It’s a set of processes and ways of knowing.
+- LLMs provide information and knowledge, not wisdom
+    - Wisdom requires very broad context, weighing options, working with paradoxes and "it depends"
+    - Wisdom is about the decision and where it came from: lived human experience, accountability
+- LLMs can't do science because science is a process, ways of knowing, not a collection of answers
 
 ### 3. Bring The Noise
 
@@ -176,71 +158,73 @@ In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynici
 
 In [the historical sense](https://en.wikipedia.org/wiki/Luddite) (oppose and resist technologies of control and coercion), not [in the modern sense](https://en.wikipedia.org/wiki/Luddite#Modern_usage) (oppose or resist new technologies in general).
 
-- Notice where technology is being used to devalue and displace humans.
-- Publicly and loudly voice your concerns.
+- Notice where technology is being used to devalue and displace humans
+- Publicly and loudly voice your concerns
 
 #### Object to the value misalignments
 
-AI causes widespread and varied harms that we are opposed to.
+AI causes widespread and varied harms.
 
-- Ecological, environmental, harm. Google, Microsoft, and OpenAI are dramatically missing their climate pledges because of AI.
-- Cultural harm. Violent disregard for copyright in the training data.
-- Ethical harm. Underpaid and traumatised gig workers on the training data and doing Reinforcement Learning from Human Feedback.
-- Financial harm. Multi-billion dollar investments with little or no return.
+- **Ecological, environmental, harm.** Google, Microsoft, and OpenAI are dramatically missing their climate pledges because of AI.
+- **Cultural harm.** Violent disregard for copyright in the training data.
+- **Ethical harm.** Underpaid and traumatised gig workers on the training data and doing Reinforcement Learning from Human Feedback.
+- **Financial harm.** Multi-billion dollar investments with little or no return.
 
-#### Critique the narrow inputs and low quality ouputs
+#### Critique the narrow inputs and low quality outputs
 
 ##### Problems with the inputs
 
-- Only recorded data. LLM training data is all our recorded human knowledge. There’s lots of human experience that isn’t and can’t be recorded. The embodied experience, the wider context of human life and interaction.
-- Mostly Western data. Western ideas and approaches are seen as objective and universal, rather than one slice of culture and history
+- **Only recorded data.** LLM training data is all our recorded human knowledge. There’s lots of human experience that isn’t and can’t be recorded. The embodied experience, the wider context of human life and interaction.
+- **Mostly Western data.** Western ideas and approaches are seen as objective and universal, rather than one slice of culture and history
     - Many languages and cultures are massively under-represented in the digital world
-- Mostly discriminatory data. LLMs pick up our patterns of speech, including hate speech. This can include discrimination based on gender, gender identity and expression, sexual orientation, disability, race, religion, ethnicity.
+- **Mostly discriminatory data.** The data replicates the biases and power imbalances of the physical world. LLMs mirror back our patterns of discrimination, including gender, gender identity and expression, sexual orientation, disability, race, religion, ethnicity.
 
-##### Problems with  the outputs
+##### Problems with the outputs
 
-- Low quality, high quantity. LLMs are being used to produce high quantity at low quality, commonly called slop.
-- Mode amplification. The most frequent data points are represented as the one true answer
-- "The Wikipedia version of reality": the rational discourse of the educated classes of society
-- Confabulation. LLMs are great at Confident Bullshitting. They make things up, but present them as facts.
-    - Not "Hallucination". Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
-- Sycophantic. LLMs are built to people-please, not to give true or correct answers
-- Leaving out things that don't fit the model, or can't be recorded well.
-    - Tone of voice, facial expression, volume of voice, emotional valence, wider context of the people and the detail and nature of their relationships to each other
+- **Mode amplification.** The most frequent data points are represented as the one true answer.
+- **Confabulation**. LLMs output often contains Confident Bullshitting. Made up things presented them as facts.
+    - Not "hallucination". Hallucination is perceiving something that's not really there. LLMs do not perceive anything.
+- **The Wikipedia version of reality.** The style of the output is the rational discourse of the educated classes of society.
+- **Sycophantic.** LLMs are built to people-please, not to give true or correct answers.
+- **Low quality, high quantity.** LLMs are filling the web with slop.
+- **Further bias from Reinforcement Learning from Human Feedback.**
 
 #### Show how reliance on AI devalues human lived experience
 
-- Atrophying critical thinking skills, because we're not using them
-    - We learn by doing, not by reading answers. We learn with applied effort.
+- **Atrophying critical thinking and analysis skills**
+    - We learn by actively applied effort, not by passively reading answers
+- **Presenting the product as more important than the product**
     - The process is part of the product
-        - Writing is thinking, is learning, is understanding
-        - Creativity is a process, not a product
-        - Art is more than just the finished artwork. It's the process of making and engaging with the work.
-        - Therapy is not an exchange of text strings. It's a relationship with another human.
-- Passive consumption of a single source presented as truth, rather than active comparing and contrasting. For example: AI generated search summary.
-- Entrenching orthodoxies. Eroding our resistance to the unorthodox
-- Reducing the questions we ask to ones that can be answering using the tech
-    - When we start with AI as a solution, we can narrow our to problems that AI can solve.
-    - Like walking around your house with a hammer looking for things to nail
-    - An LLM can give the most popular answer to a question, but the human has to ask the right question
-- Devaluing practical, lived experience. Prioritising and framing theoretical knowledge as more important than practical knowledge
-        - Example: incorrectly thinking an LLM that can pass the bar exam can practice law
-- Deskilling human workers, leaving future generations worse off
-    - All the existing training data comes from learned human experience and knowledge. If we all become prompt and context engineers, no-one will have the skills left to solve new problems as they arise.
-- The human condition becomes reduced to computability, quantification, and rationality. 
+    - Thinking and understanding happens as we write, draw, code
+- **Devaluing practical, lived experience**
+    - Prioritising and framing theoretical knowledge as more important than practical knowledge
+- **Narrowing our curiosity**
+    - When we start with AI as a solution, we look for problems that AI can solve
+    - An LLM can sometimes give the most popular answer to a question, but the human has to ask the right question
+- **Deskilling humans**
+    - Existing training data comes from learned human experience and knowledge
+    - If people stop learning those skills, we'll struggle to answer new questions
 
 ## Common objections
 
-- We have a custom LLM, so the training data is good
+- We'll fall behind if we don't use it
+    - Ask for specifics on competitors
+    - How do we know we're losing business to our competitors?
+    - How do we know that it's because of AI?
+- Everyone else is doing it
+    - This is a silly reason
+- The ones using it are more productive
+    - Ask for second order effects: what has been the measurable outcome for the employees and for the company?
+- It's inevitable
+    - Look at the history of humans and technology
 - It's okay to use copyrighted data, it wouldn't work otherwise
-- It's sentient, it has opinions
+    - If it doesn't function without consent, it doesn't deserve to function
 - It's a good replacement for a therapist / doctor / skilled professional
-- I only use it a little bit, it's easier
+
 - It makes writing so much faster!
+    - Apply the iron triangle and see what's happening
 - It might not be good now, but it'll get better with time
-
-... (TBC, after finalising the first draft of the big ideas)
-
-## Sources
-
-... (huge list!)
+    - When do decide it's good enough to use?
+    - What about when it still isn't good enough?
+    - What do we do in the meantime?
+    - When would we decide to give up on it?
