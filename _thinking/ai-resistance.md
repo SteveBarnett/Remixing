@@ -12,12 +12,7 @@ I find myself being critical of the current AI hype partly because it feels fami
 
 I'll bounce between using "LLMs" (which is mostly what I mean) and "AI" (which is mostly what we say in everyday conversation).
 
-<h2>Table of contents</h2>
-
-* tic
-{:toc}
-
-## Three Big Ideas
+The three big ideas:
 
 1. Don't Believe The Hype
 2. Fight The Power
@@ -25,20 +20,25 @@ I'll bounce between using "LLMs" (which is mostly what I mean) and "AI" (which i
 
 (These are all songs by hip hop group [Public Enemy](https://en.wikipedia.org/wiki/Public_Enemy), chosen because the words match and because being anti-AI feels like being, well, a public enemy.)
 
-### 1. Don't Believe The Hype
+<h2>Table of contents</h2>
+
+* tic
+{:toc}
+
+## 1. Don't Believe The Hype
 
 <div class="boxout-light">
 AI is massively over-hyped.<br><strong>Be critical of the sales pitch.</strong>
 </div>
 
-#### 💪 Be a sceptic
+### 💪 Be a sceptic
 
 Ask a lot of questions.
 
 - Notice where information is lacking or fuzzy
 - Ask for the specifics, the details
 
-#### Read calls to use AI as a sales pitch
+### Read calls to use AI as a sales pitch
 
 The hype fulfils a capitalist function.
 
@@ -46,7 +46,7 @@ The hype fulfils a capitalist function.
 - The hype doesn’t have to be true to have big impacts
 - Note who benefits from our use of this tech
 
-#### Clarify that it's just tech, not magic
+### Clarify that it's just tech, not magic
 
 “[Sufficiently advanced technology is indistinguishable from magic](https://en.wikipedia.org/wiki/Clarke's_three_laws#The_laws).”
 
@@ -54,13 +54,13 @@ The hype fulfils a capitalist function.
 - LLMs are big and very complex text automation machines, matching similar words and words that are likely to appear in similar contexts
 - Don’t mistake conviction for correctness
 
-##### Ask for the details and specifics
+#### Ask for the details and specifics
 
 - What is being automated?
 - What are the inputs?
 - What are the outputs?
 
-##### Be wary of anthropomorphising
+#### Be wary of anthropomorphising
 
 - LLMs are not sentient or conscious: they can't choose or select or decide or interpet
     - We add meaning and mind into language, we see human-like features
@@ -68,7 +68,7 @@ The hype fulfils a capitalist function.
 - Some anthropomorphism comes from the UI and UX of the tools
 - LLMs cannot have empathy or personal interest: these things require subjective experience and human connection
 
-##### Notice where humans are involved
+#### Notice where humans are involved
  
 - The training data is produced by humans
     - Although we are entering a slop feedback loop
@@ -77,7 +77,7 @@ The hype fulfils a capitalist function.
 - It’s more like regurgitative AI than generative AI
     - The output is a grey paste of human creativity        
 
-#### Study the history of humans and technology
+### Study the history of humans and technology
 
 Humans relationship with technology follows the time-tested patterns.
 
@@ -89,7 +89,7 @@ Humans relationship with technology follows the time-tested patterns.
 
 The tech industry in particular leans towards trying to eliminating people from the process.
 
-##### Recall recent examples of "just tech, not magic"
+#### Recall recent examples of "just tech, not magic"
 
 These didn’t eradicate the previous technology, they just replaced some specific uses. Consider the impact these have had on the human race. Are we happier, healthier, more fulfilled?
 
@@ -102,27 +102,27 @@ These didn’t eradicate the previous technology, they just replaced some specif
 - React JS - we still write other code
 - Automated testing - we still do manual testing
 
-##### Notice how history is repeating itself
+#### Notice how history is repeating itself
 
 1. Companies adopting AI at large scales, spending large amounts of money on it
 2. They fire many people, saying AI will do their job
 3. They realise AI is doing a low quality, error-ridden, version of the job
 4. They rehire the people, on lower pay and benefits, to fix the mistakes and babysit the AI
 
-### 2. Fight The Power
+## 2. Fight The Power
 
 <div class="boxout-light">
 AI is being forced on many people; AI is being forced into many parts of work and life.<br><strong>Opt out, don't use AI.</strong>
 </div>
 
-#### 💪 Be a Cynic
+### 💪 Be a Cynic
 
 In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynicism_(philosophy)) (question and challenge conventions and customs), not in [the everyday sense](https://en.wikipedia.org/wiki/Cynicism_(contemporary)) (question and challenge people's motivations in general).
 
 - Notice that some technology (and social structures, laws, customs, conventions) foster bad behaviour.
 - Reject the terms, refuse to play the rigged game, say no. "I would prefer not to" like [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener).
 
-#### Use AI less
+### Use AI less
 
 - Start with the problem, don't start with AI as the solution
     - What's our goal?
@@ -139,7 +139,7 @@ In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynici
 - Check if the iron triangle still applies. Fast, cheap, good: pick two.
     - If it looks like all three, look more closely to see the hidden cost or lower quality.
 
-#### Don't use AI at all
+### Don't use AI at all
 
 - Say no: it's optional, not inevitable
     - Work on the problem, without AI
@@ -151,25 +151,25 @@ In [the historical and philosophical sense](https://en.wikipedia.org/wiki/Cynici
     - Offer alternatives, drawn from time-tested traditions (including existing, old, laws and rules and ethics)
 - Don’t use harmful technology, even if it's well-tested and tweaked
 
-#### Use a human-centred, people-first, approach
+### Use a human-centred, people-first, approach
 
 - LLMs provide information and knowledge, not wisdom
     - Wisdom requires very broad context, weighing options, working with paradoxes and "it depends"
     - Wisdom is about the decision and where it came from: lived human experience, accountability
 - LLMs can't do science because science is a process, ways of knowing, not a collection of answers
 
-### 3. Bring The Noise
+## 3. Bring The Noise
 
 <div class="boxout-light">Valid problems and issues are being ignored or dismissed.<br><strong>Keep the focus on the current harms, not speculative risks.</strong></div>
 
-#### 💪 Be a Luddite
+### 💪 Be a Luddite
 
 In [the historical sense](https://en.wikipedia.org/wiki/Luddite) (oppose and resist technologies of control and coercion), not [in the modern sense](https://en.wikipedia.org/wiki/Luddite#Modern_usage) (oppose or resist new technologies in general).
 
 - Notice where technology is being used to devalue and displace humans
 - Publicly and loudly voice your concerns
 
-#### Object to the value misalignments
+### Object to the value misalignments
 
 AI causes widespread and varied harms.
 
@@ -180,16 +180,16 @@ AI causes widespread and varied harms.
 - **Deadly harm**. AI-assisted suicides.
 - **Financial harm.** Multi-billion dollar investments with little or no return.
 
-#### Critique the narrow inputs and low quality outputs
+### Critique the narrow inputs and low quality outputs
 
-##### Problems with the inputs
+#### Problems with the inputs
 
 - **Only recorded data.** LLM training data is all our recorded human knowledge. There’s lots of human experience that isn’t and can’t be recorded. The embodied experience, the wider context of human life and interaction.
 - **Mostly Western data.** Western ideas and approaches are seen as objective and universal, rather than one slice of culture and history
     - Many languages and cultures are massively under-represented in the digital world
 - **Mostly discriminatory data.** The data replicates the biases and power imbalances of the physical world. LLMs mirror back our patterns of discrimination, including gender, gender identity and expression, sexual orientation, disability, race, religion, ethnicity.
 
-##### Problems with the outputs
+#### Problems with the outputs
 
 - **Mode amplification.** The most frequent data points are represented as the one true answer.
 - **Confabulation**. LLMs output often contains Confident Bullshitting. Made up things presented them as facts.
@@ -199,7 +199,7 @@ AI causes widespread and varied harms.
 - **Low quality, high quantity.** LLMs are filling the web with slop.
 - **Further bias from Reinforcement Learning from Human Feedback.**
 
-#### Show how reliance on AI devalues human lived experience
+### Show how reliance on AI devalues human lived experience
 
 - **Atrophying critical thinking and analysis skills**
     - We learn by actively applied effort, not by passively reading answers
