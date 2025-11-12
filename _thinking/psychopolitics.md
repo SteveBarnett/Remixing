@@ -2,11 +2,56 @@
 layout: page
 title: "Psychopolitics: Neoliberalism and New Technologies of Power"
 added: 2025-11-08
-updated: 2025-11-09
+updated: 2025-11-12
 notes: true
 ---
 
 Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, Byung-Chul
+
+## Gathered notes
+
+- The freedom of Can generates even more coercion than the disciplinarian Should
+- It is inefficient to exploit people against their will. Only when freedom is exploited are returns maximized.
+- As a mutant form of capitalism, neoliberalism transforms workers into entrepreneurs. Today, everyone is an auto-exploiting labourer in his or her own enterprise.
+- under the neoliberal regime of auto-exploitation, people are turning their aggression against themselves. This auto-aggressivity means that the exploited are not inclined to revolution so much as depression.
+- Digital Big Brother outsources operations to inmates
+- Persons are being positivized into things, which can be quantified, measured and steered. No thing can be free.
+- Both the smartphone and the rosary serve the purpose of self-monitoring and control.
+- Power that relies on violence does not represent power of the highest order. The greater power is, the more quietly it works.
+- Today, power is assuming increasingly permissive forms. In its permissivity – indeed, in its friendliness – power is shedding its negativity and presenting itself as freedom.
+- The neoliberal regime’s technology of power takes on subtle, supple and smart forms; thereby, it escapes all visibility.
+- It proves so effective because it does not operate by means of forbidding and depriving, but by pleasing and fulfilling.
+- It leads astray instead of erecting obstacles.
+- Free choice is eliminated to make way for a free selection from among the items on offer.
+- As industrialization proceeded, it became necessary to discipline the body and fit it to machinic production
+- neoliberalism has discovered the psyche as a productive force
+- Now, productivity is not to be enhanced by overcoming physical resistance so much as by optimizing psychic or mental processes
+- it ensures that individuals act on themselves so that power relations are interiorized – and then interpreted as freedom.
+- points of weakness and mistakes are to be therapeutically eliminated in order to enhance efficiency and performance
+- Self-optimization, it turns out, amounts to total self-exploitation
+- Endlessly working at self-improvement resembles the self-examination and self-monitoring of Protestantism
+- Life that consists wholly of positive emotions and the sensation of ‘flow’ is not human at all
+- neoliberal psychopolitics is dominated by positivity
+- Big Brother now wears a friendly face. His friendliness is what makes surveillance so efficient.
+- The digital panopticon thrives on its occupants’ voluntary self-exposure.
+- Communication and control have become one, without remainder. Now, everyone is his or her own panopticon.
+- Affect and emotion refer to strictly subjective matters, whereas feeling refers to something objective. Feeling can be recounted. It has narrative length, or breadth. Neither affect nor emotion admits an account.
+- Simply on the basis of its temporality, digital communication conveys affect more than it transmits feeling
+- Feelings also have a different temporality than emotions. They admit duration.
+- In contrast to feelings, emotions do not represent a state. The emotion does not stand. There is no emotion of rest. A feeling of calm is easy to conceive.
+- The neoliberal regime deploys emotions as resources in order to bring about heightened productivity and achievement.
+- Consumer capitalism enlists emotion in order to generate more desires and needs.
+- Today we do not consume things so much as emotions. The former cannot be consumed without end – but the latter can
+- Neoliberal psychopolitics seizes on emotion in order to influence actions on this pre-reflexive level.
+- A person playing a game, being emotionally invested, is much more engaged than a worker who acts rationally or is simply functioning.
+- But what matures over time cannot be gamified.
+- Today, the gamification logic of ‘Likes’, ‘Friends’ and ‘Followers’ means that social communication is also being plugged into and subordinated to a game mode.
+- True happiness comes from what runs riot, lets go, is exuberant and loses meaning – the excessive and superfluous.
+- This ability seems to carry with it certain cultural assumptions – that everything that can be measured should be measured; that data is a transparent and reliable lens that allows us to filter out emotionalism and ideology;
+- ‘False clarity is only another name for myth.’
+- ‘Quantified Self’ represents a Dadaist technology too; it empties the self of any and all meaning. The self gets broken down into data until no sense remains.
+- Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
+- In contrast to Big Brother, who could be quite forgetful, Big Data never forgets anything at all. For this reason alone, the digital panopticon is much more efficient than Bentham’s.
 
 ## Raw Notes
 
@@ -66,7 +111,7 @@ Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, B
 - The homines sacri of today have not been shut out of the system – they have been shut into the system.
 - neoliberalism, a further development – indeed, a mutated form – of capitalism, is not primarily concerned with ‘the biological, the somatic, the corporal’. It has discovered the psyche as a productive force. This psychic turn – that is, the turn to psychopolitics – also connects with the mode of operation of contemporary capitalism.
 - Now, productivity is not to be enhanced by overcoming physical resistance so much as by optimizing psychic or mental processes. Physical discipline has given way to mental optimization.
-- As an ‘entrepreneur of himself’,13 the neoliberal achievement-subject engages in auto-exploitation willingly – and even passionately. The self-as-a-work-of-art amounts to a beautiful but deceptive illusion that the neoliberal regime maintains in order to exhaust its resources entirely.
+- As an ‘entrepreneur of himself’, the neoliberal achievement-subject engages in auto-exploitation willingly – and even passionately. The self-as-a-work-of-art amounts to a beautiful but deceptive illusion that the neoliberal regime maintains in order to exhaust its resources entirely.
 - Under neoliberalism, the technology of power takes on a subtle form. It does not lay hold of individuals directly. Instead, it ensures that individuals act on themselves so that power relations are interiorized – and then interpreted as freedom.
 
 ### 6. Healing as Killing
@@ -77,7 +122,7 @@ Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, B
 - the time for creating new value which is real is over and done. Indeed, under the financial capitalism of our day, value is being destroyed at the root – eradicated.
 - perpetual self-optimization, which coincides point-for-point with the optimization of the system, is proving destructive. It is leading to mental collapse. Self-optimization, it turns out, amounts to total self-exploitation.
 - Endlessly working at self-improvement resembles the self-examination and self-monitoring of Protestantism, which represents a technology of subjectivation and domination in its own right.
-- Pain is constitutive for experience (Erfahrung). Life that consists wholly of positive emotions and the sensation of ‘flow’2 is not human at all.
+- Pain is constitutive for experience (Erfahrung). Life that consists wholly of positive emotions and the sensation of ‘flow’ is not human at all.
 - Now, the only pain that is tolerated is pain that can be exploited for the purposes of optimization.
 
 ### 7. Shock
