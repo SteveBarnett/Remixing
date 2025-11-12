@@ -53,8 +53,11 @@ Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, B
 - Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
 - In contrast to Big Brother, who could be quite forgetful, Big Data never forgets anything at all. For this reason alone, the digital panopticon is much more efficient than Bentham’s.
 
+<details>
+<summary markdown="1">
 ## Raw Notes
-
+</summary>
+<div markdown="1">
 ### 1. The Crisis of Freedom
 
 - The freedom of Can generates even more coercion than the disciplinarian Should, which issues commandments and prohibitions.
@@ -170,3 +173,5 @@ Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, B
 - Big Data’s microphysics, then, would make actomes visible – that is, micro-actions that elude detection by the waking mind. Thus, Big Data could also bring to light collective patterns of behaviour, of which individuals are unaware. This would render the collective unconscious accessible.
 - digital psychopolitics would be in the position to take control of mass behaviour on a level that escapes detection.
 - Today, Big Data is not just taking the stage as Big Brother – it is also taking the form of Big Business.
+</div>
+</details>
