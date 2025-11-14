@@ -2,7 +2,7 @@
 layout: page
 title: "Enshittification: Why Everything Suddenly Got Worse and What to Do About It"
 added: 2025-11-12
-updated: 2025-11-12
+updated: 2025-11-15
 notes: true
 ---
 
@@ -10,6 +10,114 @@ Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do A
 
 * tic
 {:toc}
+
+## Gathered notes
+
+### Part One: The Natural History
+
+- Enshittification infects platforms: digital businesses that operates a two-sided market, connecting business customers and end users
+    - Middlemen: their value comes from business customers and end users, not anything else
+- Part of the solution by connecting people, part of the problem when they become big enough to gatekeep
+- Enshittification
+    1. Good to their users
+    2. Good to their business customers, back to their users
+    3. Good to themselves, bad to their business customers, to take value for themselves
+    4. Giant pile of shit
+- They benefits from high network effects (more valuable as it attracts more users) and rely on high switching costs
+    - The walled garden is a system that works well, but fails badly
+- Companies don’t treat you well because they’re “good” capitalists, and they don’t abuse you because they’re “bad” capitalists. Companies abuse you if they can get away with it. That’s the crux of enshittification.
+
+### Part Two: The Pathology
+
+- Establish what internal processes cause these symptoms
+- Pandemic metaphor: when a whole population changes in the same way at the same time, it’s a sign of something external and systemic
+- Companies don’t enshittify when they can’t. Companies start to enshittify when they can.
+- Forces that act on every company in every industry: competition (markets) and regulation (governments)
+- Forces unique to tech
+    - self-help
+        - The flexibility of computers makes them interoperable in a way that no other technology can match
+        - All kinds of companies make use of standards, like Wi-Fi, Bluetooth, USB
+        - Adversarial interoperability is the key to self-help
+    - tech workers
+        - for most of modern history, demand has fara exceed supply for tech workers
+        - (librarian-theorist Fobazi Ettarh's) vocational awe: the weaponisation of, holding hostage by, workers’ sense of duty, especially to the public those workers serve
+
+### Part Three: The Epidemiology
+
+- Why and how it spreads, causing sickness
+- The End of Competition
+    - Monopolies thriving from antitrust enforcers ignoring them
+    - Less "If you’re not paying for the product, you’re the product" and more “Even if you pay for the product, you’re the product if the company can get away with treating you as the product.”
+    - Tech companies are wildly reckless about not considering potential abuses of things they add
+    - Once a company can enshittify, it faces ongoing perennial temptation and pressue to enshittify
+    - One of the most beloved enshittification tactics: bait and switch, e.g. changing Ts&Cs, often firstby migrating to the cloud
+    - “We will show you your competitors’ sensitive data” has an obvious corollary of “We will show your sensitive data to your competitors”
+- The Death of Competition Kills Regulation, Too
+    - This kind of adversarial process—something between a court case and scientific peer review—has a good track record of producing high-quality regulations
+    - The safeguards of peer review help us catch deception and self-deception
+    - Decades of pro-monopoly policies have resulted in regulatory capture
+- “With an App”
+    - The most common tactic used to flout regulation is to break the law with an app and then insist that the law hasn’t been broken at all
+    - The trick is simple, but it’s performed quickly and tirelessly.
+- Reverse-Centaurs and Chickenisation
+    - In automation theory, workers are “centaurs” if they have some kind of tool that lets them do more than they could do on their own
+    - A reverse-centaur is a machine that uses a human to accomplish more than the machine could manage on its own
+    - In labour economics, chickenisation refers to a set of particularly ghastly labor practices originating in the poultry industry: a system of total control over workers through financial constraints and lock-in
+- Twiddling
+    - Twiddling is the how of enshittification: ongoing and instant changing of everything (e.g. price, ranking), based on automated surveillance data and other information
+    - (Virginia Tech science and technology scholar Lee Vinsel's) criti-hype: when critics wave around the boosters’ “picture of extraordinary change but focus instead on negative problems and risks.”
+        - Stick to the observable facts
+- The End of Self-Help
+    - More “It’s illegal to run code of your choosing on that computer” than “It’s impossible to run code of your choosing on a computer we’ve sold you”
+    - DMCA 1201 is an “anti-circumvention law,” something like a “breaking a digital lock”
+    - Parts pairing: things have their own “security chip”, triggering DMCA 1201
+    - Enshittification is when you combine the banality of evil with an internet-connected device and a federal law that criminalises doing anything with that device that the manufacturer dislikes
+    - This is why companies insist you use their app
+- The End of Labor Power
+    - After ongoing devastating layoffs, the line once held by tech workers has broken
+- Tech Rights Are Worker Rights: Para and Tuyul Apps
+    - Counter-twiddling can help, pitting algorithm against algorithm
+    - **This is the attacker’s advantage. Under enshittificatory conditions, workers are on the blue team and bosses are on the red team**
+    - Automation supercharges the ability of workers to push back against their employers
+- The Google Walkouts, Tech Solidarity, and Tech Unions
+    - **Mass firings aren’t just a way to cut costs and beef up the balance sheet: they act as a powerful disciplinary force on workers, scaring them into compliance**
+- Rent Seeking and Technofeudalism
+    - Yanis Varoufakis defines capitalism as a system designed to preference profit over rent
+        - Profit is the income left after investment in captial, paying works, and so on
+        - Rent is the income from merely owning something (often something that a capitalist needs to make a profit)
+    - The Industrial Revolution transformed feudalism into capitalism
+    - What made feudalism “feudal” was the triumph of rent over profits
+    - The defining characteristic of the capitalist era wasn't the abolition of rents, but the triumph of profits
+    - **Varoufakis’s technofeudalism thesis says that tech has transformed from a primarily profit-seeking enterprise to a primarily rent-seeking enterprise**
+        - **the majority of value is being captured by people who own stuff, at the expense of people who do stuff**
+    - Monopolies are key to an economy that runs on rents
+    - The fight between technofeudalism and technocapitalism is a fight over whether the landlord or the café owner takes the value that’s created by the barista
+    - **The fact that the law comes down on the side of the rentier over the capitalist here is a solid indicator that we’re trending toward technofeudalism**
+
+### Part Four: The Cure
+
+- We need to restore the four anti-enshittification forces: competition, regulation, interoperability, and the tech workforce
+- Neoliberalism’s oldest and cheapest trick is the argument that there is not alternative
+- Rage at the enshittification of everything is all around us
+- Monopoly is a flywheel, but anti-monopoly is a flywheel too
+- A tax haven always turns into a crime haven
+- The idea of structural separation is venerable, simple, and effective
+- **We need to shift our emphasis away from forcing the platforms to be better and toward making the platforms less powerful**
+- Good questions for a policy proposal
+    - What does it do?
+    - Will it work in the real world?
+- Two features that make a policy administrable
+    - How easy it is to spot rule-breaking
+    - How easy it is to agree a rule was broken
+    - Rare, high-stakes, occurrences can need more complicated law
+- **We need to shift from “making platforms nicer” to “making platforms less important”**
+- An end-to-end intermediary has a duty to deliver the data you asked for as reliably and quickly as possible. We can apply this rule to all kinds of services, including social media and search.
+- **Interoperability is a powerful anti-enshittification force**
+    - Interop is a fast, reliable way to fix, unbrick, improve, and adapt the technology we own
+- All the worst technologies appear first among the least socially powerful among us, and then work their way up the privilege gradient until we’ re all struggling under them
+- **Organised labour has a long history of successfully resisting fascist and cryptofascist regimes**
+    - Unions get stuff done, even in the midst of authoritarian chaos and crackdowns
+    - Disenshittification can be a union demand
 
 ## Raw notes
 
