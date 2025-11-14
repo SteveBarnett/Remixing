@@ -2,14 +2,73 @@
 layout: page
 title: "Psychopolitics: Neoliberalism and New Technologies of Power"
 added: 2025-11-08
-updated: 2025-11-12
+updated: 2025-11-15
 notes: true
 ---
 
 Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, Byung-Chul
 
-## Gathered notes
+## Whittled notes
 
+- Neoliberalism internalises power structures
+- Targets the psyche rather than the body
+- The measuring and maximising of people
+- Turning people into things
+- Under the guise of freedom
+- With a friendly, positive, face
+
+Bring it back to the embodied, difficult, painful life of being human.
+
+### Neoliberalism, Capitalism
+
+- Neoliberalism is a mutant form of capitalism that transforms workers into entrepreneurs, auto-exploiting their labour
+    - This exploitation turns aggression inwards, resulting in depression more than revolution
+    - The power structures are internalised, and called freedom
+    - It uses the psyche, emotions, as a productive force where industrialisation made the body fit mechanised processes
+- Consumer capitalism uses emotion to generate more desires and needs
+    - We consume emotions more than needs
+    - Emotions can be consumed endlessly
+
+### Freedom
+
+- Today's power presents as positive, friendly, as freedom
+    - This Can is much more efficient than a Should
+    - Quiet, nonviolent, power is higher order power
+    - It stays invisible because it's quiet and subtle
+    - The friendliness of the surveillance is what makes it so efficient
+- A life of only positives is not human
+    - We find meaning in the excessive and superfluous
+- Freedom as free selection of what's offered rather than free choice
+    - Pleasing and fulfilling rather than forbidding and depriving
+- Affect and emotion are subjective, feelings are objective
+    - Feelings have duration, narration, state
+    - Digital communication conveys affect more than feeling
+
+### Data and Digital
+
+- We have a cultural assumptions that everything that can be measured should be measured
+    - That data is objective and filters out emotion, ideology, subjectivity
+    - ‘False clarity is only another name for myth’
+- People are turned into things to be measured and maximised
+    - A person can be free, a thing cannot
+    - Weaknesses and mistakes are seen as things to eliminate to maximise performance and efficiency
+    - Self-optimisation becomes self-exploitation, echoing the self-examination and self-monitoring of Protestantism
+- ‘Quantified Self’ represents a Dadaist technology
+    - It empties the self of meaning
+    - The self gets broken down into data until no sense remains
+    - But recounting, not counting, leads to self-knowledge, self-discovery
+- Gamification adds emotion to labour
+    - But what matures over time cannot be gamified
+- The social communication of ‘Likes’, ‘Friends’ and ‘Followers’ means that social communication is being gamified
+    - Communication and control have become one
+
+---
+
+<details>
+<summary markdown="1">
+## Gathered notes
+</summary>
+<div markdown="1">
 - The freedom of Can generates even more coercion than the disciplinarian Should
 - It is inefficient to exploit people against their will. Only when freedom is exploited are returns maximized.
 - As a mutant form of capitalism, neoliberalism transforms workers into entrepreneurs. Today, everyone is an auto-exploiting labourer in his or her own enterprise.
@@ -52,6 +111,8 @@ Notes from Psychopolitics: Neoliberalism and New Technologies of Power by Han, B
 - ‘Quantified Self’ represents a Dadaist technology too; it empties the self of any and all meaning. The self gets broken down into data until no sense remains.
 - Numbers do not recount anything about the self. Counting is not recounting. A sense of self derives from giving an account. It is not counting, but recounting that leads to self-discovery or self-knowledge.
 - In contrast to Big Brother, who could be quite forgetful, Big Data never forgets anything at all. For this reason alone, the digital panopticon is much more efficient than Bentham’s.
+</div>
+</details>
 
 <details>
 <summary markdown="1">
