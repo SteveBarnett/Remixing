@@ -39,7 +39,7 @@ Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do A
         - All kinds of companies make use of standards, like Wi-Fi, Bluetooth, USB
         - Adversarial interoperability is the key to self-help
     - tech workers
-        - for most of modern history, demand has fara exceed supply for tech workers
+        - for most of modern history, demand has far exceed supply for tech workers
         - (librarian-theorist Fobazi Ettarh's) vocational awe: the weaponisation of, holding hostage by, workers’ sense of duty, especially to the public those workers serve
 
 ### Part Three: The Epidemiology
@@ -49,8 +49,8 @@ Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do A
     - Monopolies thriving from antitrust enforcers ignoring them
     - Less "If you’re not paying for the product, you’re the product" and more “Even if you pay for the product, you’re the product if the company can get away with treating you as the product.”
     - Tech companies are wildly reckless about not considering potential abuses of things they add
-    - Once a company can enshittify, it faces ongoing perennial temptation and pressue to enshittify
-    - One of the most beloved enshittification tactics: bait and switch, e.g. changing Ts&Cs, often firstby migrating to the cloud
+    - Once a company can enshittify, it faces ongoing perennial temptation and pressure to enshittify
+    - One of the most beloved enshittification tactics: bait and switch, e.g. changing Ts&Cs, often first by migrating to the cloud
     - “We will show you your competitors’ sensitive data” has an obvious corollary of “We will show your sensitive data to your competitors”
 - The Death of Competition Kills Regulation, Too
     - This kind of adversarial process—something between a court case and scientific peer review—has a good track record of producing high-quality regulations
