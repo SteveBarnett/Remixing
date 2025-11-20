@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-11-11
+updated: 2025-11-21
 permalink: /thinking/japan/
 ---
 
@@ -30,7 +30,15 @@ For three weeks.
     - Holidays in NZ: Good Friday Fri 3rd April, Easter Monday Mon 6th April, Day off for ANZAC Mon 27th April
     - ~~Aim for **Mon 30 Mar to Sun 19 Apr** Includes two NZ public holidays.~~
         - Kyoto: high 16°C, low 7°C; Osaka 20 and 11.
-    - 🤦 Also includes cherry blossom season
+        - 🤦 Also includes cherry blossom season
+
+#### When, revisited
+
+- Mid May? Warm, but not summery yet
+- Early March? Bit colder, but still okay
+- October? Autumn, still pretty warm
+- November? (in?)Auspicious time of year for me...
+- Kyoto busy during peak Autumn-foliage season (Mid-November to early December)
 
 ### How (much)
 
