@@ -2,11 +2,11 @@
 layout: page
 title: The Innovation Delusion
 added: 2025-11-17
-updated: 2025-11-17
+updated: 2025-11-22
 notes: true
 ---
 
-Notes from [The Innovation Delusion by ](https://leevinsel.com/the-innovation-delusion)
+Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https://leevinsel.com/the-innovation-delusion)
 
 ## Raw notes
 
@@ -110,6 +110,39 @@ Notes from [The Innovation Delusion by ](https://leevinsel.com/the-innovation-de
 - One of the most remarkable things about our society is how relatively few of our broken possesions most of us will repair.
 - Small businesses, individual consumers, and environmental sustainability are all negatively impacted by repair restrictions.
 - Right-to-repair advocates also highlight environmental sustainability and the value of community as important causes.
+
+### Chapter 8: The Maintenance Mindset
+
+- It starts with an awareness of the importance of maintenance, a commitment to keeping things in good working order, and attention to the investment of time, energy, and resources required.
+- What is good and worth preserving?
+- How can I maintain that goodness? How can I preserve and extend that which is valuable?
+- Principles
+    - Maintenance sustains success
+    - Maintenance depends on culture and management
+    - Maintenance requires constant care
+- Because they are sensitive to the importance of these questions, maintenance and reliability professionsl spend a lot of time documenting return on investment.
+- ... home-ownership is the most effective metaphor to get this point across.
+- The most common threads among them are that the single most important enablers of these returns are attention and commitment.
+- Although crashes and bugs are the stuff of everyday experience, it's worth pointing out that some elements of our digital experience are so reliable, and so well maintained, that we hardly notice the effort that goes into their persistence.
+- The difficult work comes in changing human behaviour. We're a stubborn lot, even when better approaches are staring us in the face.
+- ... for-profit companies have adopted the "triple bottom line" that measures progress in terms of social equity and sustainable environmental practices, alongside the more familiar "bottom line" of financial profit.
+- The Innovation Delusion is the false belief that the pursuit of innovation and novelty will lead us into the promised land of growth and profit when, in reality, it will lead us to ignore the ever-accumulating pile of deferred maintenance and infrastructural debt – and in the process, lead individuals toward burnout and our society to accelerating levels of exploitation and inequality.
+- ... requires awareness that maintenance is an investment, not a cost, and should be recognised and supported accordingly.
+
+### Chapter 9: Fix It First
+
+- Oftentimes, we simply lack knowledge and measurements of the conditions of our infrastructural systems, which systems need attention first, how much their repair or replacement will cost, and so on.
+- The typical picture we discover is frankly depressing, but ... success is attainable and the future is not without hope.
+- A big reason the true cost of infrastructure and the maintenance thereof is not visible is a trick of accounting. Municipalities are often not required to count infrastructure as liabilities, even though they are on the hook for taking care of them in perpetuity.
+- ... this shift would be painful, but it would provide a more realistic picture of where we are and would allow us to grapple with reality, even if only on a triage basis.
+- No solution is perfect and every decision, including the decision not to act, has costs
+- ... these on-the-ground initiatives often involve making existing systems work better
+- Focusing on efficiency rather than glitz has the greatest impact
+- Measures of how infrastructure is performing and what work it will need would enable advocates, opposing politicians, and ordinary citizens to hold officials' feet to the fire. Inversely, the measures would allow to reward officials who are seeking the right solutions.
+- For the cultural sea change to success, we will all need to spend less time talking about impersonal "infrastructure" and more time talking about how these systems benefit and harm human life.
+
+
+
 
 
 
