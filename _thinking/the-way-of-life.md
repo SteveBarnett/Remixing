@@ -2,11 +2,21 @@
 layout: page
 title: The Way of Life - Lao Tzu
 added: 2025-11-19
-updated: 2025-11-19
+updated: 2025-11-22
 notes: true
 ---
 
 Notes from R. B. Blakney's translation of the Tao Te Ching.
+
+## Some key bits
+
+- Reality is One: an all-embracing unity from which nothing can be separated
+- The basic traits of those who travel by the Way: humility, non-action, non-assertion, forgiveness, and benevolence to all
+- The Way is only disclosed to those who can be rid of personal wishes or prejudices about it
+- The highest goodness, water-like; Does good to everything and goes; Unmurmuring to places men despise
+- Avoid temptations to stand "on tiptoe": ambitiousness, boasting, and pride
+- Choose hard things before they choose you
+- Three treasures: compassion, frugality, humility
 
 ## Raw notes
 
