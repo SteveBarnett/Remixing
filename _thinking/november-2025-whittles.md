@@ -6,9 +6,21 @@ updated: 2025-11-22
 longerform: true
 ---
 
-Reality is one, complex, flow
+- Turn to the wider picture
+- Find the poles, and the buzz between them
+- Check what's being left out by our models
+- Ask lots of questions, keep Negative Capability
+- Be able to argue both sides of the argument
+- Offer good alternatives, time-tested and trusted
+- Avoid known bads instead of looking unknown goods
+- Reduce the risk, take smaller risks
 
-One
+---
+
+
+**Reality is one, complex, flow.**
+
+## One
 
 - What are the relations, the relata?
 - What are the layers?
@@ -16,7 +28,7 @@ One
 - **Look for the poles, and the energy created between them**
 - **The whole universe is One Bright Pearl**
 
-Complex
+## Complex
 
 - **Our models simplify reality, reduce and remove**
 - **Negative Capability: remain in doubt and uncertainty**
@@ -29,7 +41,7 @@ Complex
 - **You need to be able to argue both sides of the argument**
 - Test the theory with practice, against lived experience
 
-Flow
+## Flow
 
 - Process, not product
 - Motion, not static
@@ -38,13 +50,13 @@ Flow
 - Watch for the changes
 - Everything is a process
 
-Three stances
+## Three stances
 
 - Look around: apply psychological and logical understanding
 - Look closer: feel my way through the ups and downs of being an embodied human being
 - Look wider: connect to a deeper sense of self, to emptiness
 
-Antifragile
+## Antifragile
 
 - Stick to simple rules
 - **Respect old habits and rules**
