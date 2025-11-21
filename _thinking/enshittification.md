@@ -8,6 +8,32 @@ notes: true
 
 Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do About It by Doctorow, Cory](https://craphound.com/category/enshittification/)
 
+<h2>Whittled notes</h2>
+
+- Enshittification of platforms / middlemen
+    1. Good to their users
+    2. Good to their business customers, back to their users
+    3. Good to themselves, bad to their business customers, to take value for themselves
+    4. Giant pile of shit
+- They benefits from high network effects and high switching costs
+- Companies enshittify when they can (get away with it)
+    - They face ongoing temptation and pressure to enshittify
+- Forces that act on every company in every industry: competition (markets) and regulation (governments)
+- (Librarian-theorist Fobazi Ettarh’s) vocational awe: the weaponisation of, holding hostage by, workers’ sense of duty, especially to the public those workers serve
+- The End of Competition, The Death of Regulation, The End of Self-Help, The End of Labor Power, Rent Seeking and Technofeudalism
+- Common tactic used to flout regulation is to break the law with an app and then insist that the law hasn’t been broken at all
+    - The trick is simple, but it’s performed quickly and tirelessly
+- Reverse-Centaurs (a machine that uses a human to accomplish more than the machine could manage on its own) and Chickenisation (a system of total control over workers through financial constraints and lock-in)
+- Twiddling: ongoing and instant changing of things like price and ranking, based on automated surveillance data and other information
+- Mass firings cut costs, beef up the balance sheet, and act as a powerful, scaring, disciplinary force on workers
+- Varoufakis’s technofeudalism thesis says that tech has transformed from a primarily profit-seeking enterprise to a primarily rent-seeking enterprise: the majority of value is being captured by people who own stuff, at the expense of people who do stuff
+- We need to restore the four anti-enshittification forces: competition, regulation, interoperability, and the tech workforce
+    - Interoperability is a powerful anti-enshittification force
+    - Organised labour has a long history of successfully resisting fascist and cryptofascist regimes 
+- We need to shift our emphasis away from forcing the platforms to be better and toward making the platforms less powerful
+
+---
+
 * tic
 {:toc}
 
@@ -23,7 +49,7 @@ Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do A
     2. Good to their business customers, back to their users
     3. Good to themselves, bad to their business customers, to take value for themselves
     4. Giant pile of shit
-- They benefits from high network effects (more valuable as it attracts more users) and rely on high switching costs
+- They benefit from high network effects (more valuable as it attracts more users) and rely on high switching costs
     - The walled garden is a system that works well, but fails badly
 - Companies don’t treat you well because they’re “good” capitalists, and they don’t abuse you because they’re “bad” capitalists. Companies abuse you if they can get away with it. That’s the crux of enshittification.
 
