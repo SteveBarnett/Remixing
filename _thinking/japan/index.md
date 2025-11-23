@@ -3,7 +3,7 @@ layout: page
 title: "Japan"
 japan: true
 added: 2025-07-23
-updated: 2025-11-21
+updated: 2025-11-22
 permalink: /thinking/japan/
 ---
 
@@ -34,11 +34,15 @@ For three weeks.
 
 #### When, revisited
 
+First two weeks of March, or first two weeks of October
+
 - Mid May? Warm, but not summery yet
 - Early March? Bit colder, but still okay
 - October? Autumn, still pretty warm
 - November? (in?)Auspicious time of year for me...
 - Kyoto busy during peak Autumn-foliage season (Mid-November to early December)
+- Most humid: January, July and October
+- I don't mind a bit colder
 
 ### How (much)
 
