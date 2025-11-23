@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Japan"
+title: "My Japan plan"
 japan: true
 added: 2025-07-23
 updated: 2025-11-22
-permalink: /thinking/japan/
 ---
 
 ## I Love It When a Plan Comes Together

@@ -1,0 +1,12 @@
+{%- assign sectionpages = site.pages | where: "japan", "true" | sort: "updated" | reverse -%}
+
+<{%- if include.ordered -%}ol reversed{%- else -%}ul{%- endif -%}>
+{%- for sectionpage in sectionpages -%}
+
+<li {% unless include.ordered %}data-month="{{ sectionpage.updated | date: "%m" }}"{% endunless %}>
+  {% if sectionpage.done == true %}✔ {% endif %}{% if sectionpage.star == true %}★ {% endif %}<a href="{{ sectionpage.url }}">{{ sectionpage.title }}</a> (added {{ sectionpage.added }}{% if sectionpage.updated !=  sectionpage.added %}, updated {{ sectionpage.updated }}{% endif %})
+  }
+</li>
+
+{%- endfor -%}
+</{%- if include.ordered -%}ol{%- else -%}ul{%- endif -%}>
