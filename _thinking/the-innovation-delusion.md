@@ -2,7 +2,7 @@
 layout: page
 title: The Innovation Delusion
 added: 2025-11-17
-updated: 2025-11-22
+updated: 2025-11-25
 notes: true
 ---
 
@@ -141,12 +141,34 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
 - Measures of how infrastructure is performing and what work it will need would enable advocates, opposing politicians, and ordinary citizens to hold officials' feet to the fire. Inversely, the measures would allow to reward officials who are seeking the right solutions.
 - For the cultural sea change to success, we will all need to spend less time talking about impersonal "infrastructure" and more time talking about how these systems benefit and harm human life.
 
+### Chapter 10: Supporting the Work That Matters Most
 
+- What would the world be like if this status inversion were more widespread? What if everyone treated maintainers and care workers ... with deference and respect?
+- One consistent theme in all our conversations with maintainers, policy makers, managers, and executives is the need for better information for making decisions.
+- We lack Big Data, such as the national or industry-level figures, for the economic values that maintenance generates; and we lack "small," qualitative data about how maintainers view and confront the challenges they face.
+- While universities and policy makers continue to supply steady streams of revenue toward programs in innovation and entrepreneurship, there's ample evidence to suggest that society needs other skills – including emotional intelligence – much more urgently.
+- Early in the Cold War, air force leaders believed that automation would reduce the possibility of human error, and thus reduce the need for human workers. ... It's a good reminder that fantasies of automation are not unique to the early decades of the twenty-first century.
+- ... more support, more recognition, more opportunities to defy the caste-like condescension that they unjustly endure.
+- These needs – to be nurtured, protected, and supported – too easily get trampled in societies obsessed with efficiency and profitability.
+- ... a pair of themes that frequently arise when we speak to maintainers: burnout and joy. They work so hard that they have nothing left to give, yet their work brings them joy.
+- The key to accomplishing this, white staying sane, is to develop self-awareness and practice self-care.
+- ... cultivating more connections on a more intimate and spiritual level.
+- Employers need to stop trying to grind every last bit of productivity out of workers; and workers, in turn, need to do more to look out for one another.
 
+### Chapter 11: Caring for Our Homes, Our Stuff, and One Another
 
+- ... the right-to-repair movement highlights how changing these rules opens up new space for local businesses as much as it allows individuals to repair things themselves.
+- Take maintenance into consideration when you purchase objects.
+- We must ... grapple with the realities we've been ignoring, and play systematically to take better care. but first we need to think through our ideals and the ends we are trying to achieve.
+- One of the biggest barriers to creating healthy maintenance and care practices at home is that we've been encouraged to adopt unhealthy ideals of efficiency, optimisation, and, ultimately, perfection in our private lives.
+- One of [Ruth Schwartz] Cowan's core findings [in More Work for Mother] was that supposed labour-saving technologies for the home – like washing machines and vacuums – ironically created more work for mother because cleanliness standards rose with the ability to keep things cleaner.
+- In lots of cases, we don't to get fancy; we can just start with the basics.
+- We can always improve things, but we have to begin by embracing our actualy lived reality, including much of its inherent crappines. Anything else is a recipe for stress and insanity.
+- ... getting better a t maintenance and care must begin by facing up to our propensity to put them off.
+- Redesign your plans; ask if they are realistic; make them simpler.
+- Many improvements to maintenance and repair can only be achieved collectively. Federal law and policy will be helpful, and in some cases necessary, but most of these refinements need to be addressed at the state and local level, specifically the latter.
 
+### Epilogue: From Conversation to Action
 
-
-
-
-
+- Conversation is important – and we see great potential for more product conversations about maintenance – but conversation alone is insufficient.
+- ... economic and other forms of inequality have increased during the most intensive period of innovation-speak, from the 1970s to the present.
