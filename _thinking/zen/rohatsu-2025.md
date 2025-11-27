@@ -2,7 +2,7 @@
 layout: page
 title: Rōhatsu 2025
 added: 2025-09-26
-updated: 2025-09-26
+updated: 2025-11-27
 zen: true
 ---
 
@@ -12,16 +12,32 @@ Zazen, shikantaza, [just sitting](/thinking/zen/the-just-in-just-sitting/).
 
 ## My plan
 
-- Monday 1st to Friday 5th. Work days, Friday Team Day.
-    - Morning: 30m sit, unguided or The Way with Henry Shukman.
+- Monday 1st to Thursday 4th. Work days.
+    - Morning: 30m sit, The Way with Henry Shukman.
     - Daytime: Tiny sits, John Astin on Waking Up.
-    - Lunchtime: 30m sit, unguided or Daily Meditation on Waking up.
-    - Evening
-        - 30m sit, unguided or Adyashanti on Waking Up.
+    - Lunchtime: 30m sit, from playlist.
+    - Evening, every free day
+        - 30m sit
         - 1h or so study
-- Saturday 6th. Home retreat.
+- Friday 5th. Work day, away retreat.
+    - Evening
+        - 30m sit
+        - 1h or so study
+- Saturday 6th. Away retreat.
     - 30m sit, 20m walk, 30m sit, break
     - 30m morning break, 1 hour lunch break and study, 30m afternoon break, 30 later afternoon break and study
-- Sunday 7th. Home retreat.
+- Sunday 7th. Away retreat, tiny home retreat.
     - 30m sit, 20m walk, 30m sit, break
-    - 30m morning break, 1 hour lunch break and study, 30m afternoon break, 30 later afternoon break and study
+    - Drive home
+    - 30m sit, 20m walk, 30m sit, break
+    - Close: short write-up
+- Monday 8th.
+    - Short follow-up write-up
+
+## To do
+
+- [ ] Prepare playlists
+    - [ ] John Astin
+    - [ ] 30m sits
+        - Adyashanti?
+        - Metta?
