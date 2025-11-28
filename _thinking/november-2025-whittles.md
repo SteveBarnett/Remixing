@@ -2,9 +2,17 @@
 layout: page
 title: November 2025 whittles
 added: 2025-11-22
-updated: 2025-11-22
+updated: 2025-11-29
 longerform: true
 ---
+
+## Extra whittled
+
+- Look at the wider picture and see what we're missing
+- Keep Negative Capability and be able to argue both sides of the argument
+- Focus on the know problems, and offer good alternatives, time-tested and trusted
+
+## Whittled
 
 - Turn to the wider picture
 - Find the poles, and the buzz between them
@@ -16,7 +24,6 @@ longerform: true
 - Reduce the risk, take smaller risks
 
 ---
-
 
 **Reality is one, complex, flow.**
 
