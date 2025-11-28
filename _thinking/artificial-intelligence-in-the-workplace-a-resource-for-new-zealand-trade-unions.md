@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes from "Artificial Intelligence in the Workplace: A Resource for New Zealand Trade Unions - NZCTU"
+title: 'Notes from "Artificial Intelligence in the Workplace: A Resource for New Zealand Trade Unions - NZCTU"'
 notes: true
 added: 2025-11-25
 updated: 2025-11-25
