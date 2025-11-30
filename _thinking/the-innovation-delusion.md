@@ -2,11 +2,52 @@
 layout: page
 title: The Innovation Delusion
 added: 2025-11-17
-updated: 2025-11-25
+updated: 2025-11-29
 notes: true
 ---
 
-Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https://leevinsel.com/the-innovation-delusion)
+Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https://leevinsel.com/the-innovation-delusion).
+
+## Gathered notes
+
+- “Move fast and break things” can work in digital because fixing stuff is cheap (compared to physical)
+- When digital-age companies encounter (old) physical problems they consistently flounder
+- **Innovation-speak is often cast as optimism and opportunity and creativity, but it's actually playing on FOMO.**
+- Innovation often functions as a proxy for values perceived to be lacking in society, such as proposing techno-solutions to profound social problems
+- At its most extreme, innovation-speak devalues the work of most humans
+- Humanity has not always cherished innovation, or even progress
+- **Some of the biggest social advancements of the last two hundred years – such as the abolition of slavery or the expansion of voting rights to women and minorities – had little to do with technological change**
+- **Creating illusory crises is a common habit among innovation-speakers**
+- **Who should be trusted as an “expert”? … people who have demonstrated efficacy**
+- **Wittgenstein’s “the craving for generality” – we often hanker for universalities in cases where the complex world evades such easy summary**
+- Ordinary technologies are widespread in our everyday life
+- Much of human history is stories of stability
+- **Ursula K. Le Guin: “Technology is how a society copes with physical reality”**
+- A piece of technology passes through three basic phases: innovation, maintenance, decay
+- Mierle Laderman Ukele, Carol Gilligan, Nel Noddings, Virginia Held: care is fundamental for all societies; it is frequently feminised; it is usually undervalued and underpaid; it appears in all social settings
+- **When things go wrong, the first place we should look is to see if the relations of care are healthy**
+- **While the new technologies spared women from the more physically demanding side of tasks – like the more gruelling aspects of laundry – they led to higher standards of cleanliness and women doing more housework, work that was by definition never finished,**
+- Two important concepts emerged early in the twentieth century: deferred maintenance and preventative maintenance.
+- The historian Scott Knowles has created a helpful term for describing these situations: slow disaster. Fast disasters, or what we normally call disasters, include hurricanes, flooding, tornadoes, earthquakes, industrial accidents. A slow disaster, by contrast, is the accretion of harm from incremental neglect.
+- See things like Taleb: **avoid overplanning and choose simple but resilient solutions**
+- “Disruption” can cause pain and damage in people’s lives without delivering the promised results
+- **Leaders should not lose sight of the fundamental importance of maintenance, reliability, and the hard work it takes to keep things running smoothly and safely**
+- **Neglecting maintenance often brings disproportionate harm to people already grappling with social and economic disadvantages**
+- The gospel of growth is a part of economic orthodoxy, deeply ingrained in all varieties of industrial capitalism
+- **The growth delusion persists because humans instinctively revert to short-term thinking and respond to simple, short-term incentives**
+- **If the goal of innovative companies is to constantly increase profit, then anything and everything is fair game for being put in service of that cause – even values like efficiency and sustainability**
+- Most innovations are incremental and come from individuals who are subject matter experts and who apply themselves to improving the domain they know so well
+- Being a maintainer comes with real social and economic costs: a lack of recognition and a lack of compensation
+- **What is good and worth preserving?**
+    - How can I maintain that goodness? How can I preserve and extend that which is valuable?
+- Maintenance and reliability professional spend a lot of time documenting return on investment
+- **The Innovation Delusion is the false belief that the pursuit of innovation and novelty will lead us into the promised land of growth and profit when, in reality, it will lead us to ignore the ever-accumulating pile of deferred maintenance and infrastructural debt – and in the process, lead individuals toward burnout and our society to accelerating levels of exploitation and inequality.**
+- **Maintenance is an investment, not a cost, and should be recognised and supported accordingly**
+- **A big reason the true cost of infrastructure and the maintenance thereof is not visible is a trick of accounting. Municipalities are often not required to count infrastructure as liabilities, even though they are on the hook for taking care of them in perpetuity.**
+- Focusing on efficiency rather than glitz has the greatest impact
+- **Spend more time talking about how these systems benefit and harm human life**
+- **These needs – to be nurtured, protected, and supported – too easily get trampled in societies obsessed with efficiency and profitability**
+- **One of [Ruth Schwartz] Cowan’s core findings [in More Work for Mother] was that supposed labour-saving technologies for the home – like washing machines and vacuums – ironically created more work for mother because cleanliness standards rose with the ability to keep things cleaner.**
 
 ## Raw notes
 
@@ -71,7 +112,7 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
 - If governments, organisations, and individuals build and buy systems without providing for their future care, we end up facing a stress-inducing mountain of deferred maintenance and infrastructural debt.
 - ... this neglect levels disproportionate costs on populations that have already borne the brunt of systemic patterns of social and economic inequality.
 - Our infrastructural choices are marked by a kind of naive, even dangerous, optimism that the people of tomorrow will somehow be able to pay for structures we build today.
-- ... these domains struggle with maintenance mainly because they obsess over growth and short-tern gains instead of taking care of what they have.
+- ... these domains struggle with maintenance mainly because they obsess over growth and short-term gains instead of taking care of what they have.
 
 ### Chapter 5: Growth at All Costs
 
@@ -120,7 +161,7 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
     - Maintenance sustains success
     - Maintenance depends on culture and management
     - Maintenance requires constant care
-- Because they are sensitive to the importance of these questions, maintenance and reliability professionsl spend a lot of time documenting return on investment.
+- Because they are sensitive to the importance of these questions, maintenance and reliability professional spend a lot of time documenting return on investment.
 - ... home-ownership is the most effective metaphor to get this point across.
 - The most common threads among them are that the single most important enablers of these returns are attention and commitment.
 - Although crashes and bugs are the stuff of everyday experience, it's worth pointing out that some elements of our digital experience are so reliable, and so well maintained, that we hardly notice the effort that goes into their persistence.
@@ -163,8 +204,8 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
 - One of the biggest barriers to creating healthy maintenance and care practices at home is that we've been encouraged to adopt unhealthy ideals of efficiency, optimisation, and, ultimately, perfection in our private lives.
 - One of [Ruth Schwartz] Cowan's core findings [in More Work for Mother] was that supposed labour-saving technologies for the home – like washing machines and vacuums – ironically created more work for mother because cleanliness standards rose with the ability to keep things cleaner.
 - In lots of cases, we don't to get fancy; we can just start with the basics.
-- We can always improve things, but we have to begin by embracing our actualy lived reality, including much of its inherent crappines. Anything else is a recipe for stress and insanity.
-- ... getting better a t maintenance and care must begin by facing up to our propensity to put them off.
+- We can always improve things, but we have to begin by embracing our actual lived reality, including much of its inherent crappines. Anything else is a recipe for stress and insanity.
+- ... getting better at maintenance and care must begin by facing up to our propensity to put them off.
 - Redesign your plans; ask if they are realistic; make them simpler.
 - Many improvements to maintenance and repair can only be achieved collectively. Federal law and policy will be helpful, and in some cases necessary, but most of these refinements need to be addressed at the state and local level, specifically the latter.
 
