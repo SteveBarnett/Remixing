@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2025-11-22
+updated: 2025-12-02
 ---
 
 ## I Love It When a Plan Comes Together
@@ -42,6 +42,14 @@ First two weeks of March, or first two weeks of October
 - Kyoto busy during peak Autumn-foliage season (Mid-November to early December)
 - Most humid: January, July and October
 - I don't mind a bit colder
+
+Autumnal?
+
+- Aki, September–November, milder days
+- Late October, in some places, leaves start to change
+- Osaka - Sep 29°C, Oct 23°C, Nov 13°C
+- mid-September heat breaks. October warm or cool but usually sunny. November clear skies, cool temperature.
+- October November autumn foliage season; mid-November to early December in Kyoto.
 
 ### How (much)
 
