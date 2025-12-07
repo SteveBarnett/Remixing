@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-10-26
+updated: 2025-12-06
 longerform: true
 ---
 
@@ -10,6 +10,13 @@ longerform: true
 {:toc}
 
 ## Notes to self
+
+### Questions
+
+- Do I have anything interesting to say about this?
+- Do I have anything new or original to add?
+- Do I even identify as a Secular Buddhist, and therefore it's appropriate for me to contribute?
+- Am I too practical and not academic enough?
 
 ### TODO
 
@@ -292,4 +299,6 @@ For about five years I helped out with two extra-curricular activities meetup gr
 ### Mindfulness
 
 
+
+## Recommended Reading
 
