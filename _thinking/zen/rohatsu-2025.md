@@ -2,7 +2,7 @@
 layout: page
 title: Rōhatsu 2025
 added: 2025-09-26
-updated: 2025-11-27
+updated: 2025-12-07
 zen: true
 ---
 
@@ -34,10 +34,9 @@ Zazen, shikantaza, [just sitting](/thinking/zen/the-just-in-just-sitting/).
 - Monday 8th.
     - Short follow-up write-up
 
-## To do
+## Review
 
-- [ ] Prepare playlists
-    - [ ] John Astin
-    - [ ] 30m sits
-        - Adyashanti?
-        - Metta?
+- Venue choice wasn't ideal: not as secluded as I thought, no comfy spots for sitting inside or outside
+- Very active mind: lots of idea generation, linking of things, something like [Lively tension](/thinking/lively-tension/), the space being filled with energetic buzzing
+    - It was like sitting created some empty space, and many thoughts rushed in to fill the space
+- Actual sits went well: lots of them, felt easy to go and go and go
