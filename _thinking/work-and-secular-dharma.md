@@ -2,7 +2,7 @@
 layout: page
 title: "Work and secular dharma: on having more good days 'at the office'"
 added: 2025-09-15
-updated: 2025-12-06
+updated: 2025-12-10
 longerform: true
 ---
 
@@ -15,7 +15,7 @@ longerform: true
 
 - Do I have anything interesting to say about this?
 - Do I have anything new or original to add?
-- Do I even identify as a Secular Buddhist, and therefore it's appropriate for me to contribute?
+- Do I even identify as a Secular Buddhist, and therefore is it appropriate for me to contribute to the series?
 - Am I too practical and not academic enough?
 
 ### TODO
