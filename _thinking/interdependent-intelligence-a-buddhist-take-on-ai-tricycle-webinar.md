@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interdependent Intelligence: A Buddhist Take on AI - Tricycle webinar"
-notes: true
+ai: true
 added: 2025-10-16
 updated: 2025-10-16
 ---

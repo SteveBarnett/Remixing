@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Notes from GenAI is Our Polyester"
-notes: true
+ai: true
 added: 2025-10-26
 updated: 2025-10-26
 ---

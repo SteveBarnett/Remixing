@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thoughts on AI - October 2025"
-notes: true
+ai: true
 added: 2025-10-18
 updated: 2025-10-29
 ---

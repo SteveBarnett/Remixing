@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Against the protection of stocking frames. — Ethan Marcotte"
-notes: true
+ai: true
 added: 2025-10-24
 updated: 2025-10-24
 ---

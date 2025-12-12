@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Majority AI View - Anil Dash"
-notes: true
+ai: true
 added: 2025-10-24
 updated: 2025-10-24
 ---

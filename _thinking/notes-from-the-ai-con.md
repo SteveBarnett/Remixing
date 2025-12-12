@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The AI Con"
-notes: true
+ai: true
 added: 2025-10-16
 updated: 2025-10-20
 ---
