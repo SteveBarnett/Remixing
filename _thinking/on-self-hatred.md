@@ -3,10 +3,24 @@ layout: page
 title: 'On Self-Hatred: Learning to like oneself'
 notes: true
 added: 2025-12-01
-updated: 2025-12-07
+updated: 2025-12-12
 ---
 
-Notes from "On Self-Hatred: Learning to like oneself" by TSOL.
+Notes from ["On Self-Hatred: Learning to like oneself" by TSOL](https://www.goodreads.com/en/book/show/61953499-on-self-hatred).
+
+## Whittled whittled notes
+
+- Self-hatred comes from "should"s
+- The cure is self-acceptance
+    - A realistic sense of our strengths and weaknesses, with grace and humour
+- What varies is how tolerant people can be of their own incompetence
+    - Perfectionism, feeling never good enough
+    - The sense that our mistakes were somehow avoidable
+- Refuse the delusion and meanness of self-hatred
+
+Don't forget to apply [The Three Uhds](/thinking/the-three-uhds/): let go of the shoulds; let go of the coulds; move forwards.
+
+Possibly also see (the IFS-informed, incomplete page) [The Comedian](/thinking/the-comedian/).
 
 ## Whittled notes
 
