@@ -1,13 +1,45 @@
 ---
 layout: page
 title: 'It Came from Beyond Zen'
-zen: true
+zennotes: true
 added: 2025-12-07
-updated: 2025-12-12
+updated: 2025-12-18
 ---
 
-## Gathered notes
+## Whittled notes
 
+### Concepts
+
+- Our explanations are always provisional. This isn’t a problem unless we start to confuse the explanation with the reality it’s trying to explain.
+- In reality we are neither separate from the universe nor at one with it. What we really are transcends those distinctions.
+- All our concepts are just maps to help us navigate our way through our day-to-day existence.
+- No explanation of the way things work is ever truly adequate. Therefore, one way to think of it is to consider everything as a manifestation of emptiness, or silence, or nothing.
+- Balance was one of Nishijima Roshi’s favorite metaphors for what other people call “enlightenment” or “awakening”.
+
+### Preferences
+
+- Famous Buddhist poem called “Shin Jin Mei” (Faith Mind Inscription), which goes, “The Great Way is not difficult, just avoid like and dislike.” Sometimes it’s translated as “just avoid preferences” or “just avoid picking and choosing” or even “just avoid love and hate.”
+- **Your like or dislike isn’t going to change a bad situation. It’s what you do that matters. So being able to put aside your preferences and act is much more useful than worrying about what you like or don’t like.**
+- Sometimes preferences can be a guide. Usually, though, they're not of much use. We don’t try to eliminate them, but it can be beneficial to set them aside and get down to business.
+
+### Zazen
+
+- **There’s a difference between your mind’s natural tendency to wander and getting lost in the wanderings of your mind.**
+- Dogen denounces trying to attain a state of tranquillity and peace of mind.
+- You’re not trying to make something happen. You’re trying your best to stay with what actually is happening.
+
+### Everyday life
+
+- Even the most mundane and boring things can be a means to enter into the Buddhist Way.
+- Magnanimous mind is a mind like a mountain or like the sea. It’s stable and impartial. It tolerates anything and everything and keeps a broad perspective.
+- The fact that you’re a little more stable because of your practice is something you give to the world.
+
+
+<details>
+<summary markdown="1">
+## Gathered notes
+</summary>
+<div markdown="1">
 - Dogen gives us a way to be okay with uncertainty.
 He’s often using language itself to show the limitations of language.
 - Dogen understood both that words always ultimately fail to describe reality and that we human beings must rely on words anyway.
@@ -47,6 +79,8 @@ getting that ass-backward.
 - A lot of Mahayana Buddhists take this approach to the late-period sutras. They know these sutras are historically suspect, but they accept what they say based on the merit of the words themselves and not who said them.
 - We can’t objectively observe this moment because we are completely embedded within this moment and fused to everything that exists.
 - Balance was one of Nishijima Roshi’s favorite metaphors for what other people call “enlightenment” or “awakening”.
+</div>
+</details>
 
 <details>
 <summary markdown="1">

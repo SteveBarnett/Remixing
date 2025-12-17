@@ -2,11 +2,51 @@
 layout: page
 title: "Don't Be a Jerk notes"
 added: 2025-09-01
-updated: 2025-09-19
+updated: 2025-12-18
 zennotes: true
 ---
 
+## Whittled notes
+
+### Practice
+
+- The truth is everywhere, but we have to practice to experience it
+- “kensho” is the momentary recognition of our actual state from “before our parents were born”
+- Zen is a communal practice of individual deep inquiry
+    - When doing zazen together, we discover that what's truly important is shared with everyone and everything we encounter
+- In the quietness, with nothing to do, there is only direct experience
+
+### Zazen
+
+- Zazen is a physical practice as much as it a mental one
+    - Our usual state is the state we should pay the most attention to
+    - Try to avoid the deliberate habitual manipulation of thoughts and images we usually engage in
+    - Try to sit quietly within our delusion until we can see it clearly for what it is
+- Have an in-person teacher: see it in action in the form of an actual human being who lives it
+- Rituals can help us feel connected to other people
+
+### Unity
+
+- The separation we believe exists between mind and body is an illusion
+- It’s not that there is a subject who experiences an object: subject and object arise together
+- Our individual identity and the identity of the universe itself are not two separate things
+- Much of life is unknowable
+    - We look at the mind with the mind itself, so we can never be completely objective
+- "Emptiness" means every thing we encounter goes beyond our ability to conceive of it
+
+### Action
+
+- Try to respond clearly and not out of our accumulated habits and messy emotions
+    - We can and do fall back into old patterns, even while knowing it’s a mistake to do so
+    - Most of the time we don’t really know why we did what we did
+    - We invent a story, then believe it
+- In real action we transcend any notion of an idealized state
+
+<details>
+<summary markdown="1">
 ## Gathered notes
+</summary>
+<div markdown="1">
 
 - Dōgen adopted four points of view when talking about any given topic
     1. idealism/subjectivism
@@ -54,8 +94,14 @@ zennotes: true
 - An intellectual understanding alone is incomplete. It has to be balanced by understanding in action.
 - **Zen is a communal practice of individual deep inquiry.**
 - **An interesting thing happens when we do this together. You discover that what is truly important is shared with everyone and everything you encounter.**
+</div>
+</details>
 
+<details>
+<summary markdown="1">
 ## Raw notes
+</summary>
+<div markdown="1">
 
 - Buddhism is basically an oral tradition, not a religion based on a book. The meaning behind the words is far more important than the specific words used to convey that meaning. The way human beings tend to misremember what they’ve heard is actually part of the Zen tradition.
 - As weird as some of its passages are, it never seems like the ravings of a madman. Rather, it appears to be the work of someone who has touched a very profound truth and is struggling to put that truth into words that others can understand.
@@ -354,3 +400,5 @@ most sense.
 - the hierarchies present in Zen temples that people so struggle with in my country are also intended just to maintain the atmosphere necessary for practice.
 - People get upset when some random guy at the library says shush to them, but if the librarian does it we understand that he or she is empowered to shush us.
 - An interesting thing happens when we do this together. You discover that what is truly important is shared with everyone and everything you encounter.
+</div>
+</details>

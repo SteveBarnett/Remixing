@@ -3,8 +3,31 @@ layout: page
 title: Notes from Workers Decide pages
 ai: true
 added: 2025-12-12
-updated: 2025-12-12
+updated: 2025-12-18
 ---
+
+## Gathered notes
+
+- Ask for an “AI implementation committee” – a group of workers able to meet and speak freely without management
+    - Motivate it as a way to ensure productivity, effectiveness, correctness, rather than as a challenge to profitability
+- Our strength as workers comes from our ability to coordinate and collaborate.
+- We seek to be empowered and entrusted to do our jobs effectively.
+
+1. How is AI being promoted within our workplace? How is it impacting our work?
+2. Why is our workplace investing in and evangelising this technology? What resources are being invested in AI, and to whose benefit?
+3. Are workers’ needs best met via AI or something else? How might investment in AI be antithetical to what we want from our workplace?
+
+### Questions
+
+- What do you think these AI advocates see as the goal or value of increased AI adoption?
+- What, or whose, values and priorities does your workplace’s investments in AI reflect?
+- What impact do you think your workplace’s investments in AI will have for workers?
+
+<details>
+<summary markdown="1">
+## Raw notes
+</summary>
+<div markdown="1">
 
 ## From [Implementation Committees, A Workplace Organizing Demand around AI - WorkersDecide.tech — Make Tech Work for Workers](https://www.workersdecide.tech/resources/2025-09-14-committees/)
 
@@ -27,3 +50,5 @@ updated: 2025-12-12
 - **What do you think these AI advocates see as the goal or value of increased AI adoption?**
 - **What, or whose, values and priorities does your workplace’s investments in AI reflect?**
 - **What impact do you think your workplace’s investments in AI will have for workers?**
+</div>
+</details>
