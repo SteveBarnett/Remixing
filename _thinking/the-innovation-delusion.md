@@ -2,13 +2,45 @@
 layout: page
 title: The Innovation Delusion
 added: 2025-11-17
-updated: 2025-11-29
+updated: 2025-12-18
 notes: true
 ---
 
 Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https://leevinsel.com/the-innovation-delusion).
 
+## Whittled notes
+
+- Innovation-speak is often cast as optimism and opportunity and creativity, but it's actually playing on FOMO.
+    - Creating illusory crises is a common habit among innovation-speakers
+- Some of the biggest social advancements of the last two hundred years – such as the abolition of slavery or the expansion of voting rights to women and minorities – had little to do with technological change
+
+- Who should be trusted as an “expert”? … people who have demonstrated efficacy
+- Wittgenstein’s “the craving for generality” – we often hanker for universalities in cases where the complex world evades such easy summary
+
+- When things go wrong, the first place we should look is to see if the relations of care are healthy
+    - While the new technologies spared women from the more physically demanding side of tasks – like the more gruelling aspects of laundry – they led to higher standards of cleanliness and women doing more housework, work that was by definition never finished,
+
+
+
+- avoid overplanning and choose simple but resilient solutions
+- Leaders should not lose sight of the fundamental importance of maintenance, reliability, and the hard work it takes to keep things running smoothly and safely
+- Neglecting maintenance often brings disproportionate harm to people already grappling with social and economic disadvantages
+- The growth delusion persists because humans instinctively revert to short-term thinking and respond to simple, short-term incentives
+- If the goal of innovative companies is to constantly increase profit, then anything and everything is fair game for being put in service of that cause – even values like efficiency and sustainability
+- What is good and worth preserving?
+- The Innovation Delusion is the false belief that the pursuit of innovation and novelty will lead us into the promised land of growth and profit when, in reality, it will lead us to ignore the ever-accumulating pile of deferred maintenance and infrastructural debt – and in the process, lead individuals toward burnout and our society to accelerating levels of exploitation and inequality.
+- Maintenance is an investment, not a cost, and should be recognised and supported accordingly
+- A big reason the true cost of infrastructure and the maintenance thereof is not visible is a trick of accounting. Municipalities are often not required to count infrastructure as liabilities, even though they are on the hook for taking care of them in perpetuity.
+- Spend more time talking about how these systems benefit and harm human life
+- These needs – to be nurtured, protected, and supported – too easily get trampled in societies obsessed with efficiency and profitability
+- One of [Ruth Schwartz] Cowan’s core findings [in More Work for Mother] was that supposed labour-saving technologies for the home – like washing machines and vacuums – ironically created more work for mother because cleanliness standards rose with the ability to keep things cleaner.
+
+
+<details>
+<summary markdown="1">
 ## Gathered notes
+</summary>
+<div markdown="1">
 
 - “Move fast and break things” can work in digital because fixing stuff is cheap (compared to physical)
 - When digital-age companies encounter (old) physical problems they consistently flounder
@@ -48,8 +80,14 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
 - **Spend more time talking about how these systems benefit and harm human life**
 - **These needs – to be nurtured, protected, and supported – too easily get trampled in societies obsessed with efficiency and profitability**
 - **One of [Ruth Schwartz] Cowan’s core findings [in More Work for Mother] was that supposed labour-saving technologies for the home – like washing machines and vacuums – ironically created more work for mother because cleanliness standards rose with the ability to keep things cleaner.**
+</div>
+</details>
 
+<details>
+<summary markdown="1">
 ## Raw notes
+</summary>
+<div markdown="1">
 
 > Never set out to innovate, because more horror is done with that goal in mind than any other. – Charles Eames
 
@@ -213,3 +251,5 @@ Notes from [The Innovation Delusion by Lee Vinsel and Andrew L. Russell](https:/
 
 - Conversation is important – and we see great potential for more product conversations about maintenance – but conversation alone is insufficient.
 - ... economic and other forms of inequality have increased during the most intensive period of innovation-speak, from the 1970s to the present.
+</div>
+</details>
