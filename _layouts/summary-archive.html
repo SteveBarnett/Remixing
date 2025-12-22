@@ -22,8 +22,10 @@
 <h2 id="buddhism" tabindex="-1">Buddhism</h2>
 {% include section-loop.html section="buddhism" %}
 
+{% if page.toc contains "omb" %}
 <h2 id="omb" tabindex="-1">OMB</h2>
 {% include section-loop.html section="omb" %}
+{% endif %}
 
 <h2 id="ifs" tabindex="-1">IFS-ish</h2>
 {% include section-loop.html section="ifs" %}
