@@ -25,6 +25,7 @@ permalink: /thinking/map/
 - Turn towards, not away
 - Give everything a warm welcome
 - Have lightly held hopes instead of expectations
+- Yielding: transforming the relationship by redirecting/diverting, with softness, connection, sensitivity
 
 ### Tools
 
