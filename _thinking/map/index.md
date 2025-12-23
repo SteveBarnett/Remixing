@@ -3,6 +3,7 @@ layout: page
 title: My Applied Philosophy
 added: 2025-12-23
 updated: 2025-12-23
+permalink: /thinking/map/
 ---
 
 * Display TOC
@@ -132,3 +133,7 @@ The nature of Reality, Consciousness, the cosmos.
     - There's exploring and realising, playing hide and seek.
 - **The cosmos is consciousness as a verb.**
     - Consciousness is the cosmos becoming more aware of itself.
+
+---
+
+Previous edition: [MAP 2025](/thinking/map/2025/). The current version is a fairly big revamp and I wanted to keep a copy of the old one.
