@@ -2,9 +2,34 @@
 layout: page
 title: Reflections on two years of Zen
 added: 2025-12-23
-updated: 2025-12-23
+updated: 2025-12-24
 longerform: true
 ---
+
+## This year's focus / highlights
+
+- **One Bright Pearl**. Or my spin on it: **One Bright Flow**.
+    - The feeling of everything showing up together all at once
+    - The feeling of happy, playful, bright activity
+    - The feeling of non-doing, wu wei, happening
+- **No need to have a calm mind.**
+    - Just let the thoughts come and go.
+    - We can’t get rid of thoughts. Thinking thoughts is what the mind does.
+    - Calm, centred, acceptance of everything in our reality.
+- **No need to chase enlightenment.**
+    - Just sit. Just do what needs to be done.
+    - Great awakening is beyond delusion and enlightenment.
+- **To talk about it is to miss it.** 
+    - It's before words, it's can't be caught or expressed fully in words.
+    - The more we think about Reality the further we go from it.
+- **Ordinary, everyday, life is the path.**
+    - The concrete and real, the down to earth.
+- **Pain is part of life. It’s not separate, an enemy, or a failure.**
+    - Embrace and transform suffering rather than running away from it.
+    - Be with the wounds we carry rather than rushing to try and heal them.
+- **Feeling pent-up emotions releases the energy being employed to repress them**
+    - Recognize and accept unwanted emotions as possible life reactions.
+    - Come as close to your discomfort as is possible.
 
 ## Events
 
