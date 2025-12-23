@@ -3,7 +3,7 @@ title: Reading
 layout: page
 ---
 
-Here's a list of <a href="/reading/five-stars/">all the books I've rated five stars</a>. That means "really good"; marked with a ★ below.
+Here's a list of <a href="/reading/five-stars/">all the books I've rated "really good"</a>, marked with a ★ below. [Jump to reading lists](#reading-lists).
 
 {%- assign booksthisyear = site.data.books2025.size -%}
 {%- assign bookspermonthmonth = site.time | date: "%-m" -%}
@@ -107,5 +107,15 @@ Other: {{ totalOther }}.
 </ul>
 
 <p>Long list of <a href="/reading/all">all the books I've read since 2017</a>.</p>
+
+## Reading lists
+
+- Fiction: [holds at the library](https://libbyapp.com/shelf/holds)
+- Fiction: [toreadmaybe + fiction Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:fiction/)
+- Nonfiction: [toreadmaybe + nonfiction Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:nonfiction/)
+- Buddhism (and related, like mindfulness): [toreadmaybe + buddhism Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:buddhism/)
+- Zen (and related, like Daoism): [toreadmaybe + zen Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:zen/)
+- Philosophy: [toreadmaybe + philosophy Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:philosophy/)
+- Stoicism: [toreadmaybe + stoicism Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:stoicism/)
 
 {% include search-js.html %}
