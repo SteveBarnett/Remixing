@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2025-12-23
+updated: 2025-12-24
 permalink: /thinking/map/
 ---
 
@@ -28,6 +28,8 @@ permalink: /thinking/map/
 - Yielding: transforming the relationship by redirecting/diverting, with softness, connection, sensitivity
 
 ### Tools
+
+Tools is not quite the right word, but it's close enough.
 
 - Thinking in [Layers](/thinking/layers/)
 - Both/and and either/or.
