@@ -6,7 +6,48 @@ updated: 2025-12-24
 longerform: true
 ---
 
-## This year's focus / highlights
+## Two-year highlights
+
+Combining [Notes from six months of studying and practicing Zen](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/), [Reflections on a-year-and-change with Zen](/thinking/zen/reflections-on-a-year-and-change-with-zen/), and this year's highlights.
+
+- Always and already here
+- Thinking, especially judging, creates separation, distance, suffering
+- “Not-knowing is most intimate”
+- The path is the goal
+- Everything is our main practice
+- The union of Absolute and Relative, of emptiness and form
+- From the perspective of the Absolute, there are no problems, no choices, no separation
+- Notice the causes and conditions that lead to your suffering
+- Take care of your suffering
+- No separation
+- No answers
+- No goal
+- No escape
+- Giving everything that arises a warm welcome
+- Being able to accept the unanswerability and unresolvability of life
+- "The whole universe is one bright pearl"
+- No goal, no attachment to a particular outcome, no intention to gain something 
+- Direct, personal, experience, intuitive sensing, rather than analytical thought and intellectual understanding
+- Use pain and difficulties to learn more about what it is to be human
+- Thinking one day we’ll get somewhere problem-free is what keeps us miserable
+- Use whatever happens as an opportunity to wake up, to soften
+- Cultivating openness, leaving space, being open to possibilities
+- The non-separateness and interdependence of all things
+- Everything is included, showing up together all at once, with distinctions but not division
+- The feeling of everything showing up together all at once
+- The feeling of happy, playful, bright activity
+- The feeling of non-doing, wu wei
+- No need to have a calm mind
+- Calm, centred, acceptance of everything in our reality
+- No need to chase enlightenment
+- Great awakening is beyond delusion and enlightenment
+- Ordinary, everyday, life is the path
+- Pain is part of life; not separate, an enemy, or a failure
+- Be with the wounds we carry rather than rushing to try and heal them
+- Feeling pent-up emotions releases the energy being employed to repress them
+- Come as close to your discomfort as is possible
+
+## This year's highlights
 
 - **One Bright Pearl**. Or my spin on it: **One Bright Flow**.
     - The feeling of everything showing up together all at once
@@ -30,6 +71,8 @@ longerform: true
 - **Feeling pent-up emotions releases the energy being employed to repress them**
     - Recognize and accept unwanted emotions as possible life reactions.
     - Come as close to your discomfort as is possible.
+
+---
 
 ## Events
 
