@@ -9,7 +9,38 @@ permalink: /thinking/map/
 * Display TOC
 {:toc}
 
-### Practices
+## Tools
+
+Tools is not quite the right word, but it's close enough.
+
+### Conceptual
+
+- **Pluralist.**
+    - Multiple perspectives and viewpoints.
+    - Adopting a learning stance.
+- **Poles.**
+    - The benefits and costs of each pole.
+    - The [lively tension](/thinking/lively-tension/) between the poles.
+    - Using 2&times;2 quadrants to map out the territory, the combinations.
+        - For example: Integral's Individual/Collective &times; Internal/External.
+- **[Layers](/thinking/layers/).**
+    - Faster layers learn, slower layers remember.
+    - Faster layers get the attention, slower layers constrain.
+
+### Practical
+
+- (Some of) **Antifragility.**
+    - Avoiding known bad outcomes instead of looking unknown good outcomes.
+    - Sticking to simple rules.
+    - Respecting old habits and rules.
+- **Yielding.**
+    - Transforming by redirecting/diverting, with softness, connection, sensitivity.
+    - Parrying, with occasional ripostes.
+    - "I would prefer not to" - [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
+- **Iterations.**
+    - Working iteratively, in spirals, revisiting and reviewing
+
+## Practices
 
 - To be kind to myself: **[mirror metta](/thinking/my-mirror-metta/)**
 - To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
@@ -25,44 +56,11 @@ permalink: /thinking/map/
 - Turn towards, not away
 - Give everything a warm welcome
 - Have lightly held hopes instead of expectations
-- Yielding: transforming the relationship by redirecting/diverting, with softness, connection, sensitivity
 - Taking care of my suffering
-
-### Tools
-
-Tools is not quite the right word, but it's close enough.
-
-- Thinking in [Layers](/thinking/layers/)
-- Both/and and either/or.
-- Considering and taking multiple perspectives and viewpoints to get something more truthful, because it's a more complete picture.
-- Noticing the poles
-    - Using 2&times;2 quadrants
-    - Integral: Individual/Collective &times; Internal/External
-    - What combos do the quadrants make?
-    - What's the [lively tension](/thinking/lively-tension/) between the poles?
-- Using both hemisphere (L and R)
-    - theory **and** experience
-    - narrow to certainty **and** open to possibility
-    - parts, pieces **and** whole, union
-    - either/or **and** both/and
-    - shallow **and** deep
-    - static **and** motion
-- Work iteratively, in spirals, revisiting and reviewing
-- [Antifragility](/thinking/antifragile/)
-    - Stick to simple rules
-    - Respect old habits and rules
-    - Avoid known bads instead of looking unknown goods
-    - Keep your options open
-    - Take lots of small risks
-    - Avoid SPOFs
-- Adopt a learning stance
-- "I would prefer not to" - [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
-- "An appropriate response" - Yunmen Wenyan's response to "What is the teaching of a lifetime?"
-- <span id="signposts">Things that happen, our imperfections, are signposts on the Path, not obstacles to the Way.</span>
-- The three marks: impermanence, suffering, not-self
 
 ## Useful hats
 
+- Pluralist
 - Sceptic
 - Student
 - Luddite
