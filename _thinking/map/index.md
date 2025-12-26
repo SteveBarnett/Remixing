@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2025-12-24
+updated: 2025-12-27
 permalink: /thinking/map/
 ---
 
@@ -26,6 +26,7 @@ permalink: /thinking/map/
 - Give everything a warm welcome
 - Have lightly held hopes instead of expectations
 - Yielding: transforming the relationship by redirecting/diverting, with softness, connection, sensitivity
+- Taking care of my suffering
 
 ### Tools
 
@@ -62,16 +63,16 @@ Tools is not quite the right word, but it's close enough.
 
 ## Useful hats
 
-- Student
-- Cynic
-- Stoic
 - Sceptic
+- Student
 - Luddite
+- Stoic
+- Cynic
 - Buddhist
 
 ## The path
 
-Live a good enough, ordinary, life.
+<div class="boxout">Live a good enough, ordinary, life.</div>
 
 - Take the path as the goal: a gradual, never-ending, actualisation, embodiment, and integration
 - Continued recommitment to aligning my actions with my values
@@ -88,43 +89,30 @@ The nature of Reality, Consciousness, the cosmos.
 <div class="boxout">Reality is one, complex, flow.</div>
 
 - **<span id="reality-is-one">Reality is one</span>.**
-    - There are distinctions, but not divisions.
-    - A network of interdependence and mutual support.
-        - Things that are separate can't influence and act on each other.
-    - Most things exist on a spectrum, not as a binary.
-    - All forms are relational.
-        - Things manifest as poles, usually asymmetrical.
-    - The unity of Absolute and Relative, of emptiness and form.
+    - A network of interdependence, mutual support, influence. There are distinctions, but not divisions.
+    - Perception is participation, and creates different forms, depending on the scale. Things manifest as poles, usually asymmetrical.
 - **Reality is complex, deep, rich.**
     - Concepts make forms, draw lines, build fences.
-    - The closer we look, the more there is to see. Boredom is a failure to pay enough attention.
+    - The closer we look, the more there is to see.
 - **Reality is in constant flux and motion.**
-    - Everything flows, changes, is impermanent.
-    - "-ing". Only the verb: no subject, no object.
-    - Self as process.
+    - Everything flows and changes, empty of intrinsic, solid, stable, form(s), or boundaries.
+    - There's only the verb: no subject, no object.
 - **Reality is free of concepts, language, characteristics.**
-    - It’s empty of intrinsic, solid, stable, form(s), of boundaries.
+    - **Concepts are many, simple, static.**
     - Thinking, especially judging, creates separation, distance.
 - **<span id="causes-and-conditions">The infinite causes and conditions of Reality create everything.</span>**
-    - **Things arise and pass away on their own.**
-    - **Our thoughts, actions, bodies, are in and of Reality.**
-    - But/and: perception is participation, and creates different forms, depending on the scale.
-- **Concepts are many, simple, static.**
+    - Including our thoughts, actions, bodies, arising and passing away on their own.
 
 ### Consciousness
 
-<div class="boxout">Our true nature is the (open, empty, luminous) context of consciousness. Everything is arising and passing away on its own.</div>
+<div class="boxout">Consciousness is fundamental, awareness is the context of consciousness.</div>
 
-- **Our true nature, awareness, is the (open, empty, luminous) context of consciousness, not the contents.**
-    - Anything that can be named or located can’t be me: it must an object in awareness or I couldn't be aware of it.
-    - The context is always bright, clear, boundless, whatever the contents of consciousness.
-    - **Seen in the first instant.**
-        - Before thoughts like classification, measuring, labelling.
-        - It's close, not far away. It's on the surface, not deep down. 
-    - **Always and already here**, but temporarily concealed.
 - **All matter is swirls of degrees of consciousness.**
     - Like eddies in a river.
     - Life is consciousness that’s more concentrated.
+- **Our true nature is the context of consciousness, not the contents.**
+    - Anything that can be named or located must be an object in awareness, not awareness itself.
+    - The context is always bright, clear, boundless, whatever the contents.
 
 ### The cosmos
 
