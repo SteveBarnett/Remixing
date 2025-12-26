@@ -2,15 +2,84 @@
 layout: page
 title: Reflections on two years of Zen
 added: 2025-12-23
-updated: 2025-12-24
-longerform: true
+updated: 2025-12-27
+zen: true
 ---
-
-## Two-year highlights
 
 Combining [Notes from six months of studying and practicing Zen](/thinking/zen/notes-from-six-months-of-studying-and-practicing-zen/), [Reflections on a-year-and-change with Zen](/thinking/zen/reflections-on-a-year-and-change-with-zen/), and this year's highlights.
 
----
+## Summary of sorts
+
+- **"The whole universe is one bright pearl"**
+    - Notice how everything is included, shows up together, all at once
+    - Watch the happy, playful, bright activity
+- **The path is the goal**
+    - Accept the unanswerability and unresolvability of life
+    - Treat everything in ordinary, everyday, life as your main practice
+- **"Not-knowing is most intimate"**
+    - Keep don't-know mind
+    - Cultivate openness to possibilities, leave space
+- **"Practice and enlightenment are not two"**
+    - Sit zazen to actualise and manifest your inherent Buddha-nature
+- **Take care of our inevitable suffering**
+    - Feel pent-up emotions to release the energy being used to repress them
+    - Come as close to your discomfort as is possible
+    - Be with pain and difficulties to learn more about what it is to be human
+
+### Mnemonic-ish: D-SPOT
+
+- **D**on't-know mind
+- Just **s**it
+- The **P**ath is the Goal
+- **O**ne Bright Flow
+- **T**ake care of your suffering
+
+### Events
+
+- I did a solo [rōhatsu](/thinking/zen/rohatsu-2025/) again.
+- I read a few takes on Dōgen's Instructions to the Cook.
+- I read a few books more broadly on Dōgen.
+- My dog Roxy was old and in pain, so I read a bunch about pain and death and Zen.
+- I've continued to sit almost every day, zazen-style.
+
+### Study
+
+- I circled around One Bright Pearl in a couple of ways, ending up with [One Bright Flow](/thinking/one-bright-flow/) as a fruitful way for me to cosider it.
+    - The feeling of everything showing up together all at once
+    - The feeling of happy, playful, bright activity
+    - The feeling of non-doing, wu wei, happening
+- A topic that recurred was not chasing enlightenment. Just sitting, and doing what needs to be done.
+- I dug into [emptiness](/thinking/empty/), feeling my way into a bit more.
+- Not needing to have a calm mind. But/and not chasing after thoughts.
+- It's been helping with self-acceptance.
+
+## Whittling the highlights
+
+- **"The whole universe is one bright pearl"**
+    - Everything is included, showing up together, all at once
+    - The union of Absolute and Relative, of emptiness and form
+    - Happy, playful, bright activity
+- **The path is the goal**
+    - Accepting the unanswerability and unresolvability of life
+    - Everything is our main practice
+- **"Ordinary mind is the way"**
+    - Ordinary, everyday, life is the path
+- **"Not-knowing is most intimate"**
+    - Experiencing Reality directly, before thought
+    - Keeping don't-know mind
+    - Cultivating openness, leaving space, being open to possibilities
+- **"Practice and enlightenment are not two"**
+    - Great awakening is beyond delusion and enlightenment
+    - We sit zazen to actualise and manifest our inherent Buddha-nature
+- **Take care of your suffering**
+    - Pain is part of life; not separate, an enemy, or a failure
+    - Be with the wounds we carry rather than rushing to try and heal them
+    - Use pain and difficulties to learn more about what it is to be human
+    - Use whatever happens as an opportunity to wake up, to soften
+    - Feeling pent-up emotions releases the energy being employed to repress them
+    - Come as close to your discomfort as is possible
+
+## Gathering the highlights
 
 - “Not-knowing is most intimate”
 - Thinking, especially judging, creates separation, distance, suffering
@@ -19,7 +88,6 @@ Combining [Notes from six months of studying and practicing Zen](/thinking/zen/n
 - Direct, personal, experience, intuitive sensing, rather than analytical thought and intellectual understanding
 - Cultivating openness, leaving space, being open to possibilities
 - Keep don't-know mind
-- The feeling of non-doing, wu wei
 
 ---
 
@@ -28,6 +96,7 @@ Combining [Notes from six months of studying and practicing Zen](/thinking/zen/n
 - No need to have a calm mind
 - No need to chase enlightenment
 - Great awakening is beyond delusion and enlightenment
+- The feeling of non-doing, wu wei
 
 ---
 
@@ -48,9 +117,6 @@ Combining [Notes from six months of studying and practicing Zen](/thinking/zen/n
 - Use pain and difficulties to learn more about what it is to be human
 - Use whatever happens as an opportunity to wake up, to soften
 - Give everything that arises a warm welcome
-
----
-
 - Feeling pent-up emotions releases the energy being employed to repress them
 - Come as close to your discomfort as is possible
 
@@ -91,25 +157,6 @@ Combining [Notes from six months of studying and practicing Zen](/thinking/zen/n
     - Come as close to your discomfort as is possible.
 
 ---
-
-## Events
-
-- I did a solo [rōhatsu](/thinking/zen/rohatsu-2025/) again.
-- I read a few takes on Dōgen's Instructions to the Cook.
-- I read a few books more broadly on Dōgen.
-- My dog Roxy was old and in pain, so I read a bunch about pain and death and Zen.
-- I've continued to sit almost every day, zazen-style.
-
-## Study
-
-- I circled around One Bright Pearl in a couple of ways, ending up with [One Bright Flow](/thinking/one-bright-flow/) as a fruitful way for me to cosider it.
-    - The feeling of everything showing up together all at once
-    - The feeling of happy, playful, bright activity
-    - The feeling of non-doing, wu wei, happening
-- A topic that recurred was not chasing enlightenment. Just sitting, and doing what needs to be done.
-- I dug into [emptiness](/thinking/empty/), feeling my way into a bit more.
-- Not needing to have a calm mind. But/and not chasing after thoughts.
-- It's been helping with self-acceptance.
 
 ## Some plucked notes
 
