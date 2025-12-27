@@ -42,23 +42,23 @@ Tools is not quite the right word, but it's close enough.
 
 ## Practices
 
-- To be kind to myself: **[mirror metta](/thinking/my-mirror-metta/)**
+### Inwards
+
+- To be kind to myself: **I do some [mirror metta](/thinking/my-mirror-metta/)**.
 - To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
 - To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
-- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
 - To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/)**.
-- To reality-check myself, **I apply on [The Constable](/thinking/the-constable/) frame of mind**.
-- See what [The Comedian](/thinking/the-comedian/) has to say.
-- Keep don't-know mind
-- Be bored with my self-hatred, and interested in where it's coming from instead
-- Use the Slow playbook: offer good, time-tested, alternatives
-- Stay with the pain long enough to learn something
-- Turn towards, not away
-- Give everything a warm welcome
-- Have lightly held hopes instead of expectations
-- Taking care of my suffering
+- To reality-check myself: **I apply on [The Constable](/thinking/the-constable/) frame of mind**, or **[The Comedian](/thinking/the-comedian/)**.
+- To widen my tolerance: **I stay with the pain long enough to learn something**, **I come as close to the discomfort as is possible**.
+- To soften pain: **I take care of my suffering**.
 
-## Useful hats
+### Outwards
+
+- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
+- To be able to think more broadly: **I relax into don't-know mind** and **I adopt a learning stance**.
+- To influence behaviour change: **I use the Slow playbook: offer good, time-tested, alternatives**.
+
+## Hats
 
 - Pluralist
 - Sceptic
