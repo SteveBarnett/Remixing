@@ -2,12 +2,38 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2025-12-27
+updated: 2025-12-29
 permalink: /thinking/map/
 ---
 
 * Display TOC
 {:toc}
+
+## The path
+
+<div class="boxout">Live a good enough, ordinary, life.</div>
+
+- **Taking the path as the goal**
+    - A gradual, never-ending, actualisation, embodiment, and integration
+- **Continued recommitment to aligning my actions with my values**
+    - Using Valued Action as a way to examine deeply who I am
+- **Keeping attention on the path**
+    - Treating the ordinary and everyday as scared
+    - Keeping practice alive and fresh by changing them regularly (not necessarily frequently)
+    - Picking the lens or style or hat or book that's the current best fit
+
+### The Valued Action loop
+
+1. Be clear on what my values are
+    - Pick one (or a few) at a time to focus on
+2. Reflect regularly on whether my actions are aligned to my values
+    - Some won't be, because I'm only human!
+    - Review the practices
+    - Look for bright spots
+    - Make plans for trying to avoid the worse outcomes
+    - Remember it's a process and path more than an event or goal
+3. Have just a few practices at hand to help tilt towards more aligned
+4. GOTO Step 1
 
 ## Tools
 
@@ -15,48 +41,52 @@ Tools is not quite the right word, but it's close enough.
 
 ### Conceptual
 
-- **Pluralist.**
-    - Multiple perspectives and viewpoints.
-    - Adopting a learning stance.
-- **Poles.**
-    - The benefits and costs of each pole.
-    - The [lively tension](/thinking/lively-tension/) between the poles.
-    - Using 2&times;2 quadrants to map out the territory, the combinations.
-        - For example: Integral's Individual/Collective &times; Internal/External.
-- **[Layers](/thinking/layers/).**
-    - Faster layers learn, slower layers remember.
-    - Faster layers get the attention, slower layers constrain.
+- **Plural**
+    - Taking multiple perspectives and viewpoints
+    - Adopting a learning stance
+    - Being able to argue the other side very effectively
+- **Poles**
+    - Reviewing the benefits and costs of each pole
+    - Noticing the [lively tension](/thinking/lively-tension/) between the poles
+    - Using 2&times;2 quadrants to map out the territory, the combinations
+        - For example: Integral's Individual/Collective &times; Internal/External
+- **[Layers](/thinking/layers/)**
+    - Sketching out the layers
+    - Noticing the mixing and interacting
 
 ### Practical
 
-- (Some of) **Antifragility.**
-    - Avoiding known bad outcomes instead of looking unknown good outcomes.
-    - Sticking to simple rules.
-    - Respecting old habits and rules.
-- **Yielding.**
-    - Transforming by redirecting/diverting, with softness, connection, sensitivity.
-    - Parrying, with occasional ripostes.
+- (Some of) **Antifragility**
+    - Preferring avoiding known bad outcomes to looking for unknown good outcomes
+    - Sticking to simple rules
+    - Respecting old habits and rules
+- **Yielding**
+    - Transforming by redirecting/diverting, with softness, connection, sensitivity
+    - Parrying, with occasional ripostes
     - "I would prefer not to" - [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
-- **Iterations.**
-    - Working iteratively, in spirals, revisiting and reviewing
+- **Iterations**
+    - Working iteratively
+    - Working in spirals, revisiting and recontextualising
 
 ## Practices
 
 ### Inwards
 
-- To be kind to myself: **I do some [mirror metta](/thinking/my-mirror-metta/)**.
-- To quiet the inner critic a little, **I remind myself of [the three uhds](/thinking/the-three-uhds/)**.
-- To settle and slow: **I  [Listen, Slow my tempo, Doubt](/thinking/lsd/).**
-- To release some excess thinking energy: **I do a [Journaling as Therapy practice](/thinking/zen/journaling-as-therapy-practice/)**.
-- To reality-check myself: **I apply on [The Constable](/thinking/the-constable/) frame of mind**, or **[The Comedian](/thinking/the-comedian/)**.
-- To widen my tolerance: **I stay with the pain long enough to learn something**, **I come as close to the discomfort as is possible**.
-- To soften pain: **I take care of my suffering**.
+- For "emergency" self-compassion: **[Mirror metta](/thinking/my-mirror-metta/)**
+- For when the Inner Critic is very loud and/or mean: **[The three uhds](/thinking/the-three-uhds/)**
+- For releasing excess thinking energy: **[Journaling as Therapy](/thinking/zen/journaling-as-therapy-practice/)**
+- For when things are stressy and foggy: **[The Constable](/thinking/the-constable/) frame of mind** and/or **[The Comedian](/thinking/the-comedian/)**
+- For settling and slowing down: **[Listen, Slow my tempo, Doubt](/thinking/lsd/)**
+- For taking care of suffering: **[Polopposit](/thinking/polopposits/)**
+        - Stay with the pain long enough to learn something
+        - Come as close to the discomfort as is possible
 
 ### Outwards
 
-- To connect with the brightness: **I notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/)).
-- To be able to think more broadly: **I relax into don't-know mind** and **I adopt a learning stance**.
-- To influence behaviour change: **I use the Slow playbook: offer good, time-tested, alternatives**.
+- To connect with brightness: **notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/))
+- To think more broadly:    
+    - **Relax into don't-know mind** 
+    - **Adopt a learning stance**
 
 ## Hats
 
@@ -68,19 +98,11 @@ Tools is not quite the right word, but it's close enough.
 - Cynic
 - Buddhist
 
-## The path
-
-<div class="boxout">Live a good enough, ordinary, life.</div>
-
-- Take the path as the goal: a gradual, never-ending, actualisation, embodiment, and integration
-- Continued recommitment to aligning my actions with my values
-    - Using Valued Action as a way to examine deeply who I am
-- The sacredness of the everyday
-- Keeping things alive and fresh by changing them regularly (not necessarily frequently)
-
 ## Theory
 
-The nature of Reality, Consciousness, the cosmos.
+- Reality is one, complex, flow
+- Consciousness is fundamental, awareness is the context of consciousness
+- The cosmos is purposeful, patterned, playful
 
 ### Reality
 
@@ -114,7 +136,7 @@ The nature of Reality, Consciousness, the cosmos.
 
 ### The cosmos
 
-<div class="boxout">The cosmos is purposeful, patterned, and playful.</div>
+<div class="boxout">The cosmos is purposeful, patterned, playful.</div>
 
 - **The cosmos is purposeful, patterned.**
     - Value is intrinsic to Reality. Utility can’t explain beauty, truth, goodness.
