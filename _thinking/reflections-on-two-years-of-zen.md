@@ -2,7 +2,7 @@
 layout: page
 title: Reflections on two years of Zen
 added: 2025-12-23
-updated: 2025-12-27
+updated: 2025-12-29
 zen: true
 ---
 
@@ -27,6 +27,8 @@ Combining [Notes from six months of studying and practicing Zen](/thinking/zen/n
     - Be with pain and difficulties to learn more about what it is to be human
 
 ### Mnemonic-ish: D-SPOT
+
+Don't Sit Path One Take.
 
 - **D**on't-know mind
 - Just **s**it
