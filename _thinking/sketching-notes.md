@@ -3,7 +3,13 @@ layout: page
 title: Sketching notes
 longerform: true
 added: 2025-04-27
-updated: 2025-04-27
+updated: 2025-12-31
+---
+
+1. Thumbnails sketches to warm up
+2. Pull individual lines
+3. Big shapes first, vanishing point, horizon
+
 ---
 
 Gathering some bits from old notes.
