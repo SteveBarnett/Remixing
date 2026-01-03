@@ -39,7 +39,9 @@ permalink: /thinking/map/
 
 Tools is not quite the right word, but it's close enough.
 
+<div class="boxout-light" markdown="1">
 **PPLAYS**: Plural, Poles, Layers; Antifragile, Yielding, Spirals.
+</div>
 
 ### Conceptual
 
@@ -72,7 +74,9 @@ Tools is not quite the right word, but it's close enough.
 
 ## Practices
 
+<div class="boxout-light">
 Memory 7-reminder: mirror, bobby hat, with pearl instead of badge, side-eye, three fingers, journal, polar bear
+</div>
 
 - "Emergency" self-compassion: **[Mirror metta](/thinking/my-mirror-metta/)**
 - When things are stressy and foggy: **[The Constable](/thinking/the-constable/) frame of mind** and/or **[The Comedian](/thinking/the-comedian/)**
