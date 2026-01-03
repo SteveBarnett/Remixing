@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2025-12-29
+updated: 2026-01-03
 permalink: /thinking/map/
 ---
 
@@ -39,6 +39,8 @@ permalink: /thinking/map/
 
 Tools is not quite the right word, but it's close enough.
 
+**PPLAYS**: Plural, Poles, Layers; Antifragile, Yielding, Spirals.
+
 ### Conceptual
 
 - **Plural**
@@ -57,36 +59,30 @@ Tools is not quite the right word, but it's close enough.
 ### Practical
 
 - (Some of) **Antifragility**
-    - Preferring avoiding known bad outcomes to looking for unknown good outcomes
-    - Sticking to simple rules
-    - Respecting old habits and rules
+    - Preferring *avoiding known bad outcomes* to looking for unknown good outcomes
+    - *Sticking to simple rules*
+    - *Respecting old, time-tested, rules* and habits
 - **Yielding**
     - Transforming by redirecting/diverting, with softness, connection, sensitivity
     - Parrying, with occasional ripostes
     - "I would prefer not to" - [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
-- **Iterations**
+- **Spiralling**
     - Working iteratively
-    - Working in spirals, revisiting and recontextualising
+    - Revisiting and recontextualising
 
 ## Practices
 
-### Inwards
+Memory 7-reminder: mirror, bobby hat, with pearl instead of badge, side-eye, three fingers, journal, polar bear
 
-- For "emergency" self-compassion: **[Mirror metta](/thinking/my-mirror-metta/)**
-- For when the Inner Critic is very loud and/or mean: **[The three uhds](/thinking/the-three-uhds/)**
-- For releasing excess thinking energy: **[Journaling as Therapy](/thinking/zen/journaling-as-therapy-practice/)**
-- For when things are stressy and foggy: **[The Constable](/thinking/the-constable/) frame of mind** and/or **[The Comedian](/thinking/the-comedian/)**
-- For settling and slowing down: **[Listen, Slow my tempo, Doubt](/thinking/lsd/)**
-- For taking care of suffering: **[Polopposit](/thinking/polopposits/)**
-        - Stay with the pain long enough to learn something
-        - Come as close to the discomfort as is possible
-
-### Outwards
-
-- To connect with brightness: **notice the feeling of happy, playful, bright activity** (of [One Bright Flow](/thinking/one-bright-flow/))
-- To think more broadly:    
-    - **Relax into don't-know mind** 
-    - **Adopt a learning stance**
+- "Emergency" self-compassion: **[Mirror metta](/thinking/my-mirror-metta/)**
+- When things are stressy and foggy: **[The Constable](/thinking/the-constable/) frame of mind** and/or **[The Comedian](/thinking/the-comedian/)**
+- Connecting with brightness, happiness, playfulness: **[One Bright Flow](/thinking/one-bright-flow/)**
+- Settling and slowing down: **[Slow my tempo, Listen, Yield](/thinking/lsd/)**
+- When the Inner Critic is very loud and/or mean: **[The three uhds](/thinking/the-three-uhds/)**
+- Releasing excess thinking energy: **[Journaling as Therapy](/thinking/zen/journaling-as-therapy-practice/)**
+- Taking care of suffering: **[Polopposit](/thinking/polopposits/)**
+    - Stay with the pain long enough to learn something
+    - Come as close to the discomfort as is possible
 
 ## Hats
 
