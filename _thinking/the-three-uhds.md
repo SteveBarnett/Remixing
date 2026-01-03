@@ -3,7 +3,7 @@ layout: page
 title:  The three uhds
 longerform: true
 added: 2024-07-04
-updated: 2025-10-06
+updated: 2026-01-03
 star: true
 ---
 
@@ -26,6 +26,13 @@ Alternate take on last step:
 - **Now move forward.**{: #forward }
     - Exploring and mistakes are part of the path.
     - Now what? Move forward.
+
+## Historical notes
+
+- The learned/taught idea that I have to earn things like love, forgiveness, compassion,
+- combined with high expectations
+- and my tendency to binary thinking
+- make for an easy tendency towards hearing or seeing *shoulds*.
 
 ## Application
 
