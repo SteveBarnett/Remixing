@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2026-01-03
+updated: 2026-01-05
 permalink: /thinking/map/
 ---
 
@@ -49,6 +49,7 @@ Tools is not quite the right word, but it's close enough.
     - Taking multiple perspectives and viewpoints
     - Adopting a learning stance
     - Being able to argue the other side very effectively
+    - Keeping your options open, considering multiple angles
 - **Poles**
     - Reviewing the benefits and costs of each pole
     - Noticing the [lively tension](/thinking/lively-tension/) between the poles
