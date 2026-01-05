@@ -1,7 +1,7 @@
 ---
 title: Music
 layout: year-in-music
-year: "2025"
+year: "2026"
 ---
 
 Below is this year's music.
