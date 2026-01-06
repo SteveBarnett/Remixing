@@ -1,38 +1,39 @@
 ---
 title: Reading
 layout: page
+books: books2026
 ---
 
 Here's a list of <a href="/reading/five-stars/">all the books I've rated "really good"</a>, marked with a ★ below. [Jump to reading lists](#reading-lists).
 
-{%- assign booksthisyear = site.data.books2025.size -%}
+{%- assign booksthisyearcount = site.data[page.books].size -%}
 {%- assign bookspermonthmonth = site.time | date: "%-m" -%}
-{% assign bookspermonth = booksthisyear | divided_by: bookspermonthmonth | round %}
-{% assign rereads = site.data.books2025 | where: "reread", "true" %}
-{% assign fivestar = site.data.books2025 | where: "fivestar", "true" %}
+{% assign bookspermonth = booksthisyearcount | divided_by: bookspermonthmonth | round %}
+{% assign rereads = site.data[page.books] | where: "reread", "true" %}
+{% assign fivestar = site.data[page.books] | where: "fivestar", "true" %}
 
 <ul>
 
 <li>
-📚 Books read this year: {{ booksthisyear }}. 🎶 Average bpm: {{ bookspermonth }}. 🌟 Five stars: {{ fivestar.size }}. ⏪ Rereads: {{ rereads.size }}.
+📚 Books read this year: {{ booksthisyearcount }}. 🎶 Average bpm: {{ bookspermonth }}. 🌟 Five stars: {{ fivestar.size }}. ⏪ Rereads: {{ rereads.size }}.
 </li>
 
-{%- assign Fiction = site.data.books2025 | where: "genre", "Fiction" -%}
-{%- assign ScienceFiction = site.data.books2025 | where: "genre", "Science Fiction" -%}
-{%- assign Fantasy = site.data.books2025 | where: "genre", "Fantasy" -%}
-{%- assign Poetry = site.data.books2025 | where: "genre", "Poetry" -%}
-{%- assign Buddhism = site.data.books2025 | where: "genre", "Buddhism" -%}
-{%- assign Zen = site.data.books2025 | where: "genre", "Zen" -%}
-{%- assign Nonduality = site.data.books2025 | where: "genre", "Nonduality" -%}
-{%- assign Philosophy = site.data.books2025 | where: "genre", "Philosophy" -%}
-{%- assign Taoism = site.data.books2025 | where: "genre", "Taoism" -%}
-{%- assign Stoicism = site.data.books2025 | where: "genre", "Stoicism" -%}
-{%- assign Nonfiction = site.data.books2025 | where: "genre", "Nonfiction" -%}
-{%- assign Accessibility = site.data.books2025 | where: "genre", "Accessibility" -%}
+{%- assign Fiction = site.data[page.books] | where: "genre", "Fiction" -%}
+{%- assign ScienceFiction = site.data[page.books] | where: "genre", "Science Fiction" -%}
+{%- assign Fantasy = site.data[page.books] | where: "genre", "Fantasy" -%}
+{%- assign Poetry = site.data[page.books] | where: "genre", "Poetry" -%}
+{%- assign Buddhism = site.data[page.books] | where: "genre", "Buddhism" -%}
+{%- assign Zen = site.data[page.books] | where: "genre", "Zen" -%}
+{%- assign Nonduality = site.data[page.books] | where: "genre", "Nonduality" -%}
+{%- assign Philosophy = site.data[page.books] | where: "genre", "Philosophy" -%}
+{%- assign Taoism = site.data[page.books] | where: "genre", "Taoism" -%}
+{%- assign Stoicism = site.data[page.books] | where: "genre", "Stoicism" -%}
+{%- assign Nonfiction = site.data[page.books] | where: "genre", "Nonfiction" -%}
+{%- assign Accessibility = site.data[page.books] | where: "genre", "Accessibility" -%}
 
 {%- assign totalFiction = Fiction.size | plus: ScienceFiction.size | plus: Fantasy.size -%}
 {%- assign totalPhilosophy = Buddhism.size | plus: Zen.size | plus: Nonduality.size | plus: Philosophy.size | plus: Taoism.size | plus: Stoicism.size -%}
-{%- assign totalOther = booksthisyear | minus: totalFiction | minus: totalPhilosophy -%}
+{%- assign totalOther = booksthisyearcount | minus: totalFiction | minus: totalPhilosophy -%}
 
 <li>
 🎭 Genre stats:&nbsp;
@@ -61,7 +62,7 @@ Other: {{ totalOther }}.
 
 {% include search-form.html title=page.title %}
 
-{% assign thisMonth = site.data.books2025[0].date_read | date: "%m" %}
+{% assign thisMonth = site.data[page.books][0].date_read | date: "%m" %}
 {% assign siteMonth = site.time | date: "%m" %}
 {% if thisMonth == siteMonth %}
 <h2>{{ site.time | date: "%B" }}</h2>
@@ -70,7 +71,7 @@ Other: {{ totalOther }}.
 <ol reversed>
 {%- assign previousMonth = site.time | date: "%m" -%}
 
-{% for book in site.data.books2025 %}
+{% for book in site.data[page.books] %}
 
 {%- assign currentMonth = book.date_read | date: "%m" -%}
 {% if currentMonth != previousMonth %}
@@ -96,6 +97,7 @@ Other: {{ totalOther }}.
 <h2>Earlier</h2>
 
 <ul>
+	<li><a href="/reading/2025/">2025</a></li>
 	<li><a href="/reading/2024/">2024</a></li>
 	<li><a href="/reading/2023/">2023</a></li>
 	<li><a href="/reading/2022/">2022</a></li>
