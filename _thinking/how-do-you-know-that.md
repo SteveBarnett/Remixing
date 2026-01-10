@@ -8,6 +8,37 @@ updated: 2025-12-26
 
 [Notes from "How Do You Know That?" by Ellis Potter](https://www.goodreads.com/book/show/32314986-how-do-you-know-that)
 
+## Gathered notes
+
+- We can gain a richer, fuller, understanding by taking multiple sources as complementary rather than competitive
+- Authority is the power to describe reality
+    - That doesn't mean it's accurate
+- Experience cannot be disputed, although the meaning of it can
+- Cultural and traditional knowledge is different from experiential and rational knowledge, but equally true
+- We can't see the whole picture from only one way of knowing
+- Truth is fact plus meaning
+    - Meaning means relationships, which means that nothing has meaning in itself
+    - All true knowledge is relational in a variety of ways
+
+### The four corners
+
+- B for Bible (or Revelation)
+    - The Bible, the Koran, Upanishads, Vedas
+- R for Rationality
+    - Seeing reality in ratios, or relationships. Logic and mathematics.
+- I for Institution, or tradition
+    - marriage, family, friendship, community, nation, church, ...
+- E stands for (personal) Experience
+    - subjective, your point of view, which is unique
+
+Each corner it tells us something that the other corners can't. Any isolated corner can be dangerous. The corners aren't equal in function and aren't interchangeable. Everybody has a favourite corner.
+
+If we strengthen what is strong, we become weaker in our understanding of reality. If we strengthen what is weak, we become fuller, richer, and stronger in our epistemology.
+
+- The well axis: a way of understanding revelatory texts. Drawing out what we need, like water from a well.
+- The story axis: understanding that involves being aware of the overall frame of reality.
+- What is the center and focus of the well approach? It’s me. What is the centre and focus of the story approach? It’s God or reality as a whole.
+
 ## Raw notes
 
 - what if the different sources of authority actually complete or ‘complement’ each other? We will explore this possibility, in order to see how it may give us a richer and fuller understanding of our lives and the world.
@@ -91,7 +122,7 @@ updated: 2025-12-26
 - The Bible tells us taste and see that the Lord is good. Normally when we taste we don’t see, and when we see we don’t taste.
 - Another way of saying this is that the experience of loving God must be incarnational as well as transcendental.
 - Would it be fair to say that you have mixed feelings about postmodernism? I certainly do. I am grateful for postmodernism because it has restored subjectivity to truth. I am unhappy with postmodernism because it has eliminated objectivity from truth.
-- place. I am always and constantly struggling to integrate these four corners.
+- I am always and constantly struggling to integrate these four corners.
 - We have to be careful and not expect the various corners to speak each other’s language.
 - the Bible helps us to live in the world. We don’t need to be afraid of any of the corners, although they all have their dangers. None of the corners is safe.
 - In my view, the Bible belongs with the other three corners better than any other revelatory text.
