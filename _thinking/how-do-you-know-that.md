@@ -3,19 +3,27 @@ layout: page
 title: How Do You Know That?
 notes: true
 added: 2025-12-26
-updated: 2025-12-26
+updated: 2026-01-11
 ---
 
 [Notes from "How Do You Know That?" by Ellis Potter](https://www.goodreads.com/book/show/32314986-how-do-you-know-that)
 
-## Gathered notes
+## Whittled notes
 
 - We can gain a richer, fuller, understanding by taking multiple sources as complementary rather than competitive
+- We can't see the whole picture from only one way of knowing
+- Any isolated approached can be dangerous
+- Everybody has their favourite approach
+- If we strengthen what is weak, we become fuller, richer, and stronger in our epistemology.
+
+## Gathered notes
+
+- **We can gain a richer, fuller, understanding by taking multiple sources as complementary rather than competitive**
 - Authority is the power to describe reality
     - That doesn't mean it's accurate
 - Experience cannot be disputed, although the meaning of it can
 - Cultural and traditional knowledge is different from experiential and rational knowledge, but equally true
-- We can't see the whole picture from only one way of knowing
+- **We can't see the whole picture from only one way of knowing**
 - Truth is fact plus meaning
     - Meaning means relationships, which means that nothing has meaning in itself
     - All true knowledge is relational in a variety of ways
@@ -31,9 +39,9 @@ updated: 2025-12-26
 - E stands for (personal) Experience
     - subjective, your point of view, which is unique
 
-Each corner it tells us something that the other corners can't. Any isolated corner can be dangerous. The corners aren't equal in function and aren't interchangeable. Everybody has a favourite corner.
+Each corner it tells us something that the other corners can't. **Any isolated corner can be dangerous.** The corners aren't equal in function and aren't interchangeable. **Everybody has a favourite corner.**
 
-If we strengthen what is strong, we become weaker in our understanding of reality. If we strengthen what is weak, we become fuller, richer, and stronger in our epistemology.
+If we strengthen what is strong, we become weaker in our understanding of reality. **If we strengthen what is weak, we become fuller, richer, and stronger in our epistemology.**
 
 - The well axis: a way of understanding revelatory texts. Drawing out what we need, like water from a well.
 - The story axis: understanding that involves being aware of the overall frame of reality.
