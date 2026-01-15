@@ -3,14 +3,15 @@ layout: page
 title: Journaling as Therapy practice
 notes: true
 added: 2025-07-27
-updated: 2025-11-05
+updated: 2026-01-13
 star: true
 ---
 
 Draft of a kind of a [Philotation](/thinking/philosophical-meditation/) / [Journatice](/thinking/zen/journatice-journalling-practice/#journalling) mashup.
 
-- Note → Unpack → Reassure/plan
-    - Unpack: History → Current → Helpful
+- Note → Unpack → Reassure
+    - Unpack: History → Helpful → Impact
+    - Reassure: In worst case → Help in past → Advise a friend
 
 ## Note (What?)
 
