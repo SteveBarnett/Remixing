@@ -4,6 +4,7 @@ title: Wisdom takes work
 notes: true
 added: 2026-01-08
 updated: 2026-01-08
+wip: true
 ---
 
 ## Raw notes

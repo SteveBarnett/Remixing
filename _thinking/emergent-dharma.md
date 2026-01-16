@@ -4,6 +4,7 @@ title: Emergent Dharma
 added: 2026-01-01
 updated: 2026-01-01
 buddhism: true
+wip: true
 ---
 
 [Emergent Dharma: Asian American Feminist Buddhists on Practice, Identity, and Resistance by Suh PhD, Sharon A.](https://www.goodreads.com/book/show/228953467-emergent-dharma)

@@ -4,6 +4,7 @@ title: Thanks, in the style of Meditations
 added: 2026-01-06
 updated: 2026-01-06
 longerform: true
+wip: true
 ---
 
 ## A few bits from Notebook 1 of Meditations
