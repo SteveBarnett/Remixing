@@ -23,37 +23,66 @@ updated: 2025-12-02
 
 ### Where
 
-- Kansai region
-    - Japan’s Cultural Heartland
-    - A lot of traditional Japanese sights close together
+- Shinkansen: Tokyo to Shizuoka to Nagoya to Kyoto to Shin-Osaka
+- Tokyo
+    - Kabukicho - night-life
+- Nara
+- Osaka
+- Kyoto
+    - The north: forest glades, hidden temples, old towns with a new attitude
+    - The “suburbs” further north
+    - Higashiyama - the hills are alive with shrines and temples
+    - Southern Higashiyama - Main sightseeing district, bit hilly
+    - Northern Higashiyama - Path of Philosophy (Tetsugaku-no-Michi) Neighbourhood
+    - Kyoto station area has cheap accommodation and good transport links
+    - Takase River
+    - Arashiyama & Sagano Area, Katsura River
+    - Southeast Kyoto
+- Look up
+    - Nagoya
+    - Shizuoka
+- East to West
+    - Kantō
+    - Chūbu
+    - Kansai
+
+## Wide view
+
+- the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
+- More south is more relaxed and summery
+
+#### Kansai region
+
+- Japan’s Cultural Heartland
+- A lot of traditional Japanese sights close together
 - Nara
     - rewarding destinations, compact
 - Osaka
     - [Hanwa line](https://www.osakastation.com/the-jr-hanwa-line-kishuji-rapid-service-for-otori-hineno-wakayama/)
     - Kominato railway
     - Dotonbori
-- the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
-- More south is more relaxed and summery
-- **Kantō** also looks good
-    - Middle of Honshū
-        - Nasu
-            - Oukoku onsen - a view of capybara lazily soaking in their own hot springs.
-        - Nikkō
-            - Shrine-hopping, food
-        - **Utsunomiya**
-            - Renowed for **gyoza**
-        - **Takasaki**
-            - City with a country atmosphere, friendly, **the land of daruma**.
-    - Tōhoku
-        - hot springs, autumn foliage, lakes, mountainous peaks and spectacular vistas
-    - North Honshū
-        - Akita city
-            - City surrounded by nature, mountains, scenic, rustic, rural
-            - Akita dog everything
-        - Aomori
-            - Northern port city, relaxed, sleepy, festive, underground arts scene.
-        - Morioka
-            - peaceful, relaxed
+
+### Kantō
+
+- Middle of Honshū
+    - Nasu (North of Tokyo)
+        - Oukoku onsen - a view of capybara lazily soaking in their own hot springs.
+    - Nikkō (North of Tokyo)
+        - Shrine-hopping, food
+    - **Utsunomiya** (North of Tokyo)
+        - Renowed for **gyoza**
+    - **Takasaki** (North, West a bit of Tokyo)
+        - City with a country atmosphere, friendly, **the land of daruma**.
+- Tōhoku (Far North)
+    - hot springs, autumn foliage, lakes, mountainous peaks and spectacular vistas
+- North Honshū (Far North)
+    - Akita city
+        - City surrounded by nature, mountains, scenic, rustic, rural
+        - Akita dog everything
+    - Aomori
+        - Northern port city, relaxed, sleepy, festive, underground arts scene.
+    - Morioka
+        - peaceful, relaxed
 
 ### Kyoto
 
