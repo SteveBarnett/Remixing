@@ -8,6 +8,79 @@ updated: 2025-12-02
 
 ## I Love It When a Plan Comes Together
 
+### What
+
+- Get a JR pass
+- [My Google map list, long version](https://maps.app.goo.gl/fTRvV2SZjtiqN2fh6)
+
+### When
+
+- Landing evening of Tuesday 13th October in Tokyo Narita airport
+- Leaving evening of Saturday 31st October from Tokyo Narita airport
+- Monday 26th October - Public Holiday in NZ
+- Osaka - Sep 29°C, Oct 23°C, Nov 13°C
+- Mid-September heat breaks. October warm or cool but usually sunny.
+
+### Where
+
+- Kansai region
+    - Japan’s Cultural Heartland
+    - A lot of traditional Japanese sights close together
+- Nara
+    - rewarding destinations, compact
+- Osaka
+    - [Hanwa line](https://www.osakastation.com/the-jr-hanwa-line-kishuji-rapid-service-for-otori-hineno-wakayama/)
+    - Kominato railway
+    - Dotonbori
+- the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
+- More south is more relaxed and summery
+- **Kantō** also looks good
+    - Middle of Honshū
+        - Nasu
+            - Oukoku onsen - a view of capybara lazily soaking in their own hot springs.
+        - Nikkō
+            - Shrine-hopping, food
+        - **Utsunomiya**
+            - Renowed for **gyoza**
+        - **Takasaki**
+            - City with a country atmosphere, friendly, **the land of daruma**.
+    - Tōhoku
+        - hot springs, autumn foliage, lakes, mountainous peaks and spectacular vistas
+    - North Honshū
+        - Akita city
+            - City surrounded by nature, mountains, scenic, rustic, rural
+            - Akita dog everything
+        - Aomori
+            - Northern port city, relaxed, sleepy, festive, underground arts scene.
+        - Morioka
+            - peaceful, relaxed
+
+### Kyoto
+
+- The north: forest glades, hidden temples, old towns with a new attitude
+- The “suburbs” further north
+- Higashiyama - the hills are alive with shrines and temples
+- Southern Higashiyama
+    - Main sightseeing district
+    - Walk rather than bus, but/and bit hilly
+    - Kiyomizu-dera temple, Kodai-ji temple, Chion-in template
+- Northern Higashiyama
+    - Path of Philosophy (Tetsugaku-no-Michi) Neighbourhood
+    - Nanzen-ji temple, expansive grounds and subtemples
+    - Ginkaku-ji temple, gardens
+- Kyoto station area has cheap accommodation and good transport links
+- Takase River - check AirBnB and [machiya-inn-japan.com](https://www.machiya-inn-japan.com/)
+- Arashiyama & Sagano Area
+    - Kyoto on a condensed scale, on river bank
+    - base of Kyoto's western mountains
+    - Arashiyama Bamboo Forest
+    - Katsura River
+- Southeast Kyoto
+    - Stones foxes
+    - Eikan-do, Kenning-ji, Myoshin-ji temples
+
+---
+
 ### Flights
 
 More detail on costs, time, and where to land.
