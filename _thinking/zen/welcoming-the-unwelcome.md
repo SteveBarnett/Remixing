@@ -2,10 +2,53 @@
 layout: page
 title: "Welcoming the Unwelcome"
 added: 2026-01-16
-updated: 2026-01-16
+updated: 2026-01-22
 zennotes: true
 wip: true
 ---
+
+## Whittled notes
+
+- We can't predict or control what will happen, but we can work on how we relate to it
+- Sit with the raw physical signs of resistance and discomfort, just long enough to start getting used to it
+- There’s no end to the number of fresh starts you get
+- Be okay with discomfort as part of the texture of human life
+- If we appreciate ourselves just as we are, without judgment, it will be that much easier to do the same in regard to others
+- Humour lightens up the spiritual path and prevents it from becoming a drag
+
+## Gathered notes
+
+- Bodhichitta, the awakened heart, begins with the wish to be free from whatever gets in the way of our helping others
+	- We arouse the bravery to **take a direct look at ourselves and the world**
+- Our question boils down to "What leads to awakening?"
+- **We can't predict or control what will happen, but we can work on how we relate to it**
+- Challenging times give us the greatest opportunity for change
+	- A fertile ground for training in being open-minded and open-hearted
+- We have a tendency to polarise, to make sharp and separate categories
+- The ego is the manifestation of us resisting what is
+	- **Sit with the raw physical signs of resistance and discomfort, just long enough to start getting used to it**
+- Tonglen (sending and taking): take in the bad, send the good
+- Trust in the completeness of "just as it is"
+- Assumptions of imperfection and incompleteness become a self-fulfilling prophecy, confirmation bias
+- A practice: pay special attention to strangers you encounter in daily life
+- Go just beyond your comfort zone
+- When we speak from emotional reactivity, there’s no sense of shared humanity
+- When we get too fixated on fixed concepts, we forget reality is open, fluid, changeable, interpretable, unpredictable
+- The separation into subject and object is a subtle form of labeling
+- Everything is just what it is, beautiful yet ultimately indescribable
+- Everything is empty of fixed ideas and labels
+	- Fluid, open-ended, and interconnected with everything around it
+- Emptiness means free of imputed meaning
+- The struggle to avoid emotions is what keeps them going
+- **There’s no end to the number of fresh starts you get**
+- The goal isn't to get rid of the ego
+	- The goal is practicing non-rejection
+	- Become very conscious of ego and how it works
+	- Not trying to fix or alter anything
+- **Be okay with discomfort as part of the texture of human life**
+- **If we appreciate ourselves just as we are, without judgment, it will be that much easier to do the same in regard to others**
+- **Humour lightens up the spiritual path and prevents it from becoming a drag**
+- Don’t hide anything; come as you are
 
 ## Raw notes
 
@@ -18,7 +61,7 @@ wip: true
 ### 2 Does It Matter?
 
 - At such times, we may avoid a lot of trouble by asking ourselves a simple question: Does it matter
-- SOMETIMES WE CATCH OURSELVES ABOUT TO DO something that doesn’t quite feel right.
+- Sometimes we catch ourselves about to do something that doesn’t quite feel right.
 -  the Buddha didn’t establish these rules merely for people to conform to outer codes of behavior.
 - He therefore encouraged or discouraged certain forms of behavior based on whether they promoted or hindered that process of awakening
 - our question then boils down to “What awakens my heart, and what blocks that process from happening?”
@@ -46,16 +89,16 @@ wip: true
 
 - teachings encourage us to go beyond these limiting, polarizing, and often erroneous judgments and not turn against any part of ourselves.
 - The first method is based on a teaching by Tulku Thondup Rinpoche
-- When any unwanted feeling comes up, the first step is to feel it as fully as you can at the present moment
-- Then make that feeling even stronger, even more intense
-- Do this until the feeling becomes so heavy you could hold it in your hand. At that point, grab the feeling. And then just let it go. Let it float where it will, like a balloon,
+	- When any unwanted feeling comes up, the first step is to feel it as fully as you can at the present moment
+	- Then make that feeling even stronger, even more intense
+	- Do this until the feeling becomes so heavy you could hold it in your hand. At that point, grab the feeling. And then just let it go. Let it float where it will, like a balloon,
 - The second non-rejecting method
-- tonglen, which in Tibetan means “sending and taking
-- With every out-breath, we send; with every in-breath, we take
-- During each inhalation, you imagine you’re breathing in the unpleasant things you would normally reject
-- Sometimes the worse we feel, the more profound our tonglen practice is. The more acutely we experience painful emotions, the more clearly we understand what so many others are going through. This understanding deepens our compassion
-- The “sending” aspect of tonglen comes from another angle, but it also fosters this feeling of openness and connection to the experience of others. Each time we exhale, we imagine sending other beings all the beneficial and pleasurable things we normally desire for ourselves
-- The two aspects of sending and taking reinforce and support each other, so it’s most effective to do them alternately, riding on each breath
+	- tonglen, which in Tibetan means “sending and taking
+	- With every out-breath, we send; with every in-breath, we take
+	- During each inhalation, you imagine you’re breathing in the unpleasant things you would normally reject
+	- Sometimes the worse we feel, the more profound our tonglen practice is. The more acutely we experience painful emotions, the more clearly we understand what so many others are going through. This understanding deepens our compassion
+	- The “sending” aspect of tonglen comes from another angle, but it also fosters this feeling of openness and connection to the experience of others. Each time we exhale, we imagine sending other beings all the beneficial and pleasurable things we normally desire for ourselves
+	- The two aspects of sending and taking reinforce and support each other, so it’s most effective to do them alternately, riding on each breath
 
 ### 6 Just as It Is
 
