@@ -4,7 +4,6 @@ title: "Welcoming the Unwelcome"
 added: 2026-01-16
 updated: 2026-01-22
 zennotes: true
-wip: true
 ---
 
 ## Whittled notes
