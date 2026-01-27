@@ -4,10 +4,39 @@ title: Emergent Dharma
 added: 2026-01-01
 updated: 2026-01-01
 buddhism: true
-wip: true
 ---
 
 [Emergent Dharma: Asian American Feminist Buddhists on Practice, Identity, and Resistance by Suh PhD, Sharon A.](https://www.goodreads.com/book/show/228953467-emergent-dharma)
+
+## Whittled notes
+
+- Critical connections over critical mass
+- The deep significance of the relationships that underpin complex systems
+- Embrace the contradictions of what it means to be human while continuing to advocate for justice
+    - We don't have to give up parts of ourself
+    - We don't have to sacrifice ourselves at the altar of feminist (or Buddhist) piety
+- White supremacist cis-hetero-patriarchal institutions protect and reproduce themselves by denying difference and displacing problems onto marginalized people and communities
+- When we point out a problem we're often rendered as the problem that we want to fix
+- An ethic of care is grounded in voice, relationships, being listened to, being heard with respect, emotions, relationality
+    - the need for responsiveness in relationships (paying attention, listening, responding)
+- We can create desire paths by using existing structures in alternate, unintended, ways
+- Tenderly hold our emotions rather pretending they don't exist: accept reality as it is
+
+## Gathered notes
+
+- Despite the prevalence of images equating Buddhism primarily with meditation, the authors featured in Emergent Dharma reveal their often-ambivalent relationships with meditation and how they favor alternative modes of practice.
+- Emergent strategy prefers “critical connections over critical mass,” and emphasizes the deep significance of relationships that underpin complex systems.
+- brown serves us a powerful reminder when she says that convergence is key to buoyancy when we are at risk of drowning in an ocean of suffering
+- The Buddha’s Dharma talks were invitational in nature as he uttered the words, Ehi Passika, meaning “Come, and see for yourself,” which connotes an exploratory spirit of inquiry.
+- as a bad feminist, Gay embraces the contradictions of what it means to be human while continuing to advocate for justice; she is unwilling to relinquish parts of herself that enjoy the things that a feminist on a pedestal could not.
+- Gay makes clear that one can be a feminist (or even a feminist Buddhist), fighting for freedom for all beings, without sacrificing oneself at the altar of feminist (or Buddhist) piety.
+- white supremacist cis-hetero-patriarchal institutions protect and reproduce themselves by denying difference and displacing problems onto marginalized and already precarious usual [killjoy] suspects (e.g., the unhappy feminist, the angry or “racist” woman of color, the queer or trans* “bully”).
+- Ahmed observes that when we point out a problem, as many a feminist killjoy does, we are often rendered the very problem that we wish to fix
+- Feminist theorist, Carol Gilligan, articulates such an ethic as one grounded in voice and relationships, in the importance of everyone having a voice, being listened to carefully (in their own right and on their own terms) and heard with respect. An ethics of care directs our attention to the need for responsiveness in relationships (paying attention, listening, responding) and to the costs of losing connection with oneself or with others
+- an ethics of care places emphasis on emotion and relationality
+- Desire paths remake what is already there, so often we can create alternative paths within the existing structures of institutions. There is no need to “burn it all down” or disengage with our communities
+- “not as the result of formal rule-breaking, but often by using existing structures in unintended ways.”
+- Nhất Hạnh’s instructions to tenderly hold our anger rather than pretending it does not exist are based on the Buddha’s teaching to accept reality as it is and to be with our current experience.
 
 ## Raw notes
 
