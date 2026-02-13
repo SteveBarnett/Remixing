@@ -419,6 +419,10 @@ blockquote.alt {
   }
 }
 
+li > p {
+  margin: 0;
+}
+
 /* 2024-03 colour experiments */
 
 html {
