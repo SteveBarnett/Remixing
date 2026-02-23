@@ -429,9 +429,11 @@ html {
   background-color: #f3fcf3;
 }
 
+/*
 h1, h2, h3, h4 {
   color: #3d1f1f;
 }
+*/
 
 a {
   color: #050;
@@ -553,8 +555,21 @@ span[lang] {
   font-style: italic;
 }
 
+h1 {
+  color: #232;
+}
 
+h2 {
+  color: #242;
+}
 
+h3 {
+  color: #252;
+}
+
+h4 {
+  color: #262;
+}
 
 /* ==========================================================================
    Helper classes
