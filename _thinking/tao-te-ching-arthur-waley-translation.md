@@ -2,10 +2,21 @@
 layout: page
 title: Tao Te Ching - Arthur Waley translation
 added: 2026-02-23
-updated: 2026-02-23
+updated: 2026-03-08
 longerform: true
 wip: true
 ---
+
+## Gathered notes
+
+- **Not-Being as in no definable properties**
+    - An action is a change made by an self-conscious individual (an agent), otherwise it's an event
+    - Actionless activity is hard to describe because language presumes an agent
+- Diminish the number of desires rather than satisfy more of them
+    - No disaster greater than not to be content with what one has
+- **Yielding, as ice when it begins to melt**
+- Movement overcomes cold; But staying still overcomes heat
+- **Words make distinctions, taking us further from the Tao**
 
 ## Raw notes
 
@@ -16,7 +27,7 @@ wip: true
 - day by day, subtracts from knowledge (since knowledge of things stimulates desire for them) and arrives at 'inactivity.' The Sage speaks very little, for **words embody conceptual distinctions and so lead us further from the Tao**; desires nothing and so has a mind which simply, like a mirror, reflects impartially and desirelessly what is before it.
 - actionless activity ... is a condition almost impossible to describe in language which has evolved precisely to describe ordinary purposive action.
 - Anyone who is glib or fluent, the Taoist would say, can be assumed with certainty to be no Sage, but merely caught in the web of conceptual discriminations which conceals reality.
-- no the state in which desires are satisfied, but **the state in which the desires to be satisfied have been diminished to the greatest possible degree.**
+- not the state in which desires are satisfied, but **the state in which the desires to be satisfied have been diminished to the greatest possible degree.**
 
 ### Chapter 4
 
@@ -29,7 +40,7 @@ wip: true
 
 ### Chapter 11
 
-> ... **just as we take advantage of what us, we should recognise the usefulness of what is not.**
+> ... **just as we take advantage of what is, we should recognise the usefulness of what is not.**
 
 ### Chapter 15
 
@@ -77,7 +88,7 @@ Everything great must be dealt with while it is still small.
 ### Chapter 64
 
 > Therefore the Sage wants only things that are unwanted,
-> Sets no store by product difficult to get, ...
+> Sets no store by products difficult to get, ...
 
 ### Chapter 67
 
