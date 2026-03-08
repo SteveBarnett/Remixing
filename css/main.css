@@ -464,14 +464,6 @@ summary:focus {
     color: #0c030c;
   }
 
-  h1, h2, h3, h4 {
-    color: #faebd7;
-  }
-
-  h1, h2, h3 {
-    border-color: #faebd7;
-  }
-
   a {
     color: #7c7;
   }
@@ -569,6 +561,28 @@ h3 {
 
 h4 {
   color: #262;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1 {
+    color: #bfb;
+  }
+
+  h2 {
+    color: #beb;
+  }
+
+  h3 {
+    color: #bdb;
+  }
+
+  h4 {
+    color: #bcb;
+  }
+
+  h1, h2, h3 {
+    border-color: #faebd7;
+  }
 }
 
 /* ==========================================================================
