@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2026-01-05
+updated: 2026-03-09
 permalink: /thinking/map/
 ---
 
@@ -69,6 +69,7 @@ Tools is not quite the right word, but it's close enough.
     - Transforming by redirecting/diverting, with softness, connection, sensitivity
     - Parrying, with occasional ripostes
     - "I would prefer not to" - [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
+    - Like ice melting into water
 - **Spiralling**
     - Working iteratively
     - Revisiting and recontextualising

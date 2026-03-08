@@ -4,7 +4,6 @@ title: Tao Te Ching - Arthur Waley translation
 added: 2026-02-23
 updated: 2026-03-08
 longerform: true
-wip: true
 ---
 
 ## Gathered notes
