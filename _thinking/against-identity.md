@@ -2,10 +2,54 @@
 layout: page
 title: Against Identity
 added: 2026-02-07
-updated: 2026-02-07
+updated: 2026-03-09
 longerform: true
 wip: true
 ---
+
+## Gathered notes
+
+- **The power of the undefined is lost by being forced into something definite.** Our inner being is not a blank emptiness; it is an all-embracing multiplicity:
+- Some psychologists distinguish between identity and self. Your identity is a specific concept of your persona, role or social position. Your self is the subject that inhabits and operates your identity
+- If we were instead to strive to overcome the hunger for identity, then we could remain happily indefinite and enjoy whatever concatenation of accidents happens to be bestowed - upon us by external circumstances and spontaneous inner drives.
+- Identity stops the world from working together to solve its common problems. It also makes people vulnerable to misinformation, thus reinforcing polarization by making each party feel like all the facts are on their side.
+- **love remains, because love can flow along with the ways that things change. Love is as supple as the world, and the world’s transformations cannot erase it.**
+- **Love is the opposite of identity and the secret to adaptation.**
+
+### Part One: ZHUANGZI
+
+- Past decisions are always revisable, so the work of choosing who to be is never finished.
+- The wu 吾 is not defined by any identity; its being consists, rather, in not being identifiable. Put bluntly, the being of the wu 吾 consists ultimately in not knowing what it is.
+- Appreciating the transformation of things is to understand that things have no essential identities, including oneself.
+- **trying to be like yourself is no better than trying to be like somebody else.**
+- **The connection between identity and conflict is strong but subtle.**
+- **Zhuangzi depicts a world of transformation, indistinctness and irreducible ambiguity. To give up on the pursuit of identity would then be to make peace with such a world.**
+- **we can hold back from the value judgements, we can ease off on the identity-crafting.**
+
+### Part Two: SPINOZA
+
+- We desire great moral triumphs in the world. But, when we wrench these desires out of their framing and see them plainly, we are sometimes embarrassed to discover their hidden egotism – to find that they are really desires to be the hero fighting for the great causes.
+- The beauty of this is that it solves the paradox of authenticity. By rebelling, you show your authenticity – you are your own independent person not pandering to the authorities. By conforming, you show that you are (spontaneously, of course) pandering to the de facto authority of the crowd, identifying with approved models
+- **In general, a determinate thing is defined by its nonexistence – its negation – as much as its existence**
+
+### Part Three: GIRARD
+
+- Humans simply cannot help but be mimetic. The more individual they think they are, the more mimetic they are being
+- **What we see of others is only their wo 我 – their apparent identity. But we are conscious of our own wu 吾 – our unselfing self that can always abandon identity and choose another.**
+- The more mass-produced the objects are, the less satisfying they are to mimetic desire,
+- Models become rivals as soon as we imitate their desire for a non-shareable object – even if the object is something as intangible as prestige. The more a model tries to retain an object, the more driven we will be to take it, intensifying the rivalry towards a crisis point.
+- **Making approval cheap does not make the competition for it any less fierce, although it does reduce the satisfaction per unit, as all mass production does.**
+- When we look honestly within ourselves, what we find is not blank nothingness. It is, on the contrary, a teeming chaos of overlapping half-identities and partial definitions – abundant material for defining an identity, but none of it fully definitive
+
+### Conclusion: Against Identity
+
+- **identity fixes us in place while the world is always transforming. Holding onto identity means failing to keep up with the world and being left behind as time flows on.**
+- first step is to see the trick of identity for what it is: your identity was never yours in the first place. It is always borrowed from a model.
+- **we could embrace a model of superdeterminacy, of a type of being that embraces all possible identities while being defined by none of them, then we could achieve a new sort of peace, both inner and outer.**
+- **By refusing the distinctions of prestige and status, you threaten to reveal their arbitrariness to the world, and those whose very being depends on those distinctions will fight - to prevent that, without even knowing what they are doing.**
+- people do not innovate well under the close surveillance of an identity regime. **The crowd does not tolerate being snubbed by those who presume to operate without its approval. Maintaining the correctness of its own identity means condemning those who diverge from it. This is why internal critics in a religious or political movement are dealt with much more harshly than the external enemies**
+- **Attempted self-emulation does not lead out of the trap of identity. It drives you deeper into imitation and rivalry while also hiding this truth from yourself.**
+- **Individual identity is not a way to escape from the crowd; it is the receiver for remote control by the crowd, whose power over the individual lies in pride and the fear of shame.**
 
 ## Raw notes
 
@@ -18,10 +62,10 @@ who you happen to be right now define who you essentially are.
 - Since introspection reveals nothing, we have no choice but to look outwards, to others – real or fictional – as models of our true being. Find the ones who stir your admiration - and take them as exemplars for your best self.
 - The philosophy examined here warns of the danger of these individualistic philosophies and presents an alternative.
 - it aims to understand how identity is formed, in order to escape it altogether.
-- Some psychologists distinguish between identity and self. Your identity is a specific concept of your persona, role or social position. Your self is the subject that inhabits and operates your identity.9
+- Some psychologists distinguish between identity and self. Your identity is a specific concept of your persona, role or social position. Your self is the subject that inhabits and operates your identity.
 - The starting point of the philosophy explored here is the theory that 
 - identity – the concept or description under which the self is known – comes from the observation of others. The process by which essential identity is thus modelled and then - imposed is destructive.
-- No matter how deeply you push yourself into your chosen essential identity, there will always be some residue that refuses to be absorbed – some remainder that cannot be - resolved.11 This is the portion of the self that lies, always, beyond identity.
+- No matter how deeply you push yourself into your chosen essential identity, there will always be some residue that refuses to be absorbed – some remainder that cannot be - resolved. This is the portion of the self that lies, always, beyond identity.
 - If we were instead to strive to overcome the hunger for identity, then we could remain happily indefinite and enjoy whatever concatenation of accidents happens to be bestowed - upon us by external circumstances and spontaneous inner drives.
 - Those whose character makes them seem likely to transgress, who do not seem to be the right 
 - sort of person, are far more likely to be accused of breaking the rules and often punished as a precautionary measure.
@@ -29,10 +73,11 @@ who you happen to be right now define who you essentially are.
 - If changing somebody’s mind requires you to change who they think they are, then what you need is not rational arguments but ways to undermine your opponents’ sense of self or - self-respect.
 - Identity stops the world from working together to solve its common problems. It also makes people vulnerable to misinformation, thus 
 - reinforcing polarization by making each party feel like all the facts are on their side.
-- we often do not get as far as thinking about whether we can really imagine the beliefs we loudly profess to as actually being true.20
+- we often do not get as far as thinking about whether we can really imagine the beliefs we loudly profess to as actually being true.
 - Cultural outsiders tend to cope by going in one of two directions. Either they throw themselves into beating the indigenous at 
 - their own game, rapidly mastering new techniques of status and identity, or they try to take advantage of their outside perspective to escape the game altogether. After a series - of embarrassing failures with the first strategy, I was left with the second. I believe the philosophers that I present here went the same way.
-- When we and our political rivals suddenly find ourselves in common difficulty, you might think that we could put aside our differences and find solidarity in a shared struggle. - But then we would lose our tribal identity: better to both lose as opposing sides than both win and risk merging into the people we have defined ourselves by hating.
+- When we and our political rivals suddenly find ourselves in common difficulty, you might think that we could put aside our differences and find solidarity in a shared struggle.
+- But then we would lose our tribal identity: better to both lose as opposing sides than both win and risk merging into the people we have defined ourselves by hating.
 Trying to hold onto things the way they are is a losing game. But love remains, because love can flow along with the ways that things change. Love is as supple as the world, and - the world’s transformations cannot erase it. Love is the opposite of identity and the secret to adaptation.
 - It is thoroughly inconsistent with egotism and ambition.
 - Rather than building profiles to fill the blank space of our fundamental indeterminacy, or hopelessly defying it as some existentialists suggest, we can make peace with this - indeterminacy.
@@ -46,7 +91,7 @@ Trying to hold onto things the way they are is a losing game. But love remains, 
 - In demanding that people be sincere in their roles, Confucius exposed the possibility of its opposite: a father who is only pretending to be a father, a subject who merely feigns - subservience. The possibility of insincerity reveals that roles are not fully definitive.
 - Past decisions are always revisable, so the work of choosing who to be is never finished.
 - The search for identity is interminable. Whatever you find or choose as your identity can always at the next moment be rejected. Culture can influence, but it does not compel. - Therefore, finding or choosing your identity is never a completed task.
-- The wu 吾 is not defined by any identity; its being consists, rather, in not being identifiable.40 Put bluntly, the being of the wu 吾 consists ultimately in not knowing what it is. 
+- The wu 吾 is not defined by any identity; its being consists, rather, in not being identifiable. Put bluntly, the being of the wu 吾 consists ultimately in not knowing what it is. 
 - The wu 吾 can grasp at various wo 我 to solve the enigma of the self, but these answers 
 - will only ever be provisional, always subject to revision, never ultimately satisfying.
 - Appreciating the transformation of things is to understand that things have no essential identities, including oneself.
@@ -62,9 +107,9 @@ Trying to hold onto things the way they are is a losing game. But love remains, 
 - Identity does not necessarily lead to conflict and violence. But Zhuangzi exposes why it does so often, and why it is always something to be feared. He also presents it as - grounded in a fundamentally mistaken view of the ultimate nature of reality.
 - Suppose that things are not so distinct and demarcated as we think. Suppose that they are not so straightforwardly what they are.
 - Zhuangzi depicts a world of transformation, indistinctness and irreducible ambiguity. To give up on the pursuit of identity would then be to make peace with such a world.
-- By deeming a thing one way, we touch the possibility of deeming it another way.21
+- By deeming a thing one way, we touch the possibility of deeming it another way.
 - He advances it as a therapeutic instrument for loosening the attachment to your own perspective, which is what drove you to see other perspectives as rivals in the first place
-- ming 冥 – ‘arcanely merge’ – perspectives into each other.31
+- ming 冥 – ‘arcanely merge’ – perspectives into each other.
 - The lesson of perspectivism is not that we can justify our own perspective as valid relative to itself; it is that we should attain an open heart. 
 - But as you stray further from the context, the qualities become less familiar, the patterns are less recognizable, and your judgements miss the point.
 - is precisely this fluidity of identity that leads us to exert so 
@@ -109,9 +154,8 @@ Trying to hold onto things the way they are is a losing game. But love remains, 
 
 #### 8. Desiring Otherwise
 
-- We are prone to desire what others around us appear to desire, and this appearance can be a matter of a misread signal, a rumour, an accident mistaken for a ploy.8
-- What creates the illusion that others are spared this misfortune? What we 
-- see of others is only their wo 我 – their apparent identity. But we are conscious of our own wu 吾 – our unselfing self that can always abandon identity and choose another.
+- We are prone to desire what others around us appear to desire, and this appearance can be a matter of a misread signal, a rumour, an accident mistaken for a ploy.
+- What creates the illusion that others are spared this misfortune? What we see of others is only their wo 我 – their apparent identity. But we are conscious of our own wu 吾 – our unselfing self that can always abandon identity and choose another.
 - more typically modern way of dealing with mimetic conflict is through mass production. Having more goods reduces the probability that desires will converge on them.
 - But Girard warns that this solution comes with a side-effect. The more mass-produced the objects are, the less satisfying they are to mimetic desire,
 
@@ -127,8 +171,7 @@ The problems
 - When we look honestly within ourselves, what we find is not blank nothingness. It is, on the contrary, a teeming chaos of overlapping half-identities and partial definitions – abundant material for defining an identity, but none of it fully definitive
 - propose that this ‘more real form of identity’ is really communion in a shared identitylessness.
 - To use the terms of the Zhuangzi, explored in Chapter 2 above, we merge arcanely (ming 冥) into each other. We join in superdeterminacy. 
-- We might find many things of value in such common identities, and we might achieve a great deal, but we will only 
-- find harmony by giving up our attachment to identity in general, by ‘vanishing into things’. Only a superdeterminate being can model that for us.
+- We might find many things of value in such common identities, and we might achieve a great deal, but we will only find harmony by giving up our attachment to identity in general, by ‘vanishing into things’. Only a superdeterminate being can model that for us.
 
 ### Conclusion: Against Identity
 
