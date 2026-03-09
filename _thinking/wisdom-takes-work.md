@@ -3,9 +3,42 @@ layout: page
 title: Wisdom takes work
 notes: true
 added: 2026-01-08
-updated: 2026-01-08
+updated: 2026-03-09
 wip: true
 ---
+
+## Gathered notes
+
+- Courage. Temperance. Justice. Wisdom.
+- **Worthwhile things (like love, happiness, wisdom) can’t be accessed through hacks or shortcuts**
+- **Education is something that does not end**
+    - **Education and experience are a loop—a mutually reinforcing process**
+- Books allow us to gain cheaply knowledge that someone else gained through pain and suffering
+- Seneca said that we ought to read like a scout in the enemy’s camp—**exploring ideas we disagree with or schools of thought we know nothing about**.
+- The importance of intensely looking, with dedication and without interruption
+- **Study all systems but make your own—one you’ll actually use**
+- **A student in a hurry learns the slowest**
+- “That men do not learn very much from the lessons of history is the most important of the lessons that history has to teach us,” Aldous Huxley once said.
+- **Getting the body moving unlocks something in the mind.**
+- **Only a fool neglects the body in favor of the mind, or the mind in favor of the body.**
+- Expertise is a function of interest, teachers, and drive.
+- Aristotle taught that one must **go to the origins of things, go all the way to the primary truth of the matter, instead of just accepting common observation or belief**.
+- the leader’s job is to be strategic and **proactive, calm, controlled**, to **prevent drama, not seek it out.**
+- Only a fool goes with their first thought. **A wise person takes time to contemplate.**
+- **We cannot make others see what we first have not properly considered ourselves.** Could you have artificial intelligence do it for you? Or a ghostwriter? Maybe—but it would defeat the purpose. **We think as we write.**
+- Try to make connections between what’s happening now and what has happened before.
+- **Wisdom emerges when we slow down. When we have quiet. When we take care of ourselves.**
+- **Exposure to conflicting and challenging ideas makes us stronger.**
+- We must seek out disagreement. We must seek out discomfort.
+- Wisdom is not erratic. It is not impulsive or emotional. **It is calm. It’s cool. It’s patient. It’s kind.** It is philosophical.
+- **Diogenes points out, you’re supposed to speed up, not slow down, as you approach the finish line of a race.**
+- Learn as if you were going to live forever, Live as if you were going to die tomorrow.
+- Wisdom is not rigid.
+- A wise person ... not only resists the straw man but steel mans the ideas they disagree with.
+- We should become philosophical, which is to say **calm and patient and relaxed.**
+- **We can create happiness in ourselves by thinking of ourselves less and thinking of others more.**
+- **We must embrace the paradox that happiness is essential but not something we can aim at.**
+
 
 ## Raw notes
 
@@ -52,7 +85,7 @@ wip: true
 #### Learn to Listen
 
 - a listening tour or a fact-finding mission. It’s a shame that those phrases have become political clichés, because they’re essential and all too rare in practice.
-- We can see in that book, especially the first chapter, just how much Marcus got from his teachers and mentors over the years. Reread this, make my version
+- We can see in that book, especially the first chapter, just how much Marcus got from his teachers and mentors over the years. 
 - Don’t be a big mouth. Be a giant ear. Talk less. Listen.
 
 #### Create a Second Brain
@@ -65,7 +98,7 @@ wip: true
 
 #### Find Your Teacher
 
-- A student in a hurry learns the slowest.”
+- A student in a hurry learns the slowest.
 
 #### Become an Apprentice
 
@@ -201,7 +234,9 @@ wip: true
 #### Be a Teacher
 
 - “The process is mutual,” Seneca said of mentorship, “for men learn as they teach.”
-- Embrace the Mystery
+
+#### Embrace the Mystery
+
 - “negative capability,” the ability to be “in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.”
 -  Wisdom is not rigid.
 - “The test of a first-rate intelligence,” F. Scott Fitzgerald reminds us, “is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
@@ -233,7 +268,9 @@ wip: true
 
 - Lincoln understood that humor was a powerful tool. That it not only relieved tension, but was an effective way of making a point.
 - A laugh helps the truth land better. It’s disarming.
-- Don’t Lose the Wonder
+
+#### Don’t Lose the Wonder
+
 - No one can accomplish greatness in any field if they are not driven by love and fascination and genuine reverence. Nor can anyone continue in their pursuit of wisdom if, with the knowledge they acquire, they become jaded and cynical.
 - Goethe
 - The Sorrows of Young Werther
@@ -241,7 +278,9 @@ wip: true
 #### Grasp the Essence
 
 - People miss the point. They miss the forest for the trees. Their preconceived notions blind them, their minds are too full to take on the right information.
-- Pass the Final Test
+
+#### Pass the Final Test
+
 - this is why we turn to philosophy—to help us make sense of the human condition, to help us resolve the most nagging and painful of thoughts.
 - He wanted, he said, for death to find him planting his cabbages, not worrying about mortality or the state of his garden, simply enjoying the moment he was in.
 - Wisdom Is Virtue. Virtue Is Wisdom.
