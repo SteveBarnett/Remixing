@@ -2,10 +2,32 @@
 layout: page
 title: Taking the Path of Zen
 added: 2026-03-09
-updated: 2026-03-09
+updated: 2026-03-11
 zennotes: true
 wip: true
 ---
+
+## Gathered notes
+
+- The three concerns of the Zen student
+    1. being alive is an important responsibility
+    2. we have little time to fulfil that responsibility
+    3. rigorous practice is necessary for fulfilment.
+- Be relentless in our pursuit of the truth
+- If you curse yourself, you are postponing your practice.
+    - If you simply tick off the error and resolve to do better next time, then you are ready to practice.
+    - Self-hate and self-rejection are blind alleys for the Zen student.
+- With earnest zazen, character change does occur, but this is not a matter of ego-adjustment. It is forgetting the self.
+- Forgetting the self is the act of just doing the task, with no self-consciousness sticking to the action.
+    - It is thinking of something other than the matter at hand that separates us from reality and dissipate our energies.
+- If we deny teacher, fellow students, and our spiritual home we are stuck in an empty place.
+- Ritual is an opening for the experience of forgetting this self as the words or the action become one with you and there is nothing else.
+- Take each thing in its turn with full attention.
+- That is the error of the perfectionist. Bring your target up close so that you can hit the bull’s-eye each time and then gradually move them to greater distances for greater achievements.
+- You are not fundamentally seeking “good condition” of quiet or avoiding “bad condition” of noise.
+- Look the problem in the eye and its hidden cause may come forth and surprise you.
+- The roshi is a guide through unknown lands.
+    - The heart of Zen Buddhism lies in dialogue.
 
 ## Raw notes
 
@@ -17,7 +39,7 @@ wip: true
 
 > I bet to urge you, everyone: life and death is a grave matter, all things pass quickly away; each of us must be completely alert: never neglectful, never indulgent.
 
-- It expresses the three concerns of the Zen student: first, being alive is an important responsibility; second we have little time to fulfil that responsibility; and third, rigourous practice is necessary for fulfilment.
+- It expresses the three concerns of the Zen student: first, being alive is an important responsibility; second we have little time to fulfil that responsibility; and third, rigorous practice is necessary for fulfilment.
 - Like the Buddha, however, we can be relentless in our pursuit of the truth we sense from the beginning.
 - **The Middle Way is not halfway between extremes, but a completely new path.**
 - (Nonduality is) "not even one," as Yamada Roshi likes to say.
