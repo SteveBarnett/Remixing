@@ -2,10 +2,31 @@
 layout: page
 title: 'Maintenance: Of Everything'
 added: 2026-03-08
-updated: 2026-03-08
+updated: 2026-03-11
 notes: true
 wip: true
 ---
+
+## Gathered notes
+
+- Mission command style improves operational tempo
+
+### Theory
+
+- When you take responsibility for something, you enter into a contract to take care of it.
+- The necessity of maintenance accumulates invisibly and gradually.
+    - There’s no reward when you do it and no reward later–just the unnoticeable absence of pain.
+- If a thing is used hard, it has to be maintained hard.
+- Old systems fail in familiar and prepared-for ways. New systems fail in new and unprepared-for ways.
+- Maintainers are realists.
+- Maintenance prowess is core to rapid adaptivity under duress.
+- The power to maintain is the power to improve.
+
+### Practice
+
+- Skilled maintainers advise never trying to solve a new or complex problem without a thorough mulling first.
+- Beware iatrogenic repair–when a sloppy attempt to fix a problem makes the problem worse or adds a new one.
+- Another element of mastery, Pirsig says, is to acquire the best tools you can afford and become skilled with them.
 
 ## Raw notes
 
@@ -42,7 +63,3 @@ wip: true
 - [System Sustainment: Acquisition and Engineering Processes for the Sustainment of Critical and Legacy Systems](https://www.goodreads.com/book/show/77131676-system-sustainment)
 - **If a thing is used hard, it has to be maintained hard.**
 - **Maintainers are realists.**
-
-
-
-
