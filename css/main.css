@@ -210,13 +210,6 @@ h1 {
   margin-top: 0;
 }
 
-div:target h1:before, div:target h2:before, div:target h3:before,
-h1:target:before, h2:target:before, h3:target:before,
-strong:target:before, span:target:before {
-  content: "→";
-  margin-right: 0.25em;
-}
-
 div, h1, h2, h3, strong, span {
   scroll-margin-top: 1rem; 
 }
@@ -231,16 +224,28 @@ a:hover {
 }
 
 a:focus,
+summary:focus,
+input:focus,
+button:focus,
+div:target h1,
+div:target h2,
+div:target h3,
+div:target h4,
+h1:target,
+h2:target,
+h3:target,
+h4:target,
+strong:target,
+span:target  {
+  outline: 0.1em dashed #360;
+  outline-offset: 0.05em;
+}
+
+a:focus,
 summary:focus {
   text-decoration: none;
   color: #007;
   background-color: #bbf;
-  outline: 0.1em solid #630;
-}
-
-input:focus,
-button:focus {
-  outline: 0.1em solid #630;
 }
 
 .notes {
@@ -443,10 +448,6 @@ a:hover {
   color: #272;
 }
 
-a:focus {
-  outline-offset: 0.15em;
-}
-
 a:focus,
 summary:focus {
   color: inherit;
@@ -472,19 +473,26 @@ summary:focus {
     color: #afa;
   }
 
-  a:focus {
-    outline-offset: 0.15em;
-  }
-
   a:focus,
-  summary:focus {
-    outline-color: #fff;
-  }
+  summary:focus,
+  input:focus,
+  button:focus,
+  div:target h1,
+  div:target h2,
+  div:target h3,
+  div:target h4,
+  h1:target,
+  h2:target,
+  h3:target,
+  h4:target,
+  strong:target,
+  span:target  {
+      outline-color: #fff;
+    }
 
   input:focus,
   button:focus {
     outline: 0.1em solid #afa;
-    outline-offset: 0.1em;
   }
 
   body > nav a[aria-current="page"] {

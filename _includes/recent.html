@@ -4,7 +4,7 @@
 {%- for sectionpost in sectionposts limit: 7 -%}
 
 <li data-month="{{ sectionpost.updated | date: "%m" }}">
-  {% if sectionpost.wip %}► {% endif %} <a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
+  {% if sectionpost.wip %}→ {% endif %} <a href="{{ sectionpost.url }}">{{ sectionpost.title }}</a> (added {{ sectionpost.added }}{% if sectionpost.updated !=  sectionpost.added %}, updated {{ sectionpost.updated }}{% endif %})
 </li>
 
 {%- endfor -%}
