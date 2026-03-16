@@ -2,10 +2,19 @@
 layout: page
 title: 'Maintenance: Of Everything'
 added: 2026-03-08
-updated: 2026-03-11
+updated: 2026-03-17
 notes: true
-wip: true
 ---
+
+## Whittled notes
+
+- Mission command style improves operational tempo.
+- Being skilled at maintenance is important for being adaptive under stress.
+- Maintenance debt accrues slowly and invisibly.
+    - The benefits of doing maintenance are hard to notice: just an absence of pain.
+- Old systems fail in familiar and prepared-for ways. New systems fail in new and unprepared-for ways.
+    - Don't try and solve a new or complex problem without thinking it through deeply first.
+- Get the best tools you can and become skilled with them.
 
 ## Gathered notes
 
