@@ -3,9 +3,16 @@ layout: page
 title: Wisdom takes work
 notes: true
 added: 2026-01-08
-updated: 2026-03-09
-wip: true
+updated: 2026-03-17
 ---
+
+## Whittled notes
+
+- Worthwhile things take time.
+- Education takes time. Education and experience are an ongoing feedback loop.
+- Study widely, study deeply, study conflicting and challenging ideas.
+- Study many systems, but make your own.
+- If you're stuck mentally, get moving physically.
 
 ## Gathered notes
 
