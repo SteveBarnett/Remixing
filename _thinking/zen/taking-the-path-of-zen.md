@@ -2,17 +2,31 @@
 layout: page
 title: Taking the Path of Zen
 added: 2026-03-09
-updated: 2026-03-11
+updated: 2026-03-17
 zennotes: true
-wip: true
 ---
+
+## Whittled notes
+
+- The three concerns of the Zen student
+    1. being alive is an important responsibility
+    2. we have little time to fulfil that responsibility
+    3. rigorous practice is necessary for fulfilment
+- **Self-hate is just postponing practice**
+- Sitting zazen changes your character, through forgetting the self
+- Full attention on the task, nothing else, no self-consciousness
+    - Rituals help. We become one with the action.
+- Watch for perfectionism
+    - Bring the target close enough to bull's-eye every time, then start moving it backwards
+- The heart of Zen Buddhism lies in dialogue
+    - The roshi is a guide through unknown lands
 
 ## Gathered notes
 
 - The three concerns of the Zen student
     1. being alive is an important responsibility
     2. we have little time to fulfil that responsibility
-    3. rigorous practice is necessary for fulfilment.
+    3. rigorous practice is necessary for fulfilment
 - Be relentless in our pursuit of the truth
 - If you curse yourself, you are postponing your practice.
     - If you simply tick off the error and resolve to do better next time, then you are ready to practice.
