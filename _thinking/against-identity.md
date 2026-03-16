@@ -2,16 +2,23 @@
 layout: page
 title: Against Identity
 added: 2026-02-07
-updated: 2026-03-09
+updated: 2026-03-17
 longerform: true
-wip: true
 ---
+
+## Whittled notes
+
+- The power of the undefined (empty as in all-embracing multiplicity) is lost by being forced into something definite.
+- Strive to overcome the hunger for identity. Remain empty and enjoy the playing out of the causes and conditions of your life.
+- Identity reinforces polarisation.
+- Love is the opposite of identity and the secret to adaptation.
+    - Love flows along with the way things change.
 
 ## Gathered notes
 
-- **The power of the undefined is lost by being forced into something definite.** Our inner being is not a blank emptiness; it is an all-embracing multiplicity:
+- **The power of the undefined is lost by being forced into something definite.** Our inner being is not a blank emptiness; it is an all-embracing multiplicity.
 - Some psychologists distinguish between identity and self. Your identity is a specific concept of your persona, role or social position. Your self is the subject that inhabits and operates your identity
-- If we were instead to strive to overcome the hunger for identity, then we could remain happily indefinite and enjoy whatever concatenation of accidents happens to be bestowed - upon us by external circumstances and spontaneous inner drives.
+- If we were instead to strive to overcome the hunger for identity, then we could remain happily indefinite and enjoy whatever concatenation of accidents happens to be bestowed upon us by external circumstances and spontaneous inner drives.
 - Identity stops the world from working together to solve its common problems. It also makes people vulnerable to misinformation, thus reinforcing polarization by making each party feel like all the facts are on their side.
 - **love remains, because love can flow along with the ways that things change. Love is as supple as the world, and the world’s transformations cannot erase it.**
 - **Love is the opposite of identity and the secret to adaptation.**
