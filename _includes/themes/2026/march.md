@@ -3,6 +3,8 @@
 - **Vocation**
     - **Focus: "This is for everyone"**. Prepping talks, writing (blog post(s)).
     - Update speaking photos on HC
+    - Crop new profile photo
+    - Update profile photo everywhere 
     - "New / More / Faster" post
         - Link to the human impact
         - Check bookmarks
