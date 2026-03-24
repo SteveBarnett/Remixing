@@ -2,8 +2,10 @@
 
 - **Vocation**
     - **Focus: "This is for everyone"**. Prepping talks, writing (blog post(s)).
+    - Update speaking photos on HC
     - "New / More / Faster" post
         - Link to the human impact
+        - Check bookmarks
         - "Save on influencer-loved picks" on Amazon 😬
     - AIR updates
         - Review existing stuff
@@ -12,7 +14,9 @@
             - More clear alternatives, positive and open stance
         - Pyramid shape
         - Then leave it
+    - Claude counterweight `SKILL.md` sketch
     - A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April
+    - Inclusive Design 24 pitch(es), CFPs close 31 May
     - Prep for NZTR in May
         - Trim for 20m, key points
     -  ✔ ~~Code Camp in March (10m lightning talk)~~

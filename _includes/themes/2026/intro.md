@@ -1,0 +1,176 @@
+## Intro
+
+My [theme for last year](/theme/2024/) was "acceptance".
+
+<div markdown="1" class="boxout-light"> 
+My theme for 2026 is **taking care**.
+</div>
+
+Something like:
+
+- Focusing on the **relation(ship)s**
+- Considering the **context**
+- **Listening**, carefully and respectfully
+    - Asking why, discovering the underlying need
+- Giving and asking for **help** when it's needed
+- Expressing **gratitude**
+- **Unity** and harmony: combining poles, resisting division
+    - Reason with emotion
+    - Mind with body
+    - Self with others
+- Noticing the cost of carelessness
+
+### Other things
+
+- Trying no buying new books (appreciate and read the ones I have)
+- Trying no buying new games (appreciate and play the ones I have)
+
+## Layers
+
+- People: self, friends, strangers
+- Scope: quest, project, task
+- Mental: beliefs, habits and pattern, actions
+- Systems of: record, differentiation, innovation
+
+What's a slow layer? Fast? In-between?
+
+## Gates: VHIP
+
+<div markdown="1" class="boxout-light">
+Gates for practice this year are **V**ocation, **H**ealth, **I**nterests (art, creative projects, hobbies), **P**ractice.
+</div>
+
+These are very similar to last year. One change is *Work* to *Vocation* to more accurately reflect my approach to it and feelings about it.
+
+### Vocation
+
+Care:
+
+- Doing what's best for users, then clients, then us (See [Priority of Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies))
+- Considering the long-term impact and second-order effects of our choices
+
+Layers:
+
+- Me, co-workers, co-professionals
+- Company, clients, end-users
+
+Activities:
+
+- Write at least one thing a month
+- Talk and/or facilitate something a few times in the year
+
+### Health
+
+Care:
+
+- For my body
+- For my friends
+- For myself
+
+Layers:
+
+- Body, mind, "spirit"
+- Drinking, eating, exercising
+- Social: solo, friends, clubs
+
+Activities:
+
+- Keep walking
+- Figure out the next bump
+- Socialising (health is not just physical)  
+
+### Interests
+
+Care
+
+- Paying (more) attention to the world
+
+Layers:
+
+- Medium, project, piece
+
+Activities:
+
+- Drawing (Urban sketching, people)
+- Reading (All The Things!)
+- Music (Ableton and piano)
+- Cooking (Learn Korean)
+
+### Practice
+
+Care: spiritual self-care, supporting the other gates.
+
+Layers:
+
+- Sit, study, act
+
+Activities:
+
+- Meditating, at least once a day
+    - Close the work day with a sit
+    - Keep sitting with [The Way app](https://www.thewayapp.com/)
+- Track Valued Action in daily reflections
+- Join a sangha
+- Study
+
+## Valued Action: care
+
+<div markdown="1" class="boxout-light">
+Continued recommitment to aligning my actions with my values.
+</div>
+
+This year I'm going to focus on one value: **care**. But/and I'm going to come at it from a bunch of different angles, slices, layers, using the [tools from my MAP](/thinking/map/#tools).
+
+A longer version could be:
+
+- **R**efrained, **I**mperfect, **C**elebratory, **C**aring
+- Or: **R**efrainer, **I**mperfectionist, **C**elebrator, **C**arer
+
+Other ways to approach valued action: as koans; as precepts.
+
+<details>
+<summary markdown="1">
+### Valued Action from a more Precept-y angle
+</summary>
+<div>
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Key</th>
+      <th scope="col">Refrained</th>
+      <th scope="col">Imperfect</th>
+      <th scope="col">Celebratory</th>
+      <th scope="col">Caring</th>
+    </tr>
+    <tr>
+      <th scope="row">Prohibition</th>
+      <td>Non-indulgence</td>
+      <td>Non-perfection</td>
+      <td>Non-rushing</td>
+      <td>Non-uncaring</td>
+    </tr>
+    <tr>
+      <th scope="row">Aspiration</th>
+      <td>To slow down and act in a measured way</td>
+      <td>To accept imperfections with grace and humour</td>
+      <td>To acknowledge successes and reinforce good behaviour</td>
+      <td>To take (more) care</td>
+    </tr>
+    <tr>
+      <th scope="row">Inspiration</th>
+      <td>There's no need to run away</td>
+      <td>Humans can't avoid making mistakes</td>
+      <td>We change from feeling good, not from feeling bad</td>
+      <td>Take care of people's suffering, including your own</td>
+    </tr>
+    <tr>
+      <th scope="row">Task</th>
+      <td>Let go of reactivity</td>
+      <td>Embrace Life</td>
+      <td>See the ceasing of reactivity</td>
+      <td>Act</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</details>
