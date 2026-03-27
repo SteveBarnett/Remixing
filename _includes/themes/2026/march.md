@@ -2,25 +2,20 @@
 
 - **Vocation**
     - **Focus: "This is for everyone"**. Prepping talks, writing (blog post(s)).
-    - Update speaking photos on HC
-    - Crop new profile photo
-    - Update profile photo everywhere 
-    - "New / More / Faster" post
+    - → "New / More / Faster" post
         - Link to the human impact
         - Check bookmarks
         - "Save on influencer-loved picks" on Amazon 😬
-    - AIR updates
-        - Review existing stuff
-        - Applied to local AIs
-        - More clear Slow playbook angle
-            - More clear alternatives, positive and open stance
-        - Pyramid shape
-        - Then leave it
-    - Claude counterweight `SKILL.md` sketch
     - A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April
     - Inclusive Design 24 pitch(es), CFPs close 31 May
+    - Claude counterweight `SKILL.md` sketch
     - Prep for NZTR in May
         - Trim for 20m, key points
+    - ✔ ~~AIR updates~~
+        - ✔ ~~Review existing stuff~~
+    - ✔ ~~Update speaking photos on HC~~
+    - ✔ ~~Crop new profile photo~~
+    - ✔ ~~Update profile photo everywhere~~
     -  ✔ ~~Code Camp in March (10m lightning talk)~~
         - [The fiction of non-friction being favourable](https://human-centred.nz/2026/03/16/the-fiction-of-non-friction-being-favourable/)
         - ✔ ~~More updates from scribbles~~
