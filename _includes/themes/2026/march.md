@@ -2,10 +2,6 @@
 
 - **Vocation**
     - **Focus: "This is for everyone"**. Prepping talks, writing (blog post(s)).
-    - → "New / More / Faster" post
-        - Link to the human impact
-        - Check bookmarks
-        - "Save on influencer-loved picks" on Amazon 😬
     - A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April
     - Inclusive Design 24 pitch(es), CFPs close 31 May
     - Claude counterweight `SKILL.md` sketch
@@ -28,7 +24,6 @@
     - → Commute (including Fake) every day
 - **Interests**
     - **Focus: "Relight my fire"**
-    - → Glitchy, low-res, seigaiha
     - Find some inspiration: art gallery or books
         - → The War of Art
         - → The World photobook
@@ -39,21 +34,22 @@
         - Markup existing stuff
         - Make a plan for March
         - Read those talk transcripts
+    - ✔ ~~Glitchy, low-res, seigaiha~~
     - → Always have a book on hand
 - **Practice**
-    - **Focus: "Tidy things up**
-    - Make a small pack of VHIP cards
+    - **Focus: "Tidy things up"**
     - Plan mid-April solo retreat
+    - Swedish Death Clean
+    - Make a small pack of VHIP cards
     - Write about sangha resistance
-    - Swedish Death Clean: the two-by-two cupboards
     - Try a Zen group again
     - Write about Urban Sketching resistance
     {% if NumberOfWIPPosts > 0 %}- [Work In Progress](/thinking/archive/?s=→#main-header){% endif %}
         {% for WIPPost in WIPPosts %}
         - [{{ WIPPost.title }}]({{ WIPPost.url }})
         {% endfor %}
-    - Reread some Cynics
     - → Difficult media, as motivation
+    - ✔ ~~"New / More / Faster" post~~
     -  ✔ ~~Finish up the outstanding WIPs~~
 
 Archives: [month 03](/2026/03/); [week 09](/2026/week/09/), [week 10](/2026/week/10/), [week 11](/2026/week/11/).
