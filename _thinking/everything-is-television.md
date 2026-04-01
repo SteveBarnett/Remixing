@@ -3,7 +3,6 @@ layout: page
 title: Notes from 'Everything Is Television - Derek Thompson'
 added: 2026-03-18
 updated: 2026-03-18
-wip: true
 ---
 
 Notes from [Everything Is Television - Derek Thompson](https://www.derekthompson.org/p/why-everything-became-television).

@@ -4,7 +4,6 @@ title: How to Read a Tree
 notes: true
 added: 2026-03-12
 updated: 2026-03-12
-wip: true
 ---
 
 ## Raw notes
