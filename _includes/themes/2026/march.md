@@ -52,4 +52,4 @@
     - ✔ ~~"New / More / Faster" post~~
     -  ✔ ~~Finish up the outstanding WIPs~~
 
-Archives: [month 03](/2026/03/); [week 09](/2026/week/09/), [week 10](/2026/week/10/), [week 11](/2026/week/11/).
+Archives: [month 03](/2026/03/); [week 09](/2026/week/09/), [week 10](/2026/week/10/), [week 11](/2026/week/11/), [week 12](/2026/week/12/).
