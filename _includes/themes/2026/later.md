@@ -34,6 +34,10 @@
     - Tidy up monster corner
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
 - Practice
+    - [WASD book](/thinking/work-and-secular-dharma/)
+        - Markup existing stuff
+        - Make a plan for March
+        - Read those talk transcripts
     - Quick think about revamp remixing IA, especially music, art, thinking
     - Reread some Cynics
     - Reread some bell hooks

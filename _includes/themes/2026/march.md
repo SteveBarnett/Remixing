@@ -53,3 +53,14 @@
     -  ✔ ~~Finish up the outstanding WIPs~~
 
 Archives: [month 03](/2026/03/); [week 09](/2026/week/09/), [week 10](/2026/week/10/), [week 11](/2026/week/11/), [week 12](/2026/week/12/).
+
+#### End of month review: March
+
+- Vocation
+    - Focus: "This is for everyone". Okay. Didn't do pitches or TR prep, but did do Code Camp, and that went well. Put new photo errwhere.
+- Health
+    - Focus: "Bit of a stretch". Very mixed. Lots of walking, though.
+- Interests
+    - Focus: "Relight my fire". Awful, essentially zero. 😬
+- Practice
+    - Focus: "Tidy things up". Pretty okay. Wrote some, finished a bunch of WIP, big SDC.
