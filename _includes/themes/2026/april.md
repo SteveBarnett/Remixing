@@ -13,8 +13,11 @@
 - **Interests**
     - **Focus: "Nihon, go"**
     - Japan trip places plan
-    - Fast Talk Japanese book
-        - Just start
+    - → Fast Talk Japanese book
+        - ✔ ~~Just start~~
+        - ✔ ~~Make some flash cards~~
+        - → Make more flash cards
+    - Make some peanut butter!
 - **Practice**
     - **Focus: "Remove F&D"**
     - Plan mid-April solo retreat

@@ -18,24 +18,24 @@
         - ✔ ~~Final tweaks!~~
 - **Health**
     - **Focus: "Bit of a stretch"**
-    - → Evening heavy walking with a Waking Up series
+    - Evening heavy walking with a Waking Up series
         - ✔ ~~Pick the first one (DBT series)~~
-    - → Morning stretches
-    - → Commute (including Fake) every day
+    - Morning stretches
+    - Commute (including Fake) every day
 - **Interests**
     - **Focus: "Relight my fire"**
     - Find some inspiration: art gallery or books
-        - → The War of Art
-        - → The World photobook
+        - The War of Art
+        - The World photobook
     - Fast Talk Japanese book
-        - → Make a plan
+        - Make a plan
     - At-home project plan
     - [WASD book](/thinking/work-and-secular-dharma/)
         - Markup existing stuff
         - Make a plan for March
         - Read those talk transcripts
     - ✔ ~~Glitchy, low-res, seigaiha~~
-    - → Always have a book on hand
+    - Always have a book on hand
 - **Practice**
     - **Focus: "Tidy things up"**
     - Plan mid-April solo retreat
@@ -44,7 +44,7 @@
     - Write about sangha resistance
     - Try a Zen group again
     - Write about Urban Sketching resistance
-    - → Difficult media, as motivation
+    - Difficult media, as motivation
     - ✔ ~~"New / More / Faster" post~~
     -  ✔ ~~Finish up the outstanding WIPs~~
 
