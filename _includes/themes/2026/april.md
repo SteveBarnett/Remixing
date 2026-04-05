@@ -22,3 +22,7 @@
     - Write about sangha resistance
     - Try a Zen group again
     - Write about Urban Sketching resistance
+    - Write about "Steady" as a value
+    - Write about humour in practice
+
+Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 13](/2026/week/13/).
