@@ -1,9 +1,9 @@
 ---
 layout: page
 title: AI and ethics
-longerform: true
 added: 2023-06-23
 updated: 2023-08-11
+ai: true
 ---
 
 Things that I'm thinking about:
