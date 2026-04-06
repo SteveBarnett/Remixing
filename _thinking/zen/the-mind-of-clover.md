@@ -4,10 +4,83 @@ title: 'The Mind of Clover: Essays in Zen Buddhist Ethics'
 added: 2026-04-06
 updated: 2026-04-06
 zennotes: true
-wip: true
 ---
 
-## Raw notes
+## Whittled notes
+
+### Zen
+
+- The precepts stop from becoming a hobby for the ego.
+- Getting rid of the self is not possible. Instead we **seek to forget the self by uniting with the Absolute.**
+- **Bowing is the act of throwing everything away.**
+- **Dialogue strikes sparks that neither person could create alone.**
+
+### The path is the goal
+
+- Our everyday life is a great, multifaceted, koan.
+- **Practice is a step-by-step process, but each step is full and complete.**
+- The practice of peace and harmony is peace and harmony, not some technique to induce them.
+
+### Thoughts
+
+- Notice the power of unacknowledged thoughts, and the importance of seeing through them.
+- Reflect on your own suffering and see that it's empty.
+- **Acknowledge thoughts and feelings, make friends with them, see that they're transparent.**
+- "When you meet the Buddha, you kill the Buddha". Kill the thought. Don't let the word, the idea, control you.
+
+### As they are
+
+- The realised mind is at rest, and **deals with things as they are.**
+- **Make necessary corrections finding fault or being haphazard and destructive.**
+
+### Challenges
+
+- We can use tensions and stress creatively, or be used by them.
+- **Frequently clouding the mind sets up a pattern of avoidance.**
+- We can handle challenges by defending or dancing.
+    - **Being ready to dance is freedom from karma, is being open to learning and growth.**
+
+### Lightness and humour
+
+- **Lightness, briskness, and good humour** are hallmarks of the realised person.
+- Self-nature is open, light, brisk.
+
+---
+
+<details>
+    <summary><h2>Gathered notes</h2></summary>
+<div markdown="1">
+- Without the precepts as guidelines, Zen Buddhism tends to become a hobby, made to fit the needs of the ego.
+- Buddha, Dharma, and Sangha can be understood (here) to mean realisation, truth, and harmony.
+- Our everyday life is a great, multifaceted koan
+- Discern the power of unacknowledged thoughts, and the importance of seeing through them.
+- The practice of peace and harmony is peace and harmony, not some technique designed to induce them.
+- Dialogue strikes sparks that neither person alone could create.
+- Practice is a step-by-step process, but each step is full and complete.
+- Tensions can be used creatively, or one can be used by them.
+- The frequent use of [strong drugs] sets up a pattern of avoiding the low emotional places in life.
+- Acknowledging one’s feelings and making friends with them, then they can be seen as truly transparent.
+- The realised mind is at rest, and deals with things as they are.
+- Corrections can be made without finding faults and without being haphazard and destructive.
+- Bowing is the act of throwing everything away.
+- "When you meet the Buddha, you kill the Buddha"– kill that controlling thought. But the Buddha is also our precious teacher, without whom and *which* our practice would be barren. All archetypes and metaphors are like this. If I cannot say "sweet", I cannot speak of [ohia] honey. If I cannot say "red", I cannot describe [Kilauea] volcano erupting at night. But "sweet" and "red" can turn into entities and control us. "Sweet" triggers "sentimental", "red" triggers "communist", and thus we are used by words.
+- How do you handle challenge? You have two options. One is to defend and the other is to dance.
+- The readiness to dance is freedom from karma.
+- The readiness to dance is the readiness to learn, the openness to growth.
+- Getting rid of the self is not possible. What we seek is to forget the self in the act of uniting with something.
+- Reflect on your own suffering and know that it is empty.
+- Lightness and briskness are hallmarks of the realised person.
+- Lightness and good humour as practice will help to steer you correctly.
+- Humour is essential to realisation and communication.
+- When you are light, brisk, and open, you are in touch with the lightness, the briskness, and the openness of self-nature.
+</div>
+</details>
+
+---
+
+<details>
+    <summary><h2>Raw notes</h2></summary>
+<div markdown="1">
 
 ### Chapter One: The Nature of the Precepts
 
@@ -20,7 +93,7 @@ wip: true
 ### Chapter Two: The First Grave Precept: Not Killing
 
 - There are the three elements that a Zen teacher uses in conveying the precepts: the literal, the compassionate, and the essential. Or, as they are more technically termed: the Hinayana, the Mahayana, and the Buddha-nature views.
-- This Boddhisattva practice has its source in zazrn where you discern the power of a single unacknolwedged thought (it carries you away), and **the importance of seeing through it**.
+- This Boddhisattva practice has its source in zazen where you discern the power of a single unacknowledged thought (it carries you away), and **the importance of seeing through it**.
 - Compulsion is weakened by such correction, and next time perhaps the error will be milder. This too is Boddhisattva practice.
 - **The practice of peace and harmony *is* peace and harmony, not some technique designed  to induce them.**
 - Dialogue is the Tao. In Zen Buddhism this is the mondō, questions and answers between teacher and student or student and student, striking sparks that neither creates alone.
@@ -33,7 +106,7 @@ wip: true
 
 ### Chapter Four: The Third Grave Precept: Not Misusing Sex
 
-- The original title of this precept is **"No Unrighteous Lewdness"** (a kind of tautology, which in Chinese–and in older English–can be a strong expression). "Lewdness" has a rather quaint ring in modern English, but its derivation is **instructive**. It comes from an Old English word meaning** "unlearned," implying boorish**, No boorish sex. That's a good precept for us all.
+- The original title of this precept is **"No Unrighteous Lewdness"** (a kind of tautology, which in Chinese–and in older English–can be a strong expression). "Lewdness" has a rather quaint ring in modern English, but its derivation is **instructive**. It comes from an Old English word meaning **"unlearned," implying boorish**, No boorish sex. That's a good precept for us all.
 - Lewdness is boorish; asceticism can be, and often is, boorish. Boorishness is thinking just of one's self.
 - **Tensions can be used creatively, or one can be used by them.**
 - The path you choose rises from your fundamental purpose. Why are you here?
@@ -47,8 +120,8 @@ wip: true
 ### Chapter Six: The Fifth Grave Precept: Not Giving or Taking Drugs
 
 - **There are many ways to cloud the mind, and this precept encompasses them all.**
-- **The frequent use of of [strong drugs] sets up a pattern of avoiding the low emotional places in life.**
-- **The best therapy is the practice of acknowledging one's feelings and making friends with them, Then they can be seen as truly transparent.**
+- **The frequent use of [strong drugs] sets up a pattern of avoiding the low emotional places in life.**
+- **The best therapy is the practice of acknowledging one's feelings and making friends with them. Then they can be seen as truly transparent.**
 - The purpose is personal practice, but others will inevitably be affected.
 - It is really the Three Poisons that this precept is about, self-centred delusions that could and darken the mind in our world of Zen practice, and in our application of realisation in everyday life.
 
@@ -95,7 +168,7 @@ wip: true
 
 - [Emptiness] is another word for nirvana–not something to be achieved, but the fundamental, potent emptiness that is our essential nature.
 - We have direct affinity with Bhudda, Dharma, and sanga, as the tree has direct affinity with it former seed. We have indirect affinity as the tree does with soil, air, sunlight, and rain.
-- When I was younger, I supposed that I had to get rid of the self, and nowadays I sometimes meet people who make the same mistake. **Getting rid of the self is not possible**, ,,, , and the effort is a denial of the Buddha Tao. **What we seek**, as Yamada Roshi has said, **is to forget the self in the act of uniting with something.**
+- When I was younger, I supposed that I had to get rid of the self, and nowadays I sometimes meet people who make the same mistake. **Getting rid of the self is not possible**, ... , and the effort is a denial of the Buddha Tao. **What we seek**, as Yamada Roshi has said, **is to forget the self in the act of uniting with something.**
 - We must understand "obedience" is the way we understand the Buddha. Only when the act is not obedience can we call it obedience.
 
 ### Chapter Fifteen: The Search for the Mind
@@ -131,3 +204,5 @@ wip: true
 ### Chapter Twenty One: Gandi, Dōgen, and Deep Ecology
 
 - Man-over-nature is the self advancing and confirming the myriad things, an anthropocentric delusion.
+</div>
+</details>
