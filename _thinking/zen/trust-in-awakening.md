@@ -2,17 +2,27 @@
 layout: page
 title: Trust in Awakening
 added: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-15
 zennotes: true
 ---
 
 Notes from a reread of [Trust in Awakening by Stephen Snyder](https://awakeningdharma.org/book/trust-in-awakening/).
 
+## Gathered notes: preferences, likes and dislikes
+
+- When we maintain our likes and dislikes, we
+    - maintain our self-identity;
+    - maintain that our likes and dislikes are (partly) our self-identity;
+    - shut out other choices.
+- By surrendering our likes and dislikes, we
+    - can accept reality as it is;
+    - can open to other choices.
+
 ## Raw notes
 
 ### Preface
 
-- This poem gives subtle pointers, then removes the concepts from these pointers, leaving the direct knowing of truth.
+This poem gives subtle pointers, then removes the concepts from these pointers, leaving the direct knowing of truth.
 
 ### I.
 
@@ -49,18 +59,18 @@ Notes from a reread of [Trust in Awakening by Stephen Snyder](https://awakeningd
 
 ### VII.
 
-- Acceptance is an important function on the spiritual path. 
+Acceptance is an important function on the spiritual path. 
 
 ### X.
 
 > Residing in wisdom<br>
 > Quiet confidence
 
-- There is no end to realisations and no end to unconscious personal material needing to be engaged, excised, and liberated.
+There is no end to realisations and no end to unconscious personal material needing to be engaged, excised, and liberated.
 
 ### XV.
 
-- [Diamondlike clarity] refers to our experience of multifaceted knowing.
+[Diamondlike clarity] refers to our experience of multifaceted knowing.
 
 ### XVI.
 
