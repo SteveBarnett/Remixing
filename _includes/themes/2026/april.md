@@ -2,11 +2,25 @@
 
 - **Vocation**
     - **Focus: "Pitches ain't ready"**
-    - A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April
-    - Inclusive Design 24 pitch(es), CFPs close 31 May
-    - Prep for NZTR in May
+    - Prep for NZTR on 15 May
         - Trim for 20m, key points
             - Refocus on Principles (?)
+    - Reread notes on **conflict** and *persuasion* and understanding and **listening**
+        - Write new page, maybe on HC
+    - AI-related
+        - Skills to investigate - Zen, Dogen
+        - Ally Skill
+            - Take Chris’s, fork it, describe how skills actually work in relation to an LLM
+            - A story, the story of a plan
+            - How does Claude say skills work, specifically?
+            - What happens when the skill stuff is not in, or is underrepresented in, the training data?
+        - Skills: Tao Te Ching, especially Ursula Le Guin’s translation
+        - Take some blog posts with instructions (like presentations) and make a skill
+            - try it out
+            - ask Claude to make it into a Skill
+            - See that video in my YT history about turning books into skills
+    - ✔ ~~A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April~~
+    - ✔ ~~Inclusive Design 24 pitch(es), CFPs close 31 May~~
 - **Health**
     - **Focus: "Regular routine"**
     - ???
@@ -18,14 +32,20 @@
         - ✔ ~~Make some flash cards~~
         - → Make more flash cards
     - Make some peanut butter!
+    - Flowers!
+        - Sunflowers
+        - RTC flowers
+        - Plant my wildflowers
+    - Visit Nga Manu w/ frund
 - **Practice**
     - **Focus: "Remove F&D"**
-    - Plan mid-April solo retreat
+    - ✔ ~~Plan mid-April solo retreat~~
+    - Another op shop run
     - Make a small pack of VHIP cards
     - Write about sangha resistance
-    - Try a Zen group again
     - Write about Urban Sketching resistance
     - Write about "Steady" as a value
     - Write about humour in practice
+    - Write about dancing in practice
 
 Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 13](/2026/week/13/).
