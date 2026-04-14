@@ -16,7 +16,7 @@ notes: true
 - The best way to silence those who doubt you is by not playing their game
 - **Trying to justify a perspective is resistance, aggression, dominance**
 - Don't rush through the book, let each and every word fill the mind
-- (Pao Ding) **acknowledge the joy of a task well done, then tidy up and lave no trace of yourself**
+- (Pao Ding) **acknowledge the joy of a task well done, then tidy up and leave no trace of yourself**
 - **Relaxed, like melting ice**
 - abstract terms draw arbitrary borders around related concepts that blend and merge into one another, and different languages draw such borders differently
 - abstractions gain meaning via concrete applications
