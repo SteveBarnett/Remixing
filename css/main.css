@@ -547,6 +547,10 @@ h3:has(+ ul:empty), h3:has(+ ol:empty)  {
   display: none;
 }
 
+h2:has(+ ul:empty + h3 + ul:not(:empty)), h2:has(+ ol:empty + h3 + ol:not(:empty)) {
+  display: block;
+}
+
 ul:empty, ol:empty {
   display: none;
 }
