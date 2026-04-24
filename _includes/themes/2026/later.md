@@ -4,7 +4,6 @@
 </summary>
 <div markdown="1">
 - Vocation
-    - Prep for NZTR in May
     - Update CV &times; 2
     - Big Influence summary / ToT
 - Health
@@ -30,8 +29,6 @@
         - Practicalities
     - Seigaiha printer art
     - Kintsugi
-    - Make some peanut butter
-    - Tidy up monster corner
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
 - Practice
     - [WASD book](/thinking/work-and-secular-dharma/)
