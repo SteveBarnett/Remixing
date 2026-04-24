@@ -15,7 +15,7 @@ Notes from [Breaking Things at Work: The Luddites Are Right About Why You Hate Y
 - **Automation affects labour in complex ways**: recomposing the workforce, isolating and rearranging tasks, altering job descriptions, hollowing out middle-tier occupations, removing mental investment in work.
 - Instead of daydreaming about an imaginary post-work utopia, we can speak to what is and can learn from historical struggles.
     - In extreme cases, we can resist by sabotage can be absenteeism, work slowdowns, “working to rule”.
-    - **We can take do things the hacker way: resistance using technology, rather than avoiding it.**
+    - **We can do things the hacker way: resistance using technology, rather than avoiding it.**
 - **Focusing on quality rather than quantity reduces workloads and makes work more pleasant.**
 - **Good work is where workers control the labour and work enriches people rather than increasing (abstract) productivity.**
 - A proposal: decelerationist politics.
