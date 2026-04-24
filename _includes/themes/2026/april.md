@@ -5,20 +5,16 @@
     - Prep for NZTR on 15 May
         - Trim for 20m, key points
             - Refocus on Principles (?)
-    - Reread notes on **conflict** and *persuasion* and understanding and **listening**
-        - Write new page, maybe on HC
-    - AI-related
-        - Skills to investigate - Zen, Dogen
-        - Ally Skill
-            - Take Chris’s, fork it, describe how skills actually work in relation to an LLM
-            - A story, the story of a plan
-            - How does Claude say skills work, specifically?
-            - What happens when the skill stuff is not in, or is underrepresented in, the training data?
-        - Skills: Tao Te Ching, especially Ursula Le Guin’s translation
-        - Take some blog posts with instructions (like presentations) and make a skill
-            - try it out
-            - ask Claude to make it into a Skill
-            - See that video in my YT history about turning books into skills
+    - DADG: can we get funding from someone for an interpreter when needed?
+    - ✔ ~~Reread notes on **conflict** and *persuasion* and understanding and **listening**~~
+        - Write new page
+            - [Notes on conflict and persuasion and understanding and listening](/thinking/notes-on-conflict-and-persuasion-and-understanding-and-listening/)
+            - [Notes on activism in a hostile environment](/thinking/activism-in-a-hostile-environment/)
+    - ✖ ~~AI-related~~
+        - ✔ ~~Skills to investigate - Zen, Dogen~~
+        - ✖ ~~Ally Skill~~
+        - ✔ ~~Skills: Tao Te Ching, especially Ursula Le Guin’s translation~~
+        - ~~Take some blog posts with instructions (like presentations) and make a skill~~
     - ✔ ~~A11y Camp pitch(es), Sydney 23–25 November, CFPs close 12 April~~
     - ✔ ~~Inclusive Design 24 pitch(es), CFPs close 31 May~~
 - **Health**
@@ -30,7 +26,10 @@
     - → Fast Talk Japanese book
         - ✔ ~~Just start~~
         - ✔ ~~Make some flash cards~~
-        - → Make more flash cards
+        - ✔ ~~Make more flash cards~~
+        - → Make even more flash cards
+    - SDC, next round
+    - Make moving list
     - Make some peanut butter!
     - Flowers!
         - Sunflowers
@@ -48,4 +47,4 @@
     - Write about humour in practice
     - Write about dancing in practice
 
-Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 13](/2026/week/13/).
+Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 14](/2026/week/14/), [week 15](/2026/week/15/), [week 16](/2026/week/16/).
