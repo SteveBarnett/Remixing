@@ -2,7 +2,7 @@
 layout: page
 title: "Notes on conflict and persuasion and understanding and listening"
 added: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-25
 notes: true
 ---
 
@@ -14,9 +14,9 @@ notes: true
         - What are you worried will happen / not happen?
         - What’s your confidence level?
 - Clarify the realm of disagreement: what is true / helpful / meaningful.
-- State your assumptions, admit your areas of ignorance.
-- Make a simple request for the need.
-    - Tell people your expectations, ask theirs.
+- **State your assumptions, admit your areas of ignorance.**
+- **Make a simple request for the need.**
+    - **Tell people your expectations, ask theirs.**
 
 ## Whittled notes
 

@@ -2,14 +2,14 @@
 layout: page
 title: "Notes on activism in a hostile environment"
 added: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-25
 notes: true
 ---
 
 ## Whittled notes
 
-- Build rather than attack.
-    - Offer good alternatives, drawn from time-tested traditions, tools, and process.
+- **Build rather than attack.**
+    - **Offer good alternatives, drawn from time-tested traditions, tools, and process.**
 - Use "both/and".
 - Assume best intent, attend to impact.
 - Focus on strategies rather issues.
