@@ -6,6 +6,20 @@ updated: 2026-04-27
 notes: true
 ---
 
+## Gathered notes
+
+- Keep a public, ordered, inspiration list / board.
+- Remember to dig deeper into things I like, Special Interest style.
+    - Extra attention.
+- Figure out a good routine shape.
+    - Silly rituals to get started?
+- Consider classes, groups, for creative stuff. Learn with others.
+- Remember to focus on the process not the product.
+- Tidy up rmx archives (again) for easier revisiting.
+- Have starting points, the first step, ready.
+- Make things for specific people.
+- When in doubt, tidy up.
+- Have a bliss station / studio.
 
 ## Raw notes
 
@@ -33,7 +47,7 @@ notes: true
 
 - There's a healthier way of thinking about creativity that the musician Brian Eno refers to as "scenius." Under this model, great ideas are often birthed by a group of creative individuals who make up an "ecology of talent."
 - Scenius doesn't take away from the achievements of the those great individuals; it just acknowledges that good work isn't created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds.
-- This is [yet] another trait of amateurs–they'll use whatever tools that can get their hands of to try and get their ideas into the world.
+- This is [yet] another trait of amateurs–they'll use whatever tools that can get their hands on to try and get their ideas into the world.
 - ... make a commitment to learning in front of others.
 - Think process, not product
 - Become a documentarian of what you do.
