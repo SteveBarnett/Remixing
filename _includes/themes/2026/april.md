@@ -36,6 +36,9 @@
     - ✔ ~~Visit Nga Manu w/ frund~~
 - **Practice**
     - **Focus: "Remove F&D"**
+    - → Scribble out Interests routine
+        - Silly start(ing ritual)?
+        - Clear first step
     - → Another op shop run
     - → Make a small pack of VHIP cards
     - Write about sangha resistance

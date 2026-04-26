@@ -9,6 +9,8 @@
 - Health
     - Back to running
 - Interests
+    - Tidy up (esp. archives) to make revisiting easier
+    - Set up a bliss station / studio
     - Pick up learning piano again
     - Flowers!
         - Sunflowers
