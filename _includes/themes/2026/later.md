@@ -5,28 +5,15 @@
 <div markdown="1">
 - Vocation
     - Update CV &times; 2
-    - Big Influence summary / ToT
+    - Big Influence summary
 - Health
-    - Join a "club"
-        - Zen
-        - Tai Chi
-        - Aikido
     - Back to running
 - Interests
     - Pick up learning piano again
-    - Japan trip
-        - Review Kyoto book
-        - Review Discover Japan book
-        - Review Japan book
-    - Fast Talk Japanese book
-        - Chatting & Basics
-        - Airport & Transport
-        - Accommodation
-        - Eating & Drinking
-        - Sightseeing
-        - Shopping
-        - Entertainment
-        - Practicalities
+    - Flowers!
+        - Sunflowers
+        - RTC flowers
+        - Plant my wildflowers
     - Seigaiha printer art
     - Kintsugi
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas

@@ -3,13 +3,13 @@
 - **Vocation**
     - **Focus: "Pitches ain't ready"**
     - Prep for NZTR on 15 May
-        - Trim for 20m, key points
-            - Refocus on Principles (?)
+        - Trim 5 minutes, Dev & Test audience
+        - ✔ ~~Trim, refocus on Principles (?)~~
     - DADG: can we get funding from someone for an interpreter when needed?
     - ✔ ~~Reread notes on **conflict** and *persuasion* and understanding and **listening**~~
-        - Write new page
-            - [Notes on conflict and persuasion and understanding and listening](/thinking/notes-on-conflict-and-persuasion-and-understanding-and-listening/)
-            - [Notes on activism in a hostile environment](/thinking/activism-in-a-hostile-environment/)
+        - ✔ ~~Write new page~~
+            - ~~[Notes on conflict and persuasion and understanding and listening](/thinking/notes-on-conflict-and-persuasion-and-understanding-and-listening/)~~
+            - ~~[Notes on activism in a hostile environment](/thinking/activism-in-a-hostile-environment/)~~
     - ✖ ~~AI-related~~
         - ✔ ~~Skills to investigate - Zen, Dogen~~
         - ✖ ~~Ally Skill~~
@@ -27,24 +27,24 @@
         - ✔ ~~Just start~~
         - ✔ ~~Make some flash cards~~
         - ✔ ~~Make more flash cards~~
-        - → Make even more flash cards
-    - SDC, next round
-    - Make moving list
+        - ✔ ~~Make even more flash cards~~
+        - → Make yet even more flash cards
+    - ✔ ~~Make moving list~~
+    - Book movers
+    - Book cleaners
     - Make some peanut butter!
-    - Flowers!
-        - Sunflowers
-        - RTC flowers
-        - Plant my wildflowers
-    - Visit Nga Manu w/ frund
+    - ✔ ~~Visit Nga Manu w/ frund~~
 - **Practice**
     - **Focus: "Remove F&D"**
-    - ✔ ~~Plan mid-April solo retreat~~
-    - Another op shop run
-    - Make a small pack of VHIP cards
+    - → Another op shop run
+    - → Make a small pack of VHIP cards
     - Write about sangha resistance
     - Write about Urban Sketching resistance
     - Write about "Steady" as a value
     - Write about humour in practice
     - Write about dancing in practice
+    - ✔ ~~Plan mid-April solo retreat~~
+    - ✔ ~~Do mid-April solo retreat~~
+    - ✔ ~~SDC, next round~~
 
-Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 14](/2026/week/14/), [week 15](/2026/week/15/), [week 16](/2026/week/16/).
+Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 14](/2026/week/14/), [week 15](/2026/week/15/), [week 16](/2026/week/16/), [week 17](/2026/week/17/).
