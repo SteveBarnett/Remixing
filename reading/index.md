@@ -112,7 +112,7 @@ Other: {{ totalOther }}.
 
 ## Reading lists
 
-- Fiction: [holds at the library](https://libbyapp.com/shelf/holds)
+- [Holds at the library](https://libbyapp.com/shelf/holds)
 - Fiction: [toreadmaybe + fiction Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:fiction/)
 - Nonfiction: [toreadmaybe + nonfiction Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:nonfiction/)
 - Buddhism (and related, like mindfulness): [toreadmaybe + buddhism Pinboard bookmarks](https://pinboard.in/u:maxbarners/t:toreadmaybe/t:buddhism/)
