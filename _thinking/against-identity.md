@@ -3,7 +3,7 @@ layout: page
 title: Against Identity
 added: 2026-02-07
 updated: 2026-03-17
-longerform: true
+notes: true
 ---
 
 ## Whittled notes
