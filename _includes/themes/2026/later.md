@@ -4,6 +4,7 @@
 </summary>
 <div markdown="1">
 - Vocation
+    - Gather examples of prompting AI with something null or zero
     - Update CV &times; 2
     - Big Influence summary
 - Health
@@ -20,6 +21,12 @@
     - Kintsugi
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
 - Practice
+    - → Make a small pack of VHIP cards
+    - Write about sangha resistance
+    - Write about Urban Sketching resistance
+    - Write about "Steady" as a value
+    - Write about humour in practice
+    - Write about dancing in practice
     - [WASD book](/thinking/work-and-secular-dharma/)
         - Markup existing stuff
         - Make a plan for March
