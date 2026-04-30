@@ -17,6 +17,7 @@ updated: 2025-12-02
 
 - Landing evening of Tuesday 13th October in Tokyo Narita airport
 - Leaving evening of Saturday 31st October from Tokyo Narita airport
+- Sunday 25 October - L flying home
 - Monday 26th October - Public Holiday in NZ
 - Osaka - Sep 29°C, Oct 23°C, Nov 13°C
 - Mid-September heat breaks. October warm or cool but usually sunny.
