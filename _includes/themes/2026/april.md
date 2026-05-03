@@ -55,16 +55,13 @@
 
 #### End of month review: April
 
-TODO: add notes from Dailies
-{: .todo}
-
 - Vocation
     - Focus: "Pitches ain’t ready". Good, sort of! Put in buncha pitches (think I messed some up, though). 
         - Working on NZTR
         - Wrote a work blog post
         - Wrote some pages here about conflict and persuasion
 - Health
-    - Focus: "Regular routine". Awful. Lost the plot entirely, but still walking.
+    - Focus: "Regular routine". Awful. Lost the plot entirely, but still walking. Starting to get better.
 - Interests
     - Focus: "Nihon, go". Okay. Making flash cards, but no places plan.
         - Doing moving stuff.
@@ -72,6 +69,8 @@ TODO: add notes from Dailies
 - Practice
     - Focus: "Remove F&D". Okay, WIP.
         - Did a solo retreat
-        - Doing SDC. 
+        - Doing SDC
+        - Generally low but okay
+
 
 Archives: [month 04](/2026/04/); [week 13](/2026/week/13/), [week 14](/2026/week/14/), [week 15](/2026/week/15/), [week 16](/2026/week/16/), [week 17](/2026/week/17/).
