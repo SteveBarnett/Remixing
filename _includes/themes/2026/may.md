@@ -9,9 +9,10 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
 - **Vocation**
     - **Focus: "Rally the troops"**
         - Prep for NZTR on 15 May
-            - Add images to deck
-            - ✔️  ~~Trim 5 minutes, Dev & Test audience~~
-            - ✔️ ~~TODO list in deck~~
+            - → Final timecheck
+            - ✖ ~~Add images to deck~~
+            - ✔  ~~Trim 5 minutes, Dev & Test audience~~
+            - ✔ ~~TODO list in deck~~
     - **Out of focus**
         - DADG: can we get funding from someone for an interpreter when needed?
 - **Health**
@@ -21,6 +22,10 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
 - **Interests**
     - **Focus: "Make a Japlan"**
         - Japan trip places plan
+            1. First few days in Tokyo
+            - Week or so in Kyoto / Osaka / Nara
+            - Few days with O in Tokyo?
+            - Week after, NW of Tokyo
     - **Out of focus**
         - Make some peanut butter
 - **Practice**
