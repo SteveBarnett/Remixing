@@ -23,11 +23,14 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
     - **Focus: "Make a Japlan"**
         - Japan trip places plan
             1. First few days in Tokyo
-            - Week or so in Kyoto / Osaka / Nara
-            - Few days with O in Tokyo?
-            - Week after, NW of Tokyo
+            2. Week or so in Kyoto / Osaka / Nara
+            3. Few days with O in Tokyo?
+            4. Week after, NW of Tokyo
     - **Out of focus**
         - Make some peanut butter
+        - Write up recent recipe card
+        - Design / decor books reread
+        - Piranesi / Rinthine tiny sketches
 - **Practice**
     - **Focus: "Move on"**
         - → Another op shop run
