@@ -29,6 +29,7 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
     - **Out of focus**
         - Make some peanut butter
         - Write up recent recipe card
+        - Few new things from Korean Banchan Recipes book
         - Design / decor books reread
         - Piranesi / Rinthine tiny sketches
 - **Practice**
