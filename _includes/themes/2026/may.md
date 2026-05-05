@@ -1,15 +1,11 @@
 ### May
 
-- [ ] Check: are these on (yearly) theme of **taking care**?
-- [ ] Take something from MAP to observe, pay attention to.
-{: .todo}
-
-Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving (Mon 18 onwards, Sat 23rd keys), Wellycon (Sat 30 and Sun 31).
+Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (Mon 18 onwards, Sat 23 keys), Wellycon (Sat 30 and Sun 31).
 
 - **Vocation**
     - **Focus: "Rally the troops"**
-        - Prep for NZTR on 15 May
-            - → Final timecheck
+        - ✔ ~~Prep for NZTR on 15 May~~
+            - ✔ ~~Final timecheck~~
             - ✖ ~~Add images to deck~~
             - ✔  ~~Trim 5 minutes, Dev & Test audience~~
             - ✔ ~~TODO list in deck~~
@@ -17,7 +13,7 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
         - DADG: can we get funding from someone for an interpreter when needed?
 - **Health**
     - **Focus: "Walk it off"**
-        - Just keep up 1BW
+        - → Just keep up 1BW
         - And weight a bit
 - **Interests**
     - **Focus: "Make a Japlan"**
@@ -28,14 +24,15 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15th), moving 
             4. Week after, NW of Tokyo
     - **Out of focus**
         - Make some peanut butter
-        - Write up recent recipe card
-        - Few new things from Korean Banchan Recipes book
-        - Design / decor books reread
+        - → Few new things from Korean Banchan Recipes book
+        - Learn to play Go
         - Piranesi / Rinthine tiny sketches
+        - ✔ ~~Design / decor books reread~~
+        - ✔ ~~Write up recent recipe cards~~
 - **Practice**
     - **Focus: "Move on"**
         - → Another op shop run
-        - Moving mirror metta, mate
+        - → Moving mirror metta, mate
     - **Out of focus**
         - → GMZ
         - → Scribble out routine(s)
