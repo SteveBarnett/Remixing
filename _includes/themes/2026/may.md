@@ -31,12 +31,11 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
         - ✔ ~~Write up recent recipe cards~~
 - **Practice**
     - **Focus: "Move on"**
-        - → Another op shop run
         - → Moving mirror metta, mate
+        - ✔ ~~Another op shop run~~
     - **Out of focus**
-        - → GMZ
         - → Scribble out routine(s)
             - Silly start(ing ritual)?
             - Clear first step
 
-Archives: [month 05](/2026/05/); [week 18](/2026/week/18/).
+Archives: [month 05](/2026/05/); [week 18](/2026/week/18/), [week 19](/2026/week/19/), [week 20](/2026/week/20/), [week 21](/2026/week/21/).
