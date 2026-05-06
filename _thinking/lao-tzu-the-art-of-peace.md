@@ -3,8 +3,28 @@ layout: page
 title: "Lao Tzu: The Art of Peace"
 notes: true
 added: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-06
 ---
+
+## Whittled notes
+
+- Having preferences highlights boundaries
+- Become clear by stillness, like muddy water
+- Treasure teachers and care for students
+- Be commonplace like stones, rather than exquisite like jewels
+- Be good to everyone so that we all gain goodness
+- Overcome by not striving, as soft overrides hard
+
+## Gathered notes
+
+- peace, amiability, sincerity
+- if we follow out desires we notice only the boundaries
+- become clear by stillness, like muddy water
+- Those who do not treasure their teachers or care for their students are greatly confused, however knowledgable
+- Be commonplace, like stones, rather than exquisite, like jewels
+- The softest things in the world override the hardest things, The least substantial enter where there is no space. This shows us the benefit of not striving.
+- Be good to everyone - then we all gain in goodness
+- Draw things together
 
 ## Raw notes
 
@@ -35,7 +55,7 @@ updated: 2026-05-05
 ### Seven
 
 > The sky endures and the earth is long-lasting.<br>
-> The can last and endure<br>
+> They can last and endure<br>
 > because they do not live for themselves:<br>
 > This is why they can endure.
 
@@ -54,7 +74,7 @@ updated: 2026-05-05
 ### Fifteen
 
 > Which of us are able, like muddy water,<br>
-> slowly to become clear by stilness?
+> slowly to become clear by stillness?
 
 ### Eighteen
 
