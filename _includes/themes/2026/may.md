@@ -23,10 +23,13 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
             3. Few days with O in Tokyo?
             4. Week after, NW of Tokyo
     - **Out of focus**
+        - Note down Tai Chi
+        - Note down Improv
         - Make some peanut butter
         - → Few new things from Korean Banchan Recipes book
         - Learn to play Go
         - Piranesi / Rinthine tiny sketches
+            - Sketch the few Rinthine pics
         - ✔ ~~Design / decor books reread~~
         - ✔ ~~Write up recent recipe cards~~
 - **Practice**
