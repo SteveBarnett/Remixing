@@ -3,11 +3,34 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2025-12-02
+updated: 2026-05-08
 ---
 
-## I Love It When a Plan Comes Together
+## The Japlan
 
+- ? Back together to Tokyo? (then me off North a bit)
+- ? When's L's leaving time
+- ? Change L's leaving flight and split the cost?
+- Timezone: Japan is 3 hours behind NZ
+- Tuesday 13th October 6:15pm - arrive Tokyo Narita Terminal 1
+    - Train into town
+    - ? How many days in Tokyo?
+    - ? Vague itinerary
+    - ? What suburb to stay in?
+    - Look up luggage delivery ... sth
+    - JR Central Shinkansen from Tokyo to Kyoto - about 2h15m, maybe ¥14,170 / $150
+        - Seem very frequent, go until 9pm-ish
+- Research and get a JR pass
+- Sunday 25 October - L leave Tokyo Narita Terminal 1
+- Saturday 31st October 6:45pm - leave Tokyo Narita Terminal 1
+- 11 full days between landing and L leaving
+    - 2 days in Tokyo
+- 5 full days between L leaving and me leaving
+    - ? Nikko - 2h on local trains
+
+<details>
+    <summary><h2>I Love It When a Plan Comes Together</h2></summary>
+<div markdown="1">
 ### What
 
 - Get a JR pass
@@ -46,9 +69,12 @@ updated: 2025-12-02
     - Kantō
     - Chūbu
     - Kansai
+</div>
+</details>
 
-## Wide view
-
+<details>
+    <summary><h2>Wide view</h2></summary>
+<div markdown="1">
 - the Shikoku Pilgrimage (88 temples, four stages) or the Kumano Kodo (a series of undulating mountain trails connecting three major Shinto shrines)
 - More south is more relaxed and summery
 
@@ -108,8 +134,6 @@ updated: 2025-12-02
 - Southeast Kyoto
     - Stones foxes
     - Eikan-do, Kenning-ji, Myoshin-ji temples
-
----
 
 ### Flights
 
@@ -233,9 +257,12 @@ Kansai region.
     - [Japan Ryokan and Hotel Association](https://www.ryokan.or.jp/english/)
     - [The Ryokan Collection](https://www.ryokancollection.com/)
 - Get a JR pass
+</div>
+</details>
 
-## Gathered thoughts
-
+<details>
+    <summary><h2>Gathered thoughts</h2></summary>
+<div markdown="1">
 - Autumn - September-November - mild to crisp, stunning foliage
 - Friend who lives there reckons end of Winter into Spring is better
     - March, April, May?
@@ -253,9 +280,12 @@ Kansai region.
         - Nara
             - one of the most rewarding destinations
         - Osaka
+</div>
+</details>
 
-## Initial thoughts
-
+<details>
+    <summary><h2>Initial thoughts</h2></summary>
+<div markdown="1">
 - [My Google map list, long version](https://maps.app.goo.gl/fTRvV2SZjtiqN2fh6)
 - Season to go
     - Spring - March-May - Cool mornings, warm days
@@ -297,6 +327,8 @@ Kansai region.
             - Northern port city, relaxed, sleepy, festive, underground arts scene.
         - Morioka
             - peaceful, relaxed
+</div>
+</details>
 
 ## Book notes
 
