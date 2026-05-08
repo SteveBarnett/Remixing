@@ -37,6 +37,7 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
         - → Moving mirror metta, mate
         - ✔ ~~Another op shop run~~
     - **Out of focus**
+        - New sessions in "Changing How You Think" on Waking Up
         - → Scribble out routine(s)
             - Silly start(ing ritual)?
             - Clear first step
