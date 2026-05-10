@@ -14,37 +14,23 @@ updated: 2026-05-08
 - Timezone: Japan is 3 hours behind NZ
 - Tuesday 13th October 6:15pm - arrive Tokyo Narita Terminal 1
     - Train into town
+    - ? How many days in Tokyo?
+    - ? Vague itinerary
+    - ? What suburb to stay in?
     - Look up luggage delivery ... sth
-    - Research and get JR passes
+    - JR Central Shinkansen from Tokyo to Kyoto - about 2h15m, maybe ¥14,170 / $150
+        - Seem very frequent, go until 9pm-ish
+- Research and get a JR pass
 - Sunday 25 October - L leave Tokyo Narita Terminal 1
 - Saturday 31st October 6:45pm - leave Tokyo Narita Terminal 1
 - 11 full days between landing and L leaving
-    - Tokyo for a few days
-    - Down to Kyoto / Osaka for a few days
-    - Outwards from there for a few days
-    - Back to Tokyo
-    - N/E from there for a few days
-- Start in Tokyo
-    - ? How many days? 2?
-    - ? Vague itinerary
-    - ? What suburb to stay in?
-- Time near Kyoto
-    - JR Central Shinkansen from Tokyo to Kyoto - about 2h15m, maybe ¥14,170 / $150
-        - Seem very frequent, go until 9pm-ish
-    - Kyoto
-        - What suburb to stay in?
-        - East city, Philospher's Path - several days
-        - West city, Arashiyama - a day or two - 30m train / 60m bus
-    - 162 Norty a bit, a day - about an hour travel
-    - Nara - 30m by train from Kyoto
-    - Osaka - about 1h train from Kyoto
-    - around Lake Biwa
-    - Uji
+    - 2 days in Tokyo
 - 5 full days between L leaving and me leaving
     - ? Nikko - 2h on local trains
 
-## I Love It When a Plan Comes Together
-
+<details>
+    <summary><h2>I Love It When a Plan Comes Together</h2></summary>
+<div markdown="1">
 ### What
 
 - Get a JR pass
@@ -83,6 +69,8 @@ updated: 2026-05-08
     - Kantō
     - Chūbu
     - Kansai
+</div>
+</details>
 
 <details>
     <summary><h2>Wide view</h2></summary>
@@ -273,7 +261,7 @@ Kansai region.
 </details>
 
 <details>
-    <summary><h2>Gathered thoughts</h2>
+    <summary><h2>Gathered thoughts</h2></summary>
 <div markdown="1">
 - Autumn - September-November - mild to crisp, stunning foliage
 - Friend who lives there reckons end of Winter into Spring is better
@@ -293,7 +281,7 @@ Kansai region.
             - one of the most rewarding destinations
         - Osaka
 </div>
-</summary>
+</details>
 
 <details>
     <summary><h2>Initial thoughts</h2></summary>
