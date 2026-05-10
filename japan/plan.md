@@ -3,28 +3,34 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 
 ## The Japlan
 
-- ? Back together to Tokyo? (then me off North a bit)
-- ? When's L's leaving time
-- ? Change L's leaving flight and split the cost?
 - Timezone: Japan is 3 hours behind NZ
-- Tuesday 13th October 6:15pm - arrive Tokyo Narita Terminal 1
+- **Tuesday 13 October** 6:15pm - arrive Tokyo Narita Terminal 1
     - Train into town
-    - ? How many days in Tokyo?
+    - 1 full day in Tokyo
     - ? Vague itinerary
     - ? What suburb to stay in?
     - Look up luggage delivery ... sth
-    - JR Central Shinkansen from Tokyo to Kyoto - about 2h15m, maybe ¥14,170 / $150
-        - Seem very frequent, go until 9pm-ish
 - Research and get a JR pass
-- Sunday 25 October - L leave Tokyo Narita Terminal 1
-- Saturday 31st October 6:45pm - leave Tokyo Narita Terminal 1
-- 11 full days between landing and L leaving
+- **Wednesday 14 October**
+    - Day in Tokyo to acclimatise
+    - Stay close to the station, for easy confusion-high arrival
+- **Thursday 15 October**
+    - JR Central Shinkansen from Tokyo
+        - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
+        - Seem very frequent, go until 9pm-ish
+    - Kyoto, Osaka, Nara, Lake Biwa?
+    - Old Japan generally more than Kyoto specifically
+    - [ ] Make a map list without temples and shrines
+- **Thursday 22nd October** or **Friday 23 October**
     - 2 days in Tokyo
+- **Sunday 25 October** - L leave Tokyo Narita Terminal 1
+- **Saturday 31 October** 6:45pm - leave Tokyo Narita Terminal 1
+- 11 full days between landing and L leaving
 - 5 full days between L leaving and me leaving
     - ? Nikko - 2h on local trains
 
