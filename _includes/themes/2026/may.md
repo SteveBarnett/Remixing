@@ -10,6 +10,11 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
             - ✔  ~~Trim 5 minutes, Dev & Test audience~~
             - ✔ ~~TODO list in deck~~
     - **Out of focus**
+        - Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)
+        - DADG talk talk for Team Day
+        - Analogy for always-probabilistic nature of AI output
+        - Plan [AI Engineer schedule](https://webdirections.org/ai-engineer/schedule.php)
+        - Automate VPAT thing
         - DADG: can we get funding from someone for an interpreter when needed?
 - **Health**
     - **Focus: "Walk it off"**
@@ -18,18 +23,17 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
 - **Interests**
     - **Focus: "Make a Japlan"**
         - Japan trip places plan
-            1. First few days in Tokyo
-            2. Week or so in Kyoto / Osaka / Nara
-            3. Few days with O in Tokyo?
-            4. Week after, NW of Tokyo
+        - Read new trains book
+        - Make a 4-month Nihongo plan
     - **Out of focus**
-        - Note down Tai Chi
-        - Note down Improv
-        - Make some peanut butter
+        - → Write up Japanese design aesthetic notes
         - → Few new things from Korean Banchan Recipes book
-        - Learn to play Go
         - Piranesi / Rinthine tiny sketches
             - Sketch the few Rinthine pics
+        - Note down Tai Chi Wellington
+        - Note down Improv Wellington
+        - Make some peanut butter
+        - Learn to play Go
         - ✔ ~~Design / decor books reread~~
         - ✔ ~~Write up recent recipe cards~~
 - **Practice**
@@ -37,8 +41,14 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
         - → Moving mirror metta, mate
         - ✔ ~~Another op shop run~~
     - **Out of focus**
-        - New sessions in "Changing How You Think" on Waking Up
+        - Reread [Thinking In Bets](/notes/process/thinking%20in%20bets.jpg) notes
         - Scribble about (VHIP) limits
+            - And yielding and acceptance and motion
+            - And meaningful struggle, difficulty
+        - Scribble about obstacles as testing grounds, as ways to fulfil a vow
+            - As a yardstick for (continued recommitment to) Valued Action
+            - Tiny first steps
+        - New sessions in "Changing How You Think" on Waking Up
         - → Scribble out routine(s)
             - Silly start(ing ritual)?
             - Clear first step
