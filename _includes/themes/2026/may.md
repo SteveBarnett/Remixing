@@ -10,12 +10,15 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
             - ✔  ~~Trim 5 minutes, Dev & Test audience~~
             - ✔ ~~TODO list in deck~~
     - **Out of focus**
-        - Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)
         - DADG talk talk for Team Day
+        - Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)
+        - Notes from "AI fatigue is real and nobody talks about it" article
+        - Notes from "From Interactive to Interpassive" article
+        - Plan testing with a screen reader workshop for DADG on 26th
         - Analogy for always-probabilistic nature of AI output
-        - Plan [AI Engineer schedule](https://webdirections.org/ai-engineer/schedule.php)
         - Automate VPAT thing
         - DADG: can we get funding from someone for an interpreter when needed?
+        - ✔ ~~Plan [AI Engineer schedule](https://webdirections.org/ai-engineer/schedule.php)~~
 - **Health**
     - **Focus: "Walk it off"**
         - → Just keep up 1BW
@@ -41,10 +44,13 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
         - → Moving mirror metta, mate
         - ✔ ~~Another op shop run~~
     - **Out of focus**
+        - Continue cards
+        - VA: Care check-up for VHIP
         - Reread [Thinking In Bets](/notes/process/thinking%20in%20bets.jpg) notes
         - Scribble about (VHIP) limits
             - And yielding and acceptance and motion
             - And meaningful struggle, difficulty
+            - And method not results
         - Scribble about obstacles as testing grounds, as ways to fulfil a vow
             - As a yardstick for (continued recommitment to) Valued Action
             - Tiny first steps
