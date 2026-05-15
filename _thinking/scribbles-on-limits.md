@@ -3,7 +3,7 @@ layout: page
 title: Scribbles on limits
 notes: true
 added: 2026-05-13
-updated: 2026-05-14
+updated: 2026-05-16
 ---
 
 ## Whittled scribbles
@@ -12,6 +12,9 @@ updated: 2026-05-14
 - Where to soften
 - What was uncomfortable
 - Where did I lose my sense of humour
+- Where did I assume or construct edges or boundaries
+- Where did I have strong preferences
+- When did I neglect a pole
 - Path as Goal
 - Method not results
 
