@@ -46,11 +46,11 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
     - **Out of focus**
         - Continue cards
         - VA: Care check-up for VHIP
-        - Reread [Thinking In Bets](/notes/process/thinking%20in%20bets.jpg) notes
         - New sessions in "Changing How You Think" on Waking Up
         - → Scribble out routine(s)
             - Silly start(ing ritual)?
             - Clear first step
+        - ✔ ~~Reread [Thinking In Bets](/notes/process/thinking%20in%20bets.jpg) notes~~
         - ~~[Scribble about (VHIP) limits](/thinking/scribbles-on-limits/)~~
             - ~~And yielding and acceptance and motion~~
             - ~~And meaningful struggle, difficulty~~
