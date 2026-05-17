@@ -1,0 +1,38 @@
+<script>
+  (() => {
+
+    // get items
+    const kanbanCards = document.querySelectorAll('main li');
+  
+    kanbanCards.forEach((card) => {
+
+
+      // hide if done or cancelled
+      if(card.textContent.substr(0,1) == '✔' || card.textContent.substr(0,1) == '✖') {
+        card.remove();
+        return;
+      }
+
+      // skip gates
+      if(card.textContent.substr(0,8) == 'Vocation' || card.textContent.substr(0,6) == 'Health' || card.textContent.substr(0,9) == 'Interests' || card.textContent.substr(0,8) == 'Practice' ) {
+        return;
+      }
+
+      // skip focus
+      if(card.textContent.substr(0,5) == 'Focus' || card.textContent.substr(0,12) == 'Out of focus') {
+        return;
+      }
+
+      // hide all except current
+      if(card.textContent.substr(0,1) != '→') {
+        card.remove();
+        return;
+      }
+    });
+
+    // hide not kanban items
+    const strays = document.querySelectorAll('h3, p');
+    strays.forEach(stray => stray.remove());
+
+  })();
+</script>

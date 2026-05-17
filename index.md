@@ -9,7 +9,7 @@ I tend to be quite reflective. I like setting [Themes for years](/themes/) (and 
 
 ## Now-ish
 
-Current Theme: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}).
+Current Theme: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/themes/{{ site.time | date: "%Y" }}/#{{ site.time | date: "%B" | downcase }}); current [doing](/doing).
 
 Most recent writing:
 
