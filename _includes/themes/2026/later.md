@@ -10,6 +10,10 @@
 - Health
     - Back to running
 - Interests
+    - Few new things from Korean Banchan Recipes book
+    - Note down Tai Chi Wellington
+    - Note down Improv Wellington
+    - Make some peanut butter
     - Tidy up (esp. archives) to make revisiting easier
     - Set up a bliss station / studio
     - Pick up learning piano again
@@ -21,11 +25,14 @@
     - Kintsugi
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
 - Practice
-    - → Make a small pack of VHIP cards
+    - VA: Care check-up for VHIP
+    - Continue cards
+    - Scribble out routine(s)
+        - Silly start(ing ritual)?
+        - Clear first step
     - Write about sangha resistance
     - Write about Urban Sketching resistance
     - Write about "Steady" as a value
-    - Write about humour in practice
     - Write about dancing in practice
     - [WASD book](/thinking/work-and-secular-dharma/)
         - Markup existing stuff
