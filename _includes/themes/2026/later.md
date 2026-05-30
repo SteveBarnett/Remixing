@@ -7,15 +7,15 @@
     - Gather examples of prompting AI with something null or zero
     - Update CV &times; 2
     - Big Influence summary
+    - DADG: can we get funding from someone for an interpreter when needed?
 - Health
     - Back to running
 - Interests
+    - Learn to play Go
     - Few new things from Korean Banchan Recipes book
-    - Note down Tai Chi Wellington
     - Note down Improv Wellington
     - Make some peanut butter
     - Tidy up (esp. archives) to make revisiting easier
-    - Set up a bliss station / studio
     - Pick up learning piano again
     - Flowers!
         - Sunflowers
@@ -26,7 +26,6 @@
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
 - Practice
     - VA: Care check-up for VHIP
-    - Continue cards
     - Scribble out routine(s)
         - Silly start(ing ritual)?
         - Clear first step

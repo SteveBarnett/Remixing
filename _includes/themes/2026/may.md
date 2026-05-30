@@ -9,20 +9,16 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
             - ✖ ~~Add images to deck~~
             - ✔  ~~Trim 5 minutes, Dev & Test audience~~
             - ✔ ~~TODO list in deck~~
-    - **Out of focus**
-        - → DADG talk talk for Team Day
-        - Analogy for always-probabilistic nature of AI output
-        - Plan "testing with a screen reader" workshop for DADG on 26th
-        - Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)
-        - Notes from "AI fatigue is real and nobody talks about it" article
-        - Notes from "From Interactive to Interpassive" article
-        - Automate VPAT thing
-        - DADG: can we get funding from someone for an interpreter when needed?
+    - ✔ ~~**Out of focus**~~
+        - ✖ ~~Analogy for always-probabilistic nature of AI output~~
+            - ~~Probabilistic-Deterministic spectrum~~
+        - ✔ ~~Plan "testing with a screen reader" workshop for DADG on 26th~~
+        - ✔ ~~DADG talk talk for Team Day~~
         - ✔ ~~Plan [AI Engineer schedule](https://webdirections.org/ai-engineer/schedule.php)~~
 - **Health**
-    - **Focus: "Walk it off"**
-        - → Just keep up 1BW
-            - And weight a bit
+    - ✖ ~~**Focus: "Walk it off"**~~
+        - ✖ ~~Just keep up 1BW~~
+            - ~~And weight a bit~~
 - **Interests**
     - **Focus: "Make a Japlan"**
         - ✔ ~~Read new trains book~~
@@ -32,7 +28,6 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
     - **Out of focus**
         - → Piranesi / Rinthine tiny sketches
             - ✔ ~~Sketch the few Rinthine pics~~
-        - Learn to play Go
         - ✔ ~~Write up [Japanese design aesthetic notes](/thinking/notes-from-japanese-aesthetic-books/)~~
         - ✔ ~~Design / decor books reread~~
         - ✔ ~~Write up recent recipe cards~~
@@ -53,3 +48,18 @@ Events in May: Green Mountain Zen (every Thu), NZ Tech Rally (Fri 15), moving (M
             - ~~Tiny first steps~~
 
 Archives: [month 05](/2026/05/); [week 18](/2026/week/18/), [week 19](/2026/week/19/), [week 20](/2026/week/20/), [week 21](/2026/week/21/).
+
+#### End of month review: May
+
+- Vocation
+    - Focus: "Rally the troops". Great! Did Tech Rally talk.
+    - Out of focus. Good. Did DADG SR testing workshop.
+- Health
+    - Focus: "Walk it off". Eh... Not great, but not terrible.
+- Interests
+    - Focus: "Make a Japlan". Bad. Fell way off the radar. But with good reason.
+    - Out of focus
+- Practice
+    - Focus: "Move on". Actually good! 😮
+    - Out of focus. Also good.
+
