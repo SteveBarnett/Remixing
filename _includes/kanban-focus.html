@@ -1,11 +1,12 @@
 <script>
+// This should really be done in Jekyll, but doing it this way lets me write easy markdown
+
   (() => {
 
     // get items
     const kanbanCards = document.querySelectorAll('main li');
   
     kanbanCards.forEach((card) => {
-
 
       // hide if done or cancelled
       if(card.textContent.substr(0,1) == '✔' || card.textContent.substr(0,1) == '✖') {
@@ -18,7 +19,7 @@
         return;
       }
 
-      // skip focus
+      // skip focus / out of focus
       if(card.textContent.substr(0,5) == 'Focus' || card.textContent.substr(0,12) == 'Out of focus') {
         return;
       }
@@ -30,8 +31,29 @@
       }
     });
 
+    // hide parents of empty lists
+    const lists = document.querySelectorAll('ul');
+
+    lists.forEach(list => {
+      if(!list.querySelector('li')) {
+        list.parentElement.remove();
+      }
+    });
+
+    // hide focus and out of focus list items without a list
+    const remainderCards = document.querySelectorAll('main li');
+
+    remainderCards.forEach((card) => {
+      if(card.textContent.substr(0,5) == 'Focus' || card.textContent.substr(0,12) == 'Out of focus') {
+        if(!card.querySelector('ul')) {
+          card.remove();
+        }
+      }
+    });
+
     // hide not kanban items
     const strays = document.querySelectorAll('h3, p');
+
     strays.forEach(stray => stray.remove());
 
   })();
