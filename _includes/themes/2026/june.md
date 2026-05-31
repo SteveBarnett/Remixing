@@ -2,8 +2,6 @@
 
 Events in June: Melbourne trip for conference (Tue 2 to Fri 5); BANFF round 2 (Tue 9); 80s Day Disco (Sat 27) 
 
-Care check-up for focus items.
-
 Sub-theme: **Cosy**, settling in.
 
 - **Vocation**
