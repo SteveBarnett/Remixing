@@ -12,6 +12,9 @@ Sub-theme: **Cosy**, settling in.
         - Notes from "From Interactive to Interpassive" article
         - Automate VPAT thing
     - **Out of focus**
+        - Write up WDAIE sketchnotes
+            - action-focused, grips
+        - New hostile / breaking / conflict / AIR notes
         - Pitch some ideas to WWAM
             - Testing with a SR workshop
             - Top fixed issues in the past year, 3 years, 5 years
@@ -27,6 +30,9 @@ Sub-theme: **Cosy**, settling in.
         - Japan trip places plan
     - **Out of focus**
         - → Pick a new cosy game
+        - Write: the importance of multimodality
+        - Foodist plate &times; bento box / Japanese meal
+        - Visit local library
         - Set up a bliss station / studio
         - Make the new house cosy
         - Look up Table Tennis Brooklyn
@@ -37,5 +43,6 @@ Sub-theme: **Cosy**, settling in.
         - → Make sits more comfy and cosy
     - **Out of focus**
         - Limits scribbles plan
+        - Haiku project
 
 Archives: [month 06](/2026/06/); [week 22](/2026/week/22/).

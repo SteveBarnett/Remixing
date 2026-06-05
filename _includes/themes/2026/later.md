@@ -11,6 +11,10 @@
 - Health
     - Back to running
 - Interests
+    - Rot, decay, mushrooms - but as process
+    - Tiny maps project
+    - More ambient Ableton
+    - tiny eink display research
     - Learn to play Go
     - Few new things from Korean Banchan Recipes book
     - Note down Improv Wellington
