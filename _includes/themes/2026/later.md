@@ -16,6 +16,8 @@
     - More ambient Ableton
     - tiny eink display research
     - Learn to play Go
+    - Something like a Triomenos set
+    - Make a reusable Musicians of Bremen set
     - Few new things from Korean Banchan Recipes book
     - Note down Improv Wellington
     - Make some peanut butter
@@ -28,6 +30,7 @@
     - Seigaiha printer art
     - Kintsugi
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
+    - Make my own styles for md-to-html
 - Practice
     - VA: Care check-up for VHIP
     - Scribble out routine(s)

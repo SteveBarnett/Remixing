@@ -14,7 +14,14 @@ Sub-theme: **Cosy**, settling in.
     - **Out of focus**
         - Write up WDAIE sketchnotes
             - action-focused, grips
+        - "Bullshit jobs" definition
+            - extend it
         - New hostile / breaking / conflict / AIR notes
+        - Being shut down notes (assertiveness, rs?)
+        - Reality check!
+            - Check Cal's language, format
+            - Reread Factfulness notes
+            - Reread The News notes
         - Pitch some ideas to WWAM
             - Testing with a SR workshop
             - Top fixed issues in the past year, 3 years, 5 years
@@ -32,6 +39,7 @@ Sub-theme: **Cosy**, settling in.
         - → Pick a new cosy game
         - Write: the importance of multimodality
         - Foodist plate &times; bento box / Japanese meal
+        - Office stationary cull
         - Visit local library
         - Set up a bliss station / studio
         - Make the new house cosy
