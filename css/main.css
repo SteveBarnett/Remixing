@@ -368,6 +368,10 @@ details form {
   text-decoration: line-through;
 }
 
+.task-list-item-checkbox {
+  margin-right: 0.25em;
+}
+
 th {
   text-align: left;
 }
@@ -596,6 +600,8 @@ h4 {
     border-color: #faebd7;
   }
 }
+
+
 
 /* ==========================================================================
    Helper classes
