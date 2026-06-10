@@ -7,10 +7,9 @@ Sub-theme: **Cosy**, settling in.
 - **Vocation**
     - **Focus: "Plan the pomodoro breaks"**
         - → Use pomodoros more often, do cosy breaks
+        - → Ideas for next DADG
         - Automate VPAT thing
     - **Out of focus**
-        - ✔ ~~Write up WDAIE sketchnotes~~
-        - → Action-focused grips from WDAIE sketchnotes
         - → New hostile / breaking / conflict / AIR notes
         - → Being shut down notes (assertiveness, rs?)
         - Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)
@@ -21,6 +20,8 @@ Sub-theme: **Cosy**, settling in.
             - Check Cal's language, format
             - Reread Factfulness notes
             - Reread The News notes
+        - ✔ ~~Write up WDAIE sketchnotes~~
+        - ✖ ~~Action-focused grips from WDAIE sketchnotes~~
         - ✔ ~~Pitch some ideas to WWAM~~
             - ✔ ~~Testing with a SR workshop~~
             - ✖ ~~Top fixed issues in the past year, 3 years, 5 years~~
@@ -31,19 +32,19 @@ Sub-theme: **Cosy**, settling in.
     - **Out of focus**
 - **Interests**
     - **Focus: "Make a cosy Japlan"**
-        - → Write up notes from trains book
-        - Make a 4-month Nihongo plan
+        - ✔ ~~Write up notes from trains book~~
+        - → Make a 4-month Nihongo plan
         - Japan trip places plan
     - **Out of focus**
         - → Write: the importance of multimodality
         - → Wait for sale on a new cosy game
+        - Set up a bliss station / studio
         - Foodist plate &times; bento box / Japanese meal
         - Another SDC, especially stationery
-        - Visit local library
-        - Set up a bliss station / studio
-        - Look up Table Tennis Brooklyn
-        - Look up Tai Chi Brooklyn
         - Piranesi tiny sketches
+        - Visit local library
+        - ✔ ~~Look up Table Tennis Brooklyn~~
+        - ✔ ~~Look up Tai Chi Brooklyn~~
         - ✔ ~~Make the new house cosy~~
 - **Practice**
     - **Focus: "Cosy sits"**
