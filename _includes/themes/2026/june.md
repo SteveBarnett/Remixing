@@ -16,10 +16,10 @@ Sub-theme: **Cosy**, settling in.
         - Notes from "AI fatigue is real and nobody talks about it" article
         - Notes from "From Interactive to Interpassive" article
         - WFH Window bamboo
-        - Reality check!
+        - ✖ ~~Reality check~~
             - Check Cal's language, format
-            - Reread Factfulness notes
-            - Reread The News notes
+            - ✔ ~~Reread Factfulness notes~~
+            - ✔ ~~Reread The News notes~~
         - ✔ ~~Write up WDAIE sketchnotes~~
         - ✖ ~~Action-focused grips from WDAIE sketchnotes~~
         - ✔ ~~Pitch some ideas to WWAM~~
@@ -28,7 +28,7 @@ Sub-theme: **Cosy**, settling in.
 - **Health**
     - **Focus: "Cosy strolling"**
         - → Restart 1BW
-            - → And weight a bit
+        - And weight a bit
     - **Out of focus**
 - **Interests**
     - **Focus: "Make a cosy Japlan"**
@@ -38,6 +38,9 @@ Sub-theme: **Cosy**, settling in.
     - **Out of focus**
         - → Write: the importance of multimodality
         - → Wait for sale on a new cosy game
+        - Back yard plants
+        - House plant positioning remix
+        - Big room layout remix
         - Set up a bliss station / studio
         - Foodist plate &times; bento box / Japanese meal
         - Another SDC, especially stationery
@@ -50,7 +53,8 @@ Sub-theme: **Cosy**, settling in.
     - **Focus: "Cosy sits"**
         - → Make sits more comfy and cosy
     - **Out of focus**
+        - → Plan mini-retreat for Sat 20
         - → Limits scribbles plan
         - Haiku project
 
-Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/).
+Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/), [week 24](/2026/week/24/), [week 25](/2026/week/25/).
