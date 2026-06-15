@@ -11,6 +11,7 @@ Sub-theme: **Cosy**, settling in.
         - Automate VPAT thing
     - **Out of focus**
         - → Actions from WDAIE sketchnotes
+        - → Think about flow as stock
         - ✖ ~~Notes from "From Interactive to Interpassive" article~~
         - ✖ ~~Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)~~
         - ✖ ~~WFH Window bamboo~~
@@ -37,6 +38,7 @@ Sub-theme: **Cosy**, settling in.
         - → Make a 4-month Nihongo plan
         - Japan trip places plan
     - **Out of focus**
+        - → Think about flow as stock
         - → Wait for sale on a new cosy game
         - → Lay out back garden plants
         - → Big room layout remix
@@ -54,8 +56,9 @@ Sub-theme: **Cosy**, settling in.
     - **Focus: "Cosy sits"**
         - → Make sits more comfy and cosy
     - **Out of focus**
+        - → Think about flow as stock
+        - Haiku project
         - ✔ ~~Plan mini-retreat for Sat 20~~
         - ✔ ~~Limits scribbles plan~~
-        - Haiku project
 
 Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/), [week 24](/2026/week/24/), [week 25](/2026/week/25/).
