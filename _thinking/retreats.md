@@ -3,7 +3,7 @@ layout: page
 title: Retreats
 buddhism: true
 added: 2024-03-31
-updated: 2025-05-11
+updated: 2026-06-15
 ---
 
 * Display TOC
@@ -21,6 +21,20 @@ Supportive, not prescriptive.
 		- focused series
 - 10m or 20m walking
 - 1h dharma talk
+
+### June 2026
+
+#### Vibe check
+
+- The Way app sits
+- New "Experiments in Having No Head" sits on Waking Up app
+- Hanging with the dog
+- Read Addis / Lombardo  Tao Te Ching
+
+### Agenda
+
+- Needs to be a bit flexible
+- 30m sit, 20m walk / dog, 30m sit
 
 ### May 2025 one-day
 
