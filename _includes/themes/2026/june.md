@@ -11,7 +11,9 @@ Sub-theme: **Cosy**, settling in.
         - Automate VPAT thing
     - **Out of focus**
         - → Actions from WDAIE sketchnotes
-        - → Think about flow as stock
+        - → Write up annotations work?
+        - → PD Day: update CV, write blog post
+        - ✔ ~~Think about flow as stock~~
         - ✖ ~~Notes from "From Interactive to Interpassive" article~~
         - ✖ ~~Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)~~
         - ✖ ~~WFH Window bamboo~~
@@ -38,7 +40,6 @@ Sub-theme: **Cosy**, settling in.
         - → Make a 4-month Nihongo plan
         - Japan trip places plan
     - **Out of focus**
-        - → Think about flow as stock
         - → Wait for sale on a new cosy game
         - → Lay out back garden plants
         - → Big room layout remix
@@ -49,6 +50,7 @@ Sub-theme: **Cosy**, settling in.
         - Another SDC, especially stationery
         - Piranesi tiny sketches
         - Visit local library
+        - ✔ ~~Think about flow as stock~~
         - ✔ ~~Look up Table Tennis Brooklyn~~
         - ✔ ~~Look up Tai Chi Brooklyn~~
         - ✔ ~~Make the new house cosy~~
@@ -56,9 +58,13 @@ Sub-theme: **Cosy**, settling in.
     - **Focus: "Cosy sits"**
         - → Make sits more comfy and cosy
     - **Out of focus**
-        - → Think about flow as stock
         - Haiku project
+        - ✔ ~~Think about flow as stock~~
         - ✔ ~~Plan mini-retreat for Sat 20~~
         - ✔ ~~Limits scribbles plan~~
 
 Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/), [week 24](/2026/week/24/), [week 25](/2026/week/25/).
+
+#### End of month review: June
+
+- [ ] Write up a gathering of this month's writing
