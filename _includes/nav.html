@@ -1,4 +1,4 @@
-<nav aria-label="Main navigation" id="{{ include.id }}">
+<nav aria-label="Main" id="{{ include.id }}">
   <ul>
     <li><a href="/" {% if page.url == "/" %} aria-current="page" {% endif %}>Home</a></li>
     <li><a href="/thinking/" {% if page.url contains "/thinking" %} {% unless page.url contains "/thinking/map" %} aria-current="page" {% endunless %} {% endif %}>Thinking</a> > <a href="/thinking/map/" {% if page.url contains "/thinking/map" %} aria-current="page" {% endif %}>MAP</a></li>
