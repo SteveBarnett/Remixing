@@ -7,12 +7,11 @@ Sub-theme: **Cosy**, settling in.
 - **Vocation**
     - **Focus: "Plan the pomodoro breaks"**
         - → Use pomodoros more often, do cosy breaks
-        - → Ideas for next DADG
-        - Automate VPAT thing
     - **Out of focus**
-        - → Actions from WDAIE sketchnotes
-        - → Write up annotations work?
-        - → PD Day: update CV, write blog post
+        - → Update CV: the middle one
+        - → Ideas for next DADG
+        - → Ideas for group activities for WWAM SR workshop
+        - ✖ ~~Actions from WDAIE sketchnotes~~
         - ✔ ~~Think about flow as stock~~
         - ✖ ~~Notes from "From Interactive to Interpassive" article~~
         - ✖ ~~Notes from [Anna E. Cook AI stuff](https://pinboard.in/u:maxbarners/t:aidesignsystem/)~~
@@ -33,22 +32,28 @@ Sub-theme: **Cosy**, settling in.
         - → Continue 1BW
         - And weight a bit
         - ✔ ~~Restart 1BW~~
-    - **Out of focus**
 - **Interests**
     - **Focus: "Make a cosy Japlan"**
-        - ✔ ~~Write up notes from trains book~~
-        - → Make a 4-month Nihongo plan
+        - → Make a 3-month Nihongo plan
+            - → Anki cards
+                - → Hiragana
+                - → Food and travel topics only
+        - → Think about "flow into stock": keeping it going, restarting it
         - Japan trip places plan
+        - ✔ ~~Write up notes from trains book~~
     - **Out of focus**
-        - → Wait for sale on a new cosy game
         - → Lay out back garden plants
         - → Big room layout remix
+        - → Lamps, low lighting, for big room
+        - → Think about "flow into stock": keeping it going, restarting it
+        - → Wait for sale on a new cosy game
         - House plant positioning remix
         - Write: the importance of multimodality
         - Set up a bliss station / studio
         - Foodist plate &times; bento box / Japanese meal
         - Another SDC, especially stationery
         - Piranesi tiny sketches
+        - Pen and pencil versions of something like [Still City](https://yagitaka.com/still-city)
         - Visit local library
         - ✔ ~~Think about flow as stock~~
         - ✔ ~~Look up Table Tennis Brooklyn~~
