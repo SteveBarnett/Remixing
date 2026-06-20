@@ -6,11 +6,12 @@ Sub-theme: **Cosy**, settling in.
 
 - **Vocation**
     - **Focus: "Plan the pomodoro breaks"**
-        - → Use pomodoros more often, do cosy breaks
+        - → Use pomodoros more often
+            - → Do cosy breaks
     - **Out of focus**
-        - → Update CV: the middle one
-        - → Ideas for next DADG
-        - → Ideas for group activities for WWAM SR workshop
+        - ✔ ~~Ideas for next DADG~~
+        - ✔ ~~Ideas for group activities for WWAM SR workshop~~
+        - ✔ ~~Update CV: the middle one~~
         - ✖ ~~Actions from WDAIE sketchnotes~~
         - ✔ ~~Think about flow as stock~~
         - ✖ ~~Notes from "From Interactive to Interpassive" article~~
@@ -39,14 +40,16 @@ Sub-theme: **Cosy**, settling in.
                 - → Hiragana
                 - → Food and travel topics only
         - → Think about "flow into stock": keeping it going, restarting it
+            - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
         - Japan trip places plan
         - ✔ ~~Write up notes from trains book~~
     - **Out of focus**
-        - → Lay out back garden plants
         - → Big room layout remix
-        - → Lamps, low lighting, for big room
         - → Think about "flow into stock": keeping it going, restarting it
+            - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
         - → Wait for sale on a new cosy game
+        - Lamps, low lighting, for big room
+        - Lay out back garden plants
         - House plant positioning remix
         - Write: the importance of multimodality
         - Set up a bliss station / studio
