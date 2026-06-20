@@ -72,7 +72,3 @@ Sub-theme: **Cosy**, settling in.
         - ✔ ~~Limits scribbles plan~~
 
 Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/), [week 24](/2026/week/24/), [week 25](/2026/week/25/).
-
-#### End of month review: June
-
-- [ ] Write up a gathering of this month's writing
