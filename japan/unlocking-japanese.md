@@ -2,8 +2,78 @@
 layout: page
 title: "Unlocking Japanese"
 japan: true
-added: 2026-06-22
+added: 2026-06-23
 updated: 2026-06-22
+---
+
+## Notes
+
+- Rule number 1: Don't skip anything
+    - It's all ordered and placed carefully
+- Rule number 2: Don't try to memorise things
+    - Things come up repeatedly anyway
+- Rule number 3: Cover up!
+    - Hide the red bits and retrieve rather than read
+
+### Chapter 1: I ate katsu curry in that restaurant yesterday!
+
+- to / に / <span lang="jp">ni</span>
+- I went / 行きました / <span lang="jp">ikimashita</span>
+- with / と / <span lang="jp"></span>
+- restaurant / レストラン / <span lang="jp">restoran</span>
+- ate / 食べました / <span lang="jp">tabemashita</span>
+- [object marker] / を / <span lang="jp">o</span>
+- in / で / <span lang="jp">de</span>
+- that / あの / <span lang="jp">ano</span>
+
+#### Word order
+
+- The thing you did goes at the end of the sentence, then add details before it
+- With before in
+- When at the front
+- Lit: Yesterday, that restaurant in katsu curry I ate
+
+### Chapter 2: We want to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious!
+
+
+
+### Chapter 3: I made a hotel reservation online last night - we're going to Kyoto!
+
+
+
+### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
+
+
+
+
+### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
+
+---
+
+## Hiragana
+
+|  | a | i | u | e | o |
+| --- | --- | --- | --- | --- | --- |
+| ∅  | あ | い | う | え | お |
+| k | か | き | く | け | こ |
+| s | さ | し | す | せ | そ |
+| t | た | ち | つ | て | と |
+| n | な | に | ぬ | ね | の |
+| h | は | ひ | ふ | へ | ほ |
+| m | ま | み | む | め | も |
+| y | や | - |   ゆ | - |   よ |
+| r | ら | り | る | れ | ろ |
+| w | わ | ゐ | - |   ゑ | を |
+| ん (n) |
+
+|  | a | i | u | e | o |
+| --- | --- | --- | --- | --- | --- |
+| g | が | ぎ | ぐ | げ | ご |
+| z | ざ | じ | じ | ぜ | ぞ |
+| d | だ | ぢ | づ | で | ど |
+| b | ば | び | ぶ | べ | ぼ |
+| p | ぱ | ぴ | ぷ | ぺ | ぽ |
+
 ---
 
 ## Chapter sizes
@@ -48,33 +118,3 @@ Or, more likely:
 - at least one page a day
     - ideally a few pages a day
 - either: before meditation in the morning, or first thing after finishing work in the evening
-
-## Notes
-
-- Rule number 1: Don't skip anything
-    - It's all ordered and placed carefully
-- Rule number 2: Don't try to memorise things
-    - Things come up repeatedly anyway
-- Rule number 3: Cover up!
-    - Hide the red bits and retrieve rather than read
-
-### Chapter 1: I ate katsu curry in that restaurant yesterday!
-
-
-
-### Chapter 2: We want to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious!
-
-
-
-### Chapter 3: I made a hotel reservation online last night - we're going to Kyoto!
-
-
-
-### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
-
-
-
-
-### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
-
-
