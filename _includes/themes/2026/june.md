@@ -1,6 +1,6 @@
 ### June
 
-Events in June: Melbourne trip for conference (Tue 2 to Fri 5); BANFF round 2 (Tue 9); 80s Day Disco (Sat 27) 
+Events in June: Melbourne trip for conference (Tue 2 to Fri 5); BANFF round 2 (Tue 9); 80s Day Disco (Sat 27).
 
 Sub-theme: **Cosy**, settling in.
 
@@ -31,19 +31,21 @@ Sub-theme: **Cosy**, settling in.
 - **Health**
     - **Focus: "Cosy strolling"**
         - → Continue 1BW
+        - → Think about "flow into stock": keeping it going, restarting it
+            - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
         - And weight a bit
         - ✔ ~~Restart 1BW~~
 - **Interests**
     - **Focus: "Make a cosy Japlan"**
-        - → Make a 3-month Nihongo plan
+        - → Learn some Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)
+        - → Japan trip places plan
+        - ✔ ~~Make a 3-month Nihongo plan~~
             - → Anki cards
                 - → Hiragana
                 - → Food and travel topics only
-        - → Think about "flow into stock": keeping it going, restarting it
-            - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
-        - Japan trip places plan
         - ✔ ~~Write up notes from trains book~~
     - **Out of focus**
+        - → Pen and pencil versions of something like [Still City](https://yagitaka.com/still-city)
         - → Big room layout remix
         - → Think about "flow into stock": keeping it going, restarting it
             - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
@@ -56,7 +58,6 @@ Sub-theme: **Cosy**, settling in.
         - Foodist plate &times; bento box / Japanese meal
         - Another SDC, especially stationery
         - Piranesi tiny sketches
-        - Pen and pencil versions of something like [Still City](https://yagitaka.com/still-city)
         - Visit local library
         - ✔ ~~Think about flow as stock~~
         - ✔ ~~Look up Table Tennis Brooklyn~~
@@ -72,3 +73,7 @@ Sub-theme: **Cosy**, settling in.
         - ✔ ~~Limits scribbles plan~~
 
 Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week/23/), [week 24](/2026/week/24/), [week 25](/2026/week/25/).
+
+#### End of month review: June
+
+- [ ] Write up a gathering of this month's writing
