@@ -9,6 +9,7 @@ Sub-theme: **Cosy**, settling in.
         - → Use pomodoros more often
             - → Do cosy breaks
     - **Out of focus**
+        - → Outline for WWAM SR workshop Thu 23/07
         - ✔ ~~Ideas for next DADG~~
         - ✔ ~~Ideas for group activities for WWAM SR workshop~~
         - ✔ ~~Update CV: the middle one~~
