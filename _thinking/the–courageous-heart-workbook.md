@@ -3,7 +3,7 @@ layout: page
 title: "The Courageous Heart Workbook"
 notes: true
 added: 2026-06-23
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 Notes from "The Courageous Heart Workbook: How to Find Courage and Love in Tough Times" by Brach, Tara
@@ -258,3 +258,78 @@ storytelling: who’s right or wrong, good or bad, to blame or to praise.
 
 - Let this simple gesture be a thread that weaves belonging into your ordinary moments.
 
+### Part five: compassionate action in a troubled world
+
+- even the smallest act, when rooted in love, matters
+
+#### We are in it together
+
+- Action absorbs anxiety,
+
+#### What breaks your heart?
+
+- When finding our path to love in action, often the most powerful place to begin is with what breaks your heart.
+- Let yourself feel the ache. And then gently ask, “What is love asking of me?” You don’t need to know the
+whole path. Just the next small step.
+- What beliefs or fears arise when you think about taking action?
+- When we take even the smallest step, we shift from paralysis to participation.
+
+#### Mindful conversations across political divides
+
+- Mindful conversation across divides isn’t about changing minds—it’s about opening hearts and connecting. It’s a chance to embody compassion and integrity, even in disagreement. When we relate with respect and care, we begin to heal the painful disconnection that fuels division.
+- skills for mindful dialogue set a compassionate tone
+- Ask permission:
+- Start with shared values:
+- listen to understand
+- speak with care
+- Use “I” language:
+- Share personal stories instead of arguments
+
+### Part six: Nourishing the soul
+
+This final part of our journey offers a variety of ways to slow down and tend the sacredness that lives within and around us.
+
+#### The bodhisattva aspiration
+
+- the traditional teachings of the bodhisattva path encourage us to regularly return to our deepest aspiration—
+- the classic bodhisattva aspiration: the vow to awaken the mind and heart and to serve the well-being and freedom of all beings.
+- “May whatever circumstances arise in my life serve to awaken wisdom and compassion.”
+- “May this life be of benefit to all beings.”
+
+#### Calling on the beloved
+
+What qualities of your future self do you most want to embody in your daily life?
+
+#### Awakening together
+
+- When we practice together, share together, grieve together, and celebrate together, that illusion dissolves—we sense that one spirit is awakening through these changing forms and that oneness is more truth about who we are than any story of separation.
+- We can’t wake up on our own. We each need the support, reminders, and company of others.
+- What might you do to further nurture and/or expand your circle of spiritual friends?
+
+#### Calling on our ancestors
+
+How does remembering your ancestors shift the way you relate to your life, your struggles, or your path?
+
+#### Power of prayers
+
+This guided reflection invites you to explore the living dimensions of prayer—as presence with vulnerability, as the expression of longing, and as open, listening awareness.
+
+#### Homecoming to true nature
+
+- we live under the deep illusion that what we long for lies outside ourselves—somewhere down the road, just out of reach.
+- Like all aspects of the path, they are best approached with discernment.
+
+#### Self-inquiry
+
+In most spiritual traditions, a fundamental question is “Who am I?” The formal practice of self-inquiry is a powerful way of seeing beyond our stories of self and revealing the mystery of our true nature. Invite yourself to explore this in an easy, effortless way, without any striving to “do it right.”
+
+#### Letting go and letting be
+
+- If there’s no problem to solve, who are you right now?
+- Awareness doesn’t try to fix—it receives.
+- What happens when you release all doing and simply let life unfold?
+- Everything is happening within a field of wakeful openness.
+
+#### A grateful heart
+
+How does gratitude shift the way you experience challenges or difficulty?
