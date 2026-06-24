@@ -3,7 +3,7 @@ layout: page
 title: "Unlocking Japanese"
 japan: true
 added: 2026-06-23
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 ## Notes
@@ -25,6 +25,10 @@ updated: 2026-06-22
 - [object marker] / を / <span lang="jp">o</span>
 - in / で / <span lang="jp">de</span>
 - that / あの / <span lang="jp">ano</span>
+- yesterday / 昨日 / <span lang="jp">kinō</span>
+- 's (posseisve particle) / の / <span lang="jp">no</span>
+- afternoon / 午後 / <span lang="jp">gogo</span>
+- night/evening / 晩 / <span lang="jp">ban</span>
 
 #### Word order
 
