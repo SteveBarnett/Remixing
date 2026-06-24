@@ -3,7 +3,7 @@ layout: page
 title: "Unlocking Japanese"
 japan: true
 added: 2026-06-23
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 ## Notes
@@ -17,6 +17,7 @@ updated: 2026-06-24
 
 ### Chapter 1: I ate katsu curry in that restaurant yesterday!
 
+- Tokyo / 東京 / Tōkyō <span lang="jp"></span>
 - to / に / <span lang="jp">ni</span>
 - I went / 行きました / <span lang="jp">ikimashita</span>
 - with / と / <span lang="jp"></span>
@@ -39,7 +40,13 @@ updated: 2026-06-24
 
 ### Chapter 2: We want to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious!
 
+- Honshu in the centre, Kyushu and Shikoku in the south, Hokkaido in the north, sub-tropical Okinawa in the far south
 
+- Kyoto / 京都 / <span lang="jp">Kyōto</span>
+- Was delicious / おいしかったです / <span lang="jp">Oishikatta</span>
+- I /  / <span lang="jp">Watashi wa</span>
+- Was interesting / 面白かった / <span lang="jp">Omoshirokatta</span>
+- Was beautiful / 美しかった / <span lang="jp">Utsukushikatta</span>
 
 ### Chapter 3: I made a hotel reservation online last night - we're going to Kyoto!
 
