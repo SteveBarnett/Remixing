@@ -20,14 +20,14 @@ updated: 2026-06-25
 - Tokyo / 東京 / Tōkyō <span lang="jp"></span>
 - to / に / <span lang="jp">ni</span>
 - I went / 行きました / <span lang="jp">ikimashita</span>
-- with / と / <span lang="jp"></span>
+- with / と / <span lang="jp">to</span>
 - restaurant / レストラン / <span lang="jp">restoran</span>
 - ate / 食べました / <span lang="jp">tabemashita</span>
 - [object marker] / を / <span lang="jp">o</span>
 - in / で / <span lang="jp">de</span>
 - that / あの / <span lang="jp">ano</span>
 - yesterday / 昨日 / <span lang="jp">kinō</span>
-- 's (posseisve particle) / の / <span lang="jp">no</span>
+- 's (possesive particle) / の / <span lang="jp">no</span>
 - afternoon / 午後 / <span lang="jp">gogo</span>
 - night/evening / 晩 / <span lang="jp">ban</span>
 
@@ -50,7 +50,12 @@ updated: 2026-06-25
 
 ### Chapter 3: I made a hotel reservation online last night - we're going to Kyoto!
 
-
+- I did (or I played) / しました / <span lang="jp">Shimashita</span>
+- ? / か / <span lang="jp">ka</span>
+- Hotel / ホテル / <span lang="jp">hoteru</span>
+- (Hotel) reservation / ホテルの予約 / <span lang="jp">(hoteru no) yoyaku</span>
+- Go, will go, going to / 行きます / <span lang="jp">ikimasu</span>
+- Bus / バス / <span lang="jp">basu</span>
 
 ### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
 
