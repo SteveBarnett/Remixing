@@ -2,20 +2,28 @@
 layout: page
 title: "Enshittification: Why Everything Suddenly Got Worse and What to Do About It"
 added: 2025-11-12
-updated: 2025-11-15
+updated: 2026-06-26
 notes: true
 ---
 
 Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do About It by Doctorow, Cory](https://craphound.com/category/enshittification/)
 
+## Whittled more notes
+
+- Enshittification: good to users; good to customers, bad to users; good to themselves, bad to customers; shit. 
+- Companies have ongoing pressure and temptation to enshittify, so they do when they can
+- "vocational awe": the weaponisation of workers’ sense of duty
+- We need to restore the four anti-enshittification forces: competition, regulation, interoperability, and the tech workforce 
+- We need to shift our emphasis away from forcing the platforms to be better and toward making the platforms less powerful
+
 <h2>Whittled notes</h2>
 
 - Enshittification of platforms / middlemen
     1. Good to their users
-    2. Good to their business customers, back to their users
+    2. Good to their business customers, bad to their users
     3. Good to themselves, bad to their business customers, to take value for themselves
     4. Giant pile of shit
-- They benefits from high network effects and high switching costs
+- They benefit from high network effects and high switching costs
 - Companies enshittify when they can (get away with it)
     - They face ongoing temptation and pressure to enshittify
 - Forces that act on every company in every industry: competition (markets) and regulation (governments)
@@ -46,7 +54,7 @@ Notes from [Enshittification: Why Everything Suddenly Got Worse and What To Do A
 - Part of the solution by connecting people, part of the problem when they become big enough to gatekeep
 - Enshittification
     1. Good to their users
-    2. Good to their business customers, back to their users
+    2. Good to their business customers, bad to their users
     3. Good to themselves, bad to their business customers, to take value for themselves
     4. Giant pile of shit
 - They benefit from high network effects (more valuable as it attracts more users) and rely on high switching costs
