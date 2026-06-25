@@ -3,10 +3,133 @@ layout: page
 title: "The Courageous Heart Workbook"
 notes: true
 added: 2026-06-23
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 
-Notes from "The Courageous Heart Workbook: How to Find Courage and Love in Tough Times" by Brach, Tara
+Notes from "The Courageous Heart Workbook: How to Find Courage and Love in Tough Times" by Tara Brach.
+
+## Whittled notes
+
+- Acceptance
+    - Acceptance: open to what is actually here
+    - Cultivate the willingness to become still and pay attention to our experience, whatever it may be
+    - Awareness doesn’t try to fix—it receives.
+- The path
+    - Our path is to choose to love
+- Vulnerability
+    - Open to vulnerability, even when it hurts (I prefer this to bravery or courage, which I find hard)
+    - Turn towards the vulnerable places you may have long avoided, and meet them with compassion and presence
+    - Vulnerability is not a personal flaw—it is a universal truth
+- Perfectionism
+    - Perfectionism only serves suffering
+- All grist for the mill
+    - Grief, fear, shame, and longing are gateways to awakening, not obstacles
+    - “May whatever circumstances arise in my life serve to awaken wisdom and compassion.”
+    - How does gratitude shift the way you experience challenges or difficulty?
+- Beliefs
+    - We are not our thoughts
+    - Our negative self-beliefs, even when deeply painful, often give us a sense of certainty, orientation, and control.
+- Trusting the gold
+    - Not about fixing yourself but about recognizing your own worthiness and the radiant awareness beneath all experience
+    - We tend to fixate on what feels wrong, so we do need to reflect on our goodness and offer ourselves care
+- Mirror metta
+    - There are times when self-judgment is so entrenched that offering yourself kindness feels impossible
+        - Call to mind someone who has loved you well
+        - If you find it difficult to offer yourself compassion, imagine someone wise and loving—a friend, child, dog, healer, teacher, spiritual figure, tree, or ancestor
+- Letting go
+    - “What is wrong with letting go of this belief?” or “What bad might happen if I let go of this self-judgment?”
+- Learning stance
+    - “I allow myself to be a learner, still learning life’s lessons”
+- Connection, not separation
+    - Intention: “I want to connect, not separate.”
+    - in a way that invites understanding and connection, not separation
+    - gradually removing the layers of protection that keep us from being fully seen.
+    - Ask, “Am I offering this truth to create more closeness, understanding, or trust?”
+    - Our minds are deeply conditioned to create separation
+    - Observe how thoughts and stories tend to reinforce separation.
+    - This illusion of separation often leads, directly or indirectly, to harm
+    - Deep truth often unfolds over time
+    - Let the conversation be a beginning, not a final sharing
+    - Share personal stories instead of arguments
+    - It’s not that we are fundamentally in conflict with another person—it’s that our needs, values, or perceptions are momentarily in tension with theirs.
+- Action
+    - Action absorbs anxiety
+    - When we take even the smallest step, we shift from paralysis to participation
+
+---
+
+
+## Gathered notes
+
+### Introduction
+
+- Be brave
+- **Open to vulnerability, even when it hurts** (I prefer this to bravery or courage, which I find hard)
+- **Our path is to choose to love**
+- Without grounding in presence, care can turn into burnout, reactivity, or despair
+- **Perfectionism only serves suffering**
+- **Grief, fear, shame, and longing are gateways to awakening, not obstacles**
+
+### Part one: the ground of presence
+
+- Shift attention from mental activity to the sensory aliveness of our immediate experience
+- Between the stimulus and the response, there is a space, and in that space is your power and your freedom. — Widely attributed to Viktor Frankl
+- **Acceptance: open to what is actually here**
+- **Cultivate the willingness to become still and pay attention to our experience, whatever it may be**
+- **We are not our thoughts**
+
+### Part two: embracing our inner life
+
+- **Turn towards the vulnerable places you may have long avoided, and meet them with compassion and presence**
+- **Not about fixing yourself but about recognizing your own worthiness and the radiant awareness beneath all experience**
+- **We tend to fixate on what feels wrong, so we do need to reflect on our goodness and offer ourselves care**
+- **There are times when self-judgment is so entrenched that offering yourself kindness feels impossible**
+    - Experiment with gentle ways
+        - **Call to mind someone who has loved you well**
+- **If you find it difficult to offer yourself compassion, imagine someone wise and loving—a friend, child, dog, healer, teacher, spiritual figure, tree, or ancestor**
+- Imagine the inner freedom of recognizing your imperfections and holding them with acceptance and kindness
+- Imagine who you are when you live with a forgiving heart—free, open, connected
+- **Our negative self-beliefs, even when deeply painful, often give us a sense of certainty, orientation, and control.**
+- **“What is wrong with letting go of this belief?” or “What bad might happen if I let go of this self-judgment?”**
+
+### Part three: loving without holding back in relationships
+
+- The training grounds are our day-to-day relationships
+- **Intention: “I want to connect, not separate.”**
+- Deepening the truths we tell each other is not about dramatic revelations; it’s about **gradually removing the layers of protection that keep us from being fully seen.**
+- **Ask, “Am I offering this truth to create more closeness, understanding, or trust?”**
+- **Deep truth often unfolds over time**
+- **Let the conversation be a beginning, not a final sharing**
+- The challenge—and the practice—is to express what is real and true **in a way that invites understanding and connection, not separation**
+- **Vulnerability is not a personal flaw—it is a universal truth**
+- **It’s not that we are fundamentally in conflict with another person—it’s that our needs, values, or perceptions are momentarily in tension with theirs.**
+- When we personalize conflict, we often become reactive, defensive, or disconnected.
+- **“I allow myself to be a learner, still learning life’s lessons”**
+- **Our minds are deeply conditioned to create separation**
+- **Observe how thoughts and stories tend to reinforce separation.**
+
+### Part four: widening the circles of compassion
+
+- **This illusion of separation often leads, directly or indirectly, to harm**
+- What might it be like to move through the world without feeling superior or inferior to anyone?
+- Mature compassion is not passive—it’s fierce compassion. You might think of it as having a strong back and a soft front.
+
+### Part five: compassionate action in a troubled world
+
+- **Action absorbs anxiety**
+- **When we take even the smallest step, we shift from paralysis to participation**
+- **Share personal stories instead of arguments**
+
+### Part six: Nourishing the soul
+
+- **“May whatever circumstances arise in my life serve to awaken wisdom and compassion.”**
+- “May this life be of benefit to all beings.”
+- We can’t wake up on our own. We each need the support, reminders, and company of others.
+- What might you do to further nurture and/or expand your circle of spiritual friends?
+- **Awareness doesn’t try to fix—it receives.**
+- **How does gratitude shift the way you experience challenges or difficulty?**
+
+---
 
 ## Raw notes
 
