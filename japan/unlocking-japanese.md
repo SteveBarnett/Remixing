@@ -3,7 +3,7 @@ layout: page
 title: "Unlocking Japanese"
 japan: true
 added: 2026-06-23
-updated: 2026-06-25
+updated: 2026-06-27
 ---
 
 ## Notes
@@ -56,6 +56,9 @@ updated: 2026-06-25
 - (Hotel) reservation / ホテルの予約 / <span lang="jp">(hoteru no) yoyaku</span>
 - Go, will go, going to / 行きます / <span lang="jp">ikimasu</span>
 - Bus / バス / <span lang="jp">basu</span>
+- Train / 電車 / <span lang="jp">Densha</span>
+- Taxi / タクシー / <span lang="jp">Takushii</span>
+- Today / 今日 / <span lang="jp">Kyō</span>
 
 ### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
 
