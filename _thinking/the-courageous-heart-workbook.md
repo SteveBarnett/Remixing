@@ -8,6 +8,34 @@ updated: 2026-06-26
 
 Notes from "The Courageous Heart Workbook: How to Find Courage and Love in Tough Times" by Tara Brach.
 
+## Top few takeaways
+
+- Open to vulnerability, even when it hurts
+- Perfectionism only serves suffering
+    - What do you think will go wrong if you let it go?
+- [Mirror metta](/thinking/my-mirror-metta/)
+- Connection, not separation. Thoughts and stories tend to reinforce separation.
+- Share personal stories instead of conceptual arguments
+
+## Whittled whittled notes
+
+- Accepting of what's actually here, without trying to fix it
+- Choosing love
+- **Opening to vulnerability, even when it hurts**
+- Realising how **perfectionism only serves suffering**
+- Taking even "bad" experience as a gateway to awakening
+- Feeling that we are not our thoughts
+- Reflecting on our goodness because we tend to fixate on what's wrong
+- **When self-kindness is hard, imagining a trusted figure offering it instead** (my take: [mirror metta](/thinking/my-mirror-metta/))
+- **Asking what we believe will go wrong if we let go of a belief**
+- Adopting a learning stance
+- Inviting understanding and **connection, not separation**
+    - Noticing how **thoughts and stories tend to reinforce separation**
+    - Taking the time it needs
+- Framing it as tension values and needs rather than fundamental conflict
+- **Sharing personal stories instead of conceptual arguments**
+- **Taking a first small step to overcome action paralysis**
+
 ## Whittled notes
 
 - Acceptance
@@ -17,7 +45,7 @@ Notes from "The Courageous Heart Workbook: How to Find Courage and Love in Tough
 - The path
     - Our path is to choose to love
 - Vulnerability
-    - Open to vulnerability, even when it hurts (I prefer this to bravery or courage, which I find hard)
+    - Open to vulnerability, even when it hurts (I prefer this framing to being brave or courageous, which I find hard)
     - Turn towards the vulnerable places you may have long avoided, and meet them with compassion and presence
     - Vulnerability is not a personal flaw—it is a universal truth
 - Perfectionism
