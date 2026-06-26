@@ -144,3 +144,123 @@ updated: 2026-06-25
 
 #### AI Has a Labor Issue (Not a Copyright Issue)
 
+- I think AI bros are waging war against creative labor in order to create outrage, because the louder we all shout about how AI can replace workers, the more money they can raise from the capital 
+- markets and the more credulous, worker-hating bosses they can peddle defective AI products to.
+- In order to convert all policy questions to equations, we have to discard (or, at least, assign a numerical value to) all qualitative aspects of policy,
+- The quest to turn every policy question into an equation requires us to incinerate every qualitative aspect of policy so that we can do math on whatever dubious quantitative residue the process leaves behind.
+- entertainment and tech companies routinely cook up arrangements among themselves that are designed to suppress the wages of creative workers and divide the difference among themselves.
+- But tech and media aren’t exactly enemies—they’re more like an axis. They absolutely disagree about how much of a creator’s wages each is entitled to, but they are 100 percent in agreement that creators’ wages are there for the taking. That is how every single one of these tech-versus-media copyright battles has ended, and it’s naive to assume that the AI fight will end any differently.
+- Getty has means, motive, and opportunity to replace photographers with image generators. Like every business, they hate paying their workforce and relentlessly hunt for ways to reduce their labor expenditures.
+- These companies do not hide their desire to swap salaries for software licenses.
+- Media companies, like other employers, do not represent their workers’ interests, except incidentally.
+- In the United States, some (but not all) of these limitations and exceptions fit into a (very poorly understood) legal doctrine called “fair use.”
+- Scraping is a routine affair.
+- scraping in order to make a transient copy of a work for the purposes of analysis, indexing, and so on, is legal.
+- Fundamentally, AI training is grounded in counting things and then drawing inferences from those tallies.
+- One of the reasons AI output is so unreliable is that this method has no connection to understanding the subject the words are describing.
+- it’s not learning anything about soup. It is learning about the word frequency in articles about soup.
+- Counting the words in an article, or the pixels in an image, or the tones in a song does not violate copyright.
+- The rights holders behind those books may have a claim against Meta for infringing their copyright by acquiring the books, but not for analyzing them.
+- Now we come to the final step in training a model: taking all the things that were counted during the analytical phase and publishing those findings as a piece of software. This is the model itself.
+- Would changing copyright law protect creative workers? I think the answer is a resounding no, and moreover, such a move would necessarily create swathes of collateral damage.
+- giving creative workers more to bargain with is just giving them more to bargain away, because the expansion of copyright has coincided with concentration in the media industry.
+- Here’s a rule of thumb for tech policy prescriptions. Anytime you find yourself, as a worker, rooting for the same policy as your boss, you should check and make sure you’re on the right side of history.
+
+#### What Should Creative Workers Do About AI?
+
+- Let’s talk about an answer to AI that your boss will hate.
+- Notably, they did not demand a ban on AI in the writers’ room: rather, they got the right to use AI as they saw fit, but only under circumstances chosen by the writers themselves, and without any reduction in their wages.
+- In other words, their bosses tried to turn them into reverse centaurs, and they won the right to be centaurs instead.
+- Creators who are worried about AI would do well to focus on getting the legal reforms that would let them unionize.
+- In copyright jargon, “Copyright inheres at the moment of fixation of a new work of human creativity.”
+- only humans are entitled to copyrights.
+- the output of an AI cannot be copyrighted. The prompt that a human feeds to the AI is a creative work, and it is protected
+- But the output of that prompt is born in the public domain.
+- Now, if you touch up that work—change a few words, twiddle some pixels in Photoshop—you can create a tiny modicum of copyright over those specific changes. But substantively, the work remains in the public domain.
+- This means that, to the extent that our bosses replace us with AI, they do not own the products they hope to bring to market.
+- The more human labor they put into an AI-generated work, the more protection they get.
+- The rule that says AI works can’t be copyrighted is a massive boon to artists, and it’s one that we should defend with all our might.
+- What’s more, this is a pro-centaur policy. This is a policy that frees up the use of AI to do the drudge work, while keeping the fun parts of making art for human artists.
+- We paint the painting or sing the song or write the book, and the AI can fix a mis-stroke, remove the tape hiss, or identify all the dialogue associated with a character you’re thinking of merging with another one.
+
+#### Actual, Existing AI
+
+- They make sense only if you believe that “being conscious” is a matter of being really good at guessing which word is statistically most likely to come after the previous one.
+- A conscious being isn’t a word-guessing app that knows more words and has more computing power to guess with. Throwing GPUs and training data at AI isn’t going to make a superintelligence
+- Where AI is deployed in commercial settings, it consistently underperforms expectations.
+- there are the long-standing, well-understood problems with algorithmic decision support and decision-making in private-sector hiring, lending, and renting, and public service delivery, policing, and the administration of the criminal justice system.
+- This is the coprophagic AI problem: when you feed a bot on botshit, you get something AI researchers call “model collapse,” a dramatic reduction in the quality of the guesses the bot makes.
+- The problem is that these are the same people who generated the biased data to begin with, and they are charged with approving the output of the algorithms trained on their bad decisions.
+- Indeed, there are a lot of revenue-neutral AI harms that draw a ton of focus, from deepfake porn to election disinformation.
+- While the prospects for AI replacing search are grim, there is one area in which AI is unquestionably useful and profit-generating: price-fixing.
+- price-fixing, which the industry calls “personalized pricing."
+- there isn’t a single AI sales call whose takeaway is, “Buy our AI pricing-bot and we will charge your customers less and pay your workers more.” The market isn’t betting hundreds of billions on AI because investors are excited about offering discounts.
+- To be an effective AI critic, you need to strike at the source of AI’s power, which is the investment capital it attracts. That investment capital is attracted by speculative stories about how AI will someday do our jobs, and by the reality of AI being used today to rip us off and to automate lucrative human rights abuses at scale.
+- It’s vital that we don’t conflate “an AI salesman convincing your boss to fire you and replace you with an AI that can’t do your job” with “AI will steal your job.”
+- It’s essential that we never stop reminding people that the current, actually existing lucrative uses for AI are terrible and should be banned.
+
+#### Absent Indians and Gujarati People Typing
+
+- there’s also a realm of extremely advanced and amazing AI demos that dangle the promise of an extraordinary future for AI, if only we get out of the way and let tech monopolists consume as much water, energy, and capital as they need.
+- MTurk—and the original Mechanical Turk—presaged many “impressive” AI launches, products, and demos that followed.
+- It is so common for “AI” to turn out to be low-paid call-center workers in India, Indian technologists joke that “AI” stands for “Absent Indians.”
+- Many of the chatbot customer service reps, therapists, and other remote conversants are “backstopped” by low-waged workers in remote call centers who take over whenever the bot gets confused, without revealing that a human is now on the other end of the line.
+- No wonder Indian wags have a new, wry joke for it: they say the “GPT” in “ChatGPT” stands for “Gujarati People Typing.”
+
+#### Agentic AI and Other Absurdities
+
+- To sell the story about how AI can recoup and realize a profit, the AI industry needs to spin a tale about replacing lots of waged labor, preferably
+- high-waged labor. They’ve got a lot of stories about this, and none of them bear up to even cursory scrutiny.
+- There is no meaningful relationship between a program that can make guesses about pixels and a program that can design a building. The former is guessing about how a building will look, without any understanding of how that connects to the structural elements a building can contain. A camera can faithfully record your appearance but does not (and cannot) do so by inferring things about your skeleton and internal organs.
+- Tech bubbles are surprisingly easy to generate, thanks to something economists call “the Byzantine premium.” That’s the extra value that investors place on an asset that they don’t understand. 
+- Many of the stories about AI’s explosive growth potential have relied on this Byzantine premium, finding ways to exploit people’s vague knowledge of esoteric subjects to impress them with decidedly unimpressive feats.
+- Scratch stories about the significant market opportunities for AI tools with flashy demos, and you’ll inevitably find a promise of AIs spontaneously developing new capabilities
+- These specialized agents still have to navigate a complex world of heterogeneous websites. This is challenging, and not just because these sites weren’t designed to be legible to AI systems, but also because they were designed to frustrate humans seeking to gain an advantage by understanding all the contours of the offers they presented.
+- Surveillance pricing is one example of how firms use “information asymmetries” to rig prices to the detriment of customers and workers.
+- All of that makes agentic AI even more improbable. Companies don’t want software agents to automate away the high barriers they’ve created to prevent direct comparisons and analysis of pricing cycles. They will use the law and technological countermeasures to prevent this.
+- This has not happened.
+ It hasn’t happened for a lot of good reasons. For one thing, there are irreconcilable differences in the ways in which things should be described. 
+- Since the late 1990s, advocates for the “semantic web” have been 
+- agentic AI pitchmen announced that they could make the whole system work by creating robust public standards by which websites could reveal themselves to AI agents in order to facilitate agents’ retrieval of their information.
+- trying to convince website operators to create “structured data” that hewed to standard “vocabularies” and “ontologies” so that software agents could easily locate and analyze the data they published.
+- It also hasn’t happened because there is a reward for cheating.
+- Finally, it hasn’t happened because companies don’t want you to have good information about their products and services, their prices and costs, because when they know things you don’t, they can make more money off of you.
+- the agentic AI industry is now insisting that everyone rearrange all of their affairs to the benefit of AI companies, and to their own detriment.
+- the auto industry invented this gimmick when they answered widespread outrage about people being killed by rich idiots in cars (when cars were toys for the wealthy) by inventing the idea of the “pedestrian,” who shouldn’t be in the roadway, where people had walked since roads were invented. 
+- The world is both unpredictable and adversarial, and any “autonomous” system that works only when everyone cooperates with it does not work at all.
+
+### AFTER
+
+#### Bubbles and Productive Residues
+
+- AI is a bubble, but not all bubbles are created equal. Start here, though: every bubble is bad.
+- But many bubbles are productive, even if they are dishonest and destructive at the same time. Take the dot-com bubble of the late 1990s and early 2000s
+- For companies hoping to demonstrate their superiority to Wall Street, using lots of 
+- energy is a way to send a signal about how “advanced” their technology is. 
+- Defenders of AI will often cite other technologies that were costly at the outset, like the web itself, as evidence that AI will soon solve all its energy and scale problems. But the web revolution was a decade of unbroken drops in the cost of servicing each new web user.
+- Not so with AI. Each generation of AI foundation models has been vastly more expensive to train and operate than the previous generation.
+- AI gets more expensive every time it adds a user. It gets more expensive every time it adds a feature. It gets more expensive every time it improves. This is the opposite of the conditions under which the web attained liftoff.
+- the bubble will burst, as all bubbles do, always.
+- Every day you leave an AI data center running is a day you lose money. The more popular your AI service is, the more money you lose.
+- many of us will continue to use, long after the AI bubble has popped: the stand-alone, open-source, “toy” models that run on commodity personal computers and devices that are even cheaper and lower-powered.
+- This may seem like a paltry and trivial outcome from hundreds of billions of dollars and gigatons of planet-killing carbon, because it is.
+- An AI therapy session is a creative work of literature in which you are the principal author and the chatbot is a coauthor that makes successively refined guesses about what you want to hear based on your responses to its responses (to your responses to its responses
+- AI companies are the most data-hungry, privacy-disrespecting firms in tech history, which is a tough, highly competitive field.
+- They should not be trusted with the compromising, sensitive personal reflections of their users. 
+- The release of DeepSeek in 2025 sent shock waves through AI investors. DeepSeek laid bare the incredible laziness of the giant U.S. AI companies, who solved all their scaling issues by throwing money at their problems, rather than by applying their ingenuity to them.
+- Of course, if you are less interested in making useful AI products than you are in convincing investors that you’re doing something with enormous growth potential, it makes sense to spend as much money as possible.
+- If we are good AI critics, if we carefully identify the pathological aspects of AI and relentlessly target the financial basis of the AI bubble, we can make sure that all the terrible things billionaires want to do with AI never
+- happen, and we can consign all the terrible things that are currently being done with AI to history’s ash heap.
+
+#### AI After the Bubble
+
+- Human Rights Data Analysis Group (HRDAG), founded by the mathematician Dr. Patrick Ball. HRDAG is a real standard-bearer for the socially beneficial uses of AI. 
+- large language models are capable of making good guesses about ambiguous words, and, even better, turning scans of tabular data back into tables that can be directly manipulated with software.
+- every story of an organization using AI the way HRDAG does is drowned out by a hundred breathlessly reported stories of some nonsense someone is getting up to with AI—nonsense that does no one any good and is going nowhere.
+- It’s because this all arrived as part of an investment bubble that was inflated by attacking workers of all kinds, and that stands to destroy the planet and the economy, that we are forced to take sides as either “anti-AI” or “pro-AI.”
+- It’s fine to be “anti–AI bubble,” but it’s pretty silly to be “anti–statistical analysis” and “anti–machine learning” and “anti–automated inference.”
+- The problem is that all of today’s nonsense applications of AI will do lasting damage, separate from these perfectly useful utilities.
+- Then there’s the world of labor. We’ll see lots of people fired—not because an AI can do their job, but because an AI salesman can convince their credulous bosses to fire them and replace them with an AI that can’t do their job.
+- The job of a good AI critic is to help pop the bubble as quickly as possible, before the
+- walls of all our institutions are filled with this digital asbestos that we’ll be digging out for generations. To be a good AI critic is to understand the material origins of the bubble, and to strike at the material factors that keep it inflated.
+- the future is up for grabs. It is not inevitable. AI isn’t a genie that can’t be put back into a bottle. How we use AI is up to us. Whether we use AI is up to us. The future can be ours, if we never stop remembering that the most important fact about a technology isn’t what it does, it’s who it does it for, and who it does it to.
