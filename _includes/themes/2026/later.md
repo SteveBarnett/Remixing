@@ -11,6 +11,12 @@
 - Health
     - Back to running
 - Interests
+    - Lay out back garden plants
+    - Write: the importance of multimodality
+    - Foodist plate &times; bento box / Japanese meal
+    - Another SDC, especially stationery
+    - Piranesi tiny sketches
+    - Visit local library
     - Rot, decay, mushrooms - but as process
     - Tiny maps project
     - More ambient Ableton
@@ -20,7 +26,6 @@
     - Make a reusable Musicians of Bremen set
     - Few new things from Korean Banchan Recipes book
     - Note down Improv Wellington
-    - Make some peanut butter
     - Tidy up (esp. archives) to make revisiting easier
     - Pick up learning piano again
     - Flowers!

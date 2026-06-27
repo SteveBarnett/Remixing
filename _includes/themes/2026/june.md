@@ -9,7 +9,7 @@ Sub-theme: **Cosy**, settling in.
         - → Use pomodoros more often
             - → Do cosy breaks
     - **Out of focus**
-        - → Outline for WWAM SR workshop Thu 23/07
+        - Outline for WWAM SR workshop Thu 23/07
         - ✔ ~~Ideas for next DADG~~
         - ✔ ~~Ideas for group activities for WWAM SR workshop~~
         - ✔ ~~Update CV: the middle one~~
@@ -22,7 +22,7 @@ Sub-theme: **Cosy**, settling in.
         - ✖ ~~Being shut down notes (assertiveness, rs?)~~
         - ✖ ~~Notes from "AI fatigue is real and nobody talks about it" article~~
         - ✖ ~~Reality check~~
-            - Check Cal's language, format
+            - ~~Check Cal's language, format~~
             - ✔ ~~Reread Factfulness notes~~
             - ✔ ~~Reread The News notes~~
         - ✔ ~~Write up WDAIE sketchnotes~~
@@ -39,27 +39,27 @@ Sub-theme: **Cosy**, settling in.
 - **Interests**
     - **Focus: "Make a cosy Japlan"**
         - → Learn some Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)
-        - → Japan trip places plan
+        - Japan trip places plan
         - ✔ ~~Make a 3-month Nihongo plan~~
-            - → Anki cards
-                - → Hiragana
-                - → Food and travel topics only
+            - → ~~Anki cards~~
+                - → ~~Hiragana~~
+                - → ~~Food and travel topics only~~
         - ✔ ~~Write up notes from trains book~~
     - **Out of focus**
         - → Pen and pencil versions of something like [Still City](https://yagitaka.com/still-city)
         - → Big room layout remix
+            - Lamps, low lighting, for big room
+            - House plant positioning remix
         - → Think about "flow into stock": keeping it going, restarting it
             - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
-        - → Wait for sale on a new cosy game
-        - Lamps, low lighting, for big room
         - Lay out back garden plants
-        - House plant positioning remix
         - Write: the importance of multimodality
         - Set up a bliss station / studio
         - Foodist plate &times; bento box / Japanese meal
         - Another SDC, especially stationery
         - Piranesi tiny sketches
         - Visit local library
+        - ✔ ~~Wait for sale on a new cosy game~~
         - ✔ ~~Think about flow as stock~~
         - ✔ ~~Look up Table Tennis Brooklyn~~
         - ✔ ~~Look up Tai Chi Brooklyn~~
