@@ -10,6 +10,7 @@ Sub-theme: **Cosy**, settling in.
             - → Do cosy breaks
     - **Out of focus**
         - Outline for WWAM SR workshop Thu 23/07
+        - PD Day 09/07: update CV, write blog post, annotations work
         - ✔ ~~Ideas for next DADG~~
         - ✔ ~~Ideas for group activities for WWAM SR workshop~~
         - ✔ ~~Update CV: the middle one~~
@@ -52,6 +53,7 @@ Sub-theme: **Cosy**, settling in.
             - House plant positioning remix
         - → Think about "flow into stock": keeping it going, restarting it
             - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
+        - → [Planter](https://www.bunnings.co.nz/kelburn-small-planter_p0409337) for alley
         - Lay out back garden plants
         - Write: the importance of multimodality
         - Set up a bliss station / studio
