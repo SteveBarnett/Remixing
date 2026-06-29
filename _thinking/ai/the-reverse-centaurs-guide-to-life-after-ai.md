@@ -3,14 +3,79 @@ layout: page
 title: "The Reverse Centaur's Guide to Life After AI"
 ai: true
 added: 2026-06-25
-updated: 2026-06-27
+updated: 2026-06-29
 ---
 
 Note to self: I've spent most of my career being "that fucking guy" for some causes I care about. Why stop now? 😅
 
 Notes from [The Reverse Centaur's Guide to Life After AI by Cory Doctorow](https://www.goodreads.com/book/show/245645195-the-reverse-centaur-s-guide-to-life-after-ai)
 
-# Gathered notes
+## Whittled notes
+
+- Centaur: a person assisted by a machine. Reverse centaur: a person assisting a machine.
+- The difference in whether automation is helpful is whether the worker gets to choose where, when, and how to use that automation
+- Pay attention to the systems' incentives and power relationships: who the gadget does it to and who the gadget does it for, rather than what the gadget does
+- The future is full of possibilities, but tech bosses claim authority over it
+    - Saying there's only one way for things to go is the move of an inevitabilist bully
+- The social arrangements of technology are a choice, not an inevitability
+    - The boss’s freedom to fire a worker or change their job description or wages does not exist is socially determined
+- Switch from fighting technologies to fighting bosses
+- Criti-hype: criticism that both feeds and feeds on hype
+    - Repeating current or future claims about AI capabilities feeds the hype
+- Every AI company is juking the stats to make AI seem like a bigger phenomenon than it actually is
+- Tech firms that are seen as growing, rather than mature, have a much higher stock valuation
+    - They make stock by typing zeros into a spreadsheet
+    - They use stock to buy things and hire people
+    - Tech firms want to convince the stock market that everyone loves AI, so that they're seen as growing companies
+    - The stock market treats spending a lot as a strong signal of growth
+    - Investors are the real target for AI hype
+- AI’s primary job is to decrease the wage bill, anything else is secondary
+    - AI sells itself as a way to cut wage costs by replacing humans with AI
+- There’s a low probability that AI will be able to do your job, but a high probability that an AI salesman can convince your boss that an AI will be able to do your job (and therefore fire you)
+- Bosses hate paying workers, more than just about anything else. They want to believe the AI salesmen.
+- "Vocational awe": employers exploiting workers’ sense of duty to the people they serve to get them to accept bad working conditions
+- Coders who like AI have choice in where, when, and how to use it
+- Given “salience bias” and the “availability heuristic” it's easy for coders working with LLMs to systematically overestimate how useful these tools are
+- Since juniors using AI aren't solving hard problems, they aren't getting the experience needed to become seniors
+- Art is a communicative act: an attempt to transmit something that can’t be rationally or precisely conveyed
+    - AI art doesn't communicate much
+    - The only reason AI art seems to have intent is because we haven't encountered art without intent before
+    - Works are artistic to the extent that they a) convey something, that is b) meaningful, in c) the most intentional way possible
+- remember, lower labor costs are the underlying value proposition of AI, the thing that justifies the hundreds of billions in investment for capital expenditures.
+- I think AI bros are waging war against creative labor in order to create outrage, because the louder we all shout about how AI can replace workers, the more money they can raise from the capital markets and the more credulous, worker-hating bosses they can peddle defective AI products to
+- The quest to turn every policy question into an equation requires us to incinerate every qualitative aspect of policy so that we can do math on whatever dubious quantitative residue the process leaves behind.
+- Like every business, they hate paying their workforce and relentlessly hunt for ways to reduce their labor expenditures.
+- Media companies, like other employers, do not represent their workers’ interests, except incidentally.
+- scraping in order to make a transient copy of a work for the purposes of analysis, indexing, and so on, is legal.
+    - Fundamentally, AI training is grounded in counting things and then drawing inferences from those tallies.
+- The rights holders behind those books may have a claim against Meta for infringing their copyright by acquiring the books, but not for analyzing them.
+- Notably, they did not demand a ban on AI in the writers’ room: rather, they got the right to use AI as they saw fit, but only under circumstances chosen by the writers themselves, and without any reduction in their wages.
+- Creators who are worried about AI would do well to focus on getting the legal reforms that would let them unionize.
+- only humans are entitled to copyrights
+    - the output of an AI cannot be copyrighted
+    - you can create a tiny modicum of copyright over change to AI output
+    - The more human labor they put into an AI-generated work, the more protection they get
+- A conscious being isn’t a word-guessing app that knows more words and has more computing power to guess with
+- Where AI is deployed in commercial settings, it consistently underperforms expectations.
+- there are the long-standing, well-understood problems with algorithmic decision support and decision-making in private-sector hiring, lending, and renting, and public service delivery, policing, and the administration of the criminal justice system.
+- there isn’t a single AI sales call whose takeaway is, “Buy our AI pricing-bot and we will charge your customers less and pay your workers more.”
+- To be an effective AI critic, you need to strike at the source of AI’s power, which is the investment capital it attracts.
+- It’s essential that we never stop reminding people that the current, actually existing lucrative uses for AI are terrible and should be banned.
+- To sell the story about how AI can recoup and realize a profit, the AI industry needs to spin a tale about replacing lots of waged labor, preferably high-waged labor. … none of them bear up to even cursory scrutiny.
+- Agents are having trouble navigating websites is not surprising: they're designed to frustrate humans seeking to gain an advantage
+- Companies don’t want software agents to automate away the high barriers they’ve created to prevent direct comparisons and analysis of pricing cycles
+- the auto industry invented this gimmick when they answered widespread outrage about people being killed by rich idiots in cars (when cars were toys for the wealthy) by inventing the idea of the “pedestrian,” who shouldn’t be in the roadway, where people had walked since roads were invented. 
+- For companies hoping to demonstrate their superiority to Wall Street, using lots of energy is a way to send a signal about how “advanced” their technology is.
+- Defenders of AI will often cite other technologies that were costly at the outset, like the web itself, … the web revolution was a decade of unbroken drops in the cost of servicing each new web user.
+    - Each generation of AI foundation models has been vastly more expensive to train and operate than the previous generation.
+    - AI gets more expensive every time it adds a user. It gets more expensive every time it adds a feature. It gets more expensive every time it improves. This is the opposite of the conditions under which the web attained liftoff.
+    - Every day you leave an AI data center running is a day you lose money. The more popular your AI service is, the more money you lose.
+- many of us will continue to use, long after the AI bubble has popped: the stand-alone, open-source, “toy” models that run on commodity personal computers and devices that are even cheaper and lower-powered.
+- If we are good AI critics, we'll carefully identify the pathological aspects of AI and relentlessly target the financial basis of the AI bubble
+- To be a good AI critic is to understand the material origins of the bubble, and to strike at the material factors that keep it inflated.
+- The most important fact about a technology isn’t what it does, it’s who it does it for, and who it does it to
+
+## Gathered notes
 
 ### Introduction (?)
 
@@ -82,7 +147,8 @@ an “accountability sink.”
 
 - art is a communicative act. It is an attempt to transmit something that can’t be rationally or precisely conveyed, by an objectively very weird (but also very satisfying) means.
 - on average, AI art isn’t very good because it doesn’t communicate very much.
-- The generative AI doesn’t know anything about the big, numinous, irreducibly complex feeling in the artist’s head. The AI can’t know that. It’s a next-pixel-guessing statistical machine, not a mind reader.- The only reason the brushstrokes have the seeming of intent is that we haven’t ever encountered brushstrokes without intent.
+- The generative AI doesn’t know anything about the big, numinous, irreducibly complex feeling in the artist’s head. The AI can’t know that. It’s a next-pixel-guessing statistical machine, not a mind reader.
+- The only reason the brushstrokes have the seeming of intent is that we haven’t ever encountered brushstrokes without intent.
 - Works are artistic to the extent that they a) convey something, that is b) meaningful, in c) the most intentional way possible.
 - remember, lower labor costs are the underlying value proposition of AI, the thing that justifies the hundreds of billions in investment for capital expenditures.
 
@@ -143,7 +209,6 @@ an “accountability sink.”
 - All of that makes agentic AI even more improbable. Companies don’t want software agents to automate away the high barriers they’ve created to prevent direct comparisons and analysis of pricing cycles. They will use the law and technological countermeasures to prevent this.
 - It also hasn’t happened because there is a reward for cheating.
 - companies don’t want you to have good information about their products and services, their prices and costs, because when they know things you don’t, they can make more money off of you.
-- 
 - the auto industry invented this gimmick when they answered widespread outrage about people being killed by rich idiots in cars (when cars were toys for the wealthy) by inventing the idea of the “pedestrian,” who shouldn’t be in the roadway, where people had walked since roads were invented. 
 - The world is both unpredictable and adversarial, and any “autonomous” system that works only when everyone cooperates with it does not work at all.
 
