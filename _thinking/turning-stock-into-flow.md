@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Turning stock into flow
+title: Turning flow into stock
 longerform: true
 added: 2026-06-17
 updated: 2026-06-17
 ---
 
-I've been coming back to this idea of **turning stock into flow** (TSIF). Here I've applied it to my current "gates" to see if it brings up anything interesting or potentially fruitful.
+I've been coming back to this idea of **turning flow into stock** . Here I've applied it to my current "gates" to see if it brings up anything interesting or potentially fruitful.
 
 A general theme is the building blocks kind of idea: each bit of stock, or level of stock, can serve as a foundation or a base for the next bit(s) of stock.
 
@@ -23,7 +23,7 @@ A general theme is the building blocks kind of idea: each bit of stock, or level
 
 ## Interests
 
-- TSIF here means project-based work. Having a container for a set of creative ideas and outputs. But... I already know this. So the problem here is the flow: keeping it going, restarting it.
+- Project-based work. Having a container for a set of creative ideas and outputs. But... I already know this. So the problem here is the flow: keeping it going, restarting it.
 - [ ] How to wave that flow in?
 
 ## Practice
