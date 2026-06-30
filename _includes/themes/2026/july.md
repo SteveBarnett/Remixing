@@ -11,6 +11,7 @@ Gates:
     - **Focus: "Grips and tools"**
         - Review the month, update CV, write blog post, annotations work
         - Gather some old pages into a streamlined new set. Careful of "my take" vs "useful take".
+            - Consider recent and current applications to test usability
             - [Notes on activism and resistance and things](/thinking/notes-on-activism-and-resistance-and-things/)
             - [Notes from Workers Decide pages](/thinking/ai/notes-from-workers-decide-pages/)
             - [Where (and why) to draw the AI-mish line](/thinking/ai/where-and-why-to-draw-the-ai-mish-line/)
