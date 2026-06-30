@@ -6,6 +6,9 @@ added: 2026-06-23
 updated: 2026-06-27
 ---
 
+* tic
+{:toc}
+
 ## Notes
 
 - Rule number 1: Don't skip anything
@@ -103,8 +106,11 @@ updated: 2026-06-27
 
 ---
 
-## Chapter sizes
-
+<details>
+<summary>
+<h2>Chapter sizes</h2>
+</summary>
+<div markdown="1">
 - Chapter 1 - 17 (28 pages)
     - J-to-E Checklist, E-to-J Checklist (10 pages)
 - Chapter 2 - 55 (16 pages)
@@ -145,3 +151,5 @@ Or, more likely:
 - at least one page a day
     - ideally a few pages a day
 - either: before meditation in the morning, or first thing after finishing work in the evening
+</div>
+</details>
