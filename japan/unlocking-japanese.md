@@ -62,8 +62,16 @@ updated: 2026-06-27
 
 ### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
 
-
-
+- (my) family / 家族 / <span lang="jp">kazoku</span>
+- (your) family / ご家族 / <span lang="jp">go kazoku</span>
+- drink / 飲みます / <span lang="jp">nomimasu</span>
+- beer / ビール / <span lang="jp">biiru</span>
+- bar / バー / <span lang="jp">baa</span>
+- park / 公園 / <span lang="jp">kōen</span>
+- good / いい / <span lang="jp">ii</span>
+- weather / 天気 / <span lang="jp">tenki</span>
+- [?, particle, like strong 'ha'?] / が / <span lang="jp">ga</span>
+- so / から / <span lang="jp">kara</span>
 
 ### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
 
