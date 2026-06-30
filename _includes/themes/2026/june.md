@@ -53,7 +53,6 @@ Sub-theme: **Cosy**, settling in.
             - House plant positioning remix
         - → Think about "flow into stock": keeping it going, restarting it
             - → See [Internal Perfectionist Anxiety Habits](/thinking/internal-perfectionist-anxiety-habits/)
-        - → [Planter](https://www.bunnings.co.nz/kelburn-small-planter_p0409337) for alley
         - Lay out back garden plants
         - Write: the importance of multimodality
         - Set up a bliss station / studio
@@ -61,6 +60,7 @@ Sub-theme: **Cosy**, settling in.
         - Another SDC, especially stationery
         - Piranesi tiny sketches
         - Visit local library
+        - ✔ [Planter](https://www.bunnings.co.nz/kelburn-small-planter_p0409337) for alley
         - ✔ ~~Wait for sale on a new cosy game~~
         - ✔ ~~Think about flow as stock~~
         - ✔ ~~Look up Table Tennis Brooklyn~~
@@ -80,3 +80,15 @@ Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week
 #### End of month review: June
 
 - [ ] Write up a gathering of this month's writing
+
+- Vocation
+    - Focus: "Plan the pomodoro breaks". Okay. Useful when I remembered!
+    - Out of focus. Lots! Pretty good.
+- Health
+    - Focus: "Cosy strolling". Okay.
+- Interests
+    - Focus: "Make a cosy Japlan". Trip not so good, language good.
+    - Out of focus. Okay, made the new house cosy.
+- Practice
+    - Focus: "Cosy sits". Okay, sitting okay.
+    - Out of focus. Meh
