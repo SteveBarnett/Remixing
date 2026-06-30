@@ -3,8 +3,48 @@ layout: page
 title: "Notes on activism and resistance and things"
 notes: true
 added: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 ---
+
+## Whittled notes
+
+### Stance
+
+- Remember that every situation is workable
+- **Take the long view**
+- **See actions in relation to paths of least resistance**, systems, root causes
+- **Be generous and vulnerable** to make your connections open and durable
+- Keep as much intact as possible for everyone
+
+### Actions
+
+- Make noise, be seen, break the silence
+- Build instead of attack; **offer good, time-tested, alternatives**
+- Do what's right, not what's easy. **Be willing to be blunt, to upset people.**
+- **Work with tension, but don’t indulge drama**
+
+## Gathered notes
+
+- Speak up, enact the world you want to see
+    - Make noise, be seen, break the silence
+- Be willing to be blunt, to make people unhappy
+    - A big reaction means you touched a nerve
+- Take the long view
+- Look for systems and root causes
+    - Acknowledge the complexity, nuance
+    - See actions in relation to paths of least resistance
+    - Strategies instead of issues
+- Do what’s right, not what’s easy
+- Leverage your advantages, your privilege
+- Build instead of attack
+- The price of a successful attack is a constructive alternative
+- Work with tension, but don’t indulge drama
+- Generosity and vulnerability make your connections open and durable
+- Don't think in binaries: that leads to dominance, marginalisation, oppression
+- Every situation is workable
+- "Taking whole". Winning in a way that keeps as much intact as possible for everyone.
+
+## Raw notes
 
 - The master's tool will never dismantle the master's house
 - There is no simple, monolithic, solution to our big problems, only complex ones
