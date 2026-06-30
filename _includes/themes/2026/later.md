@@ -4,13 +4,16 @@
 </summary>
 <div markdown="1">
 - Vocation
+    - Automate VPAT thing
     - Gather examples of prompting AI with something null or zero
-    - Update CV &times; 2
+    - Update CV
     - Big Influence summary
     - DADG: can we get funding from someone for an interpreter when needed?
 - Health
     - Back to running
 - Interests
+    - Lamps, low lighting, for big room
+    - House plant positioning remix
     - Lay out back garden plants
     - Write: the importance of multimodality
     - Foodist plate &times; bento box / Japanese meal
