@@ -3,22 +3,78 @@ layout: page
 title: "The Reverse Centaur's Guide to Life After AI"
 ai: true
 added: 2026-06-25
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 
 Note to self: I've spent most of my career being "that fucking guy" for some causes I care about. Why stop now? 😅
 
 Notes from [The Reverse Centaur's Guide to Life After AI by Cory Doctorow](https://www.goodreads.com/book/show/245645195-the-reverse-centaur-s-guide-to-life-after-ai)
 
-## Whittled notes
+## What to do
 
+- Ask: who it does it for, and who it does it to (rather than what it does).
+- Choose: where, when, and how to use automation.
+- Switch: from fighting technologies to fighting bosses.
+
+## Whittled whittled notes
+
+### Big ideas
+
+- **Centaur: a person assisted by a machine. Reverse centaur: a person assisting a machine.**
+    - (I'm thinking of this as "human in the loop" vs "AI in the loop")
+- **The most important fact about a technology is who it does it for, and who it does it to. Not what it does.**
+    - Pay attention to the incentives and power relationships.
+- The social arrangements of technology are a choice, not an inevitability.
+- **Watch out for criti-hype: criticism that both feeds and feeds on hype.**
+    - For example, when we shout about AI replacing jobs.
+- We have long-standing, well-understood, problems with algorithmic decision support and decision-making across many sectors.
+- An effective AI critic strikes at the source of AI's power: the investment capital it attracts.
+- The current, actually existing, lucrative uses for AI are terrible and should be banned.
+
+### Workers
+
+- **The worker should get to choose where, when, and how to use automation.**
+    - Coders who like AI have choice in where, when, and how to use it.
+- **Switch from fighting technologies to fighting bosses.**
+- "Vocational awe": employers exploiting workers' sense of duty to the people they serve so that they accept bad working conditions
+- **Since juniors using AI aren’t solving hard problems, they aren’t getting the experience needed to become seniors.**
+
+### AI and the bubble
+
+- **AI sells itself as a way to cut wage costs by replacing humans with AI. Anything else is secondary.**
+    - This is used to justify the billions being spent.
+    - AI probably won't be able to do your job, but an AI salesman probably can convince your boss that it can.
+    - Bosses want to pay lower wages, or no wages, so they're an easy mark.
+    - Companies don't represent their workers' interests, except incidentally.
+    - **There are no AI value propositions that say "We can help you charge your customers less and pay your workers more."**
+        - **That agents are having trouble navigating websites is not surprising: they’re designed to frustrate humans seeking to gain an advantage.**
+    - The tales AI firms spin about replacing don't hold up.
+        - **AI is consistently not meeting commercial and productivity expectations.**
+- **Behind a lot of this: tech firms that are seen as growing getter higher stock valuations.**
+    - If everyone loves AI, AI firms are seen as growing.
+    - If AI firms are spending a lot, they are seen as growing.
+    - If AI firms are lots of energy, they are seen as advanced technology.
+    - Every AI company is juking the stats to make AI seem like a bigger phenomenon than it actually is.
+    - The target for AI hype is investors.
+- **Defenders of AI often cite other technology that was costly at first. They (like the web) got cheaper over time. AI is getting more expensive.**
+    - Each new model is more expensive to train.
+    - Each new user adds costs.
+    - Each new feature adds cost.
+    - Every day a data centre is running costs money.
+    - The more popular an AI service, the more it costs to run.
+
+<details>
+<summary>
+<h2>Whittled notes</h2>
+</summary>
+<div markdown="1">
 - Centaur: a person assisted by a machine. Reverse centaur: a person assisting a machine.
 - The difference in whether automation is helpful is whether the worker gets to choose where, when, and how to use that automation
 - Pay attention to the systems' incentives and power relationships: who the gadget does it to and who the gadget does it for, rather than what the gadget does
 - The future is full of possibilities, but tech bosses claim authority over it
     - Saying there's only one way for things to go is the move of an inevitabilist bully
 - The social arrangements of technology are a choice, not an inevitability
-    - The boss’s freedom to fire a worker or change their job description or wages does not exist is socially determined
+    - The boss’s freedom to fire a worker or change their job description or wages is socially determined
 - Switch from fighting technologies to fighting bosses
 - Criti-hype: criticism that both feeds and feeds on hype
     - Repeating current or future claims about AI capabilities feeds the hype
@@ -74,8 +130,14 @@ Notes from [The Reverse Centaur's Guide to Life After AI by Cory Doctorow](https
 - If we are good AI critics, we'll carefully identify the pathological aspects of AI and relentlessly target the financial basis of the AI bubble
 - To be a good AI critic is to understand the material origins of the bubble, and to strike at the material factors that keep it inflated.
 - The most important fact about a technology isn’t what it does, it’s who it does it for, and who it does it to
+</div>
+</details>
 
-## Gathered notes
+<details>
+<summary>
+<h2>Gathered notes</h2>
+</summary>
+<div markdown="1">
 
 ### Introduction (?)
 
@@ -237,6 +299,8 @@ an “accountability sink.”
 - We’ll see lots of people fired—not because an AI can do their job, but because an AI salesman can convince their credulous bosses to fire them and replace them with an AI that can’t do their job.
 - The job of a good AI critic is to help pop the bubble as quickly as possible ... To be a good AI critic is to understand the material origins of the bubble, and to strike at the material factors that keep it inflated.
 - How we use AI is up to us. Whether we use AI is up to us. ... the most important fact about a technology isn’t what it does, it’s who it does it for, and who it does it to.
+</div>
+</details>
 
 <details>
 <summary>
