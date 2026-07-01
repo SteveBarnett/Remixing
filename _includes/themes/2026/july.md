@@ -29,6 +29,7 @@ Gates:
 - **Health**
     - **Focus: "Step it up"**
         - → Continue and extend 1BW
+            - Use it to explore, have a list!
             - Keep track, keep adding layers
     - **Out of focus**
 - **Interests**
