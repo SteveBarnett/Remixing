@@ -3,7 +3,7 @@ layout: page
 title: "Unlocking Japanese"
 japan: true
 added: 2026-06-23
-updated: 2026-06-27
+updated: 2026-07-02
 ---
 
 * tic
@@ -73,8 +73,17 @@ updated: 2026-06-27
 - park / 公園 / <span lang="jp">kōen</span>
 - good / いい / <span lang="jp">ii</span>
 - weather / 天気 / <span lang="jp">tenki</span>
-- [?, particle, like strong 'ha'?] / が / <span lang="jp">ga</span>
+- [particle, object, emphasis, just noticed] / が / <span lang="jp">ga</span>
 - so / から / <span lang="jp">kara</span>
+- watch / 見ます / <span lang="jp">mimasu</span>
+- anime / アニメ / <span lang="jp">anime</span>
+- yesterday morning / 昨日の朝 / <span lang="jp">kino no asa</span>
+- sumo / 相撲 / <span lang="jp">sumō</span>
+- TV / テレビ / <span lang="jp">terebi</span>
+- yesterday morning / 昨日の朝 / <span lang="jp">kinō no asa</span>
+- this morning / 今朝 / <span lang="jp">kesa (contracted kyō no asa?)</span>
+-  /  / <span lang="jp"></span>
+
 
 ### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
 
