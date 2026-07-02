@@ -3,7 +3,7 @@ layout: page
 title: "Unlocking Japanese"
 japan: true
 added: 2026-06-23
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 * tic
@@ -82,10 +82,15 @@ updated: 2026-07-02
 - TV / テレビ / <span lang="jp">terebi</span>
 - yesterday morning / 昨日の朝 / <span lang="jp">kinō no asa</span>
 - this morning / 今朝 / <span lang="jp">kesa (contracted kyō no asa?)</span>
--  /  / <span lang="jp"></span>
 
 
 ### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
+
+- Let's (go) / (行き)ましょう / <span lang="jp">(iki)mashō</span>
+- Shall we (go)? / (行き)ましょうか / <span lang="jp">(iki)mashō ka</span>
+- Tonight, this evening / 今晩 / <span lang="jp">konban</span>
+- I went out / 出かけました / <span lang="jp">dekakemashita</span>
+- Or / それとも / <span lang="jp">soretomo</span>
 
 ---
 
