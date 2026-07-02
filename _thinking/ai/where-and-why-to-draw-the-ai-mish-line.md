@@ -10,7 +10,7 @@ Notes from [The Sacred Triad: Where (and why) to draw the AI-mish line](https://
 
 
 - AI relieves us of having to make decisions, and in relieving us, it frees us of **those difficult and sometimes angst-ridden moments between choices, when we are most likely to become aware of ourselves, our uncertainties and fears, our flaws.**
-- AI will never tell you, “That’s enough, you go do it yourself”. **AI has no in-built braking mechanism to stop you from over-relying on AI. **
+- AI will never tell you, “That’s enough, you go do it yourself”. **AI has no in-built braking mechanism to stop you from over-relying on AI.**
 - It’s often assumed the Amish don’t use any electricity, but in fact, what most Amish actually avoid is the electrical grid. The distinction is subtle but important.
 - **The Amish don’t approach the problem of technology by starting with technology, but by focusing on their “leading lines”, their vision of life, and then rejecting anything—like ubiquitous access to electricity—that might threaten that vision or the lines that point to it.** Their approach reveals an intentionality lacking in the wider culture.
 
