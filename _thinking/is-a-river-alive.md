@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Is a River Alive?"
-longerform: true
+notes: true
 added: 2026-06-19
 updated: 2026-06-19
 ---
