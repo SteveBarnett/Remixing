@@ -16,6 +16,7 @@ Notes from [How to (Anti) AI Better](https://www.youtube.com/watch?v=y85nqc2zm7M
     - What it can do, what it can't
     - Teaching people how to do harmful things more safely has better outcomes than telling them not to do the harmful thing
     - Having a grounded and complete understanding (also) means understanding what they can do well
+    - For each con, have a counter, a mitigation or avoidance strategy
 - [ ] **Look up local community organising against data centres**
 - [ ] Do more small, local, specific, LLM research
     - Might be part of Literacy?
@@ -96,10 +97,10 @@ Notes from [How to (Anti) AI Better](https://www.youtube.com/watch?v=y85nqc2zm7M
 - [Burnout from Humans](https://burnoutfromhumans.net/) - A Little Book About AI That Is Not Really About AI
 - **Reduce the harm: AI Literacy**
     - Critically, effectively, relatively safely
-    - How to ise AI reduces risks
+    - How to use AI reduces risks
     - Privacy risks, opt out of user-content training, or locally host
     - Ubiquity of hallucinations, avoid LLMs for generating info
-    - Sycophany - use them to falisy rather than validate
+    - Sycophancy - use them to falsify rather than validate
     - **Literacy may show that people use AI less** - Higher literacy makes for lower receptivity
         - **What it can do, what it can't**
         - **Less dangerous if they do use it, less likely to fall into its traps**
