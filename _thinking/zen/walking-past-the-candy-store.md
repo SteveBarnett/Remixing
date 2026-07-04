@@ -3,10 +3,18 @@ layout: page
 title: Walking past the Candy Store
 zennotes: true
 added: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 
 Notes from [Walking past the Candy Store on Tricycle](https://tricycle.org/article/zen-candy-store/?_kx=yNBzCspdl56N-yNXEjkVJq6ckV9xNNuX6SIoMHcOwLUhOZTtNlxtaX0IOXmHKT0m.RHzCw6)
+
+## Whittled notes
+
+- Deep practice means not having a goal in mind.
+- Any desire is an obstacle to practice, even a goal.
+- Zazen helps us see how much we like delicious sweets. Zen practice helps us taste the deliciousness of ordinary life.
+
+## Raw notes
 
 - if peace of mind is a goal—and if we pursue it—we cannot attain it.
 - Pure, deep practice can only happen when we do not expect candy of any kind, in any form.
