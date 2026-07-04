@@ -18,6 +18,7 @@ My set: **PPLAYS**. Plural, Poles, Layers; Antifragile, Yielding, Spirals.
     - “I don’t have enough evidence yet for a strong/sure opinion.”
     - "You seem pretty sure about that. Can you tell me why?"
 - Focus on avoid the bad outcomes more than searching for good outcomes
+    - **Don't resist in general, resist specific instances with clear retorts / rebuttals / rebukes**
 - **Ask for an “AI implementation committee”**
     - a group of workers able to meet and speak freely without management
     - to ensure productivity, effectiveness, correctness
