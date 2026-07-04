@@ -3,10 +3,24 @@ layout: page
 title: How to (Anti) AI Better 
 ai: true
 added: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 Notes from [How to (Anti) AI Better](https://www.youtube.com/watch?v=y85nqc2zm7M).
+
+## Whittled notes
+
+- [ ] **Prepare an AI Literacy session**
+    - Less dangerous if they do use it, less likely to fall into its traps
+    - Less likely to use it overall
+    - What it can do, what it can't
+    - Teaching people how to do harmful things more safely has better outcomes than telling them not to do the harmful thing
+    - Having a grounded and complete understanding (also) means understanding what they can do well
+- [ ] **Look up local community organising against data centres**
+- [ ] Do more small, local, specific, LLM research
+    - Might be part of Literacy?
+- [ ] Dig into the details of the work LLM
+    - Might be part of Literacy?
 
 ## Gathered notes
 
@@ -33,7 +47,7 @@ Notes from [How to (Anti) AI Better](https://www.youtube.com/watch?v=y85nqc2zm7M
 ### Part 4: How to Act Collectively Against AI Harm
 
 - Community organising against data centres
-- [ ] Look up local LLM
+- [ ] Look up local LLMs
 - [ ] Make a good pros and cons list
 - [ ] How does our work LLM work?
 - Data Workers' Inquiry
@@ -123,7 +137,7 @@ Notes from [How to (Anti) AI Better](https://www.youtube.com/watch?v=y85nqc2zm7M
 - Public rejection can work a little bit, but it's not the most effective
 - Pause AI, Stop AI - well-intentioned, but ...
 - **Community organising against data centres**
-- [ ] **Look up local LLM**
+- [ ] **Look up local LLMs**
 - [ ] **Make a good pros and cons list**
 - [ ] **How does our work LLM work?**
 - **Data Workers' Inquiry**
