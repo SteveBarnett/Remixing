@@ -38,3 +38,5 @@ Gates:
         - → Continue at GMZ
     - **Out of focus**
         - → Write a monthly gathered notes from [June's thinking](/2026/06/).
+
+Archives: [month 07](/2026/07/); [week 26](/2026/week/26/).
