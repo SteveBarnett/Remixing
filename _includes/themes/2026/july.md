@@ -10,9 +10,9 @@ Gates:
 - **Vocation**
     - **Focus: "Grips and tools"**
         - → Blog post on annotations work
-        - → Gather some old pages into a streamlined new set. [Resist with Realism](/thinking/resist-with-realism/)
-            - → Careful of "my take" vs "useful take".
-            - → Consider recent and current applications to test usability
+        - ✔ ~~Gather some old pages into a streamlined new set. [Resist with Realism](/thinking/resist-with-realism/)~~
+            - Careful of "my take" vs "useful take".
+            - Consider recent and current applications to test usability
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
         - → [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
@@ -20,6 +20,7 @@ Gates:
 - **Health**
     - **Focus: "Step it up"**
         - → Continue and extend 1BW
+            - → Commute and "Commute"
             - → Use it to explore, have a list!
             - → Keep track, keep adding layers
     - **Out of focus**
