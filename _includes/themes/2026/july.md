@@ -16,6 +16,7 @@ Gates:
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
         - → [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
+        - Prepare an AI Literacy session: pros and cons, etc
 - **Health**
     - **Focus: "Step it up"**
         - → Continue and extend 1BW
@@ -38,5 +39,6 @@ Gates:
         - → Continue at GMZ
     - **Out of focus**
         - → Write a monthly gathered notes from [June's thinking](/2026/06/).
+        - Look up local community organising against AI data centres
 
 Archives: [month 07](/2026/07/); [week 26](/2026/week/26/).
