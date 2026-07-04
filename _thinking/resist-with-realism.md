@@ -3,7 +3,7 @@ layout: page
 title: Resist with Realism (working title)
 longerform: true
 added: 2026-07-02
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 - Careful of “my take” vs “useful take”
@@ -25,6 +25,9 @@ My set: **PPLAYS**. Plural, Poles, Layers; Antifragile, Yielding, Spirals.
     - to choose where, when, and how to use automation
     - Is AI the right tool for this bit of work?
 - **Resist using technology, rather than avoiding it**
+- **See things in their context, with all the connected pieces.**
+    - Things don't exist on their own.
+- **Bring it back to a spectrum rather than a binary.**
 
 ## Whittled notes
 
