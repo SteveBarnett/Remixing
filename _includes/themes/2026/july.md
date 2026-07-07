@@ -10,6 +10,7 @@ Gates:
 - **Vocation**
     - **Focus: "Grips and tools"**
         - → Blog post on annotations work
+        - → AI Literacy ... thing. With a little lols.
         - ✔ ~~Gather some old pages into a streamlined new set. [Resist with Realism](/thinking/resist-with-realism/)~~
             - ~~Careful of "my take" vs "useful take".~~
             - ~~Consider recent and current applications to test usability~~
