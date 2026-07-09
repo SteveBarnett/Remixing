@@ -10,6 +10,7 @@ Gates:
 - **Vocation**
     - **Focus: "Grips and tools"**
         - → Blog post on annotations work
+        - → Short post on context switching (bookmarks and HC posts)
         - → AI Literacy ... thing. With a little lols.
         - ✔ ~~Gather some old pages into a streamlined new set. [Resist with Realism](/thinking/resist-with-realism/)~~
             - ~~Careful of "my take" vs "useful take".~~
@@ -37,6 +38,7 @@ Gates:
         - → Build up the trip, day by day (first draft)
             - → First few days
         - Next Nihongo resource: listening focus
+            - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
         - ✔ ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
     - **Out of focus**
         - → First few watercoloured sketches
@@ -50,6 +52,8 @@ Gates:
         - ✔ ~~Start at GMZ~~
         - ✖️ ~~Write up "going back to GMZ"~~
     - **Out of focus**
+        - → Vocation questions, for M and T
+        - → Revisit OBP
         - Look up local community organising against AI data centres
         - ✔ ~~Write a monthly gathered notes from [June's thinking](/2026/06/).~~
 
