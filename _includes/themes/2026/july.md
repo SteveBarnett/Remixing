@@ -17,7 +17,8 @@ Gates:
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
         - → [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
-        - Initial prep for "Classifying and severity-fying accessibility issues" DADG session, examples
+        - ✔ ~~Initial prep for "Classifying and severity-fying accessibility issues" DADG session, examples, Tue 28/07~~
+            - ~~[WCAG, Best Practice, and Severity](https://human-centred.nz/2026/07/08/wcag-best-practice-and-severity/)~~
         - Prepare an AI Literacy session: pros and cons, etc
         - ✔ ~~Discuss next DADG topic~~
 - **Health**
@@ -35,7 +36,7 @@ Gates:
     - **Focus: "Next stops Japan"**
         - → Build up the trip, day by day (first draft)
             - → First few days
-        - Next Nihongo resource: listening-focus
+        - Next Nihongo resource: listening focus
         - ✔ ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
     - **Out of focus**
         - → First few watercoloured sketches
@@ -45,9 +46,9 @@ Gates:
         - Nut Butter Bonanza
 - **Practice**
     - **Focus: "Climb the green mountain"**
-        - ✔ ~~Start at GMZ~~
-        - → Write up "going back to GMZ"
         - → Continue at GMZ
+        - ✔ ~~Start at GMZ~~
+        - ✖️ ~~Write up "going back to GMZ"~~
     - **Out of focus**
         - Look up local community organising against AI data centres
         - ✔ ~~Write a monthly gathered notes from [June's thinking](/2026/06/).~~
