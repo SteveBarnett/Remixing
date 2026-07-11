@@ -3,8 +3,64 @@ layout: page
 title: Path as Goal &times; Just (Sitting)
 longerform: true
 added: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 ---
+
+## W3 notes
+
+- **The path is the goal**
+    - A direction, not a destination
+    - An orientation, not (attachment to a desired) an outcome
+- **Every step on the path is the practice, not a way to get further along the path**
+- **An ongoing, never-ending, practice**
+
+## Whittled whittled notes
+
+- Ongoing, never-ending.
+
+- A direction, not a destination.
+
+- Every step is the goal.
+- The practice is the goal, not a technique to get to the goal.
+
+- No goal, no desired outcome.
+- No attachment to a particular outcome.
+- No intention to gain something.
+
+- Practice for the delight of it.
+
+- No turning away, just acceptance.
+
+- Allow it to take place.
+
+## Whittled notes
+
+### The path is the goal
+
+- A gradual, never-ending, actualisation, embodiment, and integration.
+- Accept the unanswerability and unresolvability of life
+- Treat everything in ordinary, everyday, life as your main practice
+- More like a compass, less like GPS. A directional heading, not a destination that you can arrive at.
+- Like ongoing maintenance.
+- Each step, each action that brings us closer to the goal, is the goal itself.
+- The practice of peace and harmony is peace and harmony, not some technique to induce them.
+- The answering is in the questioning.
+- The goal is not perfection. It’s acceptance of ourselves as imperfect humans.
+
+### Just (sitting)
+
+- “Just” as in nothing else, no turning away, no “in order to.”
+- “Just sitting” – no goal, no desired outcome
+- “Not turning away” means: letting go of trying to control experience; not judging your experience; giving everything that arises a warm welcome.
+- Just allow the sitting to take place.
+- No attachment to a particular outcome.
+- No intention to gain something.
+- No goal or ulterior motive.
+- Practice for the simple delight in the practice.
+- Open, receptive, alert, in the same you played when you were a child.
+- Being instead of doing.
+- Effortless action as in: no sense of self taking action.
+- Choosing obscures the way.
 
 ## Gathered notes from previous pages
 
