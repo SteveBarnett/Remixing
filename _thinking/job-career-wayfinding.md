@@ -3,8 +3,10 @@ layout: page
 title: Job / Career wayfinding
 longerform: true
 added: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 ---
+
+Added to [Tech career wayfinding Google doc](https://docs.google.com/document/d/1XIL3KBSQcXcpBez0_t9uv3ahOcZD6mvFrblALSQi_co/edit?usp=sharing)
 
 ## Some poles/spectrums
 
@@ -18,13 +20,41 @@ updated: 2026-07-11
 - Local ↔ International
 - Small company ↔ Big company
 - Tech company ↔ Other company
+- Experience ↔ Interface
+- Research ↔ Implementation
+- Data ↔ Design
+- Security ↔ Opportunity
+- Testing ↔ Making
+- Attack ↔ Guard
+- Small clients ↔ Big clients
+- Government ↔ Private
+- Remote ↔ Office
+- Support people ↔ Support systems
+- Make things ↔ Make tools
+- Write words ↔ Write code
+- Meaningful work ↔ Just a job
+- Safe ↔ Risky
+- Go wide ↔ Go deep
+- Clear problems ↔ Murky problems
+- Talking to customers ↔ Talking to colleagues
+- Finding patterns ↔ Using patterns
+
+
+## Some jobs
+
+- Product Manager
+- Developer
+- Designer
+- Coach
+- Tester / QA
+- Project Manager / Service Delivery
 
 ## Raw notes
 
 ### A Job To Love
 
 - Know from the inside: ourselves, our jobs
-- Know only from the outsidE: other people, other jobs
+- Know only from the outside: other people, other jobs
     - Everyone is a bit mad
     - Every job has downsides
 - Parents: implicit expectations, pass on their dreams and burden
