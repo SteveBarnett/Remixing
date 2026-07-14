@@ -20,7 +20,8 @@ Gates:
             - ~~Consider recent and current applications to test usability~~
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
-        - → [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
+        - Updates for [Screen reader testing workshop for WWAM](https://human-centred.nz/2026/07/12/screen-reader-testing-workshop-for-wwam/)
+        - ✔ [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
         - ✔ ~~Initial prep for "Classifying and severity-fying accessibility issues" DADG session, examples, Tue 28/07~~
             - ~~[WCAG, Best Practice, and Severity](https://human-centred.nz/2026/07/08/wcag-best-practice-and-severity/)~~
         - ✔ ~~Discuss next DADG topic~~
@@ -55,8 +56,9 @@ Gates:
         - ✖️ ~~Write up "going back to GMZ"~~
     - **Out of focus**
         - → Vocation questions, for M and T
-        - → Revisit OBP
-        - Look up local community organising against AI data centres
+        - ✔ ~~Revisit Path as goal and Just~~
+        - ✖️ ~~Revisit OBP~~
+        - ✔ ~~Look up local community organising against AI data centres~~
         - ✔ ~~Write a monthly gathered notes from [June's thinking](/2026/06/).~~
 
 Archives: [month 07](/2026/07/); [week 26](/2026/week/26/); [week 27](/2026/week/27/); [week 28](/2026/week/28/).
