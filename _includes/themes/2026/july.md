@@ -39,7 +39,9 @@ Gates:
 - **Interests**
     - **Focus: "Next stops Japan"**
         - → Build up the trip, day by day (first draft)
-            - → First few days
+            -  → First few days
+                - → Confirm with L, book stuff
+            - Where to land next
         - Next Nihongo resource: listening focus
             - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
         - ✔ ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
