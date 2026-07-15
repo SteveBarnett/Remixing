@@ -3,33 +3,71 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-05-10
+updated: 2026-07-15
 ---
 
 ## The Japlan
 
 - Timezone: Japan is 3 hours behind NZ
-- **Tuesday 13 October** 6:15pm - arrive Tokyo Narita Terminal 1
-    - Train into town
-    - 1 full day in Tokyo
-    - ? Vague itinerary
-    - ? What suburb to stay in?
-    - Look up luggage delivery ... sth
-- Research and get a JR pass
-- **Wednesday 14 October**
-    - Day in Tokyo to acclimatise
-    - Stay close to the station, for easy confusion-high arrival
-- **Thursday 15 October**
-    - JR Central Shinkansen from Tokyo
-        - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
-        - Seem very frequent, go until 9pm-ish
-    - Kyoto, Osaka, Nara, Lake Biwa?
-    - Old Japan generally more than Kyoto specifically
-    - [ ] Make a map list without temples and shrines
-- **Thursday 22nd October** or **Friday 23 October**
-    - 2 days in Tokyo
-- **Sunday 25 October** - L leave Tokyo Narita Terminal 1
-- **Saturday 31 October** 6:45pm - leave Tokyo Narita Terminal 1
+- [ ] Research and get a JR pass
+- [ ] Research and get eSIMs
+
+### Tuesday 13 October 
+
+- 6:15pm - arrive Tokyo Narita Terminal 1
+- **Train into town: NEX (Narita Express)**. Goes to
+    - Tokyo, Shinagawa
+        - Shibuya, Shinjuku
+        - Musashi-Kosuhi
+        - Yokohama, Totsuka, Ofuna
+    - Luggage
+        - Size (Total of 3 Dimensions): 250 cm or less, Up to 2 m long
+        - Weight: 30 kg or less
+- [Baggage Delivery at Narita airport](https://www.narita-airport.jp/en/service/delivery/baggage/)
+- [Tokyo Metro subway map](https://www.tokyometro.jp/en/subwaymap/index.html)
+- [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line#/media/File:Yamanote_Line_(April_2020).svg)
+- **Stay close to the station, for easy confusion-high arrival**
+    - Near Tokyo Station
+        - Nihonbashi
+    - → Near **Shinagawa** station (one stop after Tokyo central)
+        - **Takanawa**
+        - **Sengakuji**
+        - 7 mins to Tokyo station for Shinkansen, many options
+
+### Wednesday 14 October
+
+- → Day in Tokyo to acclimatise
+- → Itinerary ideas: [gmaps link](https://maps.app.goo.gl/pqLz7GAcdMHMMcV27)
+    - Gōtoku-ji (lucky cat temple) (60m)
+    - Museum of Contemporary Art Tokyo (MOT) (35m)
+    - Ueno Park (20m)
+    - Kōkoku-ji (45m) 
+    - Todoroki Ravine Park (30m)
+    - Sengakuji Temple (20m walk)
+    - Gotenyama Garden (20m walk)
+    - Tennozu Isle (20m walk)
+    - Kyū Shiba-rikyū Gardens (10m train)
+
+### Thursday 15 October
+
+- JR Central Shinkansen from Tokyo
+    - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
+    - Seem very frequent, go until 9pm-ish
+- Kyoto, Osaka, Nara, Lake Biwa?
+- Old Japan generally more than Kyoto specifically
+- [ ] Make a map list without temples and shrines
+
+### Thursday 22nd October or Friday 23 October
+
+2 days in Tokyo
+
+### Sunday 25 October
+
+L leave Tokyo Narita Terminal 1
+
+### Saturday 31 October
+
+- 6:45pm - leave Tokyo Narita Terminal 1
 - 11 full days between landing and L leaving
 - 5 full days between L leaving and me leaving
     - ? Nikko - 2h on local trains
@@ -342,3 +380,4 @@ Kansai region.
 - [Discover Japan (Lonely Planet)](/thinking/japan/discover-japan/)
 - [Japan](/thinking/japan/japan/)
 - [Intrepid Japan](/thinking/japan/intrepid-japan/)
+- [Train Japan](/thinking/japan/train-japan/)
