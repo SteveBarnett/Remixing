@@ -2,7 +2,7 @@
 layout: page
 title: "AI Snake Oil"
 added: 2026-07-10
-updated: 2026-07-10
+updated: 2026-07-19
 ai: true
 ---
 
@@ -93,3 +93,102 @@ indirectly emerge, say by learning from examples or searching through a database
 #### Who This Book Is For
 
 - we have exercises and other pedagogical materials on our website, AISnakeOil.com
+
+### 2. How Predictive AI Goes Wrong
+
+- automated decision-making system that uses predictive AI. In this realm, there is a vast amount of AI snake oil.
+- In many cases, including EAB Navigate, the decision subjects don’t even know they are being automatically evaluated.
+- While a full account of these failures would take up more than the entire length of this book,4,5a we will highlight common failures that are nevertheless hard to fix, underscoring the difficulty
+
+#### Predictive AI Makes Life-Altering Decisions
+
+- they are used to automate consequential decisions about you—with or without your knowledge.
+- This type of algorithm, in which the rules are developed manually but applied automatically, is commonly employed
+- increasingly, algorithms are used to develop the rules automatically from patterns in past data.
+- the rules are both developed and applied automatically. This kind of algorithm is called a model,
+- predictive AI: models used for decision-making based on predictions about the future, such as who will do well at a job or who will pay back a loan.
+- an assumption built into much of predictive AI: people with similar characteristics will behave similarly in the future.
+- since the data used to train predictive AI is itself created using human discretion, we cannot guarantee that the decisions will be unbiased or fair.
+- decisions made using predictive AI may still be very human.
+
+#### A Good Prediction Is Not a Good Decision
+
+- a fundamental limitation of much of predictive AI: AI can make good predictions if nothing else changes.
+- predictive AI does not account for the impact of its own decisions.
+- On closer look, however,
+    - Note: SB: ....
+- Generally, collecting data is expensive and time-consuming. So, some AI developers claim that existing data is enough to make good decisions.
+- randomized controlled trials
+
+#### Opaque AI Incentivizes Gaming
+
+- When developers build AI, they specify the exact outcome they want to predict. But because of the reliance on past data, they are forced to choose this outcome based on the data that is already available. As a result, what
+- AI predicts can be a poor proxy for what we want it to predict.
+- Acting strategically—gaming—to avoid negative consequences is common
+- when AI companies make claims about accuracy, they fail to account for the effects of people behaving strategically.
+
+#### Overautomation
+- the Australian government incorrectly collected AUD 721 million from its citizens between 2016 and 2020 in what’s been called the Robodebt scandal.
+- This is a familiar pattern. AI developers use a bait and switch when it comes to human oversight. They sell predictive AI based on the promise of full automation. Eliminating jobs and saving money is a big part of their pitch. But when AI fails, developers retreat to the fine print, saying that it shouldn’t be used without human oversight.
+- Even if that oversight technically exists, it is often inadequate due to limitations of time, expertise, or authority. The bureaucrats in charge may be overworked, or may not have the training to challenge the automated decisions or the incentive to stick their necks out to do so.
+- Predictions about the Wrong People
+- when the decision subjects come from a population with different characteristics than those in the training data, the model’s decisions are likely to be wrong.
+
+#### AI tools search under the streetlight.
+
+- Whenever predictive AI is deployed, it is critical to ask: Who was it tested on? When predictive AI is built using one population but is used on another, claims about how well it performs are based on insufficient evidence.
+
+#### Predictive AI Exacerbates Existing Inequalities
+
+- The tool had a racial bias because the predicted quantity (healthcare costs) was a poor stand-in for what the developers claimed to predict (healthcare needs or a patient’s risk level).
+- existing data might not have information about what developers want to predict (in this case, patients’ healthcare needs or their risk levels). So, developers use proxies that are easier to measure and already exist in the data (such as healthcare costs).
+- The difference is subtle but salient.
+
+#### A World without Prediction
+
+- they can’t stand the thought of the alternative to this way of decision-making—that is, acknowledging that the future cannot be predicted.
+- the discomfort we experience with randomness can lead to a search for patterns where none exist.
+
+#### Concluding Thoughts
+
+- Five reasons predictive AI fails
+    - A good prediction can result in a bad decision.
+    - People can strategically game opaque AI.
+    - Users over-rely on AI without adequate oversight or recourse.
+    - Data for training AI may come from a different population than the one it is used on.
+    - Predictive AI can increase inequality.
+
+### 3. Why Can’t AI Predict the Future?
+
+- They were based on the positions of the stars, or tarot cards, or lines on the palm, or dozens of other things. Today, the prediction system of choice is AI.
+
+#### A Brief History of Predicting the Future Using Computers
+- Broadly speaking, machine learning is more suited for predicting things about individuals whereas simulation is more suited for predicting collective or global outcomes. That’s because there are millions of people about whom you can collect training data to build machine learning models. For example, spam classifiers today work reasonably well, because there are lots of examples of both spam and nonspam emails.
+
+#### Getting Specific
+
+- One area where predictions seem hard is people’s futures.
+- For virtually any kind of prediction, there are many different ways to judge its accuracy,
+- we can’t directly compare how good a prediction in one area is to a prediction in another area.
+- we only care about how good a prediction is in relation to what can be done using that prediction.
+- whether the accuracy of the prediction improves with more data and better models.
+- **when we say life outcomes are hard to predict, we are using a combination of these three criteria: real-world utility, moral legitimacy, and irreducible error, that is, error that won’t go away with more data and better computational methods.**
+
+#### The Fragile Families Challenge
+
+- Predicting the future is a focus in many scientific fields, but not in social science. Instead of predictions, the dominant approach in social science is to focus on improving our understanding of what causes phenomena of interest.
+
+#### Why Did the Fragile Families Challenge End in Disappointment?
+
+- Much more common than large shocks are small initial advantages that are compounded over time.
+- The difficulty of measuring these small differences leads to higher irreducible errors in predictions.
+
+#### Failure Is Hard. What about Success?
+
+- the market for cultural products has rich-get-richer dynamics built into it, also called “cumulative advantage.”
+- among the vast universe of “good enough” cultural products, it is a largely random process that determines success.
+
+#### The Meme Lottery
+
+- Much of social media is a giant meme lottery.
+- Research shows that more partisan and more negative content gets more reach.
