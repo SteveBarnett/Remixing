@@ -12,9 +12,11 @@
 - Health
     - Back to running
 - Interests
+    - Nut Butter Bonanza
     - Lamps, low lighting, for big room
     - House plant positioning remix
     - Lay out back garden plants
+    - Learn to sew
     - Write: the importance of multimodality
     - Foodist plate &times; bento box / Japanese meal
     - Another SDC, especially stationery

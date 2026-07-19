@@ -20,8 +20,8 @@ Gates:
             - ~~Consider recent and current applications to test usability~~
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
-        - Updates for [Screen reader testing workshop for WWAM](https://human-centred.nz/2026/07/12/screen-reader-testing-workshop-for-wwam/)
-        - ✔ [Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07
+        - ✔ ~~Updates for [Screen reader testing workshop for WWAM](https://human-centred.nz/2026/07/12/screen-reader-testing-workshop-for-wwam/)~~
+        - ✔ ~~[Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07~~
         - ✔ ~~Initial prep for "Classifying and severity-fying accessibility issues" DADG session, examples, Tue 28/07~~
             - ~~[WCAG, Best Practice, and Severity](https://human-centred.nz/2026/07/08/wcag-best-practice-and-severity/)~~
         - ✔ ~~Discuss next DADG topic~~
@@ -41,16 +41,16 @@ Gates:
         - → Build up the trip, day by day (first draft)
             -  → First few days
                 - → Confirm with L, book stuff
-            - Where to land next
+            - → Where to land next
         - Next Nihongo resource: listening focus
             - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
         - ✔ ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
     - **Out of focus**
         - → First few watercoloured sketches
         - Watercolour enso
-        - Set up project table
+        - Morse code-based jingles
         - Puzzle-like pieces of walls 'n' doors sketches
-        - Nut Butter Bonanza
+        - ✖ ~~Set up project table~~
 - **Practice**
     - **Focus: "Climb the green mountain"**
         - → Continue at GMZ
