@@ -43,6 +43,13 @@
     - Make my own styles for md-to-html
 - Practice
     - VA: Care check-up for VHIP
+    - Consider where generosity (dana) is missing
+        - material support, protection, teaching
+    - Consider writing some gathas, for a handful of specific actions, samu
+        - Breathe in and recite the first line
+        - Breathe out and recite the second line
+        - Breathe in again and recite the third line
+        - Breathe out and recite the final line
     - Scribble out routine(s)
         - Silly start(ing ritual)?
         - Clear first step
