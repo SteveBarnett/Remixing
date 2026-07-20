@@ -2,7 +2,7 @@
 layout: page
 title: "AI Snake Oil"
 added: 2026-07-10
-updated: 2026-07-19
+updated: 2026-07-21
 ai: true
 ---
 
@@ -192,3 +192,113 @@ indirectly emerge, say by learning from examples or searching through a database
 
 - Much of social media is a giant meme lottery.
 - Research shows that more partisan and more negative content gets more reach.
+
+### 4. The Long Road to Generative AI
+
+- It is in the early stages of mass adoption, and it is hard to predict its impact on the economy and on culture.
+- we should start our discussion of generative AI by acknowledging that though it is a polarizing topic, the technology is powerful and the advances are real.
+- When a chatbot claims to be sentient, it is simply parroting and remixing text on the internet about sentient AI, usually from the realm of fiction.
+- those companies had spent the previous two years eliminating or sidelining internal voices who could have told them to think twice and slow down.
+- Then there is the problem of misinformation
+- The lawyer asked it if the cases were real, and the chatbot said yes—not having the ability to recognize that they were fake.
+- In general, AI reflects the biases and stereotypes captured in its training data. This is especially true of image generators.
+- there are limitations to what generative AI can be realistically used for, and hype about chatbots and lack of awareness of these limits has led to serious problems.
+- It is in fact the result of a long series of gradual improvements.13
+- a big part of the payoff of this chapter is psychological—once we understand the inner workings of generative AI and it no longer feels so mysterious, we will be better mentally equipped to resist the tendency to defer to claims made by those who built it.
+
+#### Failure and Revival
+- The change in the relative interest in neural networks and symbolic systems was the first in a repeated pattern.
+- When the AI community becomes excited about a particular approach, a feedback loop is created in which researchers and funders influence each other to propel work in that area forward.
+
+#### Training Machines to “See”
+
+- Running competitions like this is a time-tested tradition in AI development
+- The result is a leaderboard that represents a fair test of models’ capabilities.
+- It is this practice of benchmarking that has historically allowed rapid AI development.
+- using neural networks, which by then had been branded “deep learning” because of the key insight that
+having more layers (depth) improves accuracy.
+
+#### The Technical and Cultural Significance of ImageNet
+
+- At least as important as the technical significance of ImageNet is the way it shaped the culture of AI research and development. It either gave rise to or contributed to many modern AI practices.
+- Even before ImageNet, nearly the only way to get an AI innovation taken seriously by the research community was to achieve state-of-the-art results on a benchmark dataset.
+- For example, most benchmarks don’t measure the extent to which models reflect cultural biases and stereotypes.
+- Something else is lost in this quest for general-purpose methods that don’t require human expertise: when the model is not tailored to the task at hand, it might require many more training examples to reach a given level of accuracy. But having established a culture where existing data can be appropriated for machine learning, this did not seem like much of a barrier in the AI community.
+- the effect of those improvements is mainly to make training faster, not to enable new applications.
+
+#### Classifying and Generating Images
+
+- This understanding helps explain a shocking discovery that came out of the ImageNet contest: once a model is trained to classify images, it can be adapted to a variety of visual tasks with relatively little effort, through a process called fine-tuning.
+- The final layer is a simple process of converting those concepts to labels—the words or categories we use to describe images. At the penultimate layer, the model outputs a sequence of numbers, called a vector, that corresponds to a high-level description of the image.
+
+#### Generative AI Appropriates Creative Labor
+
+- Images generated using Dall-E and Stable Diffusion occasionally include watermarks from stock image websites such as Shutterstock and Getty Images, showing how prevalent watermarked images are in the data and how easily the model can replicate parts of its training data.
+- Sometimes the generated images even include remnants of artist signatures.
+- if we overwhelmingly replace artists with generative AI, whose data will train the next generation of AI models?
+
+#### AI for Image Classification Can Quickly Become AI for Surveillance
+
+- Unlike predictive AI, which is dangerous because it doesn’t work, AI for image classification is dangerous precisely because it works so well.
+- We expect companies to continue developing surveillance tools. After all, it’s good for business
+- But public pressure, advocacy, and regulation can curb how AI is used for surveillance.
+- Stronger regulations and more public pressure will go a long way in curbing AI for surveillance.
+
+#### From Images to Text
+
+- deep learning makes it possible to apply the same learning algorithm to many different tasks.
+- The fact that the weights of the trained model correspond to visual concepts is a consequence of the training data, not the algorithm.
+- Using matrices to capture aspects of structure in language, neural networks are able to build up successively more complex concepts as information flows through their layers, just as they do with images.
+- It turns out that going from text classification to text generation relies on another mind-bendingly brute-force method.
+- autocomplete.
+- here’s the big reveal—all modern chatbots are actually trained simply to predict the next word in a sequence of words.
+- It instead performs an absurdly large number of calculations to determine what the first word in the response should be.
+- we cannot stress enough how computationally expensive all this is. To generate a single token—part of a word—ChatGPT has to perform roughly a trillion arithmetic operations.
+
+#### From Models to Chatbots
+
+- Fine-tuning merely changes the model’s behavior; it “unlocks” specific capabilities. In other words, fine-tuning is an elaborate way of telling the model what the user wants it to do. But pretraining, rather than fine-tuning, is what gives it the capability to function in that way. This explains the P in ChatGPT, which stands for “pretrained.”
+- (if the user says this, then you should say that). That was the final innovation that led to ChatGPT.
+- One limitation of current chatbots is that even though they are quite general, their abilities are limited to tasks that are somewhat similar to tasks represented in the training data.
+- Even for the tasks that chatbots are well capable of completing, their heavy reliance on statistics and lack of awareness of their own limitations blunt their usefulness.
+- AI developers are known to periodically fine-tune them based on known types of failures
+- The truth is somewhere in between.
+- Chatbots “understand” in the sense that they build internal representations of the world through their training process.
+- in the vast chasm between the two extremes of “no understanding” and “perfect internal representation of the external world,” the question of where exactly chatbots lie is one that will likely be debated for a long time.
+- In the next few sections, we will look at three such risks: misinformation, deepfakes, and centralization of power.
+
+#### Automating Bullshit
+
+- Philosopher Harry Frankfurt defined bullshit as speech that is intended to persuade without regard for the
+truth. In this sense, chatbots are bullshitters.
+- They are trained to produce plausible text, not true statements.
+- The model cannot memorize all those facts; it can only learn the patterns and remix them when generating text.
+- The surprising thing is not that chatbots sometimes generate nonsense but that they answer correctly so often. We think it’s best understood as a side effect of the fact that true statements are more plausible than false ones.
+- As language models become widespread, so will automated bullshit.
+
+#### Deepfakes, Fraud, and Other Malicious Uses
+
+- The standard for establishing authenticity in courts has traditionally been low, which can be exploited using AI.
+- Generative AI has also been used to create or edit images or videos of people without their consent (“deepfakes”).
+- perhaps the most important response is educating the public about the ease of faking content and the importance of relying on trustworthy sources for news and information.
+
+#### The Cost of Improvement
+
+- The need for data for training generative AI has led to a massive reliance on labor in countries outside the United States and Europe.
+- Generative AI models’ propensity to output such content is no surprise: since they are trained using data from the internet, they inherit the toxicity of the internet.
+- more recent chatbots are much less likely to exhibit this behavior, though the defenses aren’t bulletproof.
+- humans have to label millions of examples of toxic text and images.
+- Precarious work refers to employment that is poorly paid, lacks employment benefits (such as mental health counseling that may help overcome the trauma that many AI-annotation workers face), and is insecure, which means that it may disappear at any time.
+- The work is so immiserating that many data annotation firms have taken to recruiting prisoners, people in refugee camps, and people in collapsing economies—in other words, those who will accept this work because they have no choice.
+- If this market won’t fix itself, and it probably won’t, then a new labor movement is needed.
+- The modern labor movement arose as a response to these conditions. Perhaps there are lessons to be learned from that history.
+- To improve the conditions of AI annotation work, an essay by Adrienne Williams and coauthors makes three recommendations: unionization, transnational organization, and solidarity between highly paid tech workers and their lower-paid counterparts.86
+
+#### Taking Stock
+
+- Let’s use our understanding of the technology to make some educated guesses about the extent to which these problems can be fixed or mitigated.
+- the fine-tuning process we described in this chapter has been highly effective at getting models to modify their behavior, even if it doesn’t erase the underlying stereotypes and associations the models learn from the internet.
+- On the problem of inaccurate outputs from chatbots, there has been gradual progress.
+- Evidence suggests that people are naturally skeptical of what they see online and are resistant to persuasion. If anything, the problem is the opposite.
+- The most serious harm from generative AI, in our view, is the labor exploitation that is at the core of the way it is built and deployed today.
+- Realistically, however, we think collective action can be more fruitful than individual resistance.
