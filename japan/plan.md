@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-07-15
+updated: 2026-07-21
 ---
 
 ## The Japlan
@@ -11,6 +11,8 @@ updated: 2026-07-15
 - Timezone: Japan is 3 hours behind NZ
 - [ ] Research and get a JR pass
 - [ ] Research and get eSIMs
+
+Note: 1,000 yen is about 10 NZD
 
 ### Tuesday 13 October 
 
@@ -53,9 +55,35 @@ updated: 2026-07-15
 - JR Central Shinkansen from Tokyo
     - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
     - Seem very frequent, go until 9pm-ish
-- Kyoto, Osaka, Nara, Lake Biwa?
 - Old Japan generally more than Kyoto specifically
-- [ ] Make a map list without temples and shrines
+- Kyoto, Osaka, Nara, Lake Biwa?
+- [gmaps link for Kyoto and around](https://maps.app.goo.gl/edxGtwxPNzRRb2ti6)
+- Potential day trips, or places to stay
+    - Kurama and Kibune
+        - Can half-day hike through the hills
+    - Ohara
+        - 1h+ N train from central Kyoto
+    - Ine
+        - hmm, 4h+ N train from Kyoto
+    - Amanohashidate
+        - 2h+ N of Kyoto
+    - Nara
+        - 1h S of Kyoto
+    - Lake Biwa, near Kyoto
+        - Otsu 10m E, more jacked
+        - Ogoto 40m N, more lake-y, W coast of lake
+        - Hikone 1h E, lake-y, E coast of lake
+        - Omihachiman 45m E, E coast
+        - Nagahama 1h+ NE
+- Suburbs to stay
+    - Fushimi (south)
+    - Southern Kyoto, around Fushimi/JR Nara Line, Keihan Line
+    - Kita Ward / Kamigyo Ward
+    - the strip running south from Kyoto Station along two parallel rail lines: the JR Nara Line (starting at Kyoto Station itself) and the Keihan Main Line (which runs along the Kamo River and doesn't touch Kyoto Station directly — the closest transfer point is Tofukuji Station, one stop south of Kyoto Station on the JR Nara Line). Both lines serve the same string of sights, so which one matters most depends on whether you're closer to a JR or Keihan station day to day.
+        - [Keihan line](https://www.keihan.co.jp/travel/en/), [map](https://www.keihan.co.jp/travel/en/trains/access-guide.html), up to Kyoto, down to Osaka
+        - [Private residence](https://private-residence.jp/en/)
+- Place to stay
+    - 京の宿しみず Ryokan SHIMIZU
 
 ### Thursday 22nd October or Friday 23 October
 
