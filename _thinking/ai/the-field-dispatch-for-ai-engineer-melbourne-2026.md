@@ -11,14 +11,17 @@ My notes from [The Field Dispatch — AI Engineer Melbourne 2026](https://fieldr
 ## Gathered notes
 
 - The harness beats the model
-    - use checklists, re-read the goal every few steps, force verification after each meaningful step
+    - use checklists
+    - re-read the goal every few steps
+    - force verification after each meaningful step
 - Match the model to the task
 - Where memory should live (files, platforms, model) is still being discussed
 - Spec, docs, as source of truth
 - Evals are the new tests
+    - Eval on business goals, not proxies
     - What could be deterministic rather than an LLM judge?
     - Who reviews and (re)aligns the judge?
-    - Eval on business goals, not proxies
+    - (The recursive problem of needing evals to judge your evals)
 
 ## Raw notes
 
