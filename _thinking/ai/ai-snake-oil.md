@@ -305,3 +305,78 @@ truth. In this sense, chatbots are bullshitters.
 - Evidence suggests that people are naturally skeptical of what they see online and are resistant to persuasion. If anything, the problem is the opposite.
 - **The most serious harm from generative AI, in our view, is the labor exploitation that is at the core of the way it is built and deployed today.**
 - **Realistically, however, we think collective action can be more fruitful than individual resistance.**
+
+### 5. Is Advanced AI an Existential Threat?
+
+#### What Do the Experts Think?
+
+- In the next few pages, we will show you how this entire argument rests on a tower of fallacies.
+- we think AGI is a long-term prospect, and that society already has the tools to address its risks calmly.
+- We shouldn’t let the bugbear of existential risk distract us from the more immediate harms of AI snake oil.
+- AI researchers have often spectacularly underestimated the difficulty of achieving AI milestones.
+- In other cases, researchers underestimated the rate of progress.
+- In general, however, the tendency among AI researchers has been toward overconfidence.
+- There is a long history of both researchers and car company CEOs being fooled by early tech demos
+- He divides experts into two camps, hedgehogs and foxes. Hedgehogs know one big thing. In our case, that’s AI experts. Foxes integrate information from many domains
+- Tetlock found that foxes fare far better at forecasting than hedgehogs.
+- Predicting AI risk is different. We’re talking about an event like no other; we have no past data to calibrate our predictions,
+- AI is not similar enough to historical precedents that it is meaningful to translate those qualitative insights into mathematical probabilities.
+- the history of AI reveals a gradual increase in generality.
+
+#### The Ladder of Generality
+
+- Most human knowledge is tacit and cannot be codified.
+- much expert knowledge is tacit and cannot be easily written out as rules.
+- Our field’s history of premature, and ultimately incorrect, predictions doesn’t inspire confidence.
+- In deep learning, researchers always use the same type of model: a neural network. They may make relatively
+small adjustments to the “architecture” of the model—the number of layers and patterns of connectivity
+between neurons—based on the task at hand. But the model is otherwise not tailored to the data.
+
+#### What’s Next on the Ladder?
+
+- These bots inevitably make mistakes, and their ability to recover from those mistakes is poor.
+- developers tend to bet that the cost of hardware will drop over time whereas the cost of labor will rise, and so far they’ve been right.
+- Because of the massive cost savings that generality brings, there is a strong demand for more general methods;
+- capitalist means of production strongly gravitate toward more automation in general.
+
+#### Accelerating Progress?
+
+- consumer-facing AI has finally, after many, many decades, crossed the threshold of usefulness.b
+- What we’ve seen in the history of AI research is that once one aspect gets automated, other aspects that
+weren’t recognized earlier tend to reveal themselves as bottlenecks.
+
+#### Rogue AI?
+
+- The main problem with this argument is that it posits an agent that is unfathomably powerful yet lacks an iota of common sense to recognize the absurdity of the request, and will thus interpret it extremely literally,
+- the more general the agent, the less likely this is.
+- In other words, completing even basic tasks autonomously and usefully in the real world requires common sense, good judgment, the ability to question goals and subgoals, and a refusal to interpret commands literally.
+- Unlike chatbots, advanced AI can’t be trained on text from the internet and then let loose. That would be like expecting to read a book about biking and then be able to ride a bike.
+- Let’s replace the picture with something more concrete, something that directly measures power, which is ultimately what’s of interest. Let’s define power as the ability to modify the environment (which is what makes the paper clip maximizer dangerous). Once we do so, a radically different picture emerges
+- Humans are powerful not primarily because of our brains but because of our technology.
+- We should be far more concerned about what people will do with AI than with what AI will do on its own.
+
+#### A Global Ban on Powerful AI?
+
+- the alignment research we can do now with regard to a hypothetical future superintelligent agent is
+inherently limited.
+- it turned out that the same techniques that enabled instruction following in the first place—fine-tuning and reinforcement learning—are also the ones that have been used to train chatbots to reject inappropriate requests. In other words, climbing the latest rung of the ladder and addressing the new safety concerns that arose happened concurrently and relied on the same innovations.
+
+#### A Better Approach: Defending against Specific Threats
+- We agree that catastrophic risks from AI are possible and should indeed be taken seriously. But we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue.
+- We should assume that bad actors will have access to state-of-the-art AI. They do today.
+- if a government wanted to use AI for cyberwar, they have the resources to train their own;
+- One possible catastrophic risk from AI is in cybersecurity.
+- Hackers have long had bug-finding AI tools that are much faster and easier to use than manually searching for bugs in software code. And yet the world hasn’t ended. Why is that? For the simple reason that the defenders have access to the same tools.
+- On balance, the availability of AI for finding software flaws has improved security, not worsened it.
+- defense in depth.
+- Done right, it allows a relatively weak defender to stave off a much more well-resourced attacker.
+- It’s possible that in the future, AI might make it easier to develop pandemic-causing viruses in the lab. But it is already possible to create such viruses in the lab.
+- Keeping AI out of bad actors’ hands won’t work. “Aligning” AI so that it refuses to help bad actors won’t work.
+Instead, we need to defend against specific threats.
+- it is extremely tempting to instead try to put AI back in a bottle. Unfortunately, that way of thinking will only distract us from the actual challenges we face.
+
+#### Concluding Thoughts
+
+- AI is a general-purpose technology, and as such it will probably be of some help to those seeking to cause large-scale harm, just as it is useful to everyone else.
+- reframing existing risks as AI risks would be a grave mistake, since trying to fix AI will have only a minimal impact on the real risks.
+- Existential worries about AI are a form of “criti-hype.”
