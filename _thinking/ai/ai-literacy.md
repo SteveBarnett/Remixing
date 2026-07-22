@@ -3,8 +3,156 @@ layout: page
 title: AI Literacy
 ai: true
 added: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-23
 ---
+
+* Display TOC
+{:toc}
+
+---
+
+## Whittled notes
+
+Both of these are true:
+
+- AI can be useful
+- AI can be harmful
+
+AI is highly capable but unreliable. It can fail, but in known and specific ways.
+
+Knowing what it can do and what it can’t lets us choose where, when, and how to use it.
+
+### Aside: be wary of the hype
+
+- **Some calls to use AI more widely are a sales pitch**
+  - AI can’t do your job, but an AI salesperson (or an AI) can convince your boss it can
+- **Extraordinary claims require extraordinary proof**
+  - Ask for details and specifics
+- Replacing people with AI is a marketing strategy, not a production strategy
+
+### Some broader points
+
+- **Start with the problem rather than AI as the solution.**  
+  - Problems are often best understood looking at the wider context and systems.
+- **Prefer “AI in the loop” to “human in the loop”**
+  - A person assisted by a machine, not a person assisting a machine.
+- **Be clear on how AI is helping.**
+  - Before starting the work, briefly sketch out the differences between doing it yourself and using AI to help.
+
+### Hallucinations
+
+**AI produces plausible text rather than facts.** They don't deal in truth, only in probability. 
+
+This leads to hallucinations: confidently stating false information as true. In particular, AI tends to get specific facts wrong. There has been gradual progress on this.
+
+#### Recommendation
+
+- **Avoid using AI to generate information**
+- **Check everything it produces, in fine detail, for accuracy and consistency**
+
+### Privacy 
+
+The information we put into AI is not private. Researchers are finding new ways to leak data. User inputs is used to train the AI.
+
+#### Recommendations
+
+- **Don't put any sensitive or private information into an AI**
+- **Opt out of user-content training**
+- If we can, locally host an AI instead of using a large cloud one
+
+### Sycophancy
+
+AI is notoriously sycophantic: they're trained to tell us what we want to hear. Even if we suggest a bad idea, the AI will say it's a good idea, and tell us we're right. This can be especially tricky for high-stakes or interpersonal topics.
+
+The sycophany can combine with hallucinations for extra effect!
+
+#### Recommendation
+
+- **Use AI to falsify ideas rather than validate them**
+
+### Anthropomorphisation
+
+AI is designed to sound like a person, but they're not. AI is not sentient or conscious. They can’t choose or select or decide or interpret. They can’t have empathy or personal interest: these things require subjective experience and human connection.
+
+When an AI claims to be sentient, it's reflecting back the science fiction part of its training data.
+
+#### Recommendation
+
+- **Remember that AI is complex technology, but not a person**. They provide information and knowledge, but not wisdom. Wisdom requires broad context, weighing options, working with paradoxes and “it depends”.
+
+### Cognitive atrophy and offloading
+
+AI makes it easier to jump to an answer rather than deeply considering the question and the process to get to the answer. The process is where we learn and make decision. It's where we're challenged and apply active effort, critical thinking and analysis.
+
+It can also narrow our curiosity. When we start with AI as a solution, we look for problems that AI can solve.
+
+### Recommendation
+
+- **Use AI as a question-asker rather than an answer-provider.**
+- Ask for options and structure rather than answers.
+
+### Training data
+
+AI has a vast amount of training data. But, because it's scope is constrained by its medium of the web. It's only the recorded data of the world, and much of human experience isn’t and can’t be recorded.
+
+- It's mostly Western ideas and approaches.
+- It's mostly discriminatory data, replicating the biases and power imbalances of the world.
+- It's "the Wikipedia version of reality." The style of the output is the rational discourse of the educated classes of society.
+- It has mode amplification. The most frequent data points are represented as the one true answer.
+
+#### Recommendation
+
+- **Keep in mind that there are some things we can't ask an AI about and get a good answer for.**
+
+### Multitasking
+
+AI isn't good at multi-tasking. Asking it to do several things at once can make all the other problems worse!
+
+#### Recommendation
+
+- **Break complex tasks into smaller steps, and do them one-by-one**
+- **Check the results at each step and steer back on track where necessary**
+
+### Not covered here, but important: the ethics of cloud AI
+
+- Ecological, environmental, harm of the water and power use.
+- Ethical harm to the underpaid and traumatised gig workers on the training data and doing Reinforcement Learning from Human Feedback. Psychological harm and deadly harm, such as AI-assisted suicides.
+- Financial harm from the hundreds of billions of dollar investments with little or no return.
+
+## Claude summary (oh ho)
+
+Here's a summary of your notes in seven points:
+
+**1. AI literacy means knowing the failure modes, not avoiding the tools**
+- AI tools can be useful, but they fail in known and specific ways — understanding what they can and can't do is what lets you choose where, when, and how to use them.
+- The goal is "AI in the loop," not "human in the loop": a centaur (person assisted by machine), never a reverse centaur (person assisting a machine).
+
+**2. The core failure modes are hallucination, sycophancy, and privacy leakage**
+- Hallucination is ubiquitous: false information presented confidently as true, so everything needs checking in fine detail for accuracy and consistency — which requires you to already be an expert in the domain.
+- Sycophancy compounds this: the tool tells you what you want to hear, will egg on a wrong idea, and can make people feel more right and less willing to work things out — especially damaging in personal relationships and high-stakes decisions.
+- Anything you put in isn't private: user input trains the models, and researchers keep finding new ways to leak data. Opt out of training, or host locally.
+
+**3. Using AI well means staying in control of the process**
+- Play to its strengths (generating options, structure) and around its weaknesses (nuance, tone, specific facts, concision).
+- Break complex tasks into small steps, show concrete examples rather than abstract descriptions, verify anything important, and be deliberate about the data and context you supply.
+- Use it to falsify rather than validate your thinking.
+
+**4. Reliance on AI erodes the skills and thinking that matter**
+- AI frames process as an obstacle, but process is where we learn, decide, get challenged, and ask for help — thinking and understanding happen *as* we write, draw, and code.
+- The result is atrophied critical thinking and analysis, devalued human skills like contextual awareness and conflict resolution, and narrowed curiosity: start with AI as the solution and you only look for problems AI can solve.
+
+**5. There are no ethical AI companies, only a hierarchy of harm**
+- These systems consume unfathomable amounts of data, land, energy, labour, and water — ecological harm, ethical harm to underpaid and traumatised gig workers doing training data and RLHF work, psychological and deadly harm including AI-assisted suicides, and financial harm from hundreds of billions invested with little return.
+- Follow the chain and you always come back to humans; and be wary of anthropomorphising — these systems don't choose, decide, interpret, or feel empathy, all of which require subjective experience and human connection.
+
+**6. Critique both the inputs and the outputs**
+- Inputs are mostly Western ideas, mostly discriminatory data replicating existing biases and power imbalances, and only ever the *recorded* data of the world — much of human experience isn't and can't be recorded.
+- Outputs give you mode amplification (the most frequent data point presented as the one true answer), confident confabulation, and the Wikipedia version of reality delivered in the rational discourse of the educated classes.
+
+**7. Respond collectively and structurally, not just individually**
+- Don't believe the hype: be sceptical, ask for details and specifics, read calls to use AI as a sales pitch. AI can't do your job, but an AI salesperson can convince your boss it can — replacing people with AI is a marketing strategy, not a production strategy.
+- Advocate for workers, unionise and organise, reduce dependence on Big Tech, prefer local and smaller models, and have an AI policy at work that decides when use is and isn't appropriate.
+- Start with the problem, not the technology: social and systemic problems rarely have technology solutions. Put the burden of proof on the AI system, clarify how results will be measured, and remember AI provides information and knowledge but not wisdom — wisdom needs broad context, weighing options, and sitting with paradox and "it depends."
 
 ## Gathered notes
 
@@ -16,7 +164,7 @@ updated: 2026-07-21
 - "AI in the loop", not "human in the loop"; Centaur (a person assisted by a machine), not Reverse centaur (a person assisting a machine). 
 - Failure modes
   - Hallucination
-    - Truth
+    - - Truth
     - generating false information, presenting as true
     - Ubiquity of hallucinations, avoid LLMs for generating info
     - Check everything it produces, in fine detail.
