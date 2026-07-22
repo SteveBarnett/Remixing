@@ -35,6 +35,7 @@ Note: 1,000 yen is about 10 NZD
         - **Takanawa**
         - **Sengakuji**
         - 7 mins to Tokyo station for Shinkansen, many options
+- [ ] Suggested accommodation list
 
 ### Wednesday 14 October
 
@@ -84,6 +85,8 @@ Note: 1,000 yen is about 10 NZD
         - [Private residence](https://private-residence.jp/en/)
 - Place to stay
     - 京の宿しみず Ryokan SHIMIZU
+- Osaka for a couple of days
+- [ ] Nara vibes: stay there instead of Kyoto?
 
 ### Thursday 22nd October or Friday 23 October
 
