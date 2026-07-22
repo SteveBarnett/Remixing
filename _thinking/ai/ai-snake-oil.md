@@ -311,22 +311,22 @@ truth. In this sense, chatbots are bullshitters.
 #### What Do the Experts Think?
 
 - In the next few pages, we will show you how this entire argument rests on a tower of fallacies.
-- we think AGI is a long-term prospect, and that society already has the tools to address its risks calmly.
-- We shouldn’t let the bugbear of existential risk distract us from the more immediate harms of AI snake oil.
+- **we think AGI is a long-term prospect, and that society already has the tools to address its risks calmly.**
+- **We shouldn’t let the bugbear of existential risk distract us from the more immediate harms of AI snake oil.**
 - AI researchers have often spectacularly underestimated the difficulty of achieving AI milestones.
 - In other cases, researchers underestimated the rate of progress.
 - In general, however, the tendency among AI researchers has been toward overconfidence.
-- There is a long history of both researchers and car company CEOs being fooled by early tech demos
+- **There is a long history of both researchers and car company CEOs being fooled by early tech demos**
 - He divides experts into two camps, hedgehogs and foxes. Hedgehogs know one big thing. In our case, that’s AI experts. Foxes integrate information from many domains
 - Tetlock found that foxes fare far better at forecasting than hedgehogs.
-- Predicting AI risk is different. We’re talking about an event like no other; we have no past data to calibrate our predictions,
+- **Predicting AI risk is different. We’re talking about an event like no other; we have no past data to calibrate our predictions,**
 - AI is not similar enough to historical precedents that it is meaningful to translate those qualitative insights into mathematical probabilities.
 - the history of AI reveals a gradual increase in generality.
 
 #### The Ladder of Generality
 
-- Most human knowledge is tacit and cannot be codified.
-- much expert knowledge is tacit and cannot be easily written out as rules.
+- **Most human knowledge is tacit and cannot be codified.**
+- **much expert knowledge is tacit and cannot be easily written out as rules.**
 - Our field’s history of premature, and ultimately incorrect, predictions doesn’t inspire confidence.
 - In deep learning, researchers always use the same type of model: a neural network. They may make relatively
 small adjustments to the “architecture” of the model—the number of layers and patterns of connectivity
@@ -337,13 +337,13 @@ between neurons—based on the task at hand. But the model is otherwise not tail
 - These bots inevitably make mistakes, and their ability to recover from those mistakes is poor.
 - developers tend to bet that the cost of hardware will drop over time whereas the cost of labor will rise, and so far they’ve been right.
 - Because of the massive cost savings that generality brings, there is a strong demand for more general methods;
-- capitalist means of production strongly gravitate toward more automation in general.
+- **capitalist means of production strongly gravitate toward more automation in general.**
 
 #### Accelerating Progress?
 
-- consumer-facing AI has finally, after many, many decades, crossed the threshold of usefulness.b
-- What we’ve seen in the history of AI research is that once one aspect gets automated, other aspects that
-weren’t recognized earlier tend to reveal themselves as bottlenecks.
+- consumer-facing AI has finally, after many, many decades, crossed the threshold of usefulness.
+- **What we’ve seen in the history of AI research is that once one aspect gets automated, other aspects that
+weren’t recognized earlier tend to reveal themselves as bottlenecks.**
 
 #### Rogue AI?
 
