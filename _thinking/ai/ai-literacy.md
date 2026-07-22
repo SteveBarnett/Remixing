@@ -18,9 +18,11 @@ Both of these are true:
 - AI can be useful
 - AI can be harmful
 
-AI is highly capable but unreliable. It can fail, but in known and specific ways.
+AI is highly capable but unreliable. For example, AI is good at transforming text, converting formats, and generating options. But/and it can fail, in known and specific ways. 
 
 Knowing what it can do and what it can’t lets us choose where, when, and how to use it.
+
+AI can be worth using when verifying the output is cheaper than producing it ourselves.
 
 ### Aside: be wary of the hype
 
@@ -50,9 +52,17 @@ This leads to hallucinations: confidently stating false information as true. In 
 - **Avoid using AI to generate information**
 - **Check everything it produces, in fine detail, for accuracy and consistency**
 
+### Non-determinism
+
+Since the AI output is probabilistic, the same input won't always give the same output.
+
+#### Recommendation
+
+**Don't use AI for tasks that require a consistent output.**
+
 ### Privacy 
 
-The information we put into AI is not private. Researchers are finding new ways to leak data. User inputs is used to train the AI.
+The information we put into AI is not private. Researchers are finding new ways to leak data. User inputs may used to train the AI, depending on the product.
 
 #### Recommendations
 
@@ -64,7 +74,7 @@ The information we put into AI is not private. Researchers are finding new ways 
 
 AI is notoriously sycophantic: they're trained to tell us what we want to hear. Even if we suggest a bad idea, the AI will say it's a good idea, and tell us we're right. This can be especially tricky for high-stakes or interpersonal topics.
 
-The sycophany can combine with hallucinations for extra effect!
+The sycophancy can combine with hallucinations for extra effect!
 
 #### Recommendation
 
@@ -72,7 +82,7 @@ The sycophany can combine with hallucinations for extra effect!
 
 ### Anthropomorphisation
 
-AI is designed to sound like a person, but they're not. AI is not sentient or conscious. They can’t choose or select or decide or interpret. They can’t have empathy or personal interest: these things require subjective experience and human connection.
+AI is designed to sound like a person, but they're not. They can’t choose or select or decide or interpret. They can’t have empathy or personal interest: these things require subjective experience and human connection.
 
 When an AI claims to be sentient, it's reflecting back the science fiction part of its training data.
 
@@ -82,35 +92,40 @@ When an AI claims to be sentient, it's reflecting back the science fiction part 
 
 ### Cognitive atrophy and offloading
 
-AI makes it easier to jump to an answer rather than deeply considering the question and the process to get to the answer. The process is where we learn and make decision. It's where we're challenged and apply active effort, critical thinking and analysis.
+AI makes it easier to jump to an answer rather than deeply considering the question and the process to get to the answer. The process is where we learn and make decisions. It's where we're challenged and apply active effort, critical thinking and analysis.
+
+AI output also tends towards the middle: everyone's output tends towards a similar style.
 
 It can also narrow our curiosity. When we start with AI as a solution, we look for problems that AI can solve.
 
-### Recommendation
+#### Recommendation
 
-- **Use AI as a question-asker rather than an answer-provider.**
-- Ask for options and structure rather than answers.
+- **Do some of the work without AI, first**
+- **Use AI as a question-asker rather than an answer-provider**
+- Ask for options and structure rather than answers
 
 ### Training data
 
-AI has a vast amount of training data. But, because it's scope is constrained by its medium of the web. It's only the recorded data of the world, and much of human experience isn’t and can’t be recorded.
+AI has a vast amount of training data. But, because its scope is constrained by its medium of the web. It's only the recorded data of the world, and much of human experience isn’t and can’t be recorded.
 
 - It's mostly Western ideas and approaches.
 - It's mostly discriminatory data, replicating the biases and power imbalances of the world.
 - It's "the Wikipedia version of reality." The style of the output is the rational discourse of the educated classes of society.
 - It has mode amplification. The most frequent data points are represented as the one true answer.
+- It has a data cut-off: whenever the most recent training data was crawled and tagged and input.
 
 #### Recommendation
 
 - **Keep in mind that there are some things we can't ask an AI about and get a good answer for.**
 
-### Multitasking
+### Big asks
 
-AI isn't good at multi-tasking. Asking it to do several things at once can make all the other problems worse!
+- AI isn't good in big batches or in long conversations. The quality of the output suffers when the input is long.
+- AI isn't good at multi-tasking. Asking it to do several things at once can make all the other problems worse!
 
 #### Recommendation
 
-- **Break complex tasks into smaller steps, and do them one-by-one**
+- **Break complex asks and tasks into smaller steps, and do them one-by-one in short bursts**
 - **Check the results at each step and steer back on track where necessary**
 
 ### Not covered here, but important: the ethics of cloud AI
