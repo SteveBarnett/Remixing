@@ -12,6 +12,8 @@
 - Health
     - Back to running
 - Interests
+    - Watercolour abstract: stokes, the outline the strokes
+    - Photo: waves as sky
     - Nut Butter Bonanza
     - Lamps, low lighting, for big room
     - House plant positioning remix
