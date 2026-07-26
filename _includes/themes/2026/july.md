@@ -58,6 +58,7 @@ Gates:
         - ✖️ ~~Write up "going back to GMZ"~~
     - **Out of focus**
         - → Vocation questions, for M and T
+        - Revisit current using MAP, especially for Yield and Acceptance
         - ✔ ~~Revisit Path as goal and Just~~
         - ✖️ ~~Revisit OBP~~
         - ✔ ~~Look up local community organising against AI data centres~~
