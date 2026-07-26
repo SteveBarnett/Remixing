@@ -8,7 +8,7 @@ updated: 2026-07-25
 
 ## Raw notes
 
-- Maria Sebregondi's translation of Raymond Queneau's One Hundred Thousand Billiobn Poems
+- [ ] Maria Sebregondi's translation of Raymond Queneau's One Hundred Thousand Billion Poems
 - As any artist in training learns, all these new techniques - light and shade, form, mass, the observation of drapery, proportion, perspective, pose, and the capture of likeness and personality - can only be developed on one way: drawing, and lots of it.
 - Hockney's telling point is that is it not enough to merely look at a work: if an artist wants to learn from it, they need to make their own record of it, and in doing so ,come to fathom it better.
 - By ensuring that transactions were accountable and legally recognised, notebooks protected the poor from the rich, and became instruments of economic improvement and social empowerment.
