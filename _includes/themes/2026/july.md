@@ -10,7 +10,6 @@ Gates:
 - **Vocation**
     - **Focus: "Grips and tools"**
         - → AI Literacy ... thing. With a little lols.
-            - → Part of policy work?
         - Blog post on annotations work
         - Short post on context switching (bookmarks and HC posts)
             - Spreading the time adds a context-switching tax
@@ -20,6 +19,7 @@ Gates:
             - ~~Consider recent and current applications to test usability~~
         - ✔ ~~Review the month, update CV~~
     - **Out of focus**
+        - → Look up published evals, a11y, pocock
         - ✔ ~~Updates for [Screen reader testing workshop for WWAM](https://human-centred.nz/2026/07/12/screen-reader-testing-workshop-for-wwam/)~~
         - ✔ ~~[Outline for WWAM SR workshop](https://human-centred.nz/2026/06/20/notes-for-a-more-social-screen-reader-testing-workshop/) Thu 23/07~~
         - ✔ ~~Initial prep for "Classifying and severity-fying accessibility issues" DADG session, examples, Tue 28/07~~
@@ -64,4 +64,4 @@ Gates:
         - ✔ ~~Look up local community organising against AI data centres~~
         - ✔ ~~Write a monthly gathered notes from [June's thinking](/2026/06/).~~
 
-Archives: [month 07](/2026/07/); [week 26](/2026/week/26/); [week 27](/2026/week/27/); [week 28](/2026/week/28/).
+Archives: [month 07](/2026/07/); [week 26](/2026/week/26/); [week 27](/2026/week/27/); [week 28](/2026/week/28/), [week 29](/2026/week/29/), [week 30](/2026/week/30/).
