@@ -9,7 +9,7 @@
     kanbanCards.forEach((card) => {
 
       // hide if done or cancelled
-      if(card.textContent.substr(0,1) == '✔' || card.textContent.substr(0,1) == '✖') {
+      if(card.textContent.substr(0,1) == '✔' || card.textContent.substr(0,1) == '✗') {
         card.remove();
         return;
       }
@@ -25,7 +25,7 @@
       }
 
       // hide all except current
-      if(card.textContent.substr(0,1) != '→') {
+      if(card.textContent.substr(0,1) != '➙') {
         card.remove();
         return;
       }

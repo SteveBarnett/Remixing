@@ -5,6 +5,10 @@
 <div markdown="1">
 - Vocation
     - Automate VPAT thing
+    - Blog post on annotations work
+    - Short post on context switching (bookmarks and HC posts)
+        - Spreading the time adds a context-switching tax
+        - Deep work, attention residue, etc.
     - Gather examples of prompting AI with something null or zero
     - Update CV
     - Big Influence summary
@@ -12,6 +16,8 @@
 - Health
     - Back to running
 - Interests
+    - Morse code-based jingles
+    - Puzzle-like pieces of walls 'n' doors sketches
     - Watercolour abstract: stokes, the outline the strokes
     - Photo: waves as sky
     - Nut Butter Bonanza
