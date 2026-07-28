@@ -3,18 +3,39 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
-## The Japlan
-
-- Timezone: Japan is 3 hours behind NZ
-- [ ] Research and get a JR pass
-- [ ] Research and get eSIMs
-
+Timezone: Japan is 3 hours behind NZ
 Note: 1,000 yen is about 10 NZD
 
-### Tuesday 13 October 
+## TODO
+
+- [ ] Tokyo accommodation
+    - [ ] Make list
+    - [ ] Send to O
+    - [ ] Book
+- [ ] Train to Kyoto
+    - [ ] Plan, JR Pass(es)
+    - [ ] Send to O
+    - [ ] Book
+- [ ] Kyoto
+    - [ ] Finalise location
+        - [ ] Check good transit hub
+        - [ ] AirBnBs down south
+    - [ ] Send to O
+    - [ ] Make list
+    - [ ] Send to O
+    - [ ] Book
+- [ ] Tokyo, part 2
+    - [ ] Make list
+    - [ ] Send to O
+    - [ ] Book
+- [ ] Final few days
+    - [ ] Kanazawa?
+- [ ] Research and get eSIMs
+
+## Tuesday 13 October 
 
 - 6:15pm - arrive Tokyo Narita Terminal 1
 - **Train into town: NEX (Narita Express)**. Goes to
@@ -35,9 +56,8 @@ Note: 1,000 yen is about 10 NZD
         - **Takanawa**
         - **Sengakuji**
         - 7 mins to Tokyo station for Shinkansen, many options
-- [ ] Suggested accommodation list
 
-### Wednesday 14 October
+## Wednesday 14 October
 
 - → Day in Tokyo to acclimatise
 - → Itinerary ideas: [gmaps link](https://maps.app.goo.gl/pqLz7GAcdMHMMcV27)
@@ -51,7 +71,7 @@ Note: 1,000 yen is about 10 NZD
     - Tennozu Isle (20m walk)
     - Kyū Shiba-rikyū Gardens (10m train)
 
-### Thursday 15 October
+## Thursday 15 October
 
 - JR Central Shinkansen from Tokyo
     - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
@@ -86,17 +106,17 @@ Note: 1,000 yen is about 10 NZD
 - Place to stay
     - 京の宿しみず Ryokan SHIMIZU
 - Osaka for a couple of days
-- [ ] Nara vibes: stay there instead of Kyoto?
+- Nara vibes: stay there instead of Kyoto?
 
-### Thursday 22nd October or Friday 23 October
+## Thursday 22nd October or Friday 23 October
 
 2 days in Tokyo
 
-### Sunday 25 October
+## Sunday 25 October
 
 L leave Tokyo Narita Terminal 1
 
-### Saturday 31 October
+## Saturday 31 October
 
 - 6:45pm - leave Tokyo Narita Terminal 1
 - 11 full days between landing and L leaving
