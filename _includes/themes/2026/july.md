@@ -40,6 +40,8 @@ Gates:
         - ✔  ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
     - **Out of focus**
         - ✗ ~~First few watercoloured sketches~~
+        - ➙ Add new filtered photos
+            - ➙ Choose some to print
         - ➙ Sketch and watercolour three things from [the Elden Ring art book](https://archive.org/details/Elden_Ring_Digital_Artbook/)
         - Watercolour enso
         - ✗ ~~Set up project table~~

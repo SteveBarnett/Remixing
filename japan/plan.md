@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-07-28
+updated: 2026-07-30
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -11,28 +11,46 @@ Note: 1,000 yen is about 10 NZD
 
 ## TODO
 
-- [ ] Tokyo accommodation
+- [ ] Tokyo - Tue 13 to Thu 15
+    - [x] Make list
+    - [ ] Send to O
+    - [ ] Decide together
+    - [ ] Book
+- [ ] Train to Kyoto - Thu 15
+    - [x] Plan, JR Pass(es)
+    - [ ] Send to O
+    - [ ] Decide together
+    - [ ] Book
+- [ ] Kyoto - Thu 15 to Tue 20 
+    - [x] Finalise location
+    - [x] Send to O
+    - [ ] Decide together
+    - [ ] Book
+- [ ] Osaka - Tue 20 to Thu 22
+    - [x] See what O thinks
     - [ ] Make list
     - [ ] Send to O
+    - [ ] Decide together
     - [ ] Book
-- [ ] Train to Kyoto
-    - [ ] Plan, JR Pass(es)
+- [ ] Tokyo, part 2 - Thu 22 to Sun 25
+    - [x] Make neighbourhoods list
+        - Shimokitazawa, ([Shimokitazawa Curry Festival](https://theshimokitazawa.com/curry-festival/)!), Tokyo's indie darling: narrow maze-like streets packed with second-hand shops, from curated boutiques to dusty treasure troves. Not on a JR line, Odakyu/Keio then transfer
+        - Koenji - small music venues, vintage stores, mom-and-pop shops and neighbourhood izakaya. Sunday trains longer.
+        - Nakano - otaku weirdness plus proper drinking alleys. Easy to Tokyo station on Sunday.
+        - Akihabara - maid cafés, manga and game stores
+        - Yanaka / Nippori - characterful and slightly odd
+    - [ ] Discuss with O
+    - [ ] Decide together
+    - [ ] Make AirBnb list
     - [ ] Send to O
     - [ ] Book
-- [ ] Kyoto
-    - [ ] Finalise location
-        - [ ] Check good transit hub
-        - [ ] AirBnBs down south
-    - [ ] Send to O
-    - [ ] Make list
-    - [ ] Send to O
-    - [ ] Book
-- [ ] Tokyo, part 2
-    - [ ] Make list
-    - [ ] Send to O
-    - [ ] Book
-- [ ] Final few days
-    - [ ] Kanazawa?
+- [ ] ? - Sun 25 to ?
+    - [ ] Figure out where
+        - Ueda
+        - Echigo-Yuzawa
+        - Mishima, Odoriko limited express
+        - Shuzenji, Mishima and Izu day trips
+- [ ] ? - ? to Sat 31
 - [ ] Research and get eSIMs
 
 ## Tuesday 13 October 
@@ -71,7 +89,7 @@ Note: 1,000 yen is about 10 NZD
     - Tennozu Isle (20m walk)
     - Kyū Shiba-rikyū Gardens (10m train)
 
-## Thursday 15 October
+## Thursday 15 October to Tuesday 20 October
 
 - JR Central Shinkansen from Tokyo
     - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
@@ -108,9 +126,13 @@ Note: 1,000 yen is about 10 NZD
 - Osaka for a couple of days
 - Nara vibes: stay there instead of Kyoto?
 
-## Thursday 22nd October or Friday 23 October
+## Tuesday 22 October to Thursday 22 October
 
-2 days in Tokyo
+- Osaka
+
+## Thursday 22nd October
+
+- Back to Tokyo
 
 ## Sunday 25 October
 
