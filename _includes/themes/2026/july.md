@@ -9,8 +9,8 @@ Gates:
 
 - **Vocation**
     - **Focus: "Grips and tools"**
-        - ➚ ~~Blog post on annotations work~~
-        - ➚ ~~Short post on context switching (bookmarks and HC posts)~~
+        - ✗ ~~Blog post on annotations work~~
+        - ✗ ~~Short post on context switching (bookmarks and HC posts)~~
             - ~~Spreading the time adds a context-switching tax~~
             - ~~Deep work, attention residue, etc.~~
         - ✔ ~~AI Literacy ... thing. With a little lols.~~
@@ -55,6 +55,20 @@ Gates:
         - ✔ ~~Revisit Path as goal and Just~~
         - ✗ ~~Revisit OBP~~
         - ✔ ~~Look up local community organising against AI data centres~~
-        - ✔ ~~Write a monthly gathered notes from [June's thinking](/2026/06/).~~
+        - ✔ ~~Write a [monthly gathered notes](/thinking/june-writing-and-thinking-round-up/) from [June's thinking](/2026/06/).~~
 
 Archives: [month 07](/2026/07/); [week 26](/2026/week/26/); [week 27](/2026/week/27/); [week 28](/2026/week/28/), [week 29](/2026/week/29/), [week 30](/2026/week/30/).
+
+#### End of month review: July
+
+- Vocation
+    - Focus: "Grips and tools". Okay. Did AI Literacy page, updated to [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/).
+    - Out of focus. Great! WWAM screen reader workshop, DADG Severity and WCAG/BP session.
+- Health
+    - Focus: "Step it up". Not so good. Have the start of a plan for August.
+- Interests
+    - Focus: "Next stops Japan". Great! Language good, Japlan coming along.
+    - Out of focus. Good. Finally started on watercolour stuff.
+- Practice
+    - Focus: "Climb the green mountain". Missed one because of meetup, then missed the next one. Hmm...
+    - Out of focus. Okay.
