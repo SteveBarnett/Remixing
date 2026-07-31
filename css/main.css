@@ -202,6 +202,11 @@ h1 {
   line-height: 1;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
 .review-header {
   margin-bottom: 0;
 }
@@ -268,6 +273,10 @@ summary:focus {
 
 .archive li {
   text-transform: capitalize;
+}
+
+ul {
+  margin-top: 0;
 }
 
 ul.art {
