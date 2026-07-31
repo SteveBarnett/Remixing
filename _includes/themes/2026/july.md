@@ -1,7 +1,7 @@
 ### July
 
 - Events in July: Green Mountain Zen (every Thu, starting this month).
-- ➚ ~~Care check-up for focus items.~~
+- ➘ ~~Care check-up for focus items.~~
 - Sub-theme: **[Turning flow into stock](/thinking/turning-stock-into-flow/)**, incrementalism, steps.
     - Prompts, Removals, Celebrations framing could be useful.
 
@@ -9,8 +9,8 @@ Gates:
 
 - **Vocation**
     - **Focus: "Grips and tools"**
-        - ✗ ~~Blog post on annotations work~~
-        - ✗ ~~Short post on context switching (bookmarks and HC posts)~~
+        - ➘ ~~Blog post on annotations work~~
+        - ➘ ~~Short post on context switching (bookmarks and HC posts)~~
             - ~~Spreading the time adds a context-switching tax~~
             - ~~Deep work, attention residue, etc.~~
         - ✔ ~~AI Literacy ... thing. With a little lols.~~
@@ -35,14 +35,14 @@ Gates:
 - **Interests**
     - **Focus: "Next stops Japan"**
         - ➙ Build up the [Japlan](/japan/plan/), day by day (first draft)
-        - ➚ ~~Next Nihongo resource: listening focus~~
+        - ➘ ~~Next Nihongo resource: listening focus~~
         - ✔  ~~Learn more Japanese from [Unlocking Japanese](/japan/unlocking-japanese/)~~
     - **Out of focus**
         - ✗ ~~First few watercoloured sketches~~
-        - ➚ Add new filtered photos
+        - ➘ Add new filtered photos
         - ➙ Sketch and watercolour three things from [the Elden Ring art book](https://archive.org/details/Elden_Ring_Digital_Artbook/)
         - ✔ ~~Watercolour enso~~
-        - ➚ Sketch Sox
+        - ➘ Sketch Sox
         - ✗ ~~Set up project table~~
 - **Practice**
     - **Focus: "Climb the green mountain"**
@@ -51,7 +51,7 @@ Gates:
         - ✗ ~~Write up "going back to GMZ"~~
     - **Out of focus**
         - ➙ Vocation questions, for M and T
-        - ➚ Revisit current using MAP, especially for Yield and Acceptance
+        - ➘ Revisit current using MAP, especially for Yield and Acceptance
         - ✔ ~~Revisit Path as goal and Just~~
         - ✗ ~~Revisit OBP~~
         - ✔ ~~Look up local community organising against AI data centres~~
