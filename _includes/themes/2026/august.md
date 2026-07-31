@@ -28,5 +28,6 @@
 <h4>Practice</h4>
 
 - ➙ Gather up July writing
+- ➙ Figure out GMZ this month
 - Care check-up for focus items.
 - Revisit current using MAP, especially for Yield and Acceptance
