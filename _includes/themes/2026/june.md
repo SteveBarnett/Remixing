@@ -79,8 +79,6 @@ Archives: [month 06](/2026/06/); [week 22](/2026/week/22/), [week 23](/2026/week
 
 #### End of month review: June
 
-- [ ] Write up a gathering of this month's writing
-
 - Vocation
     - Focus: "Plan the pomodoro breaks". Okay. Useful when I remembered!
     - Out of focus. Lots! Pretty good.
