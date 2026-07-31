@@ -13,11 +13,11 @@ Note: 1,000 yen is about 10 NZD
 
 - [ ] Tokyo - Tue 13 to Thu 15
     - [x] Make list
-    - [ ] Send to O
+    - [x] Send to O
     - [ ] Decide together
     - [ ] Book
 - [ ] Train to Kyoto - Thu 15
-    - [x] Plan, JR Pass(es)
+    - [ ] Plan, JR Pass(es)
     - [ ] Send to O
     - [ ] Decide together
     - [ ] Book
@@ -50,6 +50,7 @@ Note: 1,000 yen is about 10 NZD
         - Echigo-Yuzawa
         - Mishima, Odoriko limited express
         - Shuzenji, Mishima and Izu day trips
+    - [ ] Ryokan for some days?
 - [ ] ? - ? to Sat 31
 - [ ] Research and get eSIMs
 
@@ -123,7 +124,6 @@ Note: 1,000 yen is about 10 NZD
         - [Private residence](https://private-residence.jp/en/)
 - Place to stay
     - 京の宿しみず Ryokan SHIMIZU
-- Osaka for a couple of days
 - Nara vibes: stay there instead of Kyoto?
 
 ## Tuesday 22 October to Thursday 22 October
