@@ -1,11 +1,16 @@
 ### August
 
 - Events in August: Top Dog Film Festival (Wed 5); You Should Be Dancing (Fri 28)
-- Sub-theme: **Peace**.
+- Sub-theme: **Peace (with problems)**.
+    - **Problems as practice support**
+    - **Problems as (illusory) story**
+    - Using [the three uhds](/thinking/the-three-uhds/)
 
 <h4>Vocation</h4>
 
-- ➙ Continue published evals research
+- ➙ evals work
+    - ➙ keep it realistic
+    - ➙ keep it clear
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - Monthly CV update (Mon 17)
@@ -18,16 +23,20 @@
 
 <h4>Interests</h4>
 
-- ➙ Add some recent art
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
 - Sketch Sox
 - Next Nihongo resource: listening focus
     - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
+- ✔ ~~Add some recent art~~
 
 <h4>Practice</h4>
 
+Just just sitting.
+
+- ➙ Tiny pre-sits for things.
 - ➙ Gather up July writing
 - ➙ Figure out GMZ this month
-- Care check-up for focus items.
+- Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
+- [x] ~~Do a Care &times; Peace matrix, for each Gate~~
