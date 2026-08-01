@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-07-30
+updated: 2026-08-01
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -14,7 +14,7 @@ Note: 1,000 yen is about 10 NZD
 - [ ] Tokyo - Tue 13 to Thu 15
     - [x] Make list
     - [x] Send to O
-    - [ ] Decide together
+    - [x] Decide together
     - [ ] Book
 - [ ] Train to Kyoto - Thu 15
     - [ ] Plan, JR Pass(es)
@@ -24,7 +24,7 @@ Note: 1,000 yen is about 10 NZD
 - [ ] Kyoto - Thu 15 to Tue 20 
     - [x] Finalise location
     - [x] Send to O
-    - [ ] Decide together
+    - [x] Decide together
     - [ ] Book
 - [ ] Osaka - Tue 20 to Thu 22
     - [x] See what O thinks
@@ -39,9 +39,11 @@ Note: 1,000 yen is about 10 NZD
         - Nakano - otaku weirdness plus proper drinking alleys. Easy to Tokyo station on Sunday.
         - Akihabara - maid cafés, manga and game stores
         - Yanaka / Nippori - characterful and slightly odd
-    - [ ] Discuss with O
-    - [ ] Decide together
-    - [ ] Make AirBnb list
+    - [x] Discuss with O
+    - [x] Decide together
+    - [ ] Make AirBnb list for
+        - [ ] Shimokitazawa
+        - [ ] Koenji as backup
     - [ ] Send to O
     - [ ] Book
 - [ ] ? - Sun 25 to ?
