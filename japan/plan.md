@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-08-01
+updated: 2026-08-02
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -11,40 +11,21 @@ Note: 1,000 yen is about 10 NZD
 
 ## TODO
 
-- [ ] Tokyo - Tue 13 to Thu 15
-    - [x] Make list
-    - [x] Send to O
-    - [x] Decide together
-    - [ ] Book
-- [ ] Train to Kyoto - Thu 15
-    - [ ] Plan, JR Pass(es)
-    - [ ] Send to O
-    - [ ] Decide together
-    - [ ] Book
-- [ ] Kyoto - Thu 15 to Tue 20 
-    - [x] Finalise location
-    - [x] Send to O
-    - [x] Decide together
-    - [ ] Book
 - [ ] Osaka - Tue 20 to Thu 22
-    - [x] See what O thinks
+    - [x] ~~See what O thinks~~
     - [ ] Make list
     - [ ] Send to O
     - [ ] Decide together
     - [ ] Book
 - [ ] Tokyo, part 2 - Thu 22 to Sun 25
-    - [x] Make neighbourhoods list
-        - Shimokitazawa, ([Shimokitazawa Curry Festival](https://theshimokitazawa.com/curry-festival/)!), Tokyo's indie darling: narrow maze-like streets packed with second-hand shops, from curated boutiques to dusty treasure troves. Not on a JR line, Odakyu/Keio then transfer
-        - Koenji - small music venues, vintage stores, mom-and-pop shops and neighbourhood izakaya. Sunday trains longer.
-        - Nakano - otaku weirdness plus proper drinking alleys. Easy to Tokyo station on Sunday.
-        - Akihabara - maid cafés, manga and game stores
-        - Yanaka / Nippori - characterful and slightly odd
-    - [x] Discuss with O
-    - [x] Decide together
+    - [x] ~~Make neighbourhoods list~~
+    - [x] ~~Discuss with O~~
+    - [x] ~~Decide together~~
     - [ ] Make AirBnb list for
         - [ ] Shimokitazawa
         - [ ] Koenji as backup
     - [ ] Send to O
+    - [ ] Decide together
     - [ ] Book
 - [ ] ? - Sun 25 to ?
     - [ ] Figure out where
@@ -54,7 +35,25 @@ Note: 1,000 yen is about 10 NZD
         - Shuzenji, Mishima and Izu day trips
     - [ ] Ryokan for some days?
 - [ ] ? - ? to Sat 31
+- [ ] Train to Kyoto - Thu 15
+    - [ ] Plan, JR Pass(es)
+    - [ ] Send to O
+    - [ ] Decide together
+    - [ ] Book
 - [ ] Research and get eSIMs
+
+### Done
+
+- [x] ~~Tokyo - Tue 13 to Thu 15~~
+    - [x] ~~Make list~~
+    - [x] ~~Send to O~~
+    - [x] ~~Decide together~~
+    - [x] ~~Book~~
+- [x] ~~Kyoto - Thu 15 to Tue 20~~
+    - [x] ~~Finalise location~~
+    - [x] ~~Send to O~~
+    - [x] ~~Decide together~~
+    - [x] ~~Book~~
 
 ## Tuesday 13 October 
 
@@ -135,6 +134,11 @@ Note: 1,000 yen is about 10 NZD
 ## Thursday 22nd October
 
 - Back to Tokyo
+- Shimokitazawa, ([Shimokitazawa Curry Festival](https://theshimokitazawa.com/curry-festival/)!), Tokyo's indie darling: narrow maze-like streets packed with second-hand shops, from curated boutiques to dusty treasure troves. Not on a JR line, Odakyu/Keio then transfer
+- Koenji - small music venues, vintage stores, mom-and-pop shops and neighbourhood izakaya. Sunday trains longer.
+- Nakano - otaku weirdness plus proper drinking alleys. Easy to Tokyo station on Sunday.
+- Akihabara - maid cafés, manga and game stores
+- Yanaka / Nippori - characterful and slightly odd
 
 ## Sunday 25 October
 
