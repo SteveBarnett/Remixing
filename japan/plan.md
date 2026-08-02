@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-08-02
+updated: 2026-08-03
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -27,6 +27,12 @@ Note: 1,000 yen is about 10 NZD
     - [ ] Send to O
     - [ ] Decide together
     - [ ] Book
+- [ ] Train to Kyoto - Thu 15
+    - [ ] Plan, JR Pass(es)
+    - [ ] Send to O
+    - [ ] Decide together
+    - [ ] Book
+- [ ] Research and get eSIMs
 - [ ] ? - Sun 25 to ?
     - [ ] Figure out where
         - Ueda
@@ -35,12 +41,6 @@ Note: 1,000 yen is about 10 NZD
         - Shuzenji, Mishima and Izu day trips
     - [ ] Ryokan for some days?
 - [ ] ? - ? to Sat 31
-- [ ] Train to Kyoto - Thu 15
-    - [ ] Plan, JR Pass(es)
-    - [ ] Send to O
-    - [ ] Decide together
-    - [ ] Book
-- [ ] Research and get eSIMs
 
 ### Done
 
