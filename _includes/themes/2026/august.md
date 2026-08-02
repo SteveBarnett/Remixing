@@ -34,6 +34,7 @@
 
 Just just sitting.
 
+- ➙ Consider writing some gathas, for a handful of specific actions, samu
 - ➙ Tiny pre-sits for things
 - ➙ Figure out GMZ this month
 - Care check-up for focus items
