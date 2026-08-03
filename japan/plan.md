@@ -13,18 +13,18 @@ Note: 1,000 yen is about 10 NZD
 
 - [ ] Osaka - Tue 20 to Thu 22
     - [x] ~~See what O thinks~~
-    - [ ] Make list
-    - [ ] Send to O
+    - [x] ~~Make list~~
+    - [x] ~~Send to O~~
     - [ ] Decide together
     - [ ] Book
 - [ ] Tokyo, part 2 - Thu 22 to Sun 25
     - [x] ~~Make neighbourhoods list~~
     - [x] ~~Discuss with O~~
     - [x] ~~Decide together~~
-    - [ ] Make AirBnb list for
-        - [ ] Shimokitazawa
+    - [x] Make AirBnB list for
+        - [x] Shimokitazawa
         - [ ] Koenji as backup
-    - [ ] Send to O
+    - [x] Send to O
     - [ ] Decide together
     - [ ] Book
 - [ ] Train to Kyoto - Thu 15
