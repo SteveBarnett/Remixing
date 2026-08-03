@@ -64,11 +64,15 @@ Archives: [month 07](/2026/07/); [week 26](/2026/week/26/); [week 27](/2026/week
 - Vocation
     - Focus: "Grips and tools". Okay. Did AI Literacy page, updated to [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/).
     - Out of focus. Great! WWAM screen reader workshop, DADG Severity and WCAG/BP session.
+    - Tracker. Very variable with pomodoros.
 - Health
     - Focus: "Step it up". Not so good. Have the start of a plan for August.
+    - Tracker. Low to medium.
 - Interests
     - Focus: "Next stops Japan". Great! Language good, Japlan coming along.
     - Out of focus. Good. Finally started on watercolour stuff.
+    - Tracker. Great!
 - Practice
     - Focus: "Climb the green mountain". Missed one because of meetup, then missed the next one. Hmm...
     - Out of focus. Okay.
+    - Tracker. Really pretty scattered and inconsistent.
