@@ -349,11 +349,11 @@ weren’t recognized earlier tend to reveal themselves as bottlenecks.**
 
 - The main problem with this argument is that it posits an agent that is unfathomably powerful yet lacks an iota of common sense to recognize the absurdity of the request, and will thus interpret it extremely literally,
 - the more general the agent, the less likely this is.
-- In other words, completing even basic tasks autonomously and usefully in the real world requires common sense, good judgment, the ability to question goals and subgoals, and a refusal to interpret commands literally.
-- Unlike chatbots, advanced AI can’t be trained on text from the internet and then let loose. That would be like expecting to read a book about biking and then be able to ride a bike.
+- **In other words, completing even basic tasks autonomously and usefully in the real world requires common sense, good judgment, the ability to question goals and subgoals, and a refusal to interpret commands literally.**
+- **Unlike chatbots, advanced AI can’t be trained on text from the internet and then let loose. That would be like expecting to read a book about biking and then be able to ride a bike.**
 - Let’s replace the picture with something more concrete, something that directly measures power, which is ultimately what’s of interest. Let’s define power as the ability to modify the environment (which is what makes the paper clip maximizer dangerous). Once we do so, a radically different picture emerges
 - Humans are powerful not primarily because of our brains but because of our technology.
-- We should be far more concerned about what people will do with AI than with what AI will do on its own.
+- **We should be far more concerned about what people will do with AI than with what AI will do on its own.**
 
 #### A Global Ban on Powerful AI?
 
@@ -362,7 +362,7 @@ inherently limited.
 - it turned out that the same techniques that enabled instruction following in the first place—fine-tuning and reinforcement learning—are also the ones that have been used to train chatbots to reject inappropriate requests. In other words, climbing the latest rung of the ladder and addressing the new safety concerns that arose happened concurrently and relied on the same innovations.
 
 #### A Better Approach: Defending against Specific Threats
-- We agree that catastrophic risks from AI are possible and should indeed be taken seriously. But we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue.
+- We agree that catastrophic risks from AI are possible and should indeed be taken seriously. But **we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue.**
 - We should assume that bad actors will have access to state-of-the-art AI. They do today.
 - if a government wanted to use AI for cyberwar, they have the resources to train their own;
 - One possible catastrophic risk from AI is in cybersecurity.
@@ -371,12 +371,11 @@ inherently limited.
 - defense in depth.
 - Done right, it allows a relatively weak defender to stave off a much more well-resourced attacker.
 - It’s possible that in the future, AI might make it easier to develop pandemic-causing viruses in the lab. But it is already possible to create such viruses in the lab.
-- Keeping AI out of bad actors’ hands won’t work. “Aligning” AI so that it refuses to help bad actors won’t work.
-Instead, we need to defend against specific threats.
+- **Keeping AI out of bad actors’ hands won’t work. “Aligning” AI so that it refuses to help bad actors won’t work. Instead, we need to defend against specific threats.**
 - it is extremely tempting to instead try to put AI back in a bottle. Unfortunately, that way of thinking will only distract us from the actual challenges we face.
 
 #### Concluding Thoughts
 
 - AI is a general-purpose technology, and as such it will probably be of some help to those seeking to cause large-scale harm, just as it is useful to everyone else.
 - reframing existing risks as AI risks would be a grave mistake, since trying to fix AI will have only a minimal impact on the real risks.
-- Existential worries about AI are a form of “criti-hype.”
+- **Existential worries about AI are a form of “criti-hype.”**
