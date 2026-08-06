@@ -34,10 +34,12 @@
 
 Just just sitting.
 
-- ➙ Consider writing some gathas, for a handful of specific actions, samu
-- ➙ Tiny pre-sits for things
-- ➙ Figure out GMZ this month
+- ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
+- ➙ Tiny sits: Astin on Waking Up
+- ➙ Somatic: double-yas shash(u)
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
-- [x] [Gather up July writing](/thinking/july-writing-and-thinking-round-up/)
-- [x] ~~Do a Care &times; Peace matrix, for each Gate~~
+- ✔ ~~Consider writing some gathas, for a handful of specific actions, samu~~
+- ✗ ~~Figure out GMZ this month~~
+- ✔ ~~[Gather up July writing](/thinking/july-writing-and-thinking-round-up/)~~
+- ✔ ~~Do a Care &times; Peace matrix, for each Gate~~
