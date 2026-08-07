@@ -29,18 +29,20 @@ Focused on helping the team do their best work.
     - Sometimes writing user stories, even though that's really a Product thing
 - Jira admin stuff, assigning work, reporting
     - Shouldn't really be part of the job, but often is
-    - Orange flag
-Same caveat — this is material to think with, not a conclusion.
+    - Orange flag since the team is supposed do this themselves, with the scrum master supporting
 
 ## The modern, more delivery-focused, version
 
-Delivery is really on the team (and the Product Owner), not the scrum master. But "delivery manager" is more about the business and meeting the business's needs.
+- Delivery is really on the team (and the Product Owner), not the scrum master. "Delivery manager" is more about the business and meeting the business's needs.
+- Dedicated scrum master are fewer these days because of budget cuts and the tasks being absorbed into other people's jobs.
+- Delivery manager has a more established and clear career path, scrum master kinda doesn't.
+- There's a spectrum between scrum master and delivery manager.
 
-Delivery manager has a more established and clear career path, scrum master kinda doesn't.
+My take on the differences:
 
 - Less facilitation, the team do it themselves more
 - Becomes less servant leadership and more coordination and direction, possibly line management
-- Shit umbrella gets bigger and wider, but/and more useful/powerful
+- Shit umbrella gets bigger and wider: more power to make changes, and covers more things
 - Much less focus on agile stuff and more reporting and metrics and things
 
 <!--
