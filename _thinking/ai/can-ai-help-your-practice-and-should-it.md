@@ -20,3 +20,11 @@ Notes from Tricycle's panel discussion [Can AI Help Your Practice? (And Should I
     - Do I need to?
     - Do I actually want a teacher, not a sangha?
     - Are "spiritual friends" enough?
+- Sangha has inevitable conflict
+    - polishing each other
+    - bumping up against each other
+- Red flags
+    - AI pretending to be human
+    - AI luring you to continue using it
+- AI is soft, doesn't not ask hard questions
+- [ ] Tara Brach's AI
