@@ -1,9 +1,9 @@
 ### August
 
-- Events in August: Top Dog Film Festival (Wed 5); You Should Be Dancing (Fri 28)
-- Sub-theme: **Peace (with problems)**.
-    - **Problems as practice support**
-    - **Problems as (illusory) story**
+- Events in August: Top Dog Film Festival (Wed 5); You Should Be Dancing (Fri 21)
+- ➙ Sub-theme: **Peace (with problems)**.
+    - ➙ **Problems as practice support**
+    - ➙ **Problems as (illusory) story**
     - Using [the three uhds](/thinking/the-three-uhds/)
 
 <h4>Vocation</h4>
@@ -35,6 +35,7 @@
 Just just sitting.
 
 - ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
+- ➙ Seek for O: categories, etc.
 - Tiny sits: Astin on Waking Up
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
@@ -42,3 +43,5 @@ Just just sitting.
 - ✗ ~~Figure out GMZ this month~~
 - ✔ ~~[Gather up July writing](/thinking/july-writing-and-thinking-round-up/)~~
 - ✔ ~~Do a Care &times; Peace matrix, for each Gate~~
+
+Archives: [month 08](/2026/08/); [week 31](/2026/week/31/).
