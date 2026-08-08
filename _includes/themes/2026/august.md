@@ -19,7 +19,7 @@
 <h4>Health</h4>
 
 - ➙ The Triple Gym (ahem): \*pack
-- ➙ Makko-ho for Brain-go
+- Makko-ho for Brain-go
 
 <h4>Interests</h4>
 
@@ -35,8 +35,7 @@
 Just just sitting.
 
 - ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
-- ➙ Tiny sits: Astin on Waking Up
-- ➙ Somatic: double-yas shash(u)
+- Tiny sits: Astin on Waking Up
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
 - ✔ ~~Consider writing some gathas, for a handful of specific actions, samu~~
