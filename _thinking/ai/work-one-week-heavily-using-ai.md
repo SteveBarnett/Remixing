@@ -2,7 +2,7 @@
 layout: page
 title: "Work: sort-of retro: one week heavily using AI"
 added: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 ## Summary
@@ -11,6 +11,7 @@ updated: 2026-08-08
     - Especially generating cases: "make me a new one likes the old ones, based on this new info"
 - Such a strong pull to multi-tasking
 - The ups **and** downs came from Claude Code as a harness more than from the model itself
+- A similar pull to a smartphone: because it's there, you "should" be using it (more), getting the most oout of it, do-maxxing
 
 ---
 
