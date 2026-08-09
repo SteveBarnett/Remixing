@@ -26,6 +26,7 @@
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
 - Sketch Sox
+- Next puzzle!
 - Next Nihongo resource: listening focus
     - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
 - ✔ ~~Add some recent art~~
