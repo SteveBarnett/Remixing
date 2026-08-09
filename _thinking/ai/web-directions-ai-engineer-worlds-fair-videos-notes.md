@@ -3,7 +3,7 @@ layout: page
 title: "Web Directions \"AI Engineer World's Fair\" videos notes"
 ai: true
 added: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 ## Web Directions "AI Engineer World's Fair" videos notes
@@ -28,4 +28,33 @@ updated: 2026-08-07
 - Erosion of skills, higher review burden
 - Codebase is more brittle
 - Sold on the value, worried about the liabilities
-- 
+
+### [Evals-Driven Development for a Mental Health AI Coach — Akele Reed & Dave Revere, SonderMind](https://www.youtube.com/watch?v=O72p-rBb2bA)
+
+- Clinically grounded AI coach, purpose-built for mental health
+- "When a human is the right next step"
+- Modularity
+    - Faster iteration w/o compromising safety
+    - More straightforward evals (SB: but misses integration?)
+- **Clinical review feeds back into evals**
+- The clinician owns what good looks like
+
+### [How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel Bump, YouTube Ads](https://www.youtube.com/watch?v=xyL2Ltkh-SA)
+
+- Building an agent is hard. Making it reliable is harder.
+- **Independent critique agent**
+- **Reliability is a function of agent capability, guardrails, and evals**
+- **Test the negatives**
+- **Get explanations from the grader along with the verdict**
+    - **Use them to make the agent better**
+- For LLMasJ, go beyond pass/fail
+- Agents fail to generalise
+- Good evals
+    - Representative of what you want your product to be great at
+    - Keeps evolving
+    - A high-quality set of edge cases
+
+
+
+
+
