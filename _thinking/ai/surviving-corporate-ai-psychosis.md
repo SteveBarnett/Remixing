@@ -1,11 +1,22 @@
 ---
 layout: page
-title: surviving corporate AI psychosis
+title: Surviving corporate AI psychosis
 added: 2026-08-09
 updated: 2026-08-09
 ---
 
 Notes from [Nik Suresh/Ludicity on surviving corporate AI psychosis](https://www.youtube.com/watch?v=6GOGGzTp3MA)
+
+## Gathered notes
+
+- Most of the AI projects aren't AI projects: they has a small bit of AI, but are branded as AI projects
+    - Or they pick a task that can be done without an LLM, then pay a consultant to "do it with AI"
+- Failed AI project cleanup squads will be a thing
+- You're held hostage by the most ridiculous numbers someone has said recently
+    - Don't argue with these people, they're actually nuts
+        - Just wait for the money to run out
+
+## Raw notes
 
 - Nik's on a lot of sales calls, so he has a wide data set
 - "true believers" have gone beyond the trivial concerns of producing working code
