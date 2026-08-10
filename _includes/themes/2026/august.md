@@ -1,18 +1,22 @@
 ### August
 
-- Events in August: Top Dog Film Festival (Wed 5); You Should Be Dancing (Fri 21)
+- Events in August
+    - ✔ ~~Wed 5: Top Dog Film Festival~~
+    - Fri 21: You Should Be Dancing
+    - Tue 25: Nail Your Intro
 - ➙ Sub-theme: **Peace (with problems)**.
     - ➙ **Problems as practice support**
     - ➙ **Problems as (illusory) story**
-    - Using [the three uhds](/thinking/the-three-uhds/)
+    - Using a somatic [the three uhds](/thinking/the-three-uhds/)
 
 <h4>Vocation</h4>
 
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
-- [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
+- Prepare for "Nail Your Intro" on Tue 25
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
+- [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
 - Monthly CV update (Mon 17)
 - Monthly work blog post (Mon 17)
 
