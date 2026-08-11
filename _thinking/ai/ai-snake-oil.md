@@ -18,7 +18,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 ### Chapter 1 INTRODUCTION
 
-- Predictive AI not only does not work today but will likely never work, because it’s hard to predict human behavior and the future, and AI doesn’t change that fact.
+- In contrast to generative AI, predictive AI often does not work at all, and not only does it not work today, it likely never will, because it’s hard to predict human behavior and the future and AI doesn’t change that fact.
 - This will make you read news about AI much more skeptically and with an eye toward details that often get buried.
 - A deeper understanding of AI will both satisfy your scientific curiosity and translate into practical ideas on how to use—and when not to use—AI in your life and career.
 
@@ -33,7 +33,6 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### Predictive AI: An Extraordinary Claim That Requires Extraordinary Evidence
 
-- In contrast to generative AI, predictive AI often does not work at all.
 - AI technology is often deployed with sensible intentions.
 - evidence suggests that these tools are only slightly more accurate than randomly guessing
 - One reason for the low accuracy of these tools could be that data about certain important factors is not available
@@ -63,6 +62,8 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
     - Our third suggested path is to focus on the demand for AI snake oil rather than its supply.
 - AI snake oil is appealing because those buying it are in broken institutions and are desperate for a quick fix.
 
+### Chapter 2 How Predictive AI Goes Wrong
+
 #### Predictive AI Makes Life-Altering Decisions
 
 - This type of algorithm, in which the rules are developed manually but applied automatically, is commonly employed
@@ -84,11 +85,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### Predictions about the Wrong People
 
-- when the decision subjects come from a population with different characteristics than those in the training data, the model’s decisions are likely to be wrong.
-
-#### AI tools search under the streetlight.
-
-- When predictive AI is built using one population but is used on another, claims about how well it performs are based on insufficient evidence.
+- When predictive AI is built using one population but used on another whose characteristics differ, its decisions are likely to be wrong and claims about how well it performs rest on insufficient evidence.
 
 #### Predictive AI Exacerbates Existing Inequalities
 
@@ -103,6 +100,8 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 - Five reasons predictive AI fails
 
+### Chapter 3 Why Can’t AI Predict the Future?
+
 #### Getting Specific
 
 - we only care about how good a prediction is in relation to what can be done using that prediction.
@@ -116,7 +115,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 - Much more common than large shocks are small initial advantages that are compounded over time.
 
-### 4. The Long Road to Generative AI
+### Chapter 4 The Long Road to Generative AI
 
 - we should start our discussion of generative AI by acknowledging that though it is a polarizing topic, the technology is powerful and the advances are real.
 - When a chatbot claims to be sentient, it is simply parroting and remixing text on the internet about sentient AI, usually from the realm of fiction.
@@ -173,6 +172,8 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 - The most serious harm from generative AI, in our view, is the labor exploitation that is at the core of the way it is built and deployed today.
 - Realistically, however, we think collective action can be more fruitful than individual resistance.
 
+### Chapter 5 Is Advanced AI an Existential Threat?
+
 #### What Do the Experts Think?
 
 - we think AGI is a long-term prospect, and that society already has the tools to address its risks calmly.
@@ -196,11 +197,10 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 - In other words, completing even basic tasks autonomously and usefully in the real world requires common sense, good judgment, the ability to question goals and subgoals, and a refusal to interpret commands literally.
 - Unlike chatbots, advanced AI can’t be trained on text from the internet and then let loose. That would be like expecting to read a book about biking and then be able to ride a bike.
-- We should be far more concerned about what people will do with AI than with what AI will do on its own.
+- We should be far more concerned about what people will do with AI than with what AI will do on its own—the biggest risks to humanity will arise from people misusing it, not from AI going rogue.
 
 #### A Better Approach: Defending against Specific Threats
 
-- we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue.
 - Keeping AI out of bad actors’ hands won’t work. “Aligning” AI so that it refuses to help bad actors won’t work. Instead, we need to defend against specific threats.
 
 #### Concluding Thoughts
@@ -209,7 +209,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 ### Chapter 6 WHY CAN’T AI FIX SOCIAL MEDIA?
 
-- the futility of trying to automate one’s way through these political issues.
+- Because social media is a site of political contestation, policymaking will remain an extremely challenging aspect of content moderation and AI has no role in this essentially human activity—trying to automate one’s way through these political issues is futile.
 
 #### When Everything Is Taken Out of Context
 
@@ -232,7 +232,6 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 #### Recap: Seven Shortcomings of AI for Content Moderation
 
 - The fact that the world changes over time is an intrinsic barrier to the effectiveness of the AI techniques used in content moderation: machine learning and fingerprint matching.
-- Policymaking will remain an extremely challenging aspect of content moderation because social media is a site of political contestation. AI has no role in this essentially human activity.
 
 #### A Problem of Their Own Making
 
@@ -251,19 +250,18 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 - the Gartner hype cycle is not a good way to track the adoption and usefulness of AI. Technologies rarely evolve per the hype cycle.
 - the hype cycle has no way to account for unsuccessful technologies
-- The inadequacy of the Gartner hype cycle is even more sharply apparent when it comes to AI, because AI is an over arching term for many different technologies.
+- A familiar error is not acknowledging the umbrella nature of the term AI—predictive AI, generative AI, and content moderation AI are all clubbed together—which is also why the inadequacy of the Gartner hype cycle is even more sharply apparent when it comes to AI.
 
 #### The AI Community Has a Culture and History of Hype
 
 - The alternating winters and springs show that the history of AI is littered with overoptimism about its capabilities and utility.
 - Instead of scientific explanations for why AI works well, the community focuses primarily on improving the performance of AI on benchmark datasets. This makes sense given the funding and influence from the industry.
-- Researchers also misuse language to imply that AI tools perform better than they actually do … when the only evidence is on a benchmark dataset instead of evaluations in the real world.
+- Researchers misuse language to imply that AI tools perform better than they actually do when the only evidence is a benchmark dataset instead of evaluation in the real world, and even without fudged accuracy measurements, benchmark performance overestimates real-world usefulness, which is a different thing entirely.
 - This culture is exemplified by a dismissive attitude toward domain experts that many AI researchers and developers hold.
 
 #### Companies Have Few Incentives for Transparency
 
 - It is no surprise that when AI companies have skin in the game, they put their business interests above transparency.
-- Even when companies do not fudge accuracy measurements, performance on a benchmark dataset overestimates the usefulness of AI in the real world, because real-world utility is a different thing from benchmark performance.
 
 #### The Reproducibility Crisis in AI Research
 
@@ -279,7 +277,6 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 #### Public Figures Spread AI Hype
 
 - If we lack a scientific understanding of some aspects of AI, it’s because we’ve invested too little in researching it compared to the investment in building AI.
-- the familiar error of not acknowledging the umbrella nature of the term AI. That is, predictive AI, generative AI, and content moderation AI are all clubbed together.
 
 #### Cognitive Biases Lead Us Astray
 
@@ -291,15 +288,14 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 - confirmation bias: our tendency to seek out information that justifies our beliefs instead of challenging them.
 - quantification bias. We tend to overvalue quantitative evidence to the detriment of qualitative or contextual evidence about an application.
 
-#### Chapter 8 WHERE DO WE GO FROM HERE?
+### Chapter 8 WHERE DO WE GO FROM HERE?
 
 - Most AI research until recently was open, built on public knowledge, and shared widely. But the trend has reversed in the last few years.
 - If we keep going down the path of AI as almost entirely private and profit driven rather than guided by public interest, the risks are clear. But there’s still room for change.
-- We must first recognize that much of the downside of AI comes down to factors outside the technology itself—like the incentives of the institutions that use AI.
+- Much of the downside of AI comes down to factors outside the technology itself—the misguided incentives of the institutions that adopt it, disproportionately those that are underfunded or cannot effectively perform their roles, the institutions we call “broken.”
 
 #### AI Snake Oil Is Appealing to Broken Institutions
 
-- The demand for AI snake oil here isn’t primarily about AI—it’s about the misguided incentives of the institutions that adopt it, disproportionately those that are underfunded or cannot effectively perform their roles, the institutions we call “broken.”
 - it is clear that AI isn’t the solution to the root problem that it is trying to fix. Yet, the logic of efficiency is entrenched in these institutions, and AI can seem like a silver bullet, even if it is snake oil.
 
 #### Embracing Randomness
@@ -315,12 +311,8 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 #### AI and the Future of Work
 
 - Professional benchmarks overemphasize subject-matter knowledge to the exclusion of almost all other aspects of doing a job.
-- Historically, it is rare for a job category to be replaced entirely by technology
+- AI mainly automates tasks, not jobs; historically it is rare for a job category to be replaced entirely by technology.
 - The role of unions and workers’ collectives will become more important as AI changes the power balance between labor and capital in more and more areas.
-
-#### Growing Up with AI in Maya’s World
-
-- AI mainly automates tasks, not jobs,
 
 ### Epilogue to the Paperback Edition
 
