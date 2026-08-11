@@ -339,6 +339,11 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 ## Raw notes
 
+<details>
+<summary>
+<h2>Raw notes</h2>
+</summary>
+<div markdown="1">
 ### Preface to the Paperback Edition
 
 - To be clear, we don’t hesitate to call a spade a spade and a sham a sham in the book. But we try hard to avoid sweeping generalities about AI.
@@ -903,3 +908,5 @@ inherently limited.
 - So far, the most credible concern about AI and the environment is not its global footprint, but rather the fact that building new data centers tends to have highly localized impacts, putting heavy demands on specific regions and communities due to their high energy and water consumption.
 - **we don’t think there will be drop-in AI replacements for human workers any time soon. That’s because most jobs are bundles of many varied tasks.**
 - **When a job requires being embedded in an organization and having deep contextual awareness to complete many interlinked tasks, automation isn’t nearly so simple.**
+</div>
+</details>
