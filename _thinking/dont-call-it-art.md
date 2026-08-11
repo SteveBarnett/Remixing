@@ -3,7 +3,7 @@ layout: page
 title: Don't Call It Art
 notes: true
 added: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 ---
 
 Notes from [Don't Call It Art by Austin Kleon](https://austinkleon.com/dont-call-it-art/).
@@ -34,12 +34,22 @@ Notes from [Don't Call It Art by Austin Kleon](https://austinkleon.com/dont-call
 - **What we learn on our own goes deeper and sticks with us longer than what we've been taught.**
 - When we're forced to learn things on our own, we make our own discoveries.
 
-### Don't Take Things too Seriously
+### 2. Don't Take Things too Seriously
 
 #### Pretend It's A Comedy
 
-- "One of the symptoms of approaching nervous breakdown is the belief that one's work is terribly important." - Bertrand Russell
+- **"One of the symptoms of approaching nervous breakdown is the belief that one's work is terribly important." - Bertrand Russell**
 - "Whatever inspiration is," said the poet Wisława Szymborska, "it's born from a continuous 'I don't know'"
 - Anyone who's spent time with little kids knows that **if they ask you "Why?" more than two or three times–which they will!–the world suddenly becomes very strange and unknown to you.**
 - "The 'silly question' is the first intimation of some totally novel development." - Alfred North Whitehead
 - The Five Whys (lead to) The universe becomes mysterious
+
+### 3. Give Yourself Time, Space, and Materials
+
+- **Make a space. Fill it with materials. Find time to go there.**
+- **I schedule playtime for myself.**
+- It helps to have a space where you can really make a mess, leave it, and come back to it tomorrow.
+- The things we give ourself to play with shape the kinds of ideas we have.
+- We need tools to do work, but we need *toys* to really be at play. **Your tools should feel like toys that you can play with.**
+- ... if you put any old toy away for a while and then bring it back, it becomes a new toy.
+- Nothing makes us want to play like a new toy.
