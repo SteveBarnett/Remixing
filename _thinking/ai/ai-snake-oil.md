@@ -2,7 +2,7 @@
 layout: page
 title: "AI Snake Oil"
 added: 2026-07-10
-updated: 2026-07-21
+updated: 2026-08-11
 ai: true
 ---
 
@@ -362,6 +362,7 @@ inherently limited.
 - it turned out that the same techniques that enabled instruction following in the first place—fine-tuning and reinforcement learning—are also the ones that have been used to train chatbots to reject inappropriate requests. In other words, climbing the latest rung of the ladder and addressing the new safety concerns that arose happened concurrently and relied on the same innovations.
 
 #### A Better Approach: Defending against Specific Threats
+
 - We agree that catastrophic risks from AI are possible and should indeed be taken seriously. But **we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue.**
 - We should assume that bad actors will have access to state-of-the-art AI. They do today.
 - if a government wanted to use AI for cyberwar, they have the resources to train their own;
@@ -379,3 +380,197 @@ inherently limited.
 - AI is a general-purpose technology, and as such it will probably be of some help to those seeking to cause large-scale harm, just as it is useful to everyone else.
 - reframing existing risks as AI risks would be a grave mistake, since trying to fix AI will have only a minimal impact on the real risks.
 - **Existential worries about AI are a form of “criti-hype.”**
+
+### Chapter 6 WHY CAN’T AI FIX SOCIAL MEDIA?
+
+- It’s trauma-inducing work, done by hundreds of thousands of invisible, low-wage workers, mostly in less- affluent countries, working for third-party outsourcing firms rather than directly for platform companies
+- Our larger point, though, isn’t about the politics of content moderation itself but rather about **the futility of trying to automate one’s way through these political issues.**
+
+#### When Everything Is Taken Out of Context
+
+- **Whether or not a piece of content is objectionable often depends on the context. The inability to discern that context remains a major limitation of AI.**
+- **These mistakes happen because AI tools tend to interpret text, speech, or images too literally.**
+- **Accounting for context is an area where we think AI will get a lot better in the next few years or the next decade.**
+- In other words, both over-blocking and under-blocking are common.
+
+#### Cultural Incompetence
+
+- What Facebook and other platforms do when they don’t have moderators speaking local languages is use automatic translation.
+- Since AI companies collect this text primarily by scraping text found online, models don’t yet exist for most of the world’s languages.
+
+#### AI Excels at Predicting … the Past
+
+- There are two flavors of AI that are used in content moderation: fingerprint matching and machine learning.
+- It’s critical to remember that **machine learning doesn’t attempt to evaluate the truth of statements. It simply relies on similarities with statements previously labeled as true or false.**
+
+#### When AI Goes Up against Human Ingenuity
+
+- There is one particularly serious way in which this might happen: people posting the content might actively try to evade content moderation.
+- This may be surprising, but we don’t think law-breaking activity is one of the harder cases for content moderation.
+- not only is the content of unlawful activity fairly distinct, so too are the networks in which the actors are embedded.
+- Ironically, the hardest kind of evasion for platforms to deal with is the unsophisticated kind that’s done by everyday people.
+- In addition, evasion by everyday people happens on a larger scale.
+- algospeak: words or phrases that are widely understood and adopted by social media users as a way to avoid being mistakenly penalized by fickle content moderation algorithms.
+
+#### A Matter of Life and Death
+
+- For regular people, intervention by the platform itself can make a real difference.
+- To train the classifier, Facebook uses a dataset of posts previously flagged by users and labeled by moderators as indicating a risk of imminent suicide or self-injury.
+- When interventions go beyond the platform itself and enter the real world, they have second-order effects that are hard to observe, let alone predict.
+- **even if online suicide detection is more efficient and effective, it is no replacement for government services because it is not accountable to the public.**
+
+#### Now Add Regulation into the Mix
+
+- The law says that platforms can’t be held liable for what people post. So platforms make content moderation decisions based on business considerations:
+- YouTube is the ideal case study for copyright. Unlike most other platforms, YouTube shares ad revenue with content creators. Because of that, it has had by far the biggest copyright violation problem of all the platforms,
+- U.S. copyright law is actually pretty sensitive to the possibility that copyright can be abused. There is a well-developed concept called fair use which allows for satire, commentary, and many other kinds of derivative uses. But all this is far beyond the capabilities of Content ID, and so it doesn’t try to account for fair uses of material.
+
+#### The Hard Part Is Drawing the Line
+
+- **When people complain about content moderation, they’re usually complaining about policies, not enforcement**
+- The human debate and deliberation over policies—more than the policies themselves—is the point. We need more of it, not less.
+- content moderation has many components, and AI has no role in most of them.
+
+#### Recap: Seven Shortcomings of AI for Content Moderation
+
+- Most of these reasons are intrinsic, and we should expect them to continue for the foreseeable future.
+- AI is bad at context and nuance—much worse than human moderators
+- **The fact that the world changes over time is an intrinsic barrier to the effectiveness of the AI techniques used in content moderation: machine learning and fingerprint matching.**
+- **Policymaking will remain an extremely challenging aspect of content moderation because social media is a site of political contestation. AI has no role in this essentially human activity.**
+
+#### A Problem of Their Own Making
+
+- We’re not saying that engineers programmed algorithms to amplify hateful and dangerous content. But they’ve made a series of deliberate design decisions that cumulatively have had this effect.
+- First, **social media algorithms optimize for engagement**: how often we click, like, comment on, or otherwise interact with posts. **But the content we impulsively interact with is not what brings us value.**
+- Mark Zuckerberg once observed that content that is closer to violating content moderation policies is more likely to be engaged with.
+
+#### The Future of Content Moderation
+
+- content moderation is another example of the fact that **failures and limitations of AI have less to do with AI and more to do with the institution adopting it.**
+
+### Chapter 7 WHY DO MYTHS ABOUT AI PERSIST?
+
+- We have seen this story play out countless times: **A company releases a new AI application with much hype but does not disclose how it is trained or what data it uses. Journalists repeat the company’s claims, quote spokespeople, and build on the hype. Even though there is no public evidence that the tool works well, it is quickly adopted in consequential settings based on unverified claims. In many cases, its use continues unchallenged. And when it finally comes under scrutiny, researchers and journalists working to expose its flaws face an uphill battle.**
+- We will go over the major sources of hype: companies, researchers, journalists, and public figures, and see how they exploit cognitive biases to misinform the public.
+- research in AI is facing a crisis of reproducibility.
+- Chronically underfunded news outlets amplify hyped claims by researchers and companies. Journalists often do not have the time or expertise to verify these claims comprehensively, so they churn out lightly edited PR statements as news. And they amplify claims made by public figures, such as public intellectuals and tech CEOs, rather than engaging in grounded discourse.
+- **humans share cognitive biases that make us especially susceptible to hype.**
+
+#### AI Hype Is Different from Previous Technology Hype
+
+- The best known way to track hype in technology is the Gartner hype cycle.
+- **the Gartner hype cycle is not a good way to track the adoption and usefulness of AI. Technologies rarely evolve per the hype cycle.**
+- **the hype cycle has no way to account for unsuccessful technologies**
+- **The inadequacy of the Gartner hype cycle is even more sharply apparent when it comes to AI, because AI is an over arching term for many different technologies.**
+- The trouble with AI hype stems from the mismatch between claims and reality.
+
+#### The AI Community Has a Culture and History of Hype
+
+- **The alternating winters and springs show that the history of AI is littered with overoptimism about its capabilities and utility.**
+- **Instead of scientific explanations for why AI works well, the community focuses primarily on improving the performance of AI on benchmark datasets. This makes sense given the funding and influence from the industry.**
+- **Researchers also misuse language to imply that AI tools perform better than they actually do**—for instance, by implying that they have human-level reading comprehension, **when the only evidence is on a benchmark dataset instead of evaluations in the real world.**
+- **This culture is exemplified by a dismissive attitude toward domain experts that many AI researchers and developers hold.**
+
+#### Companies Have Few Incentives for Transparency
+
+- companies don’t make their models publicly available for scrutiny, arguing that they are trade secrets.
+- **It is no surprise that when AI companies have skin in the game, they put their business interests above transparency.**
+- **Even if companies do not fudge accuracy measurements, performance on benchmark datasets overestimates the usefulness of AI in the real world.**
+- **Real-world utility is different from good performance on a benchmark.**
+
+#### The Reproducibility Crisis in AI Research
+
+- **The error is known as leakage, and it violates a cardinal rule of AI: never test on the training data**.
+- a great deal of AI-based research is at the whim and mercy of companies.
+
+#### News Media Misleads the Public
+
+- **Rather than providing nuanced analyses, many news reports focus on flashy advances enabled by AI with no mention of their limitations.**
+- **We saw that news articles uncritically repeat PR statements of research, overuse images of robots, attribute agency to AI, and downplay its limitations.**
+- most AI today is used to detect patterns in data. It’s more like Microsoft Excel than the Terminator.
+- **It is common for news stories to rehash the points made by company spokespeople.**
+- **developers make their accuracy numbers look good by simply changing the metric they are evaluated**
+- Researchers and university press departments are incentivized to get their research in front of as many people as possible, and end up spreading hype in the process.
+- **In civil war prediction, peace observations are much more likely than observations of war. So, a model can have 99 percent accuracy just by predicting there will be peace all the time.**
+- There are many underlying reasons for hype in AI journalism. The leading one is the financial strain that the media is under.
+- **For an overworked journalist who doesn’t have the time to dive deep and wants to maintain good relationships with companies, it can be tempting to lightly edit a press release and hit publish.**
+
+#### Public Figures Spread AI Hype
+
+- the authors are seen by the public as experts. So, when they are the ones spreading hype, it is doubly damaging.
+- **If we lack a scientific understanding of some aspects of AI, it’s because we’ve invested too little in researching it compared to the investment in building AI.**
+- the most important questions about AI are not about its internals.
+- what is needed is information about how predictions by the model turned out.
+- The book also makes **the familiar error of not acknowledging the umbrella nature of the term AI. That is, predictive AI, generative AI, and content moderation AI are all clubbed together.**
+- Feel-good interventions like hitting the pause button distract from these difficult policy debates.
+- We recognize the need to think about the long-term impact of AI. But these worries have diverted resources from real, pressing AI risks.
+
+#### Cognitive Biases Lead Us Astray
+
+- if the public evaluated these claims critically, the conversation around AI could be much more grounded. But to do so requires background knowledge that most people lack.
+- The parties responsible for AI hype can, knowingly or not, rely on these biases to spread their message.
+- **The illusion of explanatory depth is a cognitive bias where individuals believe they understand complex concepts more deeply than they actually do.**
+- **the halo effect—our tendency to judge a product or technology based on a few select examples.**
+- **priming: when past exposure to a concept leads to overemphasizing its importance in future decisions.**
+- **the illusory truth effect, which leads us to believe misinformation when it is repeated.**
+- **Anchoring bias refers to the fact that individuals rely heavily on the first piece of information encountered when forming opinions or making decisions.**
+- **confirmation bias: our tendency to seek out information that justifies our beliefs instead of challenging them.**
+- **quantification bias. We tend to overvalue quantitative evidence to the detriment of qualitative or contextual evidence about an application.**
+
+#### Chapter 8 WHERE DO WE GO FROM HERE?
+
+- this impact isn’t inevitable, nor is its trajectory predefined.
+- **Most AI research until recently was open, built on public knowledge, and shared widely. But the trend has reversed in the last few years.**
+- In predictive AI, things are worse. Many predictive AI tools don’t work at all, and yet they are sold with the promise of accuracy, fairness, and efficiency
+- **If we keep going down the path of AI as almost entirely private and profit driven rather than guided by public interest, the risks are clear. But there’s still room for change.**
+- **We must first recognize that much of the downside of AI comes down to factors outside the technology itself—like the incentives of the institutions that use AI.**
+
+#### AI Snake Oil Is Appealing to Broken Institutions
+
+- **The demand for AI snake oil here isn’t primarily about AI—it’s about misguided incentives in the failing institutions that adopt them.**
+- In other words, **dubious AI is disproportionately adopted by institutions that are underfunded or cannot effectively perform their roles. These are the institutions we call “broken.”**
+- When AI companies sell their products to these organizations, one of their main promises is efficiency: by removing humans from the process of decision-making, they can lower costs.
+- In all these examples, **it is clear that AI isn’t the solution to the root problem that it is trying to fix. Yet, the logic of efficiency is entrenched in these institutions, and AI can seem like a silver bullet, even if it is snake oil.**
+
+#### Embracing Randomness
+
+- **When there are multiple valuable goals that can’t be accurately quantified relative to each other, optimization can backfire badly.**
+- **We can aim to find strategies or policies that achieve modest efficiency gains while being simple enough to understand—both for decision-makers and decision subjects.**
+- Especially in the face of resource scarcity, partial lotteries offer a decision-making mechanism that reduces rich-get-richer feedback loops, helps us acknowledge the role of randomness in decision-making systems, reduces wasted time and effort in applications, and allows us to study the effects of decisions.
+
+#### Regulation: Cutting through the False Dichotomy
+
+- Many people have an instinctive negative reaction to the word “regulation.”
+- Others see regulation as a panacea for broadly addressing the ills of society.
+- When companies have no incentive to address the harms brought about by their business, regulation is essential.
+- **Another myth is that tech regulation is hopeless because policymakers don’t understand technology. In reality, policymakers aren’t experts in any of the domains they legislate.**
+- **The fact is that policymakers don’t need domain expertise. They delegate all the details to experts who work at various levels of government and in various branches.**
+- even in a fast-moving space like AI, most of what is needed is the enforcement of existing regulations rather than the creation of new regulations
+
+#### Limitations of Regulation
+
+- regulatory capture: when a regulator is co-opted to serve a company’s interests rather than the public’s.
+- Regulatory capture happens when regulators are either misinformed or lack the resources and funding to function independently of the companies they are regulating. So, the best way to avoid regulatory capture is to strengthen existing regula tors and provide them with the funding and resources to operate independently.
+
+#### AI and the Future of Work
+
+- **Professional benchmarks overemphasize subject-matter knowledge to the exclusion of almost all other aspects of doing a job.**
+- **Historically, it is rare for a job category to be replaced entirely by technology**
+- In a conversation about the future of AI, science fiction author Ted Chiang said, “Fears about technology are fears about capitalism.”46 In other words, workers aren’t afraid of technical advances themselves; rather, they are afraid of how AI would be used by employers and companies to reduce workers’ power and agency in the workplace.
+- **The role of unions and workers’ collectives will become more important as AI changes the power balance between labor and capital in more and more areas.**
+
+#### Growing Up with AI in Kai’s World
+
+...
+
+#### Growing Up with AI in Maya’s World
+
+- Interoperability requirements are a light-touch form of regulation aimed at enabling the market to function more efficiently.
+- **AI mainly automates tasks, not jobs,**
+
+### Epilogue to the Paperback Edition
+
+- The cost of generating a unit of output is falling, but the amount of hidden output that tends to be generated for each response is increasing, and AI is being used for more complex tasks.
+- So far, the most credible concern about AI and the environment is not its global footprint, but rather the fact that building new data centers tends to have highly localized impacts, putting heavy demands on specific regions and communities due to their high energy and water consumption.
+- **we don’t think there will be drop-in AI replacements for human workers any time soon. That’s because most jobs are bundles of many varied tasks.**
+- **When a job requires being embedded in an organization and having deep contextual awareness to complete many interlinked tasks, automation isn’t nearly so simple.**
