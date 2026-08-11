@@ -14,6 +14,7 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
+- Prepare for little AI talk at Team Day on Fri 21
 - Prepare for "Nail Your Intro" on Tue 25
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
