@@ -31,6 +31,7 @@
 
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
+- ➙ Dig through old materials for new ideas
 - Sketch Sox
 - Piranesi watercolours
 - Next puzzle!
