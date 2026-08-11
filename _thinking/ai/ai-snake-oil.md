@@ -18,10 +18,9 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 ### Chapter 1 INTRODUCTION
 
-- It’s hard to predict the future, and AI doesn’t change this fact.
+- Predictive AI not only does not work today but will likely never work, because it’s hard to predict human behavior and the future, and AI doesn’t change that fact.
 - This will make you read news about AI much more skeptically and with an eye toward details that often get buried.
 - A deeper understanding of AI will both satisfy your scientific curiosity and translate into practical ideas on how to use—and when not to use—AI in your life and career.
-- predictive AI not only does not work today but will likely never work, because of the inherent difficulties in predicting human behavior.
 
 #### The Dawn of AI as a Consumer Product
 
@@ -67,15 +66,13 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 #### Predictive AI Makes Life-Altering Decisions
 
 - This type of algorithm, in which the rules are developed manually but applied automatically, is commonly employed
-- increasingly, algorithms are used to develop the rules automatically from patterns in past data.
-- the rules are both developed and applied automatically. This kind of algorithm is called a model
+- Increasingly, algorithms are used to develop the rules automatically from patterns in past data as well as apply them, and an algorithm whose rules are both developed and applied automatically is called a model.
 - predictive AI: models used for decision-making based on predictions about the future, such as who will do well at a job or who will pay back a loan.
 - an assumption built into much of predictive AI: people with similar characteristics will behave similarly in the future.
 
 #### A Good Prediction Is Not a Good Decision
 
-- a fundamental limitation of much of predictive AI: AI can make good predictions if nothing else changes.
-- predictive AI does not account for the impact of its own decisions.
+- A fundamental limitation of much of predictive AI is that it can make good predictions only if nothing else changes, because it does not account for the impact of its own decisions.
 
 #### Opaque AI Incentivizes Gaming
 
@@ -100,8 +97,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### A World without Prediction
 
-- they can’t stand the thought of the alternative to this way of decision-making—that is, acknowledging that the future cannot be predicted.
-- the discomfort we experience with randomness can lead to a search for patterns where none exist.
+- The discomfort we experience with randomness—the inability to stand the thought that the future cannot be predicted—leads us to search for patterns where none exist.
 
 #### Concluding Thoughts
 
@@ -146,8 +142,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 - deep learning makes it possible to apply the same learning algorithm to many different tasks.
 - The fact that the weights of the trained model correspond to visual concepts is a consequence of the training data, not the algorithm.
 - here’s the big reveal—all modern chatbots are actually trained simply to predict the next word in a sequence of words.
-- It instead performs an absurdly large number of calculations to determine what the first word in the response should be.
-- we cannot stress enough how computationally expensive all this is. To generate a single token—part of a word—ChatGPT has to perform roughly a trillion arithmetic operations.
+- Generating a response is enormously expensive computationally: an absurdly large number of calculations just to determine the first word, and roughly a trillion arithmetic operations for every token—part of a word—that ChatGPT produces.
 
 #### From Models to Chatbots
 
@@ -187,8 +182,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### The Ladder of Generality
 
-- Most human knowledge is tacit and cannot be codified.
-- much expert knowledge is tacit and cannot be easily written out as rules.
+- Most human knowledge, including much expert knowledge, is tacit: it cannot be codified or easily written out as rules.
 
 #### What’s Next on the Ladder?
 
@@ -269,8 +263,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 #### Companies Have Few Incentives for Transparency
 
 - It is no surprise that when AI companies have skin in the game, they put their business interests above transparency.
-- Even if companies do not fudge accuracy measurements, performance on benchmark datasets overestimates the usefulness of AI in the real world.
-- Real-world utility is different from good performance on a benchmark.
+- Even when companies do not fudge accuracy measurements, performance on a benchmark dataset overestimates the usefulness of AI in the real world, because real-world utility is a different thing from benchmark performance.
 
 #### The Reproducibility Crisis in AI Research
 
@@ -278,9 +271,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### News Media Misleads the Public
 
-- Rather than providing nuanced analyses, many news reports focus on flashy advances enabled by AI with no mention of their limitations.
-- We saw that news articles uncritically repeat PR statements of research, overuse images of robots, attribute agency to AI, and downplay its limitations.
-- It is common for news stories to rehash the points made by company spokespeople.
+- Rather than providing nuanced analyses, news reports uncritically repeat companies’ PR statements and rehash the points made by their spokespeople, focus on flashy advances, overuse images of robots, attribute agency to AI, and downplay its limitations.
 - developers make their accuracy numbers look good by simply changing the metric they are evaluated
 - In civil war prediction, peace observations are much more likely than observations of war. So, a model can have 99 percent accuracy just by predicting there will be peace all the time.
 - For an overworked journalist who doesn’t have the time to dive deep and wants to maintain good relationships with companies, it can be tempting to lightly edit a press release and hit publish.
@@ -308,8 +299,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 #### AI Snake Oil Is Appealing to Broken Institutions
 
-- The demand for AI snake oil here isn’t primarily about AI—it’s about misguided incentives in the failing institutions that adopt them.
-- dubious AI is disproportionately adopted by institutions that are underfunded or cannot effectively perform their roles. These are the institutions we call “broken.”
+- The demand for AI snake oil here isn’t primarily about AI—it’s about the misguided incentives of the institutions that adopt it, disproportionately those that are underfunded or cannot effectively perform their roles, the institutions we call “broken.”
 - it is clear that AI isn’t the solution to the root problem that it is trying to fix. Yet, the logic of efficiency is entrenched in these institutions, and AI can seem like a silver bullet, even if it is snake oil.
 
 #### Embracing Randomness
@@ -334,8 +324,7 @@ Notes from [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249
 
 ### Epilogue to the Paperback Edition
 
-- we don’t think there will be drop-in AI replacements for human workers any time soon. That’s because most jobs are bundles of many varied tasks.
-- When a job requires being embedded in an organization and having deep contextual awareness to complete many interlinked tasks, automation isn’t nearly so simple.
+- We don’t think there will be drop-in AI replacements for human workers any time soon, because most jobs are bundles of many varied, interlinked tasks that require being embedded in an organization with deep contextual awareness.
 
 ## Raw notes
 
