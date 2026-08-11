@@ -33,6 +33,7 @@
 - ➙ Elden Water
 - ➙ Dig through old materials for new ideas
 - Sketch Sox
+- Vermis watercolour
 - Piranesi watercolours
 - Next puzzle!
 - Next Nihongo resource: listening focus
