@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2026-08-08
+updated: 2026-08-11
 permalink: /thinking/map/
 ---
 
@@ -89,7 +89,7 @@ Memory 7-reminder: mirror, bobby hat, with pearl instead of badge, side-eye, thr
 - Taking care of suffering: **[Polopposit](/thinking/polopposits/)**
     - Stay with the pain long enough to learn something
     - Come as close to the discomfort as is possible
-- 🆕 Somatic: hand-holdster
+- 🆕 Somatic: hand-holdster, material mirror metta
     - Paired with something
 
 ## Hats
