@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Work: sort-of retro: one week heavily using AI"
+ai: true
 added: 2026-08-08
 updated: 2026-08-09
 ---
