@@ -14,6 +14,7 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
+- ➙ Update Seek, etc.
 - Revisit union notes
 - Prepare for little AI talk at Team Day on Fri 21
 - Prepare for "Nail Your Intro" on Tue 25
