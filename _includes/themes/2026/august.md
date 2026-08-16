@@ -55,4 +55,4 @@ Just just sitting.
 - ✔ ~~[Gather up July writing](/thinking/july-writing-and-thinking-round-up/)~~
 - ✔ ~~Do a Care &times; Peace matrix, for each Gate~~
 
-Archives: [month 08](/2026/08/); [week 31](/2026/week/31/).
+Archives: [month 08](/2026/08/); [week 31](/2026/week/31/); [week 32](/2026/week/32/); [week 33](/2026/week/33/).
