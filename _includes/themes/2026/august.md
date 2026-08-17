@@ -14,30 +14,30 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
-- ➙ Update Seek, etc.
-- Revisit union notes
-- Prepare for little AI talk at Team Day on Fri 21
 - Prepare for "Nail Your Intro" on Tue 25
+- Revisit union notes
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
-- Monthly CV update (Mon 17)
-- Monthly work blog post (Mon 17)
 - Revisit running a local model
+- ✔ ~~Update Seek, etc.~~
+- ✔ ~~Monthly CV update (Mon 17)~~
+- ✗ ~~Monthly work blog post (Mon 17)~~
 
 <h4>Health</h4>
 
 - ➙ The Triple Gym (ahem): \*pack
-- Makko-ho for Brain-go
+- ✗ ~~Makko-ho for Brain-go~~
 
 <h4>Interests</h4>
 
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
     - ➙ Scan and upload first batch(es)
+- Sketch Sox
 - Lighting in the lounge
 - Reposition plants
 - Dig through old materials for new ideas
-- Sketch Sox
+- Elden Waterthrough (from Fri 28)
 - Vermis watercolour
 - Piranesi watercolours
 - Next puzzle!
