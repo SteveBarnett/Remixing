@@ -22,6 +22,7 @@
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
 - Monthly CV update (Mon 17)
 - Monthly work blog post (Mon 17)
+- Revisit running a local model
 
 <h4>Health</h4>
 
@@ -32,7 +33,10 @@
 
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
-- ➙ Dig through old materials for new ideas
+    - ➙ Scan and upload first batch(es)
+- Lighting in the lounge
+- Reposition plants
+- Dig through old materials for new ideas
 - Sketch Sox
 - Vermis watercolour
 - Piranesi watercolours
@@ -46,10 +50,11 @@
 Just just sitting.
 
 - ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
-- ➙ Seek for O: categories, etc.
-- Tiny sits: Astin on Waking Up
+- ➙ Kindle screensaver
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
+- ✗ ~~Tiny sits: Astin on Waking Up~~
+- ✔ ~~Seek for O: categories, etc.~~
 - ✔ ~~Consider writing some gathas, for a handful of specific actions, samu~~
 - ✗ ~~Figure out GMZ this month~~
 - ✔ ~~[Gather up July writing](/thinking/july-writing-and-thinking-round-up/)~~
