@@ -14,6 +14,7 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
+- ➙ Prepare "portfolio"
 - Prepare for "Nail Your Intro" on Tue 25
 - Revisit union notes
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
@@ -33,7 +34,7 @@
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Elden Water
     - ➙ Scan and upload first batch(es)
-- Sketch Sox
+- ➙ Sketch Sox
 - Lighting in the lounge
 - Reposition plants
 - Dig through old materials for new ideas
@@ -50,7 +51,7 @@
 Just just sitting.
 
 - ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
-- ➙ Kindle screensaver
+- Kindle screensaver
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
 - ✗ ~~Tiny sits: Astin on Waking Up~~
