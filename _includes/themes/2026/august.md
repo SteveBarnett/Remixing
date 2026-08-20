@@ -14,8 +14,8 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
-- ➙ Prepare "portfolio"
-- Prepare for "Nail Your Intro" on Tue 25
+- Prepare "portfolio"
+- ➙ Prepare for "Nail Your Intro" on Tue 25
 - Revisit union notes
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
@@ -32,28 +32,28 @@
 <h4>Interests</h4>
 
 - ➙ Continue the [Japlanning](/japan/plan/)
-- ➙ Elden Water
-    - ➙ Scan and upload first batch(es)
-- ➙ Sketch Sox
-- Lighting in the lounge
+- ➙ Lighting in the lounge
+- Sketch Sox
 - Reposition plants
 - Dig through old materials for new ideas
 - Elden Waterthrough (from Fri 28)
-- Vermis watercolour
-- Piranesi watercolours
 - Next puzzle!
 - Next Nihongo resource: listening focus
     - See [my bookmarks](https://pinboard.in/u:maxbarners/t:traveljapanese/)
+- ✗ ~~Vermis watercolour~~
+- ✗ ~~Piranesi watercolours~~
+- ✔ ~~Elden Water~~
+    - ✔ ~~Scan and upload first batch(es)~~
 - ✔ ~~Add some recent art~~
 
 <h4>Practice</h4>
 
 Just just sitting.
 
-- ➙ い(ただきます) / ご(ちそうさまでした), 🌅/☀️/🌃
-- Kindle screensaver
+- ➙ い / ご, 🌅/☀️/🌃
 - Care check-up for focus items
 - Revisit current using MAP, especially for Yield and Acceptance
+- ✔ ~~Kindle screensaver~~
 - ✗ ~~Tiny sits: Astin on Waking Up~~
 - ✔ ~~Seek for O: categories, etc.~~
 - ✔ ~~Consider writing some gathas, for a handful of specific actions, samu~~
