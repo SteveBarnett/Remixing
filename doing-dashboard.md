@@ -1,11 +1,9 @@
-Generate screenshot: 
+---
+layout: theme-now
+title: Doing
+class: dashboard
+---
 
-```
-npx playwright screenshot --viewport-size=1448,1072 "file://$(PWD)/_site/doing/index.html" doing-raw.png
-```
+{% assign currentMonth = site.time | date: "%B" %}
 
-Convert to kindle-friendly and remove raw
-
-```
-magick doing-raw.png -rotate 90 -colorspace Gray -depth 8 -colors 16 -dither None -strip -interlace none -define png:color-type=0 assets/doing.png && rm doing-raw.png
-```
+{% include themes/2026/{{ currentMonth | downcase }}.md %}

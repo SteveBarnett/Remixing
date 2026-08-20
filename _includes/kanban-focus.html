@@ -56,5 +56,22 @@
 
     strays.forEach(stray => stray.remove());
 
+
+    // snip out arrows
+    // const doingItems = document.querySelectorAll('main li');
+
+    document.querySelectorAll('main ul').forEach(list => {
+      const walker = document.createTreeWalker(list, NodeFilter.SHOW_TEXT);
+      let node;
+      while ((node = walker.nextNode())) {
+        node.nodeValue = node.nodeValue.replace(/➙/g, '');
+      }
+    });
+
+    const isDash = document.querySelector('html').classList.contains('dashboard');
+    if(isDash) {
+      document.querySelector('h4 + ul').remove();
+      document.querySelector('h4').remove();
+    }
   })();
 </script>
