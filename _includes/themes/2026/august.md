@@ -2,7 +2,7 @@
 
 - Events in August
     - ✔ ~~Wed 5: Top Dog Film Festival~~
-    - Fri 21: You Should Be Dancing
+    - ✔ ~~Fri 21: You Should Be Dancing~~
     - Tue 25: Nail Your Intro
 - ➙ Sub-theme: **Peace (with problems)**.
     - ➙ **Problems as practice support**
@@ -14,12 +14,13 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
+- ➙ Discuss adding local models to evals
+- Revisit running a local model
 - Prepare "portfolio"
-- ➙ Prepare for "Nail Your Intro" on Tue 25
 - Revisit union notes
 - [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
-- Revisit running a local model
+- ✔ ~~Prepare for "Nail Your Intro" on Tue 25~~
 - ✔ ~~Update Seek, etc.~~
 - ✔ ~~Monthly CV update (Mon 17)~~
 - ✗ ~~Monthly work blog post (Mon 17)~~
@@ -33,9 +34,9 @@
 
 - ➙ Continue the [Japlanning](/japan/plan/)
 - ➙ Lighting in the lounge
-- Sketch Sox
+- ➙ Dig through old materials for new ideas
 - Reposition plants
-- Dig through old materials for new ideas
+- Sketch Sox
 - Elden Waterthrough (from Fri 28)
 - Next puzzle!
 - Next Nihongo resource: listening focus
