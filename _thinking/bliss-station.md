@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Build a Bliss Station (from Keep Going)
-ai: true
+notes: true
 added: 2026-08-21
 updated: 2026-08-21
 ---
