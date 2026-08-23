@@ -1,22 +1,30 @@
 ---
 title: Art Archive
+year: 2026
 ---
 {% include header.html %}
 
-  {% assign sortedart = site.art | reverse %}
-  {%- for thing in sortedart -%}
-    <h2 id="{{ thing.slug }}"><a href="{{ thing.url }}">{{ thing.title }}</a></h2>
-      <ul role="list" class="art">
-      {%- for note in site.static_files -%}
-        {%- if note.path contains thing.url -%}
-        <li role="listitem">
-          <a href="{{ note.path }}">
-            {{- note.basename -}}
-          </a>
-        </li>
-        {%- endif -%}
-      {%- endfor -%}
-      </ul>
+{% for art in site.data.art2026 %}
+
+<h2><a href="/art/{{ page.year }}/{{ page.year }}-{{art.month}}-{{ art.name | slugify }}/">{{ page.year }}-{{art.month}} {{ art.name }}</a></h2>
+
+<ul role="list" class="art">
+
+{% assign artitem = page.year | append: '-' | append: art.month | append: '-' | append: art.name | slugify %}
+{% assign artfiles = site.static_files | where: "art2026", true %}
+
+  {%- for artfile in artfiles -%}
+    {%- if artfile.path contains artitem -%}
+    <li role="listitem">
+      <a href="{{ artfile.path }}">
+        {{- artfile.basename -}}
+      </a>
+    </li>
+    {%- endif -%}
   {%- endfor -%}
+
+</ul>
+
+{% endfor %}
 
 {% include footer.html %}
