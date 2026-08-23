@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Internal Perfectionist Anxiety Habits
+title: "Internal Perfectionist Anxiety Habits (aka PRC: Prompts, Removals, Celebrations)"
 longerform: true
 added: 2025-06-19
-updated: 2025-06-28
+updated: 2026-07-27
 ---
 
 Bringing together and mashing up some IFS bits, Perfectionist bits, Performance Anxiety, and Tiny Habits / Atomic Habits / Switch.
@@ -21,6 +21,8 @@ Next: application ideas, given The First Step / [Binary flip-flopping](/thinking
 - Before the first step
 - After the first step
 - After several steps?
+
+For "Remove fear and demotivators": in particular, "hiding the bad stuff".
 
 ### From older Practice notes
 
