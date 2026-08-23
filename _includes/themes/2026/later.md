@@ -10,7 +10,6 @@
         - Spreading the time adds a context-switching tax
         - Deep work, attention residue, etc.
     - Gather examples of prompting AI with something null or zero
-    - Update CV
     - Big Influence summary
     - DADG: can we get funding from someone for an interpreter when needed?
 - Health
@@ -21,23 +20,18 @@
     - Watercolour abstract: stokes, the outline the strokes
     - Photo: waves as sky
     - Nut Butter Bonanza
-    - Lamps, low lighting, for big room
-    - House plant positioning remix
     - Lay out back garden plants
     - Learn to sew
     - Write: the importance of multimodality
     - Foodist plate &times; bento box / Japanese meal
     - Another SDC, especially stationery
-    - Piranesi tiny sketches
     - Visit local library
     - Rot, decay, mushrooms - but as process
     - Tiny maps project
     - More ambient Ableton
-    - tiny eink display research
     - Learn to play Go
     - Something like a Triomenos set
     - Make a reusable Musicians of Bremen set
-    - Few new things from Korean Banchan Recipes book
     - Note down Improv Wellington
     - Tidy up (esp. archives) to make revisiting easier
     - Pick up learning piano again
@@ -46,11 +40,18 @@
         - RTC flowers
         - Plant my wildflowers
     - Seigaiha printer art
-    - Kintsugi
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
-    - Make my own styles for md-to-html
+    - Media
+        - Switch
+            - Elden Ring: Tarnished Edition (XL)
+            - Ooblets (M)
+            - Monster Hunter Stories 2 (L)
+            - Persona 5 Royal (XL)
+        - PS5
+            - Cairn DLC
+            - Clair Obscur again
+            - Lies of P again (?)
 - Practice
-    - VA: Care check-up for VHIP
     - Consider where generosity (dana) is missing
         - material support, protection, teaching
     - Consider writing some gathas, for a handful of specific actions, samu
@@ -61,7 +62,6 @@
     - Scribble out routine(s)
         - Silly start(ing ritual)?
         - Clear first step
-    - Write about sangha resistance
     - Write about Urban Sketching resistance
     - Write about "Steady" as a value
     - Write about dancing in practice
