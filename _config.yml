@@ -21,6 +21,34 @@ defaults:
       category: thinking
     values:
       layout: focus
+  - scope:
+      path: "art/2026"
+    values:
+      art2026: true
+  - scope:
+      path: "art/2025"
+    values:
+      art2025: true
+  - scope:
+      path: "art/2024"
+    values:
+      art2024: true
+  - scope:
+      path: "art/2023"
+    values:
+      art2023: true
+  - scope:
+      path: "art/2022"
+    values:
+      art2022: true
+  - scope:
+      path: "art/2021"
+    values:
+      art2021: true
+  - scope:
+      path: "art/2020"
+    values:
+      art2020: true
 
 exclude:
     - art-originals
