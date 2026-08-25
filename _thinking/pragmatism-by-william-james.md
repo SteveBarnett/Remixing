@@ -20,6 +20,7 @@ My take before reading this: Pragmatism is "less 'is this true?' and more 'is it
     - talks about truths (plural)
     - their utility and satisfactoriness, the success with which they ‘work’
     - is flexible and open: any evidence and hypothesis is considered
+- (Something like survivorship bias) looking at what is, we can always say it *may* have been designed for this outcome
 
 ## Gathered notes
 
@@ -85,3 +86,9 @@ true? If no practical difference whatever can be traced, then the alternatives m
 - You see by this what I meant when I called pragmatism a mediator and reconciler
 - She has in fact no prejudices whatever, no obstructive dogmas, no rigid canons of what shall count as proof. She is completely genial. She will entertain any hypothesis, she will consider any evidence.
 - Her manners are as various and flexible, her resources as rich and endless, and her conclusions as friendly as those of mother nature.
+
+### Lecture—III. Some Metaphysical Problems Pragmatically Considered
+
+- our principle of **practical results**
+- When we look at what has actually come, the conditions must always appear perfectly designed to ensure it.
+- We can always say, therefore, in any conceivable world, of any conceivable character, that the whole cosmic machinery MAY have been designed to produce it.
