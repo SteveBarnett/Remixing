@@ -5,72 +5,37 @@
 <div markdown="1">
 - Vocation
     - Automate VPAT thing
-    - Blog post on annotations work
+    - Prepare "portfolio"
+    - Revisit union notes
     - Short post on context switching (bookmarks and HC posts)
         - Spreading the time adds a context-switching tax
         - Deep work, attention residue, etc.
-    - Gather examples of prompting AI with something null or zero
-    - Big Influence summary
     - DADG: can we get funding from someone for an interpreter when needed?
 - Health
     - Back to running
 - Interests
+    - Foodist plate &times; bento box / Japanese meal
+    - Visit local library
     - Morse code-based jingles
-    - Puzzle-like pieces of walls 'n' doors sketches
-    - Watercolour abstract: stokes, the outline the strokes
-    - Photo: waves as sky
+    - Next puzzle!
+    - Learn to play Go
     - Nut Butter Bonanza
     - Lay out back garden plants
-    - Learn to sew
-    - Write: the importance of multimodality
-    - Foodist plate &times; bento box / Japanese meal
-    - Another SDC, especially stationery
-    - Visit local library
-    - Rot, decay, mushrooms - but as process
+    - Look up Improv places
     - Tiny maps project
-    - More ambient Ableton
-    - Learn to play Go
-    - Something like a Triomenos set
-    - Make a reusable Musicians of Bremen set
-    - Note down Improv Wellington
-    - Tidy up (esp. archives) to make revisiting easier
-    - Pick up learning piano again
-    - Flowers!
-        - Sunflowers
-        - RTC flowers
-        - Plant my wildflowers
     - Seigaiha printer art
     - Waves! Big page, busy page, drawings from Hamonshu, Seigaiha, Sensitive Chaos, Crystal & Dragon, Patterns in Nature, Waves Atlas
-    - Media
-        - Switch
-            - Elden Ring: Tarnished Edition (XL)
-            - Ooblets (M)
-            - Monster Hunter Stories 2 (L)
-            - Persona 5 Royal (XL)
-        - PS5
-            - Cairn DLC
-            - Clair Obscur again
-            - Lies of P again (?)
 - Practice
+    - Revisit current using MAP, especially for Yield and Acceptance
     - Consider where generosity (dana) is missing
         - material support, protection, teaching
-    - Consider writing some gathas, for a handful of specific actions, samu
-        - Breathe in and recite the first line
-        - Breathe out and recite the second line
-        - Breathe in again and recite the third line
-        - Breathe out and recite the final line
     - Scribble out routine(s)
         - Silly start(ing ritual)?
         - Clear first step
-    - Write about Urban Sketching resistance
     - Write about "Steady" as a value
-    - Write about dancing in practice
     - [WASD book](/thinking/work-and-secular-dharma/)
         - Markup existing stuff
         - Make a plan for March
         - Read those talk transcripts
-    - Quick think about revamp remixing IA, especially music, art, thinking
-    - Reread some Cynics
-    - Reread some bell hooks
 </div>
 </details>
