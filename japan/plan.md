@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-08-18
+updated: 2026-08-28
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -11,18 +11,6 @@ Note: 1,000 yen is about 10 NZD
 
 ## TODO
 
-- [ ] Tokyo, part 2 - Thu 22 to Sun 25
-    - [x] ~~Make neighbourhoods list~~
-    - [x] ~~Discuss with O~~
-    - [x] ~~Decide together~~
-    - [x] Make AirBnB list for
-        - [x] Shimokitazawa
-        - [x] Koenji as backup
-    - [x] Send to O
-    - [x] Make new list
-    - [ ] Send to O
-    - [ ] Decide together
-    - [ ] Book
 - [ ] Train to Kyoto - Thu 15
     - [ ] Plan, JR Pass(es)
     - [ ] Send to O
@@ -54,6 +42,18 @@ Note: 1,000 yen is about 10 NZD
     - [x] ~~See what O thinks~~
     - [x] ~~Make list~~
     - [x] ~~Send to O~~
+    - [x] Decide together
+    - [x] Book
+- [x] Tokyo, part 2 - Thu 22 to Sun 25
+    - [x] ~~Make neighbourhoods list~~
+    - [x] ~~Discuss with O~~
+    - [x] ~~Decide together~~
+    - [x] Make AirBnB list for
+        - [x] Shimokitazawa
+        - [x] Koenji as backup
+    - [x] Send to O
+    - [x] Make new list
+    - [x] Send to O
     - [x] Decide together
     - [x] Book
 
