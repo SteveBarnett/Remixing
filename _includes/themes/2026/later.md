@@ -17,6 +17,9 @@
     - Foodist plate &times; bento box / Japanese meal
     - Visit local library
     - Morse code-based jingles
+    - Lighting in the lounge
+    - Watercolours
+        - Death Stranding 
     - Next puzzle!
     - Learn to play Go
     - Nut Butter Bonanza

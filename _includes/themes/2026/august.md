@@ -33,12 +33,19 @@
 <h4>Interests</h4>
 
 - ➙ Continue the [Japlanning](/japan/plan/)
-- ➙ Lighting in the lounge
+- ↠ Lighting in the lounge
 - ➙ Watercolours
     - ➙ Sox
     - ➙ Elden Waterthrough (from Fri 28)
         - ➙ Weeping Peninsula: photos
         - Weeping Peninsula: sketches
+    - Techniques to try
+        - Very loose pen
+        - One line pen
+        - Very loose colour
+        - Very little colour
+        - Just a few colours
+        - Just one colour
 - ↠ ~~Reposition plants~~
 - ↴ ~~Next puzzle!~~
 - ↠ ~~Next Nihongo resource: listening focus~~
