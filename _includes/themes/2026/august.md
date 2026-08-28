@@ -54,6 +54,7 @@
 
 Just just sitting.
 
+- ➙ Plan September mini-retreat
 - ➙ い / ご, 🌅/☀️/🌃
 - ↠ ~~Care check-up for focus items~~
 - ↴ ~~Revisit current using MAP, especially for Yield and Acceptance~~
