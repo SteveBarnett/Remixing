@@ -3,9 +3,14 @@ layout: page
 title: Nishijima Four
 zennotes: true
 added: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
+- SORR: Subjective, Objective, Realistic, Reality.
+- IMRR: idealism, materialism, realism, reality itself
+- ACIR: abstract, concrete, integrated, reality
+
+---
 
 > While studying the Shōbōgenzō, Nishijima developed a theory he called "**three philosophies and one reality**,"[6] which presents his distinctive interpretation of the Four Noble Truths as well as explaining the structure of Dōgen's writing. ...
 > - The first perspective is "**idealist**," "abstract," "spiritual," and "**subjective**"; Nishijima says this is the correct interpretation of the first Noble Truth (in mainstream Buddhism, the first Noble Truth is dukkha).
