@@ -14,6 +14,7 @@
 - ➙ evals work
     - ➙ keep it realistic
     - ➙ keep it clear
+- ➙ Do a quick 3-up Valued Action, care-flavoured: clients, colleagues, controller
 - ↠ ~~Discuss adding local models to evals~~
 - ↠ ~~Revisit running a local model~~
 - ↠ ~~[DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)~~
@@ -63,6 +64,7 @@ Just just sitting.
 
 - ➙ Plan September mini-retreat
 - ➙ い / ご, 🌅/☀️/🌃
+    - ➙ Sneak in gatha something?
 - ↠ ~~Care check-up for focus items~~
 - ↴ ~~Revisit current using MAP, especially for Yield and Acceptance~~
 - ✔ ~~Kindle screensaver~~
