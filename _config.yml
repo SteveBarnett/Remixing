@@ -54,4 +54,6 @@ exclude:
     - art-originals
     - notes-originals
     - vendor
+    - node_modules
+    - inspiration
     
