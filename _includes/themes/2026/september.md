@@ -7,7 +7,7 @@
     - ➙ keep it realistic
     - ➙ keep it clear
     - Discuss adding local models
-- [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
+- ➙ [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - Prepare for little AI talk at Team Day (Fri 18)
 - Revisit [AI Realism](https://human-centred.nz/air/) and [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/) and nudge work about a policy
 - Prepare mobile SR testing workshop for DADG (Tue 29)

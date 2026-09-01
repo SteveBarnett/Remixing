@@ -37,9 +37,13 @@
 - ↠ Lighting in the lounge
 - ➙ Watercolours
     - ➙ Sox
-    - ➙ Elden Waterthrough (from Fri 28)
-        - ➙ Weeping Peninsula: photos
-        - Weeping Peninsula: sketches
+    - ➙ Elden Waterthrough
+        - ✔ ~~Weeping Peninsula: photos~~
+        - ➙ Weeping Peninsula: sketches
+        - ✔ ~~Limgrave: photos~~
+        - ➙ Limgrave: sketches
+        - ➙ Stormveil: photos
+        - ➙ Stormveil: sketches
     - Techniques to try
         - Very loose pen
         - One line pen
