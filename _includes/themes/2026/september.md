@@ -19,6 +19,11 @@
 
 <h4>Interests</h4>
 
+- ➙ Watercolours
+    - ➙ Soxmas
+    - ➙ Elden Waterthrough
+        - ➙ Limgrave: photos
+        - ➙ Liurnia: photos
 - "15 minutes Japanese" book
 - Reposition plants
 - Read up on footloose
