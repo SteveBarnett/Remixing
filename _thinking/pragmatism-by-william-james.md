@@ -3,7 +3,7 @@ layout: page
 title: Pragmatism by William James
 note: true
 added: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-03
 ---
 
 Notes from Pragmatism by William James: Philosophical Exploration of Practicality and Truth
@@ -20,7 +20,15 @@ My take before reading this: Pragmatism is "less 'is this true?' and more 'is it
     - talks about truths (plural)
     - their utility and satisfactoriness, the success with which they ‘work’
     - is flexible and open: any evidence and hypothesis is considered
-- (Something like survivorship bias) looking at what is, we can always say it *may* have been designed for this outcome
+- (Something like unfalsifiability) looking at what is, we can always say it *may* have been designed for this outcome. That doesn't actually give us any information.
+- practical value
+- Need both the one and the many
+    - The one is about connections, the many about lack of connections
+    - In reality, we find things partly connected: partly one and partly many
+- Truth is
+    - a process, not an event
+    - made in the course of experience
+    - conditional
 
 ## Gathered notes
 
@@ -92,3 +100,32 @@ true? If no practical difference whatever can be traced, then the alternatives m
 - our principle of **practical results**
 - When we look at what has actually come, the conditions must always appear perfectly designed to ensure it.
 - We can always say, therefore, in any conceivable world, of any conceivable character, that the whole cosmic machinery MAY have been designed to produce it.
+
+### Lecture—IV. The One and the Many
+
+- practical value
+- The great point is to notice that the oneness and the manyness are absolutely co-ordinate here. Neither is primordial or more essential or excellent than the other.
+- The world is one just so far as its parts hang together by any definite connexion. It is many just so far as any definite connexion fails to obtain. And finally it is growing more and more unified by those systems of connexion at least which human energy keeps framing as time goes on.
+- pragmatism tends to UNSTIFFEN all our theories.
+- the common-sense world, in which we find things partly joined and partly disjoined.
+
+### Lecture—V. Pragmatism and Common Sense
+
+- it happens relatively seldom that the new fact is added RAW. More usually it is embedded cooked, as one might say, or stewed down in the sauce of the old.
+- New truths thus are resultants of new experiences and of old truths combined and mutually modifying one another.
+- On a map I can distinctly see the relation of London, Constantinople, and Pekin to the place where I am; in reality I utterly fail to FEEL the facts which the map symbolizes. The directions and distances are vague, confused and mixed. Cosmic space and cosmic time, so far from being the intuitions that Kant said they were, are constructions as patently artificial as any that science can show.
+- it is only the smallest part of his experience’s flux that anyone actually does straighten out by applying to it these conceptual instruments
+- Common sense is BETTER for one sphere of life, science for another, philosophic criticism for a third; but whether either be TRUER absolutely, Heaven only knows.
+- Profusion, not economy, may after all be reality’s key-note.
+- The whole notion of truth, which naturally and without reflexion we assume to mean the simple duplication by the mind of a ready-made and given reality, proves hard to understand clearly.
+- the pragmatistic view that all our theories are INSTRUMENTAL, are mental modes of ADAPTATION to reality, rather than revelations or gnostic answers to some divinely instituted world-enigma?
+
+### Lecture—VI. Pragmatism’s Conception of Truth
+
+- What, in short, is the truth’s cash-value in experiential terms?
+- The truth of an idea is not a stagnant property inherent in it. Truth HAPPENS to an idea. It BECOMES true, is MADE true by events.
+- True is the name for whatever idea starts the verification-process, useful is the name for its completed function in experience.
+- We must find a theory that will WORK; and that means something extremely difficult; for our theory must mediate between all previous truths and certain new experiences. It must derange common sense and previous belief as little as possible, and it must lead to some sensible terminus or other that can be verified exactly. To ‘work’ means both these things; and the squeeze is so tight that there is little loose play for any hypothesis.
+- Truth is MADE, just as health, wealth and strength are made, in the course of experience.
+- It is quite evident that our obligation to acknowledge truth, so far from being unconditional, is tremendously conditioned. Truth with a big T, and in the singular, claims abstractly to be recognized, of course; but concrete truths in the plural need be recognized only when their recognition is expedient. A truth must always be preferred to a falsehood when both relate to the situation; but when neither does, truth is as little of a duty as falsehood.
+- With this admission that there are conditions that limit the application of the abstract imperative, THE PRAGMATISTIC TREATMENT OF TRUTH SWEEPS BACK UPON US IN ITS FULNESS
