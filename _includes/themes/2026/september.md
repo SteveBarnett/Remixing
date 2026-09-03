@@ -1,12 +1,10 @@
 ### September
 
+Focusing on **Yielding** as care. Brace, support, uphold.
 
 <h4>Vocation</h4>
 
-- ➙ evals work
-    - ➙ keep it realistic
-    - ➙ keep it clear
-    - Discuss adding local models
+- ➙ CHR, especially for evals work: clear, human, realistic
 - ➙ [DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)
 - Prepare for little AI talk at Team Day (Fri 18)
 - Revisit [AI Realism](https://human-centred.nz/air/) and [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/) and nudge work about a policy
@@ -15,31 +13,22 @@
 
 <h4>Health</h4>
 
-- ➙ The Triple Gym, TNG: \*pack
+- ➙ The Triple Gym **Flywheel**: \*pack
 
 <h4>Interests</h4>
 
-- ➙ Watercolours
-    - ➙ Soxmas
-    - ➙ Elden Waterthrough
-        - ➙ Limgrave: photos
-        - ➙ Liurnia: photos
-- "15 minutes Japanese" book
+- ➙ Elden Waterthrough
+- ➙ Soxmas watercolour
+- ➙ Read a buncha Japan-related books
 - Reposition plants
 - Read up on footloose
 
 <h4>Practice</h4>
 
-- ➙ い / ご, 🌅/☀️/🌃
-- Care check-up for focus items
-- Look into writing some gathas, for a handful of specific actions
-    - Breathe in and recite the first line
-    - Breathe out and recite the second line
-    - Breathe in again and recite the third line
-    - Breathe out and recite the final line
-- SDC
-    - Office
-    - Kitchen
-    - Bedroom
+- ➙ Sit a.m., sit p.m.
+- ➙ Gathas
+    - ➙ Write a handful: four breathes, four lines
+- Support
+    - Brace, buttress, bulwark
 
 Archives: [month 09](/2026/09/).
