@@ -80,3 +80,14 @@ Just just sitting.
 - ✔ ~~Do a Care &times; Peace matrix, for each Gate~~
 
 Archives: [month 08](/2026/08/); [week 31](/2026/week/31/); [week 32](/2026/week/32/); [week 33](/2026/week/33/); [week 34](/2026/week/34/).
+
+#### End of month review: August
+
+- Vocation
+    - Great! Evals work going well. Did a social thing.
+- Health
+    - eh, not so great...
+- Interests
+    - Great! Japlanning, Watercolouring.
+- Practice
+    - Real mixed bag, depending on topic.
