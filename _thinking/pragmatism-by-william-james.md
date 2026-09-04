@@ -3,7 +3,7 @@ layout: page
 title: Pragmatism by William James
 note: true
 added: 2026-08-23
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 Notes from Pragmatism by William James: Philosophical Exploration of Practicality and Truth
@@ -129,3 +129,17 @@ true? If no practical difference whatever can be traced, then the alternatives m
 - Truth is MADE, just as health, wealth and strength are made, in the course of experience.
 - It is quite evident that our obligation to acknowledge truth, so far from being unconditional, is tremendously conditioned. Truth with a big T, and in the singular, claims abstractly to be recognized, of course; but concrete truths in the plural need be recognized only when their recognition is expedient. A truth must always be preferred to a falsehood when both relate to the situation; but when neither does, truth is as little of a duty as falsehood.
 - With this admission that there are conditions that limit the application of the abstract imperative, THE PRAGMATISTIC TREATMENT OF TRUTH SWEEPS BACK UPON US IN ITS FULNESS
+
+### Lecture—VII. Pragmatism and Humanism
+
+- the whole notion of THE truth is an abstraction from the fact of truths in the plural,
+- These things MAKE THEMSELVES as we go.
+- Far from being antecedent principles that animate the process, law, language, truth are but abstract names for its results.
+- Sensations are forced upon us, coming we know not whence. Over their nature, order, and quantity we have as good as no control. THEY are neither true nor false; they simply ARE. It is only what we say about them, only the names we give them, our theories of their source and nature and remote relations, that may be true or not.
+- A sensation is rather like a client who has given his case to a lawyer and then has passively to listen in the courtroom to whatever account of his affairs, pleasant or unpleasant, the lawyer finds it most expedient to give.
+- That is Mr. Schiller’s belief about the sensible core of reality. We ‘encounter’ it (in Mr. Bradley’s words) but don’t possess it.
+- dithyrambic
+- The authority of ‘the State,’ and that of an absolute ‘moral law,’ have resolved themselves into expediencies,
+- These are but names for the facts, taken from the facts, and then treated as previous and explanatory.
+- Once more, either hypothesis is legitimate in pragmatist eyes, for either has its uses.
+- I have all along been offering it expressly as a mediator between tough-mindedness and tender-mindedness.
