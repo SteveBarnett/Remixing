@@ -17,6 +17,13 @@ zennotes: true
     = A daily task, everyday, ordinary
 - Just one, at first, to work it, lock it on, figure out how to do these
 
+### Stucture and shape
+
+- A verb, a daily action
+- An insight, an observation
+- Designed as memory aid
+- Vow?
+
 ## Raw notes
 
 ### [Gathas on TNH meditation](https://tnhmeditation.org/gathas/)
