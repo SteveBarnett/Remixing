@@ -6,6 +6,17 @@ updated: 2026-09-04
 zennotes: true
 ---
 
+## My notes/thoughts/ideas
+
+- Something based on (VHIP) gates
+- Something based on [tools](/thinking/map/#tools)
+- Something using the handtwister
+- Do a 3up instead of four lines
+- Something with the three uhds
+- They usually seem to be themed to the thing at hand
+    = A daily task, everyday, ordinary
+- Just one, at first, to work it, lock it on, figure out how to do these
+
 ## Raw notes
 
 ### [Gathas on TNH meditation](https://tnhmeditation.org/gathas/)
@@ -16,67 +27,67 @@ As exercises in both meditation and poetry, gathas are very much in keeping with
 
 #### Calming the breath (i)
 
-> Breathing in , I calm my body.
-Breathing out, I smile.
-Dwelling in the present moment,
+> Breathing in , I calm my body.<br>
+Breathing out, I smile.<br>
+Dwelling in the present moment,<br>
 I know this is a wonderful moment.
 
 #### Entering the meditation hall
 
-> Entering the meditation hall,
-I see my true mind.
-I vow that once I sit down,
+> Entering the meditation hall,<br>
+I see my true mind.<br>
+I vow that once I sit down,<br>
 all disturbances will stop.
 
 #### Sitting down
 
-> Sitting here
-Is like sitting under a Bodhi tree.
-My body is mindfulness itself,
+> Sitting here<br>
+Is like sitting under a Bodhi tree.<br>
+My body is mindfulness itself,<br>
 Free from all distraction.
 
 #### Adjusting the meditation posture
 
-> Feelings come and go
-Like clouds in a windy sky.
-Conscious breathing
+> Feelings come and go<br>
+Like clouds in a windy sky.<br>
+Conscious breathing<br>
 is my anchor.
 
 #### Listening to the bell (i)
 
-> Listen, listen,
-this wonderful sound
-brings me back
+> Listen, listen,<br>
+this wonderful sound<br>
+brings me back<br>
 to my true home. 
 
 ### [Gathas for Daily Living](https://buddhism.net/gathas-for-daily-living/)
 
 #### WAKING UP
 
-> Waking up this morning, I smile.
-Twenty-four brand new hours are before me.
-I vow to live fully in each moment
+> Waking up this morning, I smile.<br>
+Twenty-four brand new hours are before me.<br>
+I vow to live fully in each moment<br>
 and to look at all beings with eyes of compassion.
 
 #### TURNING ON THE LIGHT
 
-> Forgetfulness is the darkness;
-mindfulness is the light.
-I bring awareness 
+> Forgetfulness is the darkness;<br>
+mindfulness is the light.<br>
+I bring awareness <br>
 to shine upon all life.
 
 #### BRUSHING YOUR TEETH
 
-> Brushing my teeth and rinsing my mouth, 
-I vow to speak purely and lovingly.
-When my mouth is fragrant with right speech, 
+> Brushing my teeth and rinsing my mouth, <br>
+I vow to speak purely and lovingly.<br>
+When my mouth is fragrant with right speech,<br>
 a flower blooms in the garden of my heart.
 
 #### BEGINNING TO EAT
 
-> With the first taste, I promise to offer joy.
-With the second, I promise to help relieve the suffering of others.
-With the third, I promise to see others’ joy as my own. 
+> With the first taste, I promise to offer joy.<br>
+With the second, I promise to help relieve the suffering of others.<br>
+With the third, I promise to see others’ joy as my own.<br>
 With the fourth, I promise to learn the way of non-attachment and equanimity.
 
 ### [Survival Kits / Mindfulness Verses for Daily Living](https://plumvillage.org/articles/mindfulness-verses-for-daily-living) at Plum Village
@@ -90,7 +101,7 @@ We can combine the gatha with our breathing like this:
 
 Our teacher Thich Nhat Hanh teaches on the classic Plum Village gatha
 
-> “I have arrived, I am home,
-In the here and in the now.
-I am solid, I am free,
+> “I have arrived, I am home,<br>
+In the here and in the now.<br>
+I am solid, I am free,<br>
 In the ultimate I dwell.”
