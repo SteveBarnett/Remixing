@@ -13,9 +13,9 @@ Current Theme: [{{ site.time | date: "%B" }} {{ site.time | date: "%Y" }}](/them
 
 Most recent writing:
 
-{% include recent.html %}
+{% include recent.html limit=7 %}
 
-See also: [Thinking archive](/thinking/archive/).
+See also: [longer list of recent things](/recent), [Thinking archive](/thinking/archive/).
 
 ## Personal
 
