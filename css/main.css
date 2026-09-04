@@ -780,19 +780,23 @@ h4 {
 /* dashboard */
 
 .dashboard {
-  background-color: #fff;
-
   h1, nav {
     display: none;
   }
 
   body {
-    font-size: 4.25rem;
+    font-size: 2rem;
   }
 
-  main > ul:first-of-type {
+  ul {
+    margin-bottom: 0.5em;
+  }
+
+/*
+main > ul:first-of-type {
     display: none;
   }
+*/
 
   h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
