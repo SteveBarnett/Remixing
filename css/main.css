@@ -780,7 +780,7 @@ h4 {
 /* dashboard */
 
 .dashboard {
-  h1, nav {
+  h1, nav, a[href="#menu"] {
     display: none;
   }
 
