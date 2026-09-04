@@ -1,3 +1,9 @@
+Updated version:
+
+```
+npx playwright screenshot --viewport-size=600,600 "file://$(PWD)/_site/doing-dashboard/index.html" doing/doing.png 
+```
+
 Short version:
 
 ```
