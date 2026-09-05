@@ -21,4 +21,8 @@ Notes from [The World of Urban Sketching](https://quarto.com/books/9780760374573
 ## Penning
 
 - Lots and lots of fine detail
+- Or, just a few outlines and use a mix of colours
 - Bendy lines, even fisheye-style
+- Very zoomed out
+- Lots of whitespace, like torn off edges
+- Portrait aspect ratio, especially very tall
