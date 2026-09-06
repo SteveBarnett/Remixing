@@ -3,7 +3,7 @@ layout: page
 title: Pragmatism by William James
 note: true
 added: 2026-08-23
-updated: 2026-09-04
+updated: 2026-09-06
 ---
 
 Notes from Pragmatism by William James: Philosophical Exploration of Practicality and Truth
@@ -143,3 +143,7 @@ true? If no practical difference whatever can be traced, then the alternatives m
 - These are but names for the facts, taken from the facts, and then treated as previous and explanatory.
 - Once more, either hypothesis is legitimate in pragmatist eyes, for either has its uses.
 - I have all along been offering it expressly as a mediator between tough-mindedness and tender-mindedness.
+
+### Lecture—VIII. Pragmatism and Religion
+
+- One sees at this point that the great religious difference lies between the men who insist that the world MUST AND SHALL BE, and those who are contented with believing that the world MAY BE, saved. The whole clash of rationalistic and empiricist religion is thus over the validity of possibility.
