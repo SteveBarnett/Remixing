@@ -31,4 +31,4 @@ Focusing on **Yielding** as care. Brace, support, uphold.
 - Support
     - Brace, buttress, bulwark
 
-Archives: [month 09](/2026/09/).
+Archives: [month 09](/2026/09/); [week 35](/2026/week/35/); [week 36](/2026/week/36/); [week 37](/2026/week/37/); [week 38](/2026/week/38/).
