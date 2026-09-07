@@ -3,7 +3,7 @@ layout: page
 title: Sketching + watercolour techniques
 longerform: true
 added: 2026-09-04
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 Notes from [The World of Urban Sketching](https://quarto.com/books/9780760374573/the-world-of-urban-sketching).
@@ -17,6 +17,7 @@ Notes from [The World of Urban Sketching](https://quarto.com/books/9780760374573
 - Wet and light sky
 - red, yellow, blue, or RGB
 - very diluted, puddle-y patches
+- Patches of paint more than strokes of a brush
 
 ## Penning
 
@@ -26,3 +27,5 @@ Notes from [The World of Urban Sketching](https://quarto.com/books/9780760374573
 - Very zoomed out
 - Lots of whitespace, like torn off edges
 - Portrait aspect ratio, especially very tall
+- Very loose and wobbly lines, just capture the overall shape and outline-as-a-whole
+- Vary pen colour and style
