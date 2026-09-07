@@ -2,6 +2,8 @@
 
 Focusing on **Yielding** as care. Brace, support, uphold.
 
+Yielding as **connection between [poles](/thinking/map/#conceptual)**.
+
 <h4>Vocation</h4>
 
 - ➙ CHR, especially for evals work: clear, human, realistic
