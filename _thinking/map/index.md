@@ -2,7 +2,7 @@
 layout: page
 title: My Applied Philosophy
 added: 2025-12-23
-updated: 2026-08-11
+updated: 2026-09-07
 permalink: /thinking/map/
 ---
 
@@ -91,6 +91,13 @@ Memory 7-reminder: mirror, bobby hat, with pearl instead of badge, side-eye, thr
     - Come as close to the discomfort as is possible
 - 🆕 Somatic: hand-holdster, material mirror metta
     - Paired with something
+
+### Top triangle
+
+- Connecting with brightness, happiness, playfulness: **[One Bright Flow](/thinking/one-bright-flow/)**
+- When the Inner Critic is very loud and/or mean: **[The three uhds](/thinking/the-three-uhds/)**
+- (one of these two paired with) somatic twistshake
+
 
 ## Hats
 
