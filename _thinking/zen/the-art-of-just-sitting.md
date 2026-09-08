@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 zennotes: true
 ---
 
@@ -22,3 +22,16 @@ zennotes: true
 - Another aspect of Hongzhi's practice is that it is objectless not only in terms of letting fo on concentration objects, but also **in the sense of avoiding any specific, limited goals or objectives.**
 - Desiring flashy experience, or anything more or other than "this" is merely worldly vanity and craving.
 - Dogen: "To carry yourself forward and experience myriad things is delusion. That myriad things come fort and experience themselves is awakening."
+
+### Cultivating the empty field
+
+**Vast and spacious, like sky and water merging during autumn, like snow and moon having the same colour**, this field is without boundary, beyond direction, magnificently one entity without edge or seam.
+
+### Zazengi: Rules for zazen
+
+- Protect and maintain the place where you settle your body.
+- Zazen is not thinking of good, not thinking of bad. It is not conscious endeavour. It is not introspection.
+
+### Fukanzazengi: Universal recommendations for zazen
+
+**When you arise from sitting, move slowly and quietly, calmly and deliberately.**
