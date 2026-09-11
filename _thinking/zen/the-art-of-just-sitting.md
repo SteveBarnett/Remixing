@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-11
+updated: 2026-09-12
 zennotes: true
 ---
 
@@ -40,3 +40,15 @@ zennotes: true
 
 - If you once rest in this absorption, then you directly illumine the mind–so we realise it is the main gate to the way of enlightenment.
 - **Don't study or practice too many things.**
+
+### Shikantaza
+
+- To do shikantaza, one must have a firm faith in the fact that all beings are fundamentally buddhas.
+- ... shikantaza is the actualisation of enlightenment itself.
+
+### The Tenzo Kyokun and Shikantaza
+
+- This idea of concentrating wholly on one thing is the cornerstone of the teachings of Dogen.
+- When we look at a cup that is set down between the two of us ... in a very rough sense, we proceed to separate the reality of the situation by entertaining the idea that we both see the same cup.
+- My personal life experience is as the same time the world of reality. Conversely, the world of reality constitutes my mind.
+- In the same way that various secretions and hormones flow through the organs of the body, **thoughts can be likened to secretions of the mind**.
