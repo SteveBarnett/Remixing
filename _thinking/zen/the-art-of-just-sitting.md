@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-09
+updated: 2026-09-11
 zennotes: true
 ---
 
@@ -29,9 +29,14 @@ zennotes: true
 
 ### Zazengi: Rules for zazen
 
-- Protect and maintain the place where you settle your body.
+- **Protect and maintain the place where you settle your body.**
 - Zazen is not thinking of good, not thinking of bad. It is not conscious endeavour. It is not introspection.
 
 ### Fukanzazengi: Universal recommendations for zazen
 
 **When you arise from sitting, move slowly and quietly, calmly and deliberately.**
+
+### Zazen Yojinki
+
+- If you once rest in this absorption, then you directly illumine the mind–so we realise it is the main gate to the way of enlightenment.
+- **Don't study or practice too many things.**
