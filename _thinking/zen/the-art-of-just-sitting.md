@@ -52,3 +52,14 @@ zennotes: true
 - When we look at a cup that is set down between the two of us ... in a very rough sense, we proceed to separate the reality of the situation by entertaining the idea that we both see the same cup.
 - My personal life experience is as the same time the world of reality. Conversely, the world of reality constitutes my mind.
 - In the same way that various secretions and hormones flow through the organs of the body, **thoughts can be likened to secretions of the mind**.
+
+### The Wholehearted Way
+
+- If practice and enlightenment were separate, as people commonly believe, it would be possible for them to perceive each other.
+
+### No Dualism
+
+- **To stop your mind does not mean to stop the activities of mind. It means your mind pervades your whole body.**
+- Practice does not mean that whatever you do, even lying down, is zazen. **When the restrictions you have do not limit you, this is what we mean by practice.**
+- If you say, "it doesn't matter," it means that you are making some excuse to do something in your own way with your small mind.
+- ... at first it is very difficult to accept things as they are. You will be annoyed by the feeling you have in your practice. **When you can do everything**, whether it is good or bad, **without disturbance or without being annoyed by the feeling**, that is what actually we mean by "form is form and emptiness is emptiness."
