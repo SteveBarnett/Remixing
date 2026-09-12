@@ -23,9 +23,10 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 
 - ➙ Elden Waterthrough
 - ➙ Soxmas watercolour
-- ➙ Read a buncha Japan-related books
+- Read Japan-related stuff for fun, not for planning
 - [Bee in the City](https://beeinthecity.org.nz/#:~:text=A%20sneak%20peek), after 14th
 - Read up on footloose
+- ✔ ~~Read some Japan-related books~~
 - ✔ ~~Reposition plants~~
 
 <h4>Practice</h4>
