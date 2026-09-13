@@ -7,11 +7,11 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 <h4>Vocation</h4>
 
 - ➙ CHR, especially for evals work: clear, human, realistic
+- ➙ Prepare mobile SR testing workshop for DADG (Tue 29)
 - Short article on context-switching
-- Prepare for little AI talk at Team Day (Fri 18)
-- Prepare mobile SR testing workshop for DADG (Tue 29)
 - [DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)
 - Revisit [AI Realism](https://human-centred.nz/air/) and [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/) and nudge work about a policy
+- ✗ ~~Prepare for little AI talk at Team Day (Fri 18)~~
 - ✔ ~~[DDD Adelaide 21/11/2026 CFP](https://sessionize.com/dddadelaide2026) (deadline: 6 September)~~
     - ~~Got in one, the 40m-only slots felt tricky for the topics I had~~
 
@@ -23,7 +23,7 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 
 - ➙ Elden Waterthrough
 - ➙ Soxmas watercolour
-- Read Japan-related stuff for fun, not for planning
+- ➙ Read Japan-related stuff for fun, not for planning
 - [Bee in the City](https://beeinthecity.org.nz/#:~:text=A%20sneak%20peek), after 14th
 - Read up on footloose
 - ✔ ~~Read some Japan-related books~~
@@ -32,8 +32,7 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 <h4>Practice</h4>
 
 - ➙ Sit a.m., sit p.m.
-- ➙ Gathas
-    - ➙ Write a handful: four breathes, four lines
+- ✗ ~~Gathas~~
 - Support
     - Brace, buttress, bulwark
 
