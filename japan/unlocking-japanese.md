@@ -20,19 +20,21 @@ updated: 2026-07-03
 
 ### Chapter 1: I ate katsu curry in that restaurant yesterday!
 
-- Tokyo / 東京 / Tōkyō <span lang="jp"></span>
-- to / に / <span lang="jp">ni</span>
-- I went / 行きました / <span lang="jp">ikimashita</span>
-- with / と / <span lang="jp">to</span>
-- restaurant / レストラン / <span lang="jp">restoran</span>
-- ate / 食べました / <span lang="jp">tabemashita</span>
-- [object marker] / を / <span lang="jp">o</span>
-- in / で / <span lang="jp">de</span>
-- that / あの / <span lang="jp">ano</span>
-- yesterday / 昨日 / <span lang="jp">kinō</span>
-- 's (possesive particle) / の / <span lang="jp">no</span>
-- afternoon / 午後 / <span lang="jp">gogo</span>
-- night/evening / 晩 / <span lang="jp">ban</span>
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Tokyo | 東京 | Tōkyō <span lang="jp"></span> |
+| to | に | <span lang="jp">ni</span> |
+| I went | 行きました | <span lang="jp">ikimashita</span> |
+| with | と | <span lang="jp">to</span> |
+| restaurant | レストラン | <span lang="jp">restoran</span> |
+| ate | 食べました | <span lang="jp">tabemashita</span> |
+| [object marker] | を | <span lang="jp">o</span> |
+| in | で | <span lang="jp">de</span> |
+| that | あの | <span lang="jp">ano</span> |
+| yesterday | 昨日 | <span lang="jp">kinō</span> |
+| 's (possesive particle) | の | <span lang="jp">no</span> |
+| afternoon | 午後 | <span lang="jp">gogo</span> |
+| night/evening | 晩 | <span lang="jp">ban</span> |
 
 #### Word order
 
@@ -45,52 +47,60 @@ updated: 2026-07-03
 
 - Honshu in the centre, Kyushu and Shikoku in the south, Hokkaido in the north, sub-tropical Okinawa in the far south
 
-- Kyoto / 京都 / <span lang="jp">Kyōto</span>
-- Was delicious / おいしかったです / <span lang="jp">Oishikatta</span>
-- I /  / <span lang="jp">Watashi wa</span>
-- Was interesting / 面白かった / <span lang="jp">Omoshirokatta</span>
-- Was beautiful / 美しかった / <span lang="jp">Utsukushikatta</span>
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Kyoto | 京都 | <span lang="jp">Kyōto</span> |
+| Was delicious | おいしかったです | <span lang="jp">Oishikatta</span> |
+| I | <span lang="jp">Watashi wa</span> |
+| Was interesting | 面白かった | <span lang="jp">Omoshirokatta</span> |
+| Was beautiful | 美しかった | <span lang="jp">Utsukushikatta</span> |
 
 ### Chapter 3: I made a hotel reservation online last night - we're going to Kyoto!
 
-- I did (or I played) / しました / <span lang="jp">Shimashita</span>
-- ? / か / <span lang="jp">ka</span>
-- Hotel / ホテル / <span lang="jp">hoteru</span>
-- (Hotel) reservation / ホテルの予約 / <span lang="jp">(hoteru no) yoyaku</span>
-- Go, will go, going to / 行きます / <span lang="jp">ikimasu</span>
-- Bus / バス / <span lang="jp">basu</span>
-- Train / 電車 / <span lang="jp">Densha</span>
-- Taxi / タクシー / <span lang="jp">Takushii</span>
-- Today / 今日 / <span lang="jp">Kyō</span>
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| I did (or I played) | しました | <span lang="jp">Shimashita</span> |
+| ? | か | <span lang="jp">ka</span> |
+| Hotel | ホテル | <span lang="jp">hoteru</span> |
+| (Hotel) reservation | ホテルの予約 | <span lang="jp">(hoteru no) yoyaku</span> |
+| Go, will go, going to | 行きます | <span lang="jp">ikimasu</span> |
+| Bus | バス | <span lang="jp">basu</span> |
+| Train | 電車 | <span lang="jp">Densha</span> |
+| Taxi | タクシー | <span lang="jp">Takushii</span> |
+| Today | 今日 | <span lang="jp">Kyō</span> |
 
 ### Chapter 4: It's good weather today, so I'm going to play football in the park with my family
 
-- (my) family / 家族 / <span lang="jp">kazoku</span>
-- (your) family / ご家族 / <span lang="jp">go kazoku</span>
-- drink / 飲みます / <span lang="jp">nomimasu</span>
-- beer / ビール / <span lang="jp">biiru</span>
-- bar / バー / <span lang="jp">baa</span>
-- park / 公園 / <span lang="jp">kōen</span>
-- good / いい / <span lang="jp">ii</span>
-- weather / 天気 / <span lang="jp">tenki</span>
-- [particle, object, emphasis, just noticed] / が / <span lang="jp">ga</span>
-- so / から / <span lang="jp">kara</span>
-- watch / 見ます / <span lang="jp">mimasu</span>
-- anime / アニメ / <span lang="jp">anime</span>
-- yesterday morning / 昨日の朝 / <span lang="jp">kino no asa</span>
-- sumo / 相撲 / <span lang="jp">sumō</span>
-- TV / テレビ / <span lang="jp">terebi</span>
-- yesterday morning / 昨日の朝 / <span lang="jp">kinō no asa</span>
-- this morning / 今朝 / <span lang="jp">kesa (contracted kyō no asa?)</span>
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| (my) family | 家族 | <span lang="jp">kazoku</span> |
+| (your) family | ご家族 | <span lang="jp">go kazoku</span> |
+| drink | 飲みます | <span lang="jp">nomimasu</span> |
+| beer | ビール | <span lang="jp">biiru</span> |
+| bar | バー | <span lang="jp">baa</span> |
+| park | 公園 | <span lang="jp">kōen</span> |
+| good | いい | <span lang="jp">ii</span> |
+| weather | 天気 | <span lang="jp">tenki</span> |
+| [particle, object, emphasis, just noticed] | が | <span lang="jp">ga</span> |
+| so | から | <span lang="jp">kara</span> |
+| watch | 見ます | <span lang="jp">mimasu</span> |
+| anime | アニメ | <span lang="jp">anime</span> |
+| yesterday morning | 昨日の朝 | <span lang="jp">kino no asa</span> |
+| sumo | 相撲 | <span lang="jp">sumō</span> |
+| TV | テレビ | <span lang="jp">terebi</span> |
+| yesterday morning | 昨日の朝 | <span lang="jp">kinō no asa</span> |
+| this morning | 今朝 | <span lang="jp">kesa (contracted kyō no asa?)</span> |
 
 
 ### Chapter 5 Shall we watch an anime on TV this evening? Or shall we go out?
 
-- Let's (go) / (行き)ましょう / <span lang="jp">(iki)mashō</span>
-- Shall we (go)? / (行き)ましょうか / <span lang="jp">(iki)mashō ka</span>
-- Tonight, this evening / 今晩 / <span lang="jp">konban</span>
-- I went out / 出かけました / <span lang="jp">dekakemashita</span>
-- Or / それとも / <span lang="jp">soretomo</span>
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Let's (go) | (行き)ましょう | <span lang="jp">(iki)mashō</span> |
+| Shall we (go)? | (行き)ましょうか | <span lang="jp">(iki)mashō ka</span> |
+| Tonight, this evening | 今晩 | <span lang="jp">konban</span> |
+| I went out | 出かけました | <span lang="jp">dekakemashita</span> |
+| Or | それとも | <span lang="jp">soretomo</span> |
 
 ---
 
