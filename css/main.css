@@ -381,6 +381,10 @@ details form {
   margin-right: 0.25em;
 }
 
+table {
+  margin: 1rem 0;
+}
+
 th {
   text-align: left;
 }
