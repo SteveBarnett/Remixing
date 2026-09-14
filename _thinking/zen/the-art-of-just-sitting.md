@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-12
+updated: 2026-09-14
 zennotes: true
 ---
 
@@ -63,3 +63,11 @@ zennotes: true
 - Practice does not mean that whatever you do, even lying down, is zazen. **When the restrictions you have do not limit you, this is what we mean by practice.**
 - If you say, "it doesn't matter," it means that you are making some excuse to do something in your own way with your small mind.
 - ... at first it is very difficult to accept things as they are. You will be annoyed by the feeling you have in your practice. **When you can do everything**, whether it is good or bad, **without disturbance or without being annoyed by the feeling**, that is what actually we mean by "form is form and emptiness is emptiness."
+
+
+### Commentary on Fukanzazengi
+
+- ... when we examine [it] from the intrinsic perspective, just being as we are is perfect. Perhaps the word "perfect" is not quite adequate, let me add the word "complete." **Nothing is lacking, nothing is in excess.** ... **perfect and complete**.
+- ... the problem is that we may only believe that theoretically; we don't know it firsthand. **To become directly aware of it and know it fully is why we practice**.
+- This is the place we get stuck. **We try to understand enlightenment by our discriminating mind**; **yet, our discriminative**, our discursive **thought, is the very thing that binds us**.
+- **We are bound by whatever we cling to, even enlightenment.**
