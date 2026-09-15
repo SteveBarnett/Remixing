@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-14
+updated: 2026-09-15
 zennotes: true
 ---
 
@@ -71,3 +71,9 @@ zennotes: true
 - ... the problem is that we may only believe that theoretically; we don't know it firsthand. **To become directly aware of it and know it fully is why we practice**.
 - This is the place we get stuck. **We try to understand enlightenment by our discriminating mind**; **yet, our discriminative**, our discursive **thought, is the very thing that binds us**.
 - **We are bound by whatever we cling to, even enlightenment.**
+
+### How To Sit
+
+- One must not deliberately try to think nor deliberately try not to think. Thoughts come and go in our heads and we can either play with them or **just sit there and allow them to pass**.
+- I have often used the example of sitting under a bridge to illustrate [this]. ... One cannot ignore the cars are there; one does not have to be bothered by them.
+- Shikan is exactly taza–**full devotion to zazen itself, that is, to the process itself and not to a concept**.
