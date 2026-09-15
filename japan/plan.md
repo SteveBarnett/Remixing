@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-09-11
+updated: 2026-09-14
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -25,7 +25,7 @@ Note: 1,000 yen is about 10 NZD
     - [x] [Research](#esims)
     - [ ] Discuss with O
     - [ ] Buy eSIMS
-- [ ] Make a little maps list for each leg of the trip
+- [x] Make a little maps list for each leg of the trip
     - include train stations
 - [ ] ? - Sun 25 to ?
     - [ ] Figure out where
