@@ -2,7 +2,9 @@
 
 <h4>Vocation</h4>
 
-- 
+- Revisit unions, co-ops, collection action, etc
+    - What problems am I trying to solve?
+    - What outcomes do I want?
 
 <h4>Health</h4>
 
