@@ -1,5 +1,5 @@
 ---
-layout: theme-now
+layout: theme-dash
 title: Doing
 class: dashboard
 ---
