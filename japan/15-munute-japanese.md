@@ -104,3 +104,33 @@ Here is the table with the middle column filled in.
 | Line/route | 路線 | rosen |
 | Fare | 運賃 | unchin |
 | Two to Osaka, please | 大阪まで二枚お願いします | Ōsaka made nimai onegai shimasu |
+
+## Week 5: About town
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Museum | 博物館 | hakubutsukan |
+| Bridge | 橋 | hashi |
+| Art gallery | 美術館 | bijutsukan |
+| Is it far from here? | ここから遠いですか | koko kara tōi desu ka |
+| Is it nearby? | 近いですか | chikai desu ka |
+| Is it near the station? | 駅の近くですか | eki no chikaku desu ka |
+| Corner | 角 | kado |
+| Crossing | 横断歩道 | ōdan hodō |
+| Map | 地図 | chizu |
+| Online map | オンライン地図 | onrain chizu |
+| Please turn left | 左に曲がってください | hidari ni magatte kudasai |
+| Please turn right | 右に曲がってください | migi ni magatte kudasai |
+| Straight on | まっすぐ | massugu |
+| At the end of the street | 道の突き当たり | michi no tsukiatari |
+| Opposite | 反対側 | hantai gawa |
+| I'm lost | 道に迷いました | michi ni mayoimashita |
+| Entrance ticket | 入場券 | nyūjō-ken |
+| Discount | 割引 | waribiki |
+| Free entrance | 入場無料 | nyūjō muryō |
+| Opening times (museums, libraries) | 開館時間 | kaikan jikan |
+| Opening times (shops, restaurants) | 営業時間 | eigyō jikan |
+| What time do you open/close? | 何時に開きますか／閉まりますか | nanji ni akimasu ka / shimarimasu ka |
+| Where are the toilets? | トイレはどこですか | toire wa doko desu ka |
+| Sorry, we're closed | すみません、閉店です | sumimasen, heiten desu |
+| At what time? | 何時にですか | nanji ni desu ka |
