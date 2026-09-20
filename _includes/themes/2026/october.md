@@ -20,4 +20,6 @@
 <h4>Practice</h4>
 
 - Get NZ forms ready to submit on 12th
+- Te Tiriti at work
+- Sketch out mashup / &times; ideas
 - Review notebooks and reviewing monthly, yearly reviews.
