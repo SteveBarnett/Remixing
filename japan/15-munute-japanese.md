@@ -90,7 +90,6 @@ Here is the table with the middle column filled in.
 | How much is a ticket to Nagasaki | 長崎までの切符はいくらですか | Nagasaki made no kippu wa ikura desu ka |
 | Do I have to change trains? | 乗り換えが必要ですか | norikae ga hitsuyō desu ka |
 | What time does the train leave? | 電車は何時に出発しますか | densha wa nanji ni shuppatsu shimasu ka |
-Here is the table filled in.
 | To go | 行く | iku |
 | Going | 行きま | ikimasu |
 | Gone | 行きました | ikimashita |
