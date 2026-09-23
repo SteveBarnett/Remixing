@@ -5,6 +5,7 @@
 - Revisit unions, co-ops, collection action, etc
     - What problems am I trying to solve?
     - What outcomes do I want?
+- Think about DADG next year
 
 <h4>Health</h4>
 
