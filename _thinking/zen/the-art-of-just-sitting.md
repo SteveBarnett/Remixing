@@ -2,9 +2,57 @@
 layout: page
 title: The Art of Just Sitting
 added: 2026-09-08
-updated: 2026-09-20
+updated: 2026-09-24
 zennotes: true
 ---
+
+## Gathered notes
+
+Here is the bold text, in order:
+
+- The energy to perform the activity is there, but not the tension.
+- It shapes our spiritual character the way a river shapes the socks it encounters on its journey to the sea.
+- The changes that take place are gradual and almost invisible.
+- An objectless meditation.
+- This is a definition in terms of what it is *not*.
+- The dynamic activity of being fully present.
+- Just sitting does not involve reaching any understanding.
+- The subtle activity of allowing things to be completely at rest just as they are.
+- Aware and responsive presence that is simple, open-hearted, and straightforward.
+- In the sense of avoiding any specific, limited goals or objectives.
+- Vast and spacious, like sky and water merging during autumn, like snow and moon having the same colour.
+- Protect and maintain the place where you settle your body.
+- When you arise from sitting, move slowly and quietly, calmly and deliberately.
+- Don't study or practice too many things.
+- Thoughts can be likened to secretions of the mind.
+- To stop your mind does not mean to stop the activities of mind. It means your mind pervades your whole body.
+- When the restrictions you have do not limit you, this is what we mean by practice.
+- Without disturbance or without being annoyed by the feeling.
+- Nothing is lacking, nothing is in excess.
+- Perfect and complete.
+- To become directly aware of it and know it fully is why we practice.
+- We try to understand enlightenment by our discriminating mind.
+- Yet, our discriminative.
+- Thought, is the very thing that binds us.
+- We are bound by whatever we cling to, even enlightenment.
+- Just sit there and allow them to pass.
+- Full devotion to zazen itself, that is, to the process itself and not to a concept.
+- They use language in a way that words negate the words themselves show the reality beyond our thoughts.
+- We are [identity] only when we compare ourselves with others.
+- When I sit facing the wall, ... I am nothing. I am empty. I am just who I am.
+- The spirit of the Bodhisattva is this: the path of delivering oneself from suffering lies in relieving the suffering of others.
+- Zazen is zazen.
+- It's not a process to go from A to B.
+- There's a big difference between the words and ideas that describe a reality, and the manifestation of that reality.
+- You just have to sit, and it's through the process of sitting that you will realise Yaoshan's non-thinking.
+- This "just" has a special meaning. It means "without going any further" or "without adding anything extra."
+- The whole world is unfolding in a beautiful and perfect interplay of forces.
+- We may have difficult appreciating this but after all we are only people and why would we not have difficulty.
+- The problem is that we actually are incapable of seeing zazen as useless because our minds can't accept the fundamental genuiness and all-rightness of our lives.
+- The mountain flows, the river sits.
+- Our constant desire to change, manipulate, and correct our environment.
+- Means that we are forever working in opposition to the way things are.
+- To neither add nor take away; to sit down and turn our awareness around to see, but not meddle or correct.
 
 ## Raw notes
 
@@ -123,7 +171,7 @@ We sit here and the blue jays sing it to us, the stream sings it to us, because 
 
 ### Will You Sit With Me?
 
-**"The mountain flows, the river sits."
+**"The mountain flows, the river sits."**
 
 ### Yangshan's Mind And Environment
 
