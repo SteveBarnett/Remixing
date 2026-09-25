@@ -13,9 +13,6 @@ Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-1
 
 ## Week 1: Introductions
 
-
-Here is the table with the middle column filled in.
-
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
 | Name | 名前 | namae |
@@ -38,8 +35,6 @@ Here is the table with the middle column filled in.
 | have / there is [objects] | あります | arimasu |
 
 ## Week 2: Eating and drinking
-
-Here is the table with the middle column filled in.
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
