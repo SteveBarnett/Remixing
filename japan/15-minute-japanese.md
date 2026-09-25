@@ -8,8 +8,16 @@ updated: 2026-09-15
 
 Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-15-minute-japanese).
 
-* tic
+<div id="show-hide-jp">
+{% include show-hide-jp.html %}
+</div>
+
+---
+
+* Display TOC
 {:toc}
+
+---
 
 ## Week 1: Introductions
 
