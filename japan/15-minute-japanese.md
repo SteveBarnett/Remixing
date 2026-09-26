@@ -3,7 +3,7 @@ layout: page
 title: "15 minute Japanese"
 japan: true
 added: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-27
 ---
 
 Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-15-minute-japanese).
@@ -137,3 +137,144 @@ Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-1
 | Where are the toilets? | トイレはどこですか | toire wa doko desu ka |
 | Sorry, we're closed | すみません、閉店です | sumimasen, heiten desu |
 | At what time? | 何時にですか | nanji ni desu ka |
+
+## Week 6: Book a room
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Room |  | heya |
+| Breakfast | choshoku |  |
+| Hot springs |  | onsen |
+| Public bathhouse |  | sento |
+| Big |  | ohkih |
+| Small |  | chihsai |
+| Hot (weather) |  | atsui |
+| Hot (material) |  | atsui |
+| Cold (weather) |  | samui |
+| Cold (material) |  | tsumetai |
+| Slow |  | osoi |
+| Fast |  | hayai |
+| Noisy |  | urusai |
+| Quiet |  | shizuka |
+| Hard |  | katai |
+| Soft |  | yawarakai |
+| Beautiful |  | utsukushi/kirei |
+| Ugly |  | minikui |
+| Dark |  | kurai |
+| Light |  | akarui |
+| Very |  | totemo |
+| too |  | sugimasu |
+| My room is too noisy |  | Watashi no heya wa chisha sugimasu |
+
+## Week 7: 
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| shop |  | -ya |
+| bakery |  | panya |
+| convenience store |  | konbini |
+| bookshop |  | honya |
+| fruit |  | kudamono |
+| drinks |  | nomimono |
+| vegetables |  | yasai |
+| snacks |  | okashi |
+| I'll take the pink one |  | pinku no o kaimasu |
+| red |  | aka |
+| white |  | shiro |
+| blue |  |ao  |
+| yellow |  | ki iro |
+| green |  | midori |
+| black |  | kuro |
+
+## Week 8: Work and study
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| doctor |  | isha |
+| dentist |  | ha-isha |
+
+## Week 9: The body
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| hair |  | kami |
+| head |  | atama |
+| arm |  | ude |
+| hand |  | te |
+| leg |  | ashi |
+| foot |  | ashi |
+| eye |  | me |
+| ear |  | mimi |
+| nose |  | hana |
+| mouth |  | kuchi |
+| I have a pain in my lower back |  | koshi ga itai desu |
+| I don't feel well |  | Chohshi ga warui desu |
+| chemist |  | yakyoku |
+| pharmacy |  | kusuriya |
+| headache |  | zutsu |
+| stomach ache |  | fukutsu |
+| cold |  | kaze |
+| toothache |  | ha-ita |
+
+## Week 10: At home
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| I like the pond |  |  |
+| What beautiful flowers! |  |  |
+| I like the waterfall |  |  |
+| Cat |  | neko |
+| Fish |  | sakana |
+| Bird |  | tori |
+| Dog |  | inu |
+| Is this your dog? |  |  |
+| What's his name? |  |  |
+
+## Week 11: Bank and Post Office
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Bank |  | ginkah |
+| Money |  | okane |
+| Notes |  | shiheh |
+| Coins |  | kohka |
+| Credit card |  |  |
+| Contactless payments |  |  |
+| Come |  | kuru |
+| Come! |  | kite! |
+| Please |  | kudasai |
+| Coming |  | kimasu |
+| Don't come |  | kimasen |
+| Didn't come |  | Didn't come |
+| Man |  | otoko |
+| Woman |  | onna |
+| Tall |  | takai |
+| Short |  | hikui |
+| Young |  | wakai |
+| Old |  | toshi o totta |
+| Fat |  | futotta |
+| Thin |  | yaseta |
+| Beard |  | ago hige |
+
+## Menu
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| soy sauce |  | shoyu |
+| clear soup made with dashi |  | suimomono |
+| beef |  |  |
+| chicken |  |  |
+| duck |  |  |
+| meat |  |  |
+| pork |  |  |
+| beef, sliced, cooked at the table |  | sukiyaki |
+| deep-fried chicken |  | karaage |
+| chicken skewers |  | yakitori |
+| meatballs |  | nikudango |
+| meat or veg skewers |  | kushiage |
+|  |  | yakisoba |
+| miso ramen |  | miso ramen |
+| soba |  | soba |
+| udon |  | udon |
+| boxed lunch |  | bento |
+| set meal |  | teishoku |
