@@ -142,139 +142,139 @@ Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-1
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| Room |  | heya |
-| Breakfast | choshoku |  |
-| Hot springs |  | onsen |
-| Public bathhouse |  | sento |
-| Big |  | ohkih |
-| Small |  | chihsai |
-| Hot (weather) |  | atsui |
-| Hot (material) |  | atsui |
-| Cold (weather) |  | samui |
-| Cold (material) |  | tsumetai |
-| Slow |  | osoi |
-| Fast |  | hayai |
-| Noisy |  | urusai |
-| Quiet |  | shizuka |
-| Hard |  | katai |
-| Soft |  | yawarakai |
-| Beautiful |  | utsukushi/kirei |
-| Ugly |  | minikui |
-| Dark |  | kurai |
-| Light |  | akarui |
-| Very |  | totemo |
-| too |  | sugimasu |
-| My room is too noisy |  | Watashi no heya wa chisha sugimasu |
+| Room | 部屋 | heya |
+| Breakfast | 朝食 | chōshoku |
+| Hot springs | 温泉 | onsen |
+| Public bathhouse | 銭湯 | sentō |
+| Big | 大きい | ōkii |
+| Small | 小さい | chiisai |
+| Hot (weather) | 暑い | atsui |
+| Hot (material) | 熱い | atsui |
+| Cold (weather) | 寒い | samui |
+| Cold (material) | 冷たい | tsumetai |
+| Slow | 遅い | osoi |
+| Fast | 速い | hayai |
+| Noisy | うるさい | urusai |
+| Quiet | 静か | shizuka |
+| Hard | 固い | katai |
+| Soft | 柔らかい | yawarakai |
+| Beautiful | 美しい／きれい | utsukushii/kirei |
+| Ugly | 醜い | minikui |
+| Dark | 暗い | kurai |
+| Light | 明るい | akarui |
+| Very | とても | totemo |
+| too | すぎます | sugimasu |
+| My room is too noisy | 私の部屋はうるさすぎます | watashi no heya wa urusa-sugimasu |
 
 ## Week 7: 
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| shop |  | -ya |
-| bakery |  | panya |
-| convenience store |  | konbini |
-| bookshop |  | honya |
-| fruit |  | kudamono |
-| drinks |  | nomimono |
-| vegetables |  | yasai |
-| snacks |  | okashi |
-| I'll take the pink one |  | pinku no o kaimasu |
-| red |  | aka |
-| white |  | shiro |
-| blue |  |ao  |
-| yellow |  | ki iro |
-| green |  | midori |
-| black |  | kuro |
+| shop | 屋 | -ya |
+| bakery | パン屋 | panya |
+| convenience store | コンビニ | konbini |
+| bookshop | 本屋 | honya |
+| fruit | 果物 | kudamono |
+| drinks | 飲み物 | nomimono |
+| vegetables | 野菜 | yasai |
+| snacks | お菓子 | okashi |
+| I'll take the pink one | ピンクのを買います | pinku no o kaimasu |
+| red | 赤 | aka |
+| white | 白 | shiro |
+| blue | 青 | ao |
+| yellow | 黄色 | kiiro |
+| green | 緑 | midori |
+| black | 黒 | kuro |
 
 ## Week 8: Work and study
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| doctor |  | isha |
-| dentist |  | ha-isha |
+| doctor | 医者 | isha |
+| dentist | 歯医者 | ha-isha |
 
 ## Week 9: The body
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| hair |  | kami |
-| head |  | atama |
-| arm |  | ude |
-| hand |  | te |
-| leg |  | ashi |
-| foot |  | ashi |
-| eye |  | me |
-| ear |  | mimi |
-| nose |  | hana |
-| mouth |  | kuchi |
-| I have a pain in my lower back |  | koshi ga itai desu |
-| I don't feel well |  | Chohshi ga warui desu |
-| chemist |  | yakyoku |
-| pharmacy |  | kusuriya |
-| headache |  | zutsu |
-| stomach ache |  | fukutsu |
-| cold |  | kaze |
-| toothache |  | ha-ita |
+| hair | 髪 | kami |
+| head | 頭 | atama |
+| arm | 腕 | ude |
+| hand | 手 | te |
+| leg | 脚 | ashi |
+| foot | 足 | ashi |
+| eye | 目 | me |
+| ear | 耳 | mimi |
+| nose | 鼻 | hana |
+| mouth | 口 | kuchi |
+| I have a pain in my lower back | 腰が痛いです | koshi ga itai desu |
+| I don't feel well | 調子が悪いです | chōshi ga warui desu |
+| chemist | 薬局 | yakkyoku |
+| pharmacy | 薬屋 | kusuriya |
+| headache | 頭痛 | zutsū |
+| stomach ache | 腹痛 | fukutsū |
+| cold | 風邪 | kaze |
+| toothache | 歯痛 | ha-ita |
 
 ## Week 10: At home
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| I like the pond |  |  |
-| What beautiful flowers! |  |  |
-| I like the waterfall |  |  |
-| Cat |  | neko |
-| Fish |  | sakana |
-| Bird |  | tori |
-| Dog |  | inu |
-| Is this your dog? |  |  |
-| What's his name? |  |  |
+| I like the pond | 池が好きです | ike ga suki desu |
+| What beautiful flowers! | なんて美しい花でしょう | nante utsukushii hana deshō |
+| I like the waterfall | 滝が好きです | taki ga suki desu |
+| Cat | 猫 | neko |
+| Fish | 魚 | sakana |
+| Bird | 鳥 | tori |
+| Dog | 犬 | inu |
+| Is this your dog? | これはあなたの犬ですか | kore wa anata no inu desu ka |
+| What's his name? | 名前は何ですか | namae wa nan desu ka |
 
 ## Week 11: Bank and Post Office
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| Bank |  | ginkah |
-| Money |  | okane |
-| Notes |  | shiheh |
-| Coins |  | kohka |
-| Credit card |  |  |
-| Contactless payments |  |  |
-| Come |  | kuru |
-| Come! |  | kite! |
-| Please |  | kudasai |
-| Coming |  | kimasu |
-| Don't come |  | kimasen |
-| Didn't come |  | Didn't come |
-| Man |  | otoko |
-| Woman |  | onna |
-| Tall |  | takai |
-| Short |  | hikui |
-| Young |  | wakai |
-| Old |  | toshi o totta |
-| Fat |  | futotta |
-| Thin |  | yaseta |
-| Beard |  | ago hige |
+| Bank | 銀行 | ginkō |
+| Money | お金 | okane |
+| Notes | 紙幣 | shihei |
+| Coins | 硬貨 | kōka |
+| Credit card | クレジットカード | kurejitto kādo |
+| Contactless payments | タッチ決済 | tacchi kessai |
+| Come | 来る | kuru |
+| Come! | 来て | kite |
+| Please | ください | kudasai |
+| Coming | 来ます | kimasu |
+| Don't come | 来ません | kimasen |
+| Didn't come | 来ませんでした | kimasen deshita |
+| Man | 男 | otoko |
+| Woman | 女 | onna |
+| Tall | 高い | takai |
+| Short | 低い | hikui |
+| Young | 若い | wakai |
+| Old | 年を取った | toshi o totta |
+| Fat | 太った | futotta |
+| Thin | 痩せた | yaseta |
+| Beard | あごひげ | ago hige |
 
 ## Menu
 
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
-| soy sauce |  | shoyu |
-| clear soup made with dashi |  | suimomono |
-| beef |  |  |
-| chicken |  |  |
-| duck |  |  |
-| meat |  |  |
-| pork |  |  |
-| beef, sliced, cooked at the table |  | sukiyaki |
-| deep-fried chicken |  | karaage |
-| chicken skewers |  | yakitori |
-| meatballs |  | nikudango |
-| meat or veg skewers |  | kushiage |
-|  |  | yakisoba |
-| miso ramen |  | miso ramen |
-| soba |  | soba |
-| udon |  | udon |
-| boxed lunch |  | bento |
-| set meal |  | teishoku |
+| soy sauce | 醤油 | shōyu |
+| clear soup made with dashi | 吸い物 | suimono |
+| beef | 牛肉 | gyūniku |
+| chicken | 鶏肉 | toriniku |
+| duck | 鴨肉 | kamoniku |
+| meat | 肉 | niku |
+| pork | 豚肉 | butaniku |
+| beef, sliced, cooked at the table | すき焼き | sukiyaki |
+| deep-fried chicken | 唐揚げ | karaage |
+| chicken skewers | 焼き鳥 | yakitori |
+| meatballs | 肉団子 | nikudango |
+| meat or veg skewers | 串揚げ | kushiage |
+| fried noodles | 焼きそば | yakisoba |
+| miso ramen | 味噌ラーメン | miso rāmen |
+| soba | そば | soba |
+| udon | うどん | udon |
+| boxed lunch | 弁当 | bentō |
+| set meal | 定食 | teishoku |
