@@ -60,3 +60,27 @@ zennotes: true
 - **Maturity is not to always be solid as a mountain, to be as spacious as the sky. Sometimes it’s just to learn to be still and to accept what is there.**
 - I’ve reflected a lot on my habit of striving and my meditation sometimes is just to check in with myself. **What am I competing against? What am I trying to run away from?**
 - **See what nourishes you in this moment.** **Don’t use your striving to attack yourself.**
+
+### Chapter 2: Our Stories
+
+- For each of us, our journeys through life have many ups and downs, moments of illumination as well as major setbacks. **Rather than viewing this lack of smooth progress with frustration, the two of us have learned to see this path as an ever-changing kaleidoscope of color and texture.**
+
+#### We Are All Refugees
+
+- Brother Phap Huu: Healing the Inner Child The Wounded Child
+- **If we don’t transform it, we will unwittingly offer the same suffering to whoever is close to us.**
+- the right conditions may not have been present in this lifetime for him to be able to change.
+
+##### Bullying
+
+- There’s an even deeper practice: recognizing that any person who caused us harm as a young child must themselves have experienced intense suffering to behave in such a way. When we remember this, we can have a little more understanding; perhaps we can even dare to have compassion.
+- **our way of being is itself a teaching, far more powerful than anything we might say.**
+
+##### Healing and Cultural Heritage
+
+- Jo Confino: Making Peace with the Past Intergenerational Trauma
+- In recent years, the discoveries of research into intergenerational trauma—and how events in one person’s life can alter not only the expression of their DNA but also affect the next generation through epigenetic changes—has helped me better understand this period of my life.
+
+#### Inner Qualities
+
+- **appreciate my inner qualities, recognizing that they had matured in me because of all the pain I had endured, not in spite of it.**
