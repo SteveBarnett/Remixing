@@ -15,27 +15,41 @@ Note: 1,000 yen is about 10 NZD
 ## TODO
 
 - [ ] Trains!
-    - [ ] Check: what do shinkansen reservations cost?
-    - [ ] Getting a suica card
-        - [IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)
-        - [Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)
-    - [ ] Buy/book stuff
+    - [ ] Chat to O and buy/book stuff
+    - [ ] Sign up at EkiNet for second part of trip
+    - [x] ~~Sign up at SmartEX for first part of trip~~
+    - [x] ~~Check: what do shinkansen reservations cost?~~ (not much!)
+    - [x] ~~Getting a suica card~~
+        - ~~[IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)~~
+        - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
 - [ ] Journalling
-    - [ ] Have a look at current stash of sketchbooks
-    - [ ] Poke aroud Daiso
+    - [x] ~~Have a look at current stash of sketchbooks~~
+    - [ ] Poke around Daiso: tall, thin?
+    - [ ] Quick look at GH too
 - [ ] Print
     - [ ] AirBnB, with addresses!
-- [x] Double-check both visas
 - [ ] Language stuff
     - [ ] Make short list from 15m
     - [ ] Add toggle to Unlocking
     - [ ] Make short list from Unlocking
 - [ ] eSIMs
-    - [ ] Buy eSIMS
+    - [x] Add Ubigi app to my phone
+    - [x] Buy eSIM for me, 30 days
+    - [ ] Add Ubigi app to O's phone
+        - [ ] Settings > General > About - EID
+        - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
+    - [ ] Buy eSIM for O, 15 days
     - [x] ~~[Research](#esims)~~
+        - Your data plan will activate upon arrival at destination
     - [x] ~~Discuss with O~~
+- [ ] Suica
+    - [x] Add a card to my phone
+    - [ ] Add a card to O's phone
+        - [ ] And Suica app to see the full number
+- [ ] Taxi prep
+    - [ ] Add Uber and Didi to O's phone
 - [x] Maps
     - [x] ~~Make a little maps list for each leg of the trip~~
     - [ ] Link them here
@@ -47,6 +61,7 @@ Note: 1,000 yen is about 10 NZD
 
 ### Done
 
+- [x] ~~Double-check both visas~~
 - [x] ~~Key for J~~
 - [x] ~~Tokyo - Tue 13 to Thu 15~~
     - [x] ~~Make list~~
@@ -80,6 +95,32 @@ Note: 1,000 yen is about 10 NZD
 ---
 
 ## Research
+
+### Luggage
+
+- airport trains (and buses) have space for big suitcases
+- shinkansen
+     - overhead compartments are small
+     - oversized luggage counts as A+B+C dimensions > 160cm
+        - needs special seats reserved
+- big stations often have lockers, can pay with IC cards
+    - large lockers fill up quickly
+- local buses are not made for suitcases (unless they're check-in small size)
+    - get a taxi instead
+
+### Shinkansen
+
+Western Japan
+
+- Smart EX - Tokaido Sanyo Kyushu Shinkanse
+- Sign up
+- Search train, select, choose seat type
+- Non-reserved can fill up past
+- IC card for each person, or QR code
+
+Eastern Japan
+
+- EkiNet - Hokuriku Shinkansen (to Kanazawa)
 
 ### Trains
 
