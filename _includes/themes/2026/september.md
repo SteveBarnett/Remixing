@@ -6,11 +6,7 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 
 <h4>Vocation</h4>
 
-- Short article on context-switching (on PD day)
 - ➙ Continued recommitment to CHR
-- Short article on declaring AI use, borrowing fro the Euro one
-    - And add a note about I don't use it on HC: I enjoy, and find valuable, the process of writing and figuring it out myself
-- Revisit [AI Realism](https://human-centred.nz/air/) and [How to get the most out of AI](https://human-centred.nz/2026/07/27/how-to-get-the-most-out-of-ai/) and nudge work about a policy
 - ✔ ~~[DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)~~
 - ✔ ~~Prepare mobile SR testing workshop for DADG (Tue 29)~~
 - ✔ ~~CHR, especially for evals work: clear, human, realistic~~
@@ -36,7 +32,7 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 <h4>Practice</h4>
 
 - ➙ Support: brace, buttress, bulwark
-- Sit a.m., sit p.m.
+- ✔ ~~Sit a.m., sit p.m.~~ (going steady)
 - ✗ ~~Gathas~~
 
 Archives: [month 09](/2026/09/); [week 35](/2026/week/35/); [week 36](/2026/week/36/); [week 37](/2026/week/37/); [week 38](/2026/week/38/).
