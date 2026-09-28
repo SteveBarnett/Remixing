@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-09-14
+updated: 2026-09-28
 ---
 
 Timezone: Japan is 3 hours behind NZ
@@ -15,30 +15,39 @@ Note: 1,000 yen is about 10 NZD
 ## TODO
 
 - [ ] Trains!
-    - [x] List all the trips, with dates
-    - [ ] Plan, JR Pass(es)
-    - [ ] Send to O
-    - [ ] Decide together
-    - [ ] Buy/book
+    - [ ] Check: what do shinkansen reservations cost?
+    - [ ] Getting a suica card
+        - [IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)
+        - [Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)
+    - [ ] Buy/book stuff
+    - [x] ~~List all the trips, with dates~~
+    - [x] ~~JR Pass(es)~~
+- [ ] Journalling
+    - [ ] Have a look at current stash of sketchbooks
+    - [ ] Poke aroud Daiso
+- [ ] Print
+    - [ ] AirBnB, with addresses!
 - [x] Double-check both visas
+- [ ] Language stuff
+    - [ ] Make short list from 15m
+    - [ ] Add toggle to Unlocking
+    - [ ] Make short list from Unlocking
 - [ ] eSIMs
-    - [x] [Research](#esims)
-    - [ ] Discuss with O
     - [ ] Buy eSIMS
-- [x] Make a little maps list for each leg of the trip
-    - include train stations
-- [ ] ? - Sun 25 to ?
-    - [ ] Figure out where
-        - Ueda
-        - Echigo-Yuzawa
-        - Mishima, Odoriko limited express
-        - Shuzenji, Mishima and Izu day trips
+    - [x] ~~[Research](#esims)~~
+    - [x] ~~Discuss with O~~
+- [x] Maps
+    - [x] ~~Make a little maps list for each leg of the trip~~
+    - [ ] Link them here
+- [ ] Kanazawa - Sun 25 to Sat 31
+    - [x] ~~Figure out where~~
     - [ ] Ryokan for some days?
-- [ ] ? - ? to Sat 31
-- [ ] Key for J
+    - [ ] Plan trains
+    - Fly back at 6:30pm
 
 ### Done
 
+- [x] ~~Key for J~~
 - [x] ~~Tokyo - Tue 13 to Thu 15~~
     - [x] ~~Make list~~
     - [x] ~~Send to O~~
@@ -104,8 +113,8 @@ Note: 1,000 yen is about 10 NZD
     - Kintetsu Limited Express Toll Limited Express Kashiharajingu-Mae 
     - 81 City Bus
 - Tuesday 20 October: Kyoto (Fushimi Ward) to Osaka (Kita ward)
-    - Train Keihan Main Line  Walk  UndergroundS akaisuji Line
-    - Train Keihan Main Line  Walk  Train JR Touzai-Gakkentoshi Line  Walk
+    - Train Keihan Main Line - Walk - UndergroundS akaisuji Line
+    - Train Keihan Main Line - Walk - Train JR Touzai-Gakkentoshi Line - Walk
 - Thursday 22 October: Osaka (Kita ward) to Tokyo (Setagaya City)
     - Tokaido Shinkansen
 - Thursday 25 October: Tokyo (Setagaya City) to Narita Airport
