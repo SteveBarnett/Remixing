@@ -16,7 +16,9 @@ Note: 1,000 yen is about 10 NZD
 
 - [ ] Trains!
     - [ ] Chat to O and buy/book stuff
-    - [ ] Sign up at EkiNet for second part of trip
+        - [ ] https://smart-ex.jp/en/
+    - [ ] https://go.jreast.co.jp/
+        - [ ] Or sign up at EkiNet for second part of trip
     - [x] ~~Sign up at SmartEX for first part of trip~~
     - [x] ~~Check: what do shinkansen reservations cost?~~ (not much!)
     - [x] ~~Getting a suica card~~
