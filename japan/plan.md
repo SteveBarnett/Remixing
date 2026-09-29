@@ -3,17 +3,23 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-09-28
+updated: 2026-09-30
 ---
 
 Timezone: Japan is 3 hours behind NZ
-Note: 1,000 yen is about 10 NZD
+Note: 100 yen is about 1 NZD
+
+Maps:
+
+- [Kyoto and around](https://maps.app.goo.gl/d8qbTak4n3nD8gaU9)
+- [Toyko](https://maps.app.goo.gl/GfkLy7MT1WbHeM9CA)
 
 * tic
 {:toc}
 
 ## TODO
 
+- [ ] Write out detailed travel itinerary
 - [ ] Trains!
     - [ ] Chat to O and buy/book stuff
         - [ ] https://smart-ex.jp/en/
@@ -26,6 +32,8 @@ Note: 1,000 yen is about 10 NZD
         - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
+- [ ] Planes
+    - [ ] Add flight refernce to calendar events
 - [ ] Journalling
     - [x] ~~Have a look at current stash of sketchbooks~~
     - [ ] Poke around Daiso: tall, thin?
@@ -36,9 +44,11 @@ Note: 1,000 yen is about 10 NZD
     - [ ] Make short list from 15m
     - [ ] Add toggle to Unlocking
     - [ ] Make short list from Unlocking
+- [ ] Customs
+    - [ ] Look into filling in [Visit Japan Web](https://www.vjw.digital.go.jp/)
 - [ ] eSIMs
-    - [x] Add Ubigi app to my phone
-    - [x] Buy eSIM for me, 30 days
+    - [x] ~~Add Ubigi app to my phone~~
+    - [x] ~~Buy eSIM for me, 30 days~~
     - [ ] Add Ubigi app to O's phone
         - [ ] Settings > General > About - EID
         - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
@@ -47,11 +57,13 @@ Note: 1,000 yen is about 10 NZD
         - Your data plan will activate upon arrival at destination
     - [x] ~~Discuss with O~~
 - [ ] Suica
-    - [x] Add a card to my phone
+    - [x] ~~Add a card to my phone~~
     - [ ] Add a card to O's phone
+        - [ ] [Welcome Suica](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html)
+        - [ ] [Tourist Pasmo](https://www.pasmo.co.jp/tourist-pasmo/)?
         - [ ] And Suica app to see the full number
 - [ ] Taxi prep
-    - [ ] Add Uber and Didi to O's phone
+    - [ ] Add Uber and Didi and Go taxi to O's phone
 - [x] Maps
     - [x] ~~Make a little maps list for each leg of the trip~~
     - [ ] Link them here
@@ -63,6 +75,8 @@ Note: 1,000 yen is about 10 NZD
 
 ### Done
 
+- [x] ~~Check which AirBnBs have washing machines~~
+    - They all do!
 - [x] ~~Double-check both visas~~
 - [x] ~~Key for J~~
 - [x] ~~Tokyo - Tue 13 to Thu 15~~
@@ -104,6 +118,7 @@ Note: 1,000 yen is about 10 NZD
 - shinkansen
      - overhead compartments are small
      - oversized luggage counts as A+B+C dimensions > 160cm
+        - <= 30kg
         - needs special seats reserved
 - big stations often have lockers, can pay with IC cards
     - large lockers fill up quickly
