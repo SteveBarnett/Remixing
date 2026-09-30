@@ -13,13 +13,42 @@ Maps:
 
 - [Kyoto and around](https://maps.app.goo.gl/d8qbTak4n3nD8gaU9)
 - [Toyko](https://maps.app.goo.gl/GfkLy7MT1WbHeM9CA)
+- [Big list](https://maps.app.goo.gl/gDoLfQK6xTM8ZvHk6)
+
+---
 
 * tic
 {:toc}
 
 ## TODO
 
-- [ ] Write out detailed travel itinerary
+- [ ] Language stuff
+    - [ ] Make short list from 15m
+    - [ ] Add toggle to Unlocking
+    - [ ] Make short list from Unlocking
+- [ ] Journalling
+    - [x] ~~Have a look at current stash of sketchbooks~~
+    - [ ] Poke around Daiso: tall, thin?
+    - [ ] Quick look at GH too
+- [ ] eSIMs
+    - [x] ~~Add Ubigi app to my phone~~
+    - [x] ~~Buy eSIM for me, 30 days~~
+    - [ ] Add Ubigi app to O's phone
+        - First, check
+            - [ ] Settings > General > About - EID
+            - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
+    - [ ] Buy eSIM for O, 15 days
+    - [x] ~~[Research](#esims)~~
+        - Your data plan will activate upon arrival at destination
+    - [x] ~~Discuss with O~~
+- [ ] Suica
+    - [x] ~~Add a card to my phone~~
+    - [ ] Add a card to O's phone
+        - [ ] And Suica app to see the full number
+        - [ ] [Welcome Suica](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html)?
+        - [ ] [Tourist Pasmo](https://www.pasmo.co.jp/tourist-pasmo/)?
+- [ ] Taxi prep
+    - [ ] Add Uber and Didi and Go taxi to O's phone
 - [ ] Trains!
     - [ ] Chat to O and buy/book stuff
         - [ ] https://smart-ex.jp/en/
@@ -32,49 +61,32 @@ Maps:
         - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
-- [ ] Planes
-    - [ ] Add flight refernce to calendar events
-- [ ] Journalling
-    - [x] ~~Have a look at current stash of sketchbooks~~
-    - [ ] Poke around Daiso: tall, thin?
-    - [ ] Quick look at GH too
 - [ ] Print
     - [ ] AirBnB, with addresses!
-- [ ] Language stuff
-    - [ ] Make short list from 15m
-    - [ ] Add toggle to Unlocking
-    - [ ] Make short list from Unlocking
 - [ ] Customs
     - [ ] Look into filling in [Visit Japan Web](https://www.vjw.digital.go.jp/)
-- [ ] eSIMs
-    - [x] ~~Add Ubigi app to my phone~~
-    - [x] ~~Buy eSIM for me, 30 days~~
-    - [ ] Add Ubigi app to O's phone
-        - [ ] Settings > General > About - EID
-        - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
-    - [ ] Buy eSIM for O, 15 days
-    - [x] ~~[Research](#esims)~~
-        - Your data plan will activate upon arrival at destination
-    - [x] ~~Discuss with O~~
-- [ ] Suica
-    - [x] ~~Add a card to my phone~~
-    - [ ] Add a card to O's phone
-        - [ ] [Welcome Suica](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html)
-        - [ ] [Tourist Pasmo](https://www.pasmo.co.jp/tourist-pasmo/)?
-        - [ ] And Suica app to see the full number
-- [ ] Taxi prep
-    - [ ] Add Uber and Didi and Go taxi to O's phone
-- [x] Maps
-    - [x] ~~Make a little maps list for each leg of the trip~~
-    - [ ] Link them here
 - [ ] Kanazawa - Sun 25 to Sat 31
     - [x] ~~Figure out where~~
     - [ ] Ryokan for some days?
     - [ ] Plan trains
     - Fly back at 6:30pm
 
+<details>
+<summary markdown="1">
 ### Done
-
+</summary>
+<div markdown="1">
+- [x] Update AirBnB details in calendar
+    - [x] Tokyo part 1
+    - [x] Kyoto
+    - [x] Osaka
+    - [x] Tokyo part 1
+- [x] Write out detailed travel itinerary
+- [x] Planes
+    - [x] Add flight reference to calendar events
+- [x] Maps
+    - [x] ~~Make a little maps list for each leg of the trip~~
+    - [x] Update maps and link them here
 - [x] ~~Check which AirBnBs have washing machines~~
     - They all do!
 - [x] ~~Double-check both visas~~
@@ -107,11 +119,28 @@ Maps:
     - [x] Send to O
     - [x] Decide together
     - [x] Book
+</div>
+</details>
 
 ---
 
-## Research
+## Itinerary: transport
 
+No buses or local trains with luggage, take a taxi instead!
+
+| Date | Route | Checkout | To the station | Train | From the station | Check-in |
+|---|---|---|---|---|---|---|
+| Tue 13 Oct | Narita Airport to Tokyo | n/a | n/a | Narita Express, Narita airport to Shinagawa, about 1h | About 8m drive to AirBnB | After 4pm |
+| Thu 15 Oct | Tokyo to Kyoto | 10am | About 8m drive to Shinagawa station | Tokaido Shinkansen, Shinagawa to Kyoto, about 2h | About 20m drive to AirBnB | After 3pm |
+| Tue 20 Oct | Kyoto to Osaka | 11am | About 15m drive to Kyoto station | Haruka, Thunderbird, or A Tokaido Line, Kyoto to Osaka station (not Shin-Osaka or Osaka-Umeda), about 30m | About 10m drive to AirBnB | After 4pm |
+| Thu 22 Oct | Osaka to Tokyo | 10am | About 15m drive to Shin-Osaka station | Tokaido Shinkansen, Shin-Osaka to Shinagawa, about 2h30m | About 30m drive to AirBnB | After 3pm |
+| Sun 25 Oct | Tokyo to Narita Airport | 10am | Not given | Narita Express, Shinagawa to Narita airport, about 1h | n/a | n/a |
+
+<details>
+<summary markdown="1">
+## Research
+</summary>
+<div markdown="1">
 ### Luggage
 
 - airport trains (and buses) have space for big suitcases
@@ -195,12 +224,15 @@ From [Entering Japan](https://www.japan-guide.com/e/e2221.html)
 - Docomo gives best coverage
 - [Ubigi](https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jpn&one-off=on)
     - 30 days for me, 15 days for L
+</div>
+</details>
 
 ---
 
-## Dates
-
-### Tuesday 13 October 
+<details>
+    <summary><h3>Dates</h3></summary>
+<div markdown="1">
+<h3>Tuesday 13 October</h3>
 
 - 6:15pm - arrive Tokyo Narita Terminal 1
 - **Train into town: NEX (Narita Express)**. Goes to
@@ -222,7 +254,7 @@ From [Entering Japan](https://www.japan-guide.com/e/e2221.html)
         - **Sengakuji**
         - 7 mins to Tokyo station for Shinkansen, many options
 
-### Wednesday 14 October
+<h3>Wednesday 14 October</h3>
 
 - → Day in Tokyo to acclimatise
 - → Itinerary ideas: [gmaps link](https://maps.app.goo.gl/pqLz7GAcdMHMMcV27)
@@ -236,7 +268,7 @@ From [Entering Japan](https://www.japan-guide.com/e/e2221.html)
     - Tennozu Isle (20m walk)
     - Kyū Shiba-rikyū Gardens (10m train)
 
-### Thursday 15 October to Tuesday 20 October
+<h3>Thursday 15 October to Tuesday 20 October</h3>
 
 - JR Central Shinkansen from Tokyo
     - to Kyoto? - about 2h15m, maybe ¥14,170 / $150
@@ -272,11 +304,11 @@ From [Entering Japan](https://www.japan-guide.com/e/e2221.html)
     - 京の宿しみず Ryokan SHIMIZU
 - Nara vibes: stay there instead of Kyoto?
 
-### Tuesday 22 October to Thursday 22 October
+<h3>Tuesday 22 October to Thursday 22 October</h3>
 
 - Osaka
 
-### Thursday 22nd October
+<h3>Thursday 22nd October</h3>
 
 - Back to Tokyo
 - Shimokitazawa, ([Shimokitazawa Curry Festival](https://theshimokitazawa.com/curry-festival/)!), Tokyo's indie darling: narrow maze-like streets packed with second-hand shops, from curated boutiques to dusty treasure troves. Not on a JR line, Odakyu/Keio then transfer
@@ -285,16 +317,18 @@ From [Entering Japan](https://www.japan-guide.com/e/e2221.html)
 - Akihabara - maid cafés, manga and game stores
 - Yanaka / Nippori - characterful and slightly odd
 
-### Sunday 25 October
+<h3>Sunday 25 October</h3>
 
 L leave Tokyo Narita Terminal 1
 
-### Saturday 31 October
+<h3>Saturday 31 October</h3>
 
 - 6:45pm - leave Tokyo Narita Terminal 1
 - 11 full days between landing and L leaving
 - 5 full days between L leaving and me leaving
     - ? Nikko - 2h on local trains
+</div>
+</details>
 
 ## Book notes
 
