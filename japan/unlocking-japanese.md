@@ -15,6 +15,20 @@ updated: 2026-07-03
 * tic
 {:toc}
 
+---
+
+## Short list
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| I ate katsu curry in that restaurant yesterday! | 昨日、あのレストランでカツカレーを食べました | Kinō, ano resutoran de katsukarē o tabemashita! |
+| We want to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious! | 昨日、北海道へ行きました。札幌で味噌ラーメンを食べましたが、とても美味しかったです！| Kinō, Hokkaidō e ikimashita. Sapporo de miso rāmen o tabemashita ga, totemo oishikattadesu! |
+| I made a hotel reservation online last night - we’re going to Kyoto! | 昨晩、オンラインでホテルの予約をしました。京都に行きます！ | Sakuban, onrain de hoteru no yoyaku o shimashita. Kyōto ni ikimasu! |
+| It’s good weather today, so I’m going to play football in the park with my family | 今日は天気がいいので、家族と公園でサッカーをします。 | Kyō wa tenki ga īnode, kazoku to kōen de sakkā o shimasu. |
+| Shall we watch an anime on TV this evening? Or shall we go out? | 今晩はテレビでアニメを見ましょうか。それとも、出かけましょうか。 | Konban wa terebi de anime o mimashou ka. Soretomo, dekakemashou ka. |
+
+---
+
 ## Notes
 
 - Rule number 1: Don't skip anything

@@ -19,6 +19,112 @@ Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-1
 
 ---
 
+## Short list
+
+### Phrases
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Name | 名前 | namae |
+| Pleased to meet you | どうぞよろしく | dōzo yoroshiku |
+| Where are the toilets? | トイレはどこですか | toire wa doko desu ka |
+| Anything else? | 他にご注文は | hoka ni go-chūmon wa |
+| How much is that? | いくらですか | ikura desu ka |
+| [x] please | [x]（を）お願いします | [x] (o) onegai shimasu |
+
+### Food and drink
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| black coffee | ブラックコーヒー | burakku kōhī |
+| black tea (literally *red tea*) | 紅茶 | kōcha |
+| tea with milk | ミルクティー | miruku tī |
+| green tea | お茶 | ocha |
+| Street stall | 屋台 | yatai |
+| Food truck | キッチンカー | kicchin kā |
+| Informal pub | 居酒屋 | izakaya |
+| Water | 水 | mizu |
+| Breakfast | 朝食 | chōshoku |
+| fruit | 果物 | kudamono |
+| drinks | 飲み物 | nomimono |
+| vegetables | 野菜 | yasai |
+| snacks | お菓子 | okashi |
+| chicken | 鶏肉 | toriniku |
+| duck | 鴨肉 | kamoniku |
+| meat | 肉 | niku |
+| pork | 豚肉 | butaniku |
+| beef, sliced, cooked at the table | すき焼き | sukiyaki |
+| deep-fried chicken | 唐揚げ | karaage |
+| chicken skewers | 焼き鳥 | yakitori |
+| meatballs | 肉団子 | nikudango |
+| meat or veg skewers | 串揚げ | kushiage |
+| fried noodles | 焼きそば | yakisoba |
+| miso ramen | 味噌ラーメン | miso rāmen |
+| soba | そば | soba |
+| udon | うどん | udon |
+| boxed lunch | 弁当 | bentō |
+| set meal | 定食 | teishoku |
+
+### Places
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Hot springs | 温泉 | onsen |
+| Public bathhouse | 銭湯 | sentō |
+| bakery | パン屋 | panya |
+| convenience store | コンビニ | konbini |
+| bookshop | 本屋 | honya |
+
+### Numbers
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| 1 | 一 | ichi |
+| 2 | 二 | ni |
+| 3 | 三 | san |
+| 4 | 四 | shi/yon |
+| 5 | 五 | go |
+| 6 | 六 | roku |
+| 7 | 七 | shichi/nana |
+| 8 | 八 | hachi |
+| 9 | 九 | kyū |
+| 10 | 十 | jū |
+
+### Is
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| is | です | desu |
+| is not | ではありません | dewa arimasen |
+| was | でした | deshita |
+| was not | ではありませんでした | dewa arimasen deshita |
+| have / there is [people] | います | imasu |
+| have / there is [objects] | あります | arimasu |
+
+### Adjectives
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Big | 大きい | ōkii |
+| Small | 小さい | chiisai |
+| Hot (weather) | 暑い | atsui |
+| Hot (material) | 熱い | atsui |
+| Cold (weather) | 寒い | samui |
+| Cold (material) | 冷たい | tsumetai |
+
+### Health
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| doctor | 医者 | isha |
+| dentist | 歯医者 | ha-isha |
+| I have a pain in my lower back | 腰が痛いです | koshi ga itai desu |
+| I don't feel well | 調子が悪いです | chōshi ga warui desu |
+| chemist | 薬局 | yakkyoku |
+| pharmacy | 薬屋 | kusuriya |
+
+---
+
 ## Week 1: Introductions
 
 | English | Kanji/Kana | Rōmaji |
@@ -41,6 +147,25 @@ Notes from [DK 15 minute Japanese](https://dk.com/en-us/products/9781465479396-1
 | was not | ではありませんでした | dewa arimasen deshita |
 | have / there is [people] | います | imasu |
 | have / there is [objects] | あります | arimasu |
+| Station | 駅 | eki |
+| Platform | ホーム | hōmu |
+| Train | 電車 | densha |
+| Ticket | 切符 | kippu / ticketto |
+| Single | 片道 | katamichi |
+| Return | 往復 | ōfuku |
+| To go | 行く | iku |
+| Going | 行きま | ikimasu |
+| Gone | 行きました | ikimashita |
+| Not going | 行きません | ikimasen |
+| Did not go | 行きませんでした | ikimasen deshita |
+| I didn't go to Tokyo by train yesterday | 昨日 電車で 東京に 行きません でした | kinō densha de Tōkyō ni ikimasen deshita |
+| To take | 乗る | noru |
+| I took a taxi | タクシーに乗りました | takushī ni norimashita |
+| Bus | バス | basu |
+| Bus stop | バス停 | basu-tei |
+| Metro | 地下鉄 | chikatetsu |
+| Line/route | 路線 | rosen |
+| Fare | 運賃 | unchin |
 
 ## Week 2: Eating and drinking
 
