@@ -6,7 +6,7 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 
 <h4>Vocation</h4>
 
-- ➙ Continued recommitment to CHR
+- ↠ Continued recommitment to CHR
 - ✔ ~~[DDD Melbourne 20/02/2027 CFP](https://sessionize.com/ddd-melbourne-2027) (deadline: 30 September)~~
 - ✔ ~~Prepare mobile SR testing workshop for DADG (Tue 29)~~
 - ✔ ~~CHR, especially for evals work: clear, human, realistic~~
@@ -16,23 +16,35 @@ Yielding as **connection between [poles](/thinking/map/#conceptual)**.
 
 <h4>Health</h4>
 
-- ➙ The Triple Gym **Flywheel**: \*pack
+- ↠ The Triple Gym **Flywheel**: \*pack
 
 <h4>Interests</h4>
 
-- ➙ Japlanning
-- Elden Waterthrough
-- Soxmas watercolour
+- ↠ Japlanning
+- ↠ Elden Waterthrough
+- ↠ Soxmas watercolour
 - ✔ ~~Read Japan-related stuff for fun, not for planning~~
 - ✔ ~~[Bee in the City](https://beeinthecity.org.nz/#:~:text=A%20sneak%20peek), after 14th~~
-- Read up on footloose
+- ✗ ~~Read up on footloose~~
 - ✔ ~~Read some Japan-related books~~
 - ✔ ~~Reposition plants~~
 
 <h4>Practice</h4>
 
-- ➙ Support: brace, buttress, bulwark
+- ↠ Support: brace, buttress, bulwark
 - ✔ ~~Sit a.m., sit p.m.~~ (going steady)
 - ✗ ~~Gathas~~
 
 Archives: [month 09](/2026/09/); [week 35](/2026/week/35/); [week 36](/2026/week/36/); [week 37](/2026/week/37/); [week 38](/2026/week/38/).
+
+#### End of month review: September
+
+- Vocation
+    - Pretty good by the numbers. Pitch in a few pitches. Ran a mobile ST workshop.
+    - But/and not feeling good about the company and the work.
+- Health
+    - Generally pretty good, hitting about ⅔rds.
+- Interests
+    - Pretty good! Watercolouring, slowly. Lots of Japlanning.
+- Practice
+    - Good. Solid in the mornings, fairly solid in the evenings.
