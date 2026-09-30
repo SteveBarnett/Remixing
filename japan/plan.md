@@ -22,10 +22,6 @@ Maps:
 
 ## TODO
 
-- [ ] Language stuff
-    - [ ] Make short list from [15m](/japan/15-minute-japanese/)
-    - [ ] Make short list from [Unlocking](/japan/unlocking-japanese/)
-    - [x] Add toggle to Unlocking
 - [ ] Journalling
     - [x] ~~Have a look at current stash of sketchbooks~~
     - [ ] Poke around Daiso: tall, thin?
@@ -74,6 +70,10 @@ Maps:
 ### Done
 </summary>
 <div markdown="1">
+- [x] Language stuff
+    - [x] Make short list from [Unlocking](/japan/unlocking-japanese/)
+    - [x] Make short list from [15m](/japan/15-minute-japanese/)
+    - [x] Add toggle to Unlocking
 - [x] Update AirBnB details in calendar
     - [x] Tokyo part 1
     - [x] Kyoto
