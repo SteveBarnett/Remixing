@@ -23,9 +23,9 @@ Maps:
 ## TODO
 
 - [ ] Language stuff
-    - [ ] Make short list from 15m
-    - [ ] Add toggle to Unlocking
-    - [ ] Make short list from Unlocking
+    - [ ] Make short list from [15m](/japan/15-minute-japanese/)
+    - [ ] Make short list from [Unlocking](/japan/unlocking-japanese/)
+    - [x] Add toggle to Unlocking
 - [ ] Journalling
     - [x] ~~Have a look at current stash of sketchbooks~~
     - [ ] Poke around Daiso: tall, thin?
@@ -61,8 +61,6 @@ Maps:
         - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
-- [ ] Print
-    - [ ] AirBnB, with addresses!
 - [ ] Customs
     - [ ] Look into filling in [Visit Japan Web](https://www.vjw.digital.go.jp/)
 - [ ] Kanazawa - Sun 25 to Sat 31
@@ -128,13 +126,13 @@ Maps:
 
 No buses or local trains with luggage, take a taxi instead!
 
-| Date | Route | Checkout | To the station | Train | From the station | Check-in |
+| Date | Route | Check out | 🚕 to stn | Train | 🚕 from stn | Check-in |
 |---|---|---|---|---|---|---|
-| Tue 13 Oct | Narita Airport to Tokyo | n/a | n/a | Narita Express, Narita airport to Shinagawa, about 1h | About 8m drive to AirBnB | After 4pm |
-| Thu 15 Oct | Tokyo to Kyoto | 10am | About 8m drive to Shinagawa station | Tokaido Shinkansen, Shinagawa to Kyoto, about 2h | About 20m drive to AirBnB | After 3pm |
-| Tue 20 Oct | Kyoto to Osaka | 11am | About 15m drive to Kyoto station | Haruka, Thunderbird, or A Tokaido Line, Kyoto to Osaka station (not Shin-Osaka or Osaka-Umeda), about 30m | About 10m drive to AirBnB | After 4pm |
-| Thu 22 Oct | Osaka to Tokyo | 10am | About 15m drive to Shin-Osaka station | Tokaido Shinkansen, Shin-Osaka to Shinagawa, about 2h30m | About 30m drive to AirBnB | After 3pm |
-| Sun 25 Oct | Tokyo to Narita Airport | 10am | Not given | Narita Express, Shinagawa to Narita airport, about 1h | n/a | n/a |
+| Tue 13 | Airport to Tokyo | - | - | **Narita Express** to Shinagawa - about 1h | 10m | 4pm |
+| Thu 15 | Tokyo to Kyoto | 10am | 10m | **Tokaido Shinkansen**, Shinagawa to Kyoto - about 2h | 20m | 3pm |
+| Tue 20 | Kyoto to Osaka | 11am | 15m | **Haruka, Thunderbird, or A Tokaido Line**, Kyoto station to Osaka station (not Shin-Osaka or Osaka-Umeda) - about 30m | 10m | 4pm |
+| Thu 22 | Osaka to Tokyo | 10am | 15m | **Tokaido Shinkansen**, Shin-Osaka to Shinagawa - about 2h30m | 30m | 3pm |
+| Sun 25 | Tokyo to Airport | 10am | 30m | **Narita Express**, Shinagawa to Narita airport - about 1h | - | - |
 
 <details>
 <summary markdown="1">
