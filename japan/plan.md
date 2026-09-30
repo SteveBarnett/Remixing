@@ -61,6 +61,7 @@ Maps:
     - [ ] Look into filling in [Visit Japan Web](https://www.vjw.digital.go.jp/)
 - [ ] Kanazawa - Sun 25 to Sat 31
     - [x] ~~Figure out where~~
+    - No IC coverage?
     - [ ] Ryokan for some days?
     - [ ] Plan trains
     - Fly back at 6:30pm
