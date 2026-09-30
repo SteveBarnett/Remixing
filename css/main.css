@@ -809,19 +809,27 @@ main > ul:first-of-type {
 }
 
 .hide-en {
-  table tr td:nth-of-type(1) {
+  table:not(.show-all) tr td:nth-of-type(1) {
     color: transparent;
   }
 }
 
 .hide-ka {
-  table tr td:nth-of-type(2) {
+  table:not(.show-all) tr td:nth-of-type(2) {
     color: transparent;
   }
 }
 
 .hide-ro {
-  table tr td:nth-of-type(3) {
+  table:not(.show-all) tr td:nth-of-type(3) {
     color: transparent;
   }
+}
+
+button + button {
+  margin-left: 1em;
+}
+
+button[aria-pressed="true"] {
+  filter: invert(1);
 }
