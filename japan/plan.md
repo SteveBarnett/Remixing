@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 - Timezone: Japan is 3 hours behind NZ
@@ -29,7 +29,8 @@ Maps:
         - First, check
             - [ ] Settings > General > About - EID
             - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
-    - [ ] Buy eSIM for O, 15 days
+        - [ ] Buy eSIM for O, 15 days
+        - [ ] In app, "Install your eSIM", "Activate"
     - [x] ~~[Research](#esims)~~
         - Your data plan will activate upon arrival at destination
     - [x] ~~Discuss with O~~
