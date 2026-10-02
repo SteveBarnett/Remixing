@@ -3,11 +3,11 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-09-30
+updated: 2026-10-02
 ---
 
-Timezone: Japan is 3 hours behind NZ
-Note: 100 yen is about 1 NZD
+- Timezone: Japan is 3 hours behind NZ
+- Note: 100 yen is about 1 NZD
 
 Maps:
 
@@ -22,10 +22,6 @@ Maps:
 
 ## TODO
 
-- [ ] Journalling
-    - [x] ~~Have a look at current stash of sketchbooks~~
-    - [ ] Poke around Daiso: tall, thin?
-    - [ ] Quick look at GH too
 - [ ] eSIMs
     - [x] ~~Add Ubigi app to my phone~~
     - [x] ~~Buy eSIM for me, 30 days~~
@@ -48,13 +44,13 @@ Maps:
 - [ ] Trains!
     - [ ] Chat to O and buy/book stuff
         - [ ] https://smart-ex.jp/en/
-    - [ ] https://go.jreast.co.jp/
+    - [ ] For me: https://go.jreast.co.jp/
         - [ ] Or sign up at EkiNet for second part of trip
     - [x] ~~Sign up at SmartEX for first part of trip~~
     - [x] ~~Check: what do shinkansen reservations cost?~~ (not much!)
     - [x] ~~Getting a suica card~~
         - ~~[IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)~~
-        - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travelers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
+        - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travellers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
 - [ ] Customs
@@ -71,6 +67,10 @@ Maps:
 ### Done
 </summary>
 <div markdown="1">
+- [x] Journalling
+    - [x] ~~Have a look at current stash of sketchbooks~~
+    - [x] Poke around Daiso: tall, thin?
+    - [x] Quick look at GH too
 - [x] Language stuff
     - [x] Make short list from [Unlocking](/japan/unlocking-japanese/)
     - [x] Make short list from [15m](/japan/15-minute-japanese/)
