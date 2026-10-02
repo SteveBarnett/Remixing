@@ -54,7 +54,9 @@ Maps:
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
 - [ ] Customs
-    - [ ] Look into filling in [Visit Japan Web](https://www.vjw.digital.go.jp/)
+    - [ ] Register and complete [Visit Japan Web](https://www.vjw.digital.go.jp/)
+        - One QR code each
+            - Screenshot it
 - [ ] Kanazawa - Sun 25 to Sat 31
     - [x] ~~Figure out where~~
     - No IC coverage?
