@@ -20,7 +20,7 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 
 - ➙ Japlanning
 - Japan trip
-- Lots of sketching!
+    - Lots of sketching!
 
 <h4>Practice</h4>
 
@@ -28,4 +28,3 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 - Get NZ forms ready to submit on 12th
 - Sketch out mashup / &times; ideas
     - Keep things fresh
-- Review notebooks and reviewing monthly, yearly reviews.
