@@ -81,3 +81,46 @@ Here are the tables filled in.
 | Some water, please | お水をください | omizu o kudasai |
 | Free | 無料 | muryō |
 | Water is over there | お水はあちらにあります | omizu wa achira ni arimasu |
+
+## Travel phrases
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Do you speak English? | 英語がわかりますか | Eigo ga wakarimasu ka |
+| Sorry | すみません | Sumimasen |
+| I don't understand | わかりません | Wakarimasen |
+| I understand | わかりました | Wakarimashita |
+| Please wait a moment | ちょっと待ってください | Chotto matte kudasai |
+| Where is [place]? | [place]はどこですか | [place] wa doko desu ka |
+| Toilet | トイレ | toire |
+| station | 駅 | eki |
+| Shibuya station | 渋谷駅 | Shibuya eki |
+| -line | ー線 | -sen |
+| Yamanote line | 山手線 | Yamanote-sen |
+| Do you have X? | Xはありますか | X wa arimasu ka |
+| English menu | 英語のメニュー | Eigo no menyū |
+| Recommendation | おすすめ | Osusume |
+| To [place], please | [place]までお願いします | [place] made onegaishimasu |
+| I want to go to [place] | [place]に行きたいです | [place] ni ikitai desu |
+| Is this bus going to [place]? | このバスは[place]に行きますか | Kono basu wa [place] ni ikimasu ka |
+| Train | 電車 | densha |
+| How much is this? | これはいくらですか | Kore wa ikura desu ka |
+| That (near you) | それ | sore |
+| That (over there) | あれ | are |
+| Can I use credit card? | クレジットカードは使えますか | kurejitto kādo wa tsukaemasu ka |
+| Apple Pay | アップルペイ | Appuru pei |
+| IC Card | ICカード | ai-shī kādo |
+| Suica | スイカ | Suica |
+| By cash, please | 現金でお願いします | Genkin de onegaishimasu |
+| Certainly, I'll show you to your seat | かしこまりました。ご案内いたします | Kashikomarimashita. Goannai itashimasu |
+| One | 一つ | hitotsu |
+| Two | 二つ | futatsu |
+| Three | 三つ | mittsu |
+| Four | 四つ | yottsu |
+| Five | 五つ | itsutsu |
+| Three of these, please | これを三つください | Kore o mittsu kudasai |
+| Plastic bag | 袋 | fukuro |
+| Thank you for the meal | ごちそうさまでした | Gochisōsama deshita |
+| Would you like me to heat up your bento? | お弁当は温めますか | Obentō wa atatamemasu ka |
+| Could you take a picture for me please? | 写真を撮っていただけますか | Shashin o totte itadakemasu ka |
+| Picture is okay? | 写真、いいですか | Shashin, ii desu ka |
