@@ -3,7 +3,7 @@ layout: page
 title: Living life on life's terms
 notes: true
 added: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-04
 ---
 
 ## Raw notes
