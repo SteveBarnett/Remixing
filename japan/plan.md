@@ -22,27 +22,8 @@ Maps:
 
 ## TODO
 
-- [ ] eSIMs
-    - [x] ~~Add Ubigi app to my phone~~
-    - [x] ~~Buy eSIM for me, 30 days~~
-    - [ ] Add Ubigi app to O's phone
-        - First, check
-            - [ ] Settings > General > About - EID
-            - [ ] Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No
-        - [ ] Buy eSIM for O, 15 days
-        - [ ] In app, "Install your eSIM", "Activate"
-    - [x] ~~[Research](#esims)~~
-        - Your data plan will activate upon arrival at destination
-    - [x] ~~Discuss with O~~
-- [ ] Suica
-    - [x] ~~Add a card to my phone~~
-    - [ ] Add a card to O's phone
-        - [ ] And Suica app to see the full number
-        - [ ] [Welcome Suica](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html)?
-        - [ ] [Tourist Pasmo](https://www.pasmo.co.jp/tourist-pasmo/)?
-- [ ] Taxi prep
-    - [ ] Add Uber and Didi and Go taxi to O's phone
 - [ ] Trains!
+    - [ ] Research [NEX tickets](https://www.jreast.co.jp/en/multi/nex/tickets/)
     - [ ] Chat to O and buy/book stuff
         - [ ] https://smart-ex.jp/en/
     - [ ] For me: https://go.jreast.co.jp/
@@ -54,10 +35,14 @@ Maps:
         - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travellers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
     - [x] ~~List all the trips, with dates~~
     - [x] ~~JR Pass(es)~~
-- [ ] Customs
-    - [ ] Register and complete [Visit Japan Web](https://www.vjw.digital.go.jp/)
+- [x] ~~Customs~~
+    - [x] ~~Register and complete [Visit Japan Web](https://www.vjw.digital.go.jp/)~~
         - One QR code each
             - Screenshot it
+- [ ] Tea ceremony
+    - https://mai-ko.com/culture/tea-ceremony/
+- [ ] Food tour
+    - Where?
 - [ ] Kanazawa - Sun 25 to Sat 31
     - [x] ~~Figure out where~~
     - No IC coverage?
@@ -70,6 +55,26 @@ Maps:
 ### Done
 </summary>
 <div markdown="1">
+- [x] ~~Suica~~
+    - [x] ~~Add a card to my phone~~
+    - [x] ~~Add a card to O's phone~~
+        - [x] ~~And Suica app to see the full number~~
+        - [x] ~~[Welcome Suica](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html)?~~
+        - [x] ~~[Tourist Pasmo](https://www.pasmo.co.jp/tourist-pasmo/)?~~
+- [x] ~~Taxi prep~~
+    - [x] ~~Add Uber and Didi and Go taxi to O's phone~~
+- [x] ~~eSIMs~~
+    - [x] ~~Add Ubigi app to my phone~~
+    - [x] ~~Buy eSIM for me, 30 days~~
+    - [x] ~~Add Ubigi app to O's phone~~
+        - ~~First, check~~
+            - [x] ~~Settings > General > About - EID~~
+            - [x] ~~Settings > General > About, scroll to Carrier Lock / Service Provider Lock - No~~
+        - [x] ~~Buy eSIM for O, 15 days~~
+        - [x] ~~In app, "Install your eSIM", "Activate"~~
+    - [x] ~~[Research](#esims)~~
+        - Your data plan will activate upon arrival at destination
+    - [x] ~~Discuss with O~~
 - [x] Journalling
     - [x] ~~Have a look at current stash of sketchbooks~~
     - [x] Poke around Daiso: tall, thin?
