@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 - Timezone: Japan is 3 hours behind NZ
@@ -43,9 +43,11 @@ Maps:
     - https://mai-ko.com/culture/tea-ceremony/
 - [ ] Food tour
     - Where?
-- [ ] Kanazawa - Sun 25 to Sat 31
-    - [x] ~~Figure out where~~
-    - No IC coverage?
+- [ ] ??? - Sun 25 to Sat 31
+    - 6 nights, then back to Tokyo
+    - [ ] Figure out where
+        - [ ] Eyeball [Shinkansen map](https://www.japan-guide.com/e/e2018.html) for ideas
+        - Kanazawa
     - [ ] Ryokan for some days?
     - [ ] Plan trains
     - Fly back at 6:30pm
