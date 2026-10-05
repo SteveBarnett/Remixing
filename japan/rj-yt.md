@@ -3,10 +3,8 @@ layout: page
 title: Japanese on YouTube
 japan: true
 added: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
-
-Here are the tables filled in.
 
 ## Konbini
 
