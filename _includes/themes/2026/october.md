@@ -18,8 +18,8 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 
 <h4>Interests</h4>
 
-- ➙ Read "Experience Japan"
-- Japlanning
+- ➙ Japlanning
+- ✔ ~~Read "Experience Japan"~~
 - 日本で: lots of sketching!
 
 <h4>Practice</h4>
