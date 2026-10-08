@@ -3,7 +3,7 @@ layout: page
 title: "My Japan plan"
 japan: true
 added: 2025-07-23
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 - Timezone: Japan is 3 hours behind NZ
@@ -23,31 +23,14 @@ Maps:
 ## TODO
 
 - [ ] Trains!
-    - [ ] Research [NEX tickets](https://www.jreast.co.jp/en/multi/nex/tickets/)
-    - [ ] Chat to O and buy/book stuff
-        - [ ] https://smart-ex.jp/en/
-    - [ ] For me: https://go.jreast.co.jp/
-        - [ ] Or sign up at EkiNet for second part of trip
-    - [x] ~~Sign up at SmartEX for first part of trip~~
-    - [x] ~~Check: what do shinkansen reservations cost?~~ (not much!)
-    - [x] ~~Getting a suica card~~
-        - ~~[IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)~~
-        - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travellers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
-    - [x] ~~List all the trips, with dates~~
-    - [x] ~~JR Pass(es)~~
-- [x] ~~Customs~~
-    - [x] ~~Register and complete [Visit Japan Web](https://www.vjw.digital.go.jp/)~~
-        - One QR code each
-            - Screenshot it
-- [ ] Tea ceremony
-    - https://mai-ko.com/culture/tea-ceremony/
+    - [ ] Chat to O and buy/book stuff on [SmartEX](https://smart-ex.jp/en/)
+- [ ] [Tea ceremony](https://mai-ko.com/culture/tea-ceremony/)
 - [ ] Food tour
     - Where?
 - [ ] ??? - Sun 25 to Sat 31
     - 6 nights, then back to Tokyo
     - [ ] Figure out where
-        - [ ] Eyeball [Shinkansen map](https://www.japan-guide.com/e/e2018.html) for ideas
-        - Kanazawa
+        - Front runners: Nagano (just over 1h) and Kanazawa (2.5h)
     - [ ] Ryokan for some days?
     - [ ] Plan trains
     - Fly back at 6:30pm
@@ -57,6 +40,31 @@ Maps:
 ### Done
 </summary>
 <div markdown="1">
+- [ ] Sun 25 to Sat 31
+    - [ ] Figure out where
+        - [x] ~~Eyeball [Shinkansen map](https://www.japan-guide.com/e/e2018.html) for ideas~~
+        - [x] ~~Somewhere along Jōetsu Shinkansen?~~
+             - Takasaki
+             - Minakami
+             - Yuzawa
+             - Niigata
+        - [x] ~~Somewhere along Hokuriku Shinkansen?~~
+            - Iiyama
+            - Nagano
+            - Toyama
+            - Kanazawa
+- Trains
+    - [x] ~~Try [Go JREast](https://go.jreast.co.jp/) again~~ (nope)
+    - [x] ~~Sign up at EkiNet for second part of trip~~
+    - [x] ~~Research [NEX tickets](https://www.jreast.co.jp/en/multi/nex/tickets/)~~
+        - Use Ticket Vending Machine
+    - [x] ~~Sign up at SmartEX for first part of trip~~
+    - [x] ~~Check: what do shinkansen reservations cost?~~ (not much!)
+    - [x] ~~Getting a suica card~~
+        - ~~[IC Cards on JG](https://www.japan-guide.com/e/e2359_003.html)~~
+        - ~~[Guide to Welcome Suica Mobile: Transit IC card for overseas travellers now available as a mobile app](https://www.japan-guide.com/ad/welcome-suica-mobile/)~~
+    - [x] ~~List all the trips, with dates~~
+    - [x] ~~JR Pass(es)~~
 - [x] ~~Suica~~
     - [x] ~~Add a card to my phone~~
     - [x] ~~Add a card to O's phone~~
