@@ -2,9 +2,120 @@
 layout: page
 title: Calm in the Storm
 added: 2026-09-09
-updated: 2026-09-26
+updated: 2026-10-06
 zennotes: true
 ---
+
+## Gathered notes
+
+### Preface
+
+- “There is no path to being calm, calmness is the path. There is no way to stability, stability is the way.”
+
+#### The Way Out Is In
+
+- It takes visceral knowing, not intellectual understanding, to bring about fundamental change.
+- accept and engage with our suffering rather than think we can go around it.
+
+### Chapter 1: What Takes Us Far from Home
+
+- These are not failures or flaws, but learned patterns and protective strategies that helped us survive in the past.
+- These reflections are not meant to create judgment, but to spark curiosity.
+
+#### Perfectionism
+
+- kintsugi: Rather trying to hide defects, the application of gold highlights the extraordinary beauty of imperfection and impermanence.
+- Rather than seeing paradoxes as conundrums to be resolved, we can see them as reference points for going deeper into the not knowing.
+- the search for perfection should be replaced with the wish to see life as an endless learning journey.
+- By constantly believing there is another mountain we need to climb, we are unable to fully enjoy this present moment.
+- What perfection tends to block is the importance of vulnerability, being in touch with our softer side, our humility and willingness to make mistakes and apologize for any missteps.
+- Even if we have made a mistake, we can recognize all the other wonderful qualities we have.
+
+#### Striving
+
+- Recognize the energies and habits that bring you suffering; do not shy away from them.
+- Maturity is not to always be solid as a mountain, to be as spacious as the sky. Sometimes it’s just to learn to be still and to accept what is there.
+- What am I competing against? What am I trying to run away from?
+- See what nourishes you in this moment. Don’t use your striving to attack yourself.
+
+### Chapter 2: Our Stories
+
+- Rather than viewing this lack of smooth progress with frustration, the two of us have learned to see this path as an ever-changing kaleidoscope of color and texture.
+
+#### We Are All Refugees
+
+- If we don’t transform it, we will unwittingly offer the same suffering to whoever is close to us.
+
+##### Bullying
+
+- our way of being is itself a teaching, far more powerful than anything we might say.
+
+#### Inner Qualities
+
+- appreciate my inner qualities, recognizing that they had matured in me because of all the pain I had endured, not in spite of it.
+
+### Chapter 3: We Are Not Only Our Stories
+
+- deep listening—without judgment, advice, or interruption. In a world where we are often rushed to “fix” things or respond in order not to feel the pain inside ourselves, this kind of silence is radical.
+- this is not about a quick fix or about erasing our past; it is about opening to the slow accumulation of understanding that comes from deeply listening to our own pain.
+- Healing comes from changing our relationship to our stories.
+
+##### We Are Partly Right
+
+- The hippocampus seeks to simplify our memories, and then we use language to solidify them in our minds.
+- Rather than see these two versions as contradictory, it can be helpful to allow more than one truth.
+
+##### How We Hold Our Stories
+
+- When clients now tell me their deepest fears, I ask them what secret payoff they think they gain from this belief.
+
+### Chapter 4: The Calm
+
+- The invitation is simply to begin again, as many times as needed.
+
+####  Seeing the Good in Ourselves
+
+- If you find it hard to love yourself, try making a list of the good qualities you’ve heard others say that you have.
+- You can also try making a list of the positive attributes you see in others, and notice that you can only perceive them because those qualities also exist in you.
+
+### Chapter 5: Through Any Storm
+
+#### Expressing Generosity
+
+- One simple way of finding our own center, our calm in any storm, is the counter-intuitive practice of reaching out to others with generosity when we ourselves are suffering.
+
+#### Let Go of Attachments
+
+- we may see how we reinforce our beliefs at the expense of our happiness.
+
+#### We Are Not a Blank Sheet of Paper
+
+- we are the result of all the causes and conditions of our ancestry, our culture, and the people in our proximity
+
+#### Are You Sure?
+
+- the superiority complex, the inferiority complex, and the equality complex. each of these three energies is a source of suffering.
+
+### Chapter 6: Practices to Return Home
+
+#### Sitting Meditation
+
+- Our own ideas can get in the way of us thinking we have had a successful or fruitful meditation.
+
+#### Practicing Meditation
+
+- just release it—it’s not going to go anywhere, you can pick it back up later.
+
+#### Walking Meditation
+
+- walking mindfully can help to ease the mind and the body.
+- In stillness, if the mind is overactive, it just takes over and won’t establish a relationship with the body.
+
+### Chapter 7: True Presence
+
+#### Bringing Our Practice into the World
+
+- Don’t just do something, sit there. Sitting there doesn’t mean doing nothing. Sitting there means looking deeply at the causes of our suffering. By doing so, we can start to untangle the complexity of our situation.
 
 ## Raw notes
 
@@ -84,3 +195,111 @@ zennotes: true
 #### Inner Qualities
 
 - **appreciate my inner qualities, recognizing that they had matured in me because of all the pain I had endured, not in spite of it.**
+
+### Chapter 3: We Are Not Only Our Stories
+
+- Those who listen practice **deep listening—without judgment, advice, or interruption.** **In a world where we are often rushed to “fix” things or respond in order not to feel the pain inside ourselves, this kind of silence is radical.**
+- It is a great gift for the person sharing to feel truly being heard, seen, and appreciated. It is a great gift to be present for someone who is able to express vulnerability and tenderness.
+- **this is not about a quick fix or about erasing our past; it is about opening to the slow accumulation of understanding that comes from deeply listening to our own pain.**
+- **Healing comes from changing our relationship to our stories.**
+
+#### The Courage to Change
+
+- We are worried that if we remove that story, we will feel empty and lost.
+
+##### We Are Partly Right
+
+- **The hippocampus seeks to simplify our memories, and then we use language to solidify them in our minds.**
+- in any given situation, we are partly right (and therefore partly wrong).
+- **Rather than see these two versions as contradictory, it can be helpful to allow more than one truth.**
+- These two versions do not cancel each other out. This way of seeing takes us beyond a binary approach to life. We do not need to choose between happiness and sadness—we can experience both at the same time. They inter-are.
+
+##### How We Hold Our Stories
+
+- When I reflected on this, I realized my deepest fear was to be humiliated. My experience of humiliation had been so intense in my early childhood that I never wanted to repeat it. The way to keep safe was to stay hidden away, almost invisible, so this painful feeling did not have a chance to break through my defenses and burst into the open.
+- **When clients now tell me their deepest fears, I ask them what secret payoff they think they gain from this belief.**
+
+### Chapter 4: The Calm
+
+- This part of the journey isn’t about arriving at a fixed destination; it’s about rediscovering that we never truly left—we simply forgot how to be with ourselves.
+- **The invitation is simply to begin again, as many times as needed.**
+
+#### Be Beautiful, Be Yourself
+
+- We need to face the sources of our anxieties and do the loving work to see ourselves clearly. That is the only
+way to bring true stability.
+
+#### Being Alone Without Being Lonely
+
+- Thay once said that we have the equivalent of many doors and windows: our eyes, our ears, our nose, our tongue, our taste, and our mind. If they are open all the time, it impacts our state of being. Mindfulness practitioners learn to intentionally close these windows and doors.
+
+#### Don’t Be Overwhelmed by Your Emotions
+
+- repression may work in the short term, but the pain will find a way to reassert itself—sometimes with even more power and fury.
+
+####  Seeing the Good in Ourselves
+
+- **If you find it hard to love yourself, try making a list of the good qualities you’ve heard others say that you have.**
+- **You can also try making a list of the positive attributes you see in others, and notice that you can only perceive them because those qualities also exist in you.**
+
+### Chapter 5: Through Any Storm
+
+- The perspectives in this section help bridge the inner and the outer, the personal and the collective.
+
+#### Interbeing
+
+- Community is a vital refuge for all of us who aspire to walk this path of calm in the storm.
+
+#### Expressing Generosity
+
+- **One simple way of finding our own center, our calm in any storm, is the counter-intuitive practice of reaching out to others with generosity when we ourselves are suffering.**
+
+#### Let Go of Attachments
+
+- Examining this habit, I see my story was more important than my happiness. If all of us are carefully attentive to our behaviors, **we may see how we reinforce our beliefs at the expense of our happiness.**
+
+#### Dancing at the Edge
+
+- Much of the time we get stuck in our beliefs because we grow comfortable with them, even if they cause suffering in our lives.
+
+#### Reciprocity
+
+- There is no way to happiness, happiness is the way.
+- I decided to allow life to come to me, to move from scale to intimacy.
+
+#### We Are Not a Blank Sheet of Paper
+
+- Non-self can help us to understand that we have not come into this world like a blank sheet of paper—**we are the result of all the causes and conditions of our ancestry, our culture, and the people in our proximity**
+
+#### Are You Sure?
+
+- **the superiority complex, the inferiority complex, and the equality complex. each of these three energies is a source of suffering.**
+
+### Chapter 6: Practices to Return Home
+
+- While insight can open the door to transformation, it is regular, grounded practice that gently carries us across the threshold.
+- They are not separate from life—they are life, lived with intention and love.
+
+#### Sitting Meditation
+
+- **Our own ideas can get in the way of us thinking we have had a successful or fruitful meditation.**
+- When you don’t want to go sit is exactly when you need to go sit
+
+#### Practicing Meditation
+
+- **just release it—it’s not going to go anywhere, you can pick it back up later.**
+
+#### Walking Meditation
+
+- Walking meditation is particularly helpful when facing difficult emotions. When our mind is stirred up, it can be difficult to sit still, but **walking mindfully can help to ease the mind and the body.**
+- There are ways to come into the body that are more accessible in movement. **In stillness, if the mind is overactive, it just takes over and won’t establish a relationship with the body.**
+
+### Chapter 7: True Presence
+
+#### Bringing Our Practice into the World
+
+- There is a saying, Don’t just sit there, do something. Thay reversed that: **Don’t just do something, sit there. Sitting there doesn’t mean doing nothing. Sitting there means looking deeply at the causes of our suffering. By doing so, we can start to untangle the complexity of our situation.**
+
+#### Appreciation
+
+- the eco-philosopher and Buddhist scholar **Joanna Macy**.
