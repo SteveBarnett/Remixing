@@ -3,7 +3,7 @@ layout: page
 title: Little Language List
 japan: true
 added: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 <div id="show-hide-jp">
@@ -35,7 +35,7 @@ updated: 2026-10-05
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
 | How many people? | 何名様ですか | nanmei-sama desu ka |
-| Two person | 二人です | futari desu |
+| Two people | 二人です | futari desu |
 | Two people? | 二名様ですか | nimei-sama desu ka |
 | Right, this way please | はい、こちらへどうぞ | hai, kochira e dōzo |
 
@@ -44,7 +44,7 @@ updated: 2026-10-05
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
 | Something to drink? | お飲み物はいかがですか | o-nomimono wa ikaga desu ka |
-| May I take your order? | ご注文を伺います | go-chūmo o ukagaimasu |
+| May I take your order? | ご注文を伺います | gochūmon o ukagaimasu |
 | May I take your order | ご注文はお決まりですか | gochūmon wa okimari desu ka |
 | Would you like a drink? | お飲み物はいかがですか | onomimono wa ikaga desu ka |
 | Have you decided?<br>(Choice is?) | お決まりですか | okimari desu ka |
@@ -132,7 +132,6 @@ updated: 2026-10-05
 | Can I use credit card? | クレジットカードは使えますか | kurejitto kādo wa tsukaemasu ka |
 | Apple Pay | アップルペイ | Appuru pei |
 | IC Card | ICカード | ai-shī kādo |
-| Suica | スイカ | Suica |
 | By cash, please | 現金でお願いします | Genkin de onegaishimasu |
 
 ## Conversation
@@ -140,7 +139,7 @@ updated: 2026-10-05
 | English | Kanji/Kana | Rōmaji |
 | --- | --- | --- |
 | I ate katsu curry in that restaurant yesterday! | 昨日、あのレストランでカツカレーを食べました | Kinō, ano resutoran de katsukarē o tabemashita! |
-| We want to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious! | 昨日、北海道へ行きました。札幌で味噌ラーメンを食べましたが、とても美味しかったです！| Kinō, Hokkaidō e ikimashita. Sapporo de miso rāmen o tabemashita ga, totemo oishikattadesu! |
+| We went to Hokkaido yesterday - we ate miso ramen in Sapporo. It was delicious! | 昨日、北海道へ行きました。札幌で味噌ラーメンを食べましたが、とても美味しかったです！| Kinō, Hokkaidō e ikimashita. Sapporo de miso rāmen o tabemashita ga, totemo oishikatta desu! |
 | I made a hotel reservation online last night - we’re going to Kyoto! | 昨晩、オンラインでホテルの予約をしました。京都に行きます！ | Sakuban, onrain de hoteru no yoyaku o shimashita. Kyōto ni ikimasu! |
 | Name | 名前 | namae |
 | Pleased to meet you | どうぞよろしく | dōzo yoroshiku |
