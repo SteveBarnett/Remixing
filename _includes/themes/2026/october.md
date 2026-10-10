@@ -26,3 +26,5 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 
 - 日本で: sitting, OBF, 3Us
 - ✔ ~~Support: brace, buttress, bulwark~~
+
+Archives: [month 10](/2026/10/); [week 39](/2026/week/39/); [week 40](/2026/week/40/).
