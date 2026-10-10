@@ -3,7 +3,7 @@ layout: page
 title: Little Language List
 japan: true
 added: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 <div id="show-hide-jp">
@@ -14,6 +14,54 @@ updated: 2026-10-07
 
 * tic
 {:toc}
+
+---
+
+## Short short list
+
+| English | Kanji/Kana | Rōmaji |
+| --- | --- | --- |
+| Do you need a bag? | レジ袋はご利用ですか | reji bukuro wa goriyō desu ka |
+| Yes, please | はい、お願いします | hai, onegaishimasu |
+| No, thank you (lit. it's okay) | いいえ、大丈夫です | iie, daijōbu desu |
+| How many people? | 何名様ですか | nanmei-sama desu ka |
+| Two people | 二人です | futari desu |
+| Two people? | 二名様ですか | nimei-sama desu ka |
+| Something to drink? | お飲み物はいかがですか | o-nomimono wa ikaga desu ka |
+| May I take your order? | ご注文を伺います | gochūmon o ukagaimasu |
+| May I take your order | ご注文はお決まりですか | gochūmon wa okimari desu ka |
+| Have you decided?<br>(Choice is?) | お決まりですか | okimari desu ka |
+| What do you recommend? | おすすめは何ですか | osusume wa nan desu ka |
+| This one, please | これをお願いします | kore o onegaishimasu |
+| Set menu | 定食 | teishoku |
+| Excuse me (calling waitron) | すみません | sumimasen |
+| Do you have yakitori? | 焼き鳥はありますか | yakitori wa arimasu ka |
+| Yes, we do | はい、ございます | hai, gozaimasu |
+| No, we don't have yakitori | 焼き鳥はございません | yakitori wa gozaimasen |
+| Some water, please | お水をください | omizu o kudasai |
+| [said before eating] | いただきます | itadakimasu |
+| [said after eating] | ごちそうさまでした | gochisōsama deshita |
+| The bill, please (usually only izakaya) | お会計お願いします | o-kaikei onegaishimasu |
+| Here's your (bill) slip | 伝票失礼します | denpyō shitsurei shimasu |
+| How would you like to pay? | お支払いはどうなさいますか | oshiharai wa dō nasaimasu ka |
+| Can I use credit card? | クレジットカードは使えますか | kurejitto kādo wa tsukaemasu ka |
+| Apple Pay | アップルペイ | Appuru pei |
+| IC Card | ICカード | ai-shī kādo |
+| By cash, please | 現金でお願いします | Genkin de onegaishimasu |
+| black coffee | ブラックコーヒー | burakku kōhī |
+| black tea (literally *red tea*) | 紅茶 | kōcha |
+| tea with milk | ミルクティー | miruku tī |
+| Do you speak English? | 英語がわかりますか | Eigo ga wakarimasu ka |
+| I don't understand | わかりません | Wakarimasen |
+| I understand | わかりました | Wakarimashita |
+| Where is [place]? | [place]はどこですか | [place] wa doko desu ka |
+| Toilet | トイレ | toire |
+| station | 駅 | eki |
+| Shibuya station | 渋谷駅 | Shibuya eki |
+| -line | ー線 | -sen |
+| Yamanote line | 山手線 | Yamanote-sen |
+| Train | 電車 | densha |
+| How much is this? | これはいくらですか | Kore wa ikura desu ka |
 
 ---
 
@@ -46,7 +94,6 @@ updated: 2026-10-07
 | Something to drink? | お飲み物はいかがですか | o-nomimono wa ikaga desu ka |
 | May I take your order? | ご注文を伺います | gochūmon o ukagaimasu |
 | May I take your order | ご注文はお決まりですか | gochūmon wa okimari desu ka |
-| Would you like a drink? | お飲み物はいかがですか | onomimono wa ikaga desu ka |
 | Have you decided?<br>(Choice is?) | お決まりですか | okimari desu ka |
 | [x] please | [x] お願いします | [x] onegaishimasu |
 | What do you recommend? | おすすめは何ですか | osusume wa nan desu ka |
