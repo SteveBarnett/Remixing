@@ -3,7 +3,84 @@ layout: page
 title: Living life on life's terms
 notes: true
 added: 2026-09-27
-updated: 2026-10-04
+updated: 2026-10-09
+---
+
+* tic
+{:toc}
+
+## Gathered notes
+
+### Front matter
+
+- care as the unifying principle of the hours tasks
+- a life of meaning, connection, and growth.
+
+### Module 1: Embrace life
+
+- the willingness to be shaped by what we meet
+- with a willingness to meet what is here
+- prevent harm where we can, recognise and release what contracts us
+- the courage to respond without securing the outcome.
+- When you sit in meditation you will notice that you don't often have a thought that you haven't had before.
+- when we experience a quiet and clear state, the only thing we need to do is just to be with it and actually not do anything.
+- When you come in from work and you're feeling really overwhelmed, you can focus on the feet, or your hands.
+- When we look at letting go, ... it's useful to note that we have to see that we've been triggered by something that put us into that state.
+- it's important that we don't equate letting go with stopping
+- To prevent unskilful states before they arise, we look at the contributing factors
+- the real world, in which we continually confront problems that challenge our resolve
+- anchoring and exploring, ... cultivating brightness and calmness.
+- acceptance ... "to see and know things as they come to be"
+- "Be alive, be present to what occurs"
+- My way out of tension was to experiment
+
+### Module 2: Let reactivity be
+
+- courage (energy) as the willingness to remain with discomfort long enough to enough to learn from it
+- we do not deny anger, anxiety, or hurt – but we stop tightening around them
+- When we start looking into our own minds, into our reactive patterns, we realise how little control we have other them
+- Reactivity is most insidious in the little things we do all the time
+- In the middle – bodily awareness that we are experiencing reactivity, alongside 'selfing'
+- is the most difficult one
+- when you become aware of it, what goes it the enjoyment and the justification
+- At the beginning – awareness of underlying conditions
+- ""Maybe this time I'll try something different"
+- the Buddha recommended finding ease and comfort and it helps release our reactivity
+- a slightly less reactive state, dwelling in it gladly, enjoying the relief
+- non-reactivity to delight in
+- the Buddha conquers Māra
+- by learning to recognise him
+- Nagarjuna
+- wrote that samsara and nirvana as being one
+- that they have the same horizon, that they occupy the same space.
+- reactivity
+- ends up feeding on things that possibly have no relationship whatsoever with what first triggered that irritation
+- take away the fuel and stop it
+- finding ways to ease and relax the body, we can take away at least some of the power
+- speed and busyness and so just by slowing down you can already lower the heat
+- A lot of the time the problem with letting go is that it suggests you have to 'make it stop.'
+- The task is not to force anything to cease, only to withdraw your contribution to reactivity, to discontinue feeding the fire.
+
+### Module 3: See reactivity stop
+
+- Not triumph, but relief and appreciation when reactivity loosens its grip.
+- seeing gradations and complexity in what initially might seem simple or uniform.
+- the realness and ordinariness and being alive.
+- the feeling tone of mindfulness, of being aware of the present moment non-reactively, feels quite nice. It's a quiet type of pleasure, but our awareness of it can amplify it.
+- Training our perception seasons a state that could feel bland without the spice of appreciation
+
+### Module 4: Actualise a path
+
+- the willingness to try, revise, start again,
+- expressed in cooperation, in accountability, in restraint, in generosity, in the willingness to repair, and in how we help conditions for others to flourish as well.
+- the eightfold path can actually be summed up as taking care.
+- willing to reconsider, that acknowledges one's limitations in terms of knowledge and experience, that is aware of the necessary partiality of our experience.
+- our aversion will stick to the most extreme examples of the view one disagrees with, or treat a crazy exception as the norm.
+- Instead of relating to views and opinions from a binary perspective
+- think of spectrums and gradations
+- adjust our level of certainty
+- Notions of ownership, particularly around creativity, are fundamentally inaccurate.
+
 ---
 
 ## Raw notes
@@ -121,3 +198,59 @@ updated: 2026-10-04
 - **The task is not to force anything to cease, only to withdraw your contribution to reactivity, to discontinue feeding the fire.**
 - ... to stay with the feeling and not go with the story.
 - Another major fuelling mechanism is identification, or self-centredness
+
+### Module 3: See reactivity stop
+
+- These pauses are rarely dramatic.
+- **Not triumph, but relief and appreciation when reactivity loosens its grip.**
+
+#### Chapter 12: Wisdom
+
+- 'Discernment' works well in such discussions with its sense of teasing things apart, of differentiating one thing from another, of **seeing gradations and complexity in what initially might seem simple or uniform.**
+- Wisdom has to do with knowing *correctly*. This means knowing without distortion.
+- The Buddha often describes consciousness as what emerges when a living being, an organism, encounters it environment. A subject needs an object, their contact with one another gives rise to consciousness.
+- The distinction between *knowing what* and *knowing that* - made by British philosopher Gilbert Ryle
+- They key is to recognise the kind of wisdom that best serves us in a given context.
+
+#### Chapter 13: The still point of the turning world
+
+- what we're cultivating isn't about *saying* something, it's about *hearing* something
+- our spiritual desires ... can become reactive, repetitive, compulsive
+- The process itself is rhythmic in the sense that it is both cyclical and progressive.
+- Developing on the path isn't a linear progresssion
+- Zen ... encourages a non-reactive, non-intellectual, inquiry, which opens one up to surprise, to mystery, to wonder.
+
+#### Chapter 14: The experience of awakening
+
+- The idea of water is that we're going down to **the realness and ordinariness and being alive.**
+
+#### Chapter 15: The pleasure of non-reactivity
+
+- We can realise that the quality of mind observing the agitation is not itself agitated. That's quite an important insight.
+- The Buddha described a middle way, neither complacent nor ascetic. He didn't say there's never any problem with pleasure, but neither did he go the other extreme and claim that absolutely anything that feels good is problematic.
+- ... **the feeling tone of mindfulness, of being aware of the present moment non-reactively, feels quite nice. It's a quiet type of pleasure, but our awareness of it can amplify it.**
+- **Training our perception seasons a state that could feel bland without the spice of appreciation**, so we learn to enjoy not just the jam of life, but also the subtler flavours that it offers.
+
+### Module 4: Actualise a path
+
+- Experimentation becomes the creative movement here - **the willingness to try, revise, start again,** and let insight shape how we meet the world.
+- This task asks us to understand awakening as something shared: **expressed in cooperation, in accountability, in restraint, in generosity, in the willingness to repair, and in how we help conditions for others to flourish as well.**
+
+#### Chapter 16: Caring and careful
+
+- I really do think **the eightfold path can actually be summed up as taking care.**
+- We need to question our generalisations regularly, as they can become quite harmful. It's helpful to ask ourselves, "is it true in all conditions, to the same degree?"
+
+#### Chapter 17: Embracing a diversity of voices
+
+- A voice that is **willing to reconsider, that acknowledges one's limitations in terms of knowledge and experience, that is aware of the necessary partiality of our experience.**
+- To feel justified, **our aversion will stick to the most extreme examples of the view one disagrees with, or treat a crazy exception as the norm.**
+- **Instead of relating to views and opinions from a binary perspective** of either agree or disagree, ... **think of spectrums and gradations**.
+- **adjust our level of certainty**
+
+#### Chapter 18: Bringing the dharma to light: a task-based model of mindfulness
+
+- anatta, 'not-self' - the view that things, including ourselves, don't have fixed, immutable essences, don't have the sharp boundaries that we imagine them to have.
+- **Notions of ownership, particularly around creativity, are fundamentally inaccurate.**
+- It does not entail denying or suppressing reactivity. The distance mindfulness provides results from a greater awareness of our reactive processes. It helps us to see our reactivity more clearly, rather than pretend it isn't happening.
+- Ethical mindfulness is necessarily rooted in a non-binary perspective, a non-absolutising perspective. It is attuned to ethical complexity.
