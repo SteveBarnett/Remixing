@@ -27,9 +27,9 @@ Maps:
 - [ ] [Tea ceremony](https://mai-ko.com/culture/tea-ceremony/)
 - [ ] Food tour
     - Where?
-- [ ] ??? - Sun 25 to Sat 31
+- [ ] Kanazawa - Sun 25 to Sat 31
     - 6 nights, then back to Tokyo
-    - [ ] Figure out where
+    - [x] Figure out where
         - Front runners: Nagano (just over 1h) and Kanazawa (2.5h)
     - [ ] Ryokan for some days?
     - [ ] Plan trains
