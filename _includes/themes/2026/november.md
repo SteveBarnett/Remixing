@@ -2,6 +2,9 @@
 
 <h4>Vocation</h4>
 
+- Short post on context switching on PD day (bookmarks and HC posts)
+    - Spreading the time adds a context-switching tax
+    - Deep work, attention residue, etc.
 - Revisit unions, co-ops, collection action, etc
     - What problems am I trying to solve?
     - What outcomes do I want?

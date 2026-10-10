@@ -4,10 +4,10 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 
 <h4>Vocation</h4>
 
-- ➙ Keep it integral
-- Short post on context switching on PD day (bookmarks and HC posts)
+- ↠ Short post on context switching on PD day (bookmarks and HC posts)
     - Spreading the time adds a context-switching tax
     - Deep work, attention residue, etc.
+- ✔ ~~Keep it integral~~
 - ✔ ~~Think about DADG next year~~
 - ✔ ~~Continued recommitment to CHR~~
 
@@ -24,5 +24,5 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 
 <h4>Practice</h4>
 
-- ➙ Support: brace, buttress, bulwark
 - 日本で: sitting, OBF, 3Us
+- ✔ ~~Support: brace, buttress, bulwark~~
