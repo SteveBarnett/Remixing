@@ -7,6 +7,18 @@ layout: page
 
 <p>Books that I've rated 5/5: really good.</p>
 
+<h2>2026</h2>
+
+<ol reversed>
+{% for book in site.data.books2026 %}
+	{%- if book.fivestar -%}
+	<li>
+		<span class="title">{{ book.title }}</span> by <span class="author">{{ book.author }}</span>. Read {{ book. date_read | date: "%d-%m-%Y" }}.
+	</li>
+	{%- endif -%}
+{% endfor %}
+</ol>
+
 <h2>2025</h2>
 
 <ol reversed>
