@@ -2,12 +2,34 @@
 layout: page
 title: Calm in the Storm
 added: 2026-09-09
-updated: 2026-10-06
+updated: 2026-10-12
 zennotes: true
 ---
 
-## Gathered notes
+## Whittled notes
 
+- **There is no path to being calm, calmness is the path**
+- It takes visceral knowing, not intellectual understanding, to bring about fundamental change
+- **Not failures or flaws, but learned patterns and protective strategies** that helped us survive in the past
+    - What secret payoff do you gain from this belief?
+    - We may see how we reinforce our beliefs at the expense of our happiness
+    - **We are the result of all the causes and conditions of our ancestry, our culture, and the people in our proximity**
+- Accept and engage with our suffering rather than think we can go around it
+    - Recognize the energies and habits that bring you suffering; do not shy away from them.
+- **The search for perfection can be replaced with the wish to see life as an endless learning journey**
+    - Don’t use your striving to attack yourself
+    - Rather than viewing the lack of smooth progress with frustration, see this path as an ever-changing kaleidoscope of colour and texture
+- Deep listening - without judgment, advice, or interruption
+- **Healing comes from changing our relationship to our stories**
+- The invitation is simply to begin again, as many times as needed
+- If you find it hard to love yourself, try making a list of the good qualities you’ve heard others say that you have
+    - You can also try making a list of the positive attributes you see in others, and notice that you can only perceive them because those qualities also exist in you
+- **One simple way of finding our own centre, our calm in any storm, is the counter-intuitive practice of reaching out to others with generosity when we ourselves are suffering.**
+- **In stillness, if the mind is overactive, it just takes over and won’t establish a relationship with the body**
+
+<details>
+    <summary><h2>Gathered notes</h2></summary>
+<div markdown="1">
 ### Preface
 
 - “There is no path to being calm, calmness is the path. There is no way to stability, stability is the way.”
@@ -116,9 +138,12 @@ zennotes: true
 #### Bringing Our Practice into the World
 
 - Don’t just do something, sit there. Sitting there doesn’t mean doing nothing. Sitting there means looking deeply at the causes of our suffering. By doing so, we can start to untangle the complexity of our situation.
+</div>
+</details>
 
-## Raw notes
-
+<details>
+    <summary><h2>Raw notes</h2></summary>
+<div markdown="1">
 ### Preface
 
 - Thay would have said: **“There is no path to being calm, calmness is the path. There is no way to stability, stability is the way.”**
@@ -303,3 +328,5 @@ way to bring true stability.
 #### Appreciation
 
 - the eco-philosopher and Buddhist scholar **Joanna Macy**.
+</div>
+</details>
