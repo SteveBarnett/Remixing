@@ -3,17 +3,36 @@ layout: page
 title: Living life on life's terms
 buddhism: true
 added: 2026-09-27
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
-* tic
-{:toc}
+## Whittled notes
 
-## Gathered notes
+- **care** as the unifying principle of the four tasks
+- **a life of meaning, connection, and growth**
+- prevent harm where we can
+- **recognise and release what contracts us**
+- **the courage to respond without securing the outcome**
+- **courage (energy) as the willingness to remain with discomfort long enough to enough to learn from it**
+- we do not deny anger, anxiety, or hurt – but we stop tightening around them
+- reactivity ends up feeding on things that possibly have no relationship whatsoever with what first triggered that irritation
+- take away the fuel and stop it
+    - **The task is not to force anything to cease, only to withdraw your contribution to reactivity**, to discontinue feeding the fire.
+- **just by slowing down you can already lower the heat**
+- **Not triumph, but relief and appreciation when reactivity loosens its grip**
+- the feeling tone being aware of the present moment non-reactively feels quite nice
+    - **a quiet type of pleasure, but our awareness of it can amplify it**
+    - training our perception seasons a state that could feel bland without the spice of appreciation
+- the willingness to try, revise, start again
+- the eightfold path can be summed up as **taking care**
+
+<details>
+    <summary><h2>Gathered notes</h2></summary>
+<div markdown="1">
 
 ### Front matter
 
-- care as the unifying principle of the hours tasks
+- care as the unifying principle of the four tasks
 - a life of meaning, connection, and growth.
 
 ### Module 1: Embrace life
@@ -80,11 +99,12 @@ updated: 2026-10-09
 - think of spectrums and gradations
 - adjust our level of certainty
 - Notions of ownership, particularly around creativity, are fundamentally inaccurate.
+</div>
+</details>
 
----
-
-## Raw notes
-
+<details>
+    <summary><h2>Raw notes</h2></summary>
+<div markdown="1">
 ### Front matter
 
 - sangha - a community of lifelong friends supporting one another on our journey
@@ -254,3 +274,5 @@ updated: 2026-10-09
 - **Notions of ownership, particularly around creativity, are fundamentally inaccurate.**
 - It does not entail denying or suppressing reactivity. The distance mindfulness provides results from a greater awareness of our reactive processes. It helps us to see our reactivity more clearly, rather than pretend it isn't happening.
 - Ethical mindfulness is necessarily rooted in a non-binary perspective, a non-absolutising perspective. It is attuned to ethical complexity.
+</div>
+</details>
