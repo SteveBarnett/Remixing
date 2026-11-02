@@ -28,3 +28,15 @@ Continuing last month's focus: **Yielding** as care, as connection between [pole
 - ✔ ~~Support: brace, buttress, bulwark~~
 
 Archives: [month 10](/2026/10/); [week 39](/2026/week/39/); [week 40](/2026/week/40/).
+
+#### End of month review: October
+
+- Vocation
+    - Mostly Japan trip
+    - Okay before that
+- Health
+    - Great! So much walking
+- Interests
+    - Mostly Japan trip
+- Practice
+    - Great! Still sitting. Plus used grips well.
