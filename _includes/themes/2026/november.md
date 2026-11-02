@@ -36,3 +36,5 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
 - ➙ Make a new "wide" Impact Map
 - Sketch out mashup / &times; ideas
     - Keep things fresh
+
+Archives: [month 11](/2026/11/); [week 44](/2026/week/44/).
