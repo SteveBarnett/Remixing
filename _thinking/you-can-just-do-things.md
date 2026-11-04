@@ -3,10 +3,87 @@ layout: page
 title: You Can Just Do Things
 philosophy: true
 added: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
-## Gathered notes
+## Notes notes
+
+- What identity beliefs are limiting me?
+    - Loosen the tight sense of self
+    - Fear-based beliefs, shame
+- Sceptic, questioner, curious approach
+- Growth mindset
+- Grips and silly/fun tricks/names to get things moving, and done
+- Enneagram
+    - Core fear: Corruptness, imbalance, being bad
+    - Trap: Perfection
+    - Temptation: Hypocrisy, hypercriticism
+    - Stress/Disintegration: Individualist, Romantic
+    - Security/Integration: Enthusiast, Epicure
+- Focus more on the trying than the planning/evaluating, or succeeding
+- Bypass the overthinking and analysing, and just get started with something tiny
+- Remove the path of escape so that you'll get creative with the solution
+    - (But, careful! Need relaxedness and openness for creativity.)
+
+<details>
+    <summary><h2>Whittled notes</h2></summary>
+<div markdown="1">
+- agency: the capacity to see and act on degrees of freedom that other people see as constraints
+    - defy the inner critic and societal pressure
+    - our default is to accept these, as mandatory
+- Break through the fictitious barriers of life and only be limited by real barriers
+
+### Section I: Wake Up and Move
+
+- What identity beliefs are limiting you?
+    - Experiential evidence adds weight to these
+- What are you refusing to think about it because it's world- or behaviour-changin-ly scary?
+- Which do you care about, but never devote time or money to?
+- What habits would you hate to pass on?
+- For things you haven't made progress on: why?
+- Self-deception requires more mental energy than telling the truth
+- Silly tactics are fine, if they work
+- We need reliable feedback to make reliable progress
+    - Be good, graceful, grateful, at receiving feedback
+- Making it okay to discuss difficult things is a valuable pressure release value
+
+### Section II: Be Willing to Look Stupid
+
+- Stop taking the "Path of Least Embarrassment"
+    - It will be uncomfortable for a long while, though!
+- Unusual ways of acting can be very effective
+- Decrease your fear of, and sensitivity to, rejection by making audacious requests
+    - Unreasonable requests can lead to productive conversations
+
+### Section III: Get Out of Your Lane
+
+- Grow by transcending the categories you've put yourself in
+- Negative identity thoughts are self-fulfilling prophecies
+- False beliefs become a lens, so they become backgrounded
+- Things that feel awkward or embarrassing are a signal of somewhere you can make progress quickly
+- Core fears provided by the Enneagram
+
+### Section IV: Walk Through Walls
+
+- Most tasks are made more difficult by believing they will be difficult
+- Make more attempts at things
+- Air Your Weirdness
+- Pick the scary goal of really wanting to do things or the comforting goal of hanging on to safety
+- Approach restrictions with a puzzle-solving mindset
+
+### Section V: Find Your Limits
+
+- A commitment system is built out of forcing functions: mechanisms that make failure harder than success
+- When you set one up correctly, doing the desired thing becomes the path of least resistance
+- When the path to escape is removed, the full force of your ingenuity is directed toward the goal
+- For a forcing function to be effective, it needs two things: real accountability and real consequences
+- The improvement came not from explicit reasoning but from getting reasoning out of the way, and letting a deeper, more intuitive system take 
+</div>
+</details>
+
+<details>
+    <summary><h2>Gathered notes</h2></summary>
+<div markdown="1">
 
 ### Introduction
 
@@ -114,8 +191,12 @@ updated: 2026-11-02
 - The improvement came not from explicit reasoning but from getting reasoning out of the way, and letting a deeper, more intuitive system take
 - often, the path to unusual competence looks like being a bit stupid in the short term—slowing down and questioning what you’re doing rather than following the automatic habit.
 - The limit is really how much trouble you’re willing to get into.
+</div>
+</details>
 
-## Raw notes
+<details>
+    <summary><h2>Raw notes</h2></summary>
+<div markdown="1">
 
 ### Introduction
 
@@ -363,3 +444,5 @@ updated: 2026-11-02
 - **The improvement came not from explicit reasoning but from getting reasoning out of the way, and letting a deeper, more intuitive system take**
 - **often, the path to unusual competence looks like being a bit stupid in the short term—slowing down and questioning what you’re doing rather than following the automatic habit.**
 - **The limit is really how much trouble you’re willing to get into.**
+</div>
+</details>
