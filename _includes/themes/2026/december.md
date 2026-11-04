@@ -18,6 +18,7 @@
 
 <h4>Interests</h4>
 
+- Play some (more) games set in Japan
 
 <h4>Practice</h4>
 
