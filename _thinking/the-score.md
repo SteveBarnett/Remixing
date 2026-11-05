@@ -3,10 +3,323 @@ layout: page
 title: The Score
 philosophy: true
 added: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-05
 ---
 
-## Gathered notes
+## Notes notes
+
+### Metrics
+
+- The nature of metrics discourages playfulness
+    - They encourage optimisation, value capture
+    - They resist adjustment and tailoring
+    - They're deeply insensitive to intimate, small-scale senses of meaning
+    - Metrics discourage reflective control
+    - Metrics offer a universal and easily communicable value system. They promise social value clarity
+    - The nature of metrics discourages reflective control, because metrics are pervasive and present themselves as universal.
+    - They reduce our exposure to deeply different modes of valuing, which erodes our reflective control
+- The standardizing pressure of metrics is a crucial part of their function. What metrics do for us is bound up, inextricably, with what they do to us.
+    - They reduce diversity and variety.
+    - Metrics push us to standardize our values.
+- Metrics are a world-transforming form of technology
+- Metrics set what matters to us collectively. They are technology that standardizes values.
+- we diversified our metrics, they would then fail to serve their final and most important function: to centralize how we measure values.
+- Metrics make it easy to stop engaging in the practice of fine-tuning our values, to lose touch with the feedback of our sensations.
+- Metrics are a technology that centralizes the process of meaning-making. So metrics de-skill us for the process of setting our own sense of meaning.
+- Metrics are mechanical scoring systems tuned to work at scale; they are standardized and rigidified to serve the purpose of massive coordination. Games use mechanical scoring systems for local purposes, under local control.
+- The designed portability of metrics is essentially at odds with the richness of human value
+- These are the two masks of metrics, which conceal our freedom to choose: the mask of fake objectivity and the mask of seductive clarity.
+    - metrics gave the appearance of objectivity—which lets their users avoid taking responsibility.
+    - Metrics discourage reflection and exploration by creating a facade of objectivity
+    - Reflective control involves making a choice, but metrics disguise and rewrite the situation so that we don’t realize there was a space for choice
+    - metrics offer us the pleasures of seductive clarity. They make things look so simple that we won’t think there is anything else to investigate.
+- Metrics foster systematic testimonial injustice against anybody who doesn’t speak in the language of metrics. They siphon credibility away from anybody still dedicated to subtle values.
+- Metrics are an engineered language of fast universal justifications. They help us coordinate our actions because they coordinate what we recognize as success.
+
+#### Resistance
+
+- If metrics conceal the possibility of choice, then the response is exposure: to encounter a greater variety of activities and values in the world.
+- If metrics push us to quickly dismiss new values alternatives, then the response is openness: the attitude of paying attention and taking seriously new alternatives.
+- If metrics push us to settle our minds, then the response is to explore: to continually seek out new ideas, new experiences, and new kinds of meaningfulness in the world.
+- The price of holding on to such attitudes—and the weirder values they push you toward—is rendering yourself incomprehensible to the wider world. And there are so many forces pulling in the opposite direction.
+
+### Value capture
+
+- "Value capture": a rigid attachment to an external system of values, without adapting them.
+    - chasing what’s easy to count, not what’s really important
+    - With value capture, you are setting your values using tools that are designed to be rigid, inflexible, and insensitive—precisely so they can be instantly comprehensible at scale.
+- The aesthetic attitude is an antidote to value collapse.
+
+### Measurability
+
+- what’s easily measurable is rarely the same as what’s really valuable
+    - some are harder to measure because they are more variable, more personal, or more delicate
+    - What’s meaningful is intimate and unpredictable, is hard to classify
+    - Much of our sense of meaning and worth is peculiar, personal, and local
+    - Data-based approaches are incredibly powerful, but they narrow our focus to the parts of the world that are easier to quantify
+- "The Gap" the distance between what’s being measured and what actually matters
+    - between the complexity of genuine effectiveness and the easier-to-measure quality of pipeline efficiency
+
+### Striving play
+
+- In "striving play", we adopt a goal in order to have the struggle that we really want.
+    - In normal life, we struggle in order to attain some goal that we really want
+    - Chasing the goal in order to have the struggle
+    - we pick the goals and restrictions to engineer a particular quality of action
+    - Caring about experiences that come from trying hard to win, but not about winning itself
+
+### Games
+
+- To play a game is to voluntarily take on unnecessary obstacles to make possible the activity of struggling to overcome them
+- Well-designed games make beautiful action more likely
+    - The scoring systems have been tuned to produce interesting, satisfying, delightful action
+
+### Transparency
+
+- Public transparency undermines expertise
+    - For the public to judge the success of some group of experts
+    - can significantly undermine expert action, by forcing experts to confine their actions to what they can justify to the public
+    - We limit the harm that bad and incompetent people can do, but we also limit what good and competent people can do.
+- Opaque intuition is where bias lives, but also where expertise and sensitivity thrive
+    - Surveillance is useful when it’s deployed against the corrupt, the biased, or the incompetent. But it’s limiting when it’s deployed against the expert, the highly competent, and the extremely sensitive.
+
+### Mechanisation
+
+- Mechanical procedures are not objective: they are biased towards what's mechanically countable
+- Mechanisation makes the world more fungible
+- Much of the efficiency of our world comes from engineered fungibility.
+- Precise language introduces a new kind of arbitrariness: sharp lines in a world naturally full of gradual spectrums and shades of grey
+
+### Standardisation
+
+- Counting is sorting
+    - how we count and have a bias towards countable things is as important hidden drivers of the world
+- To be an algorithm is to be a rule that has been written to be used without significant skill, judgment, or discretion
+- We have accepted standardisation because it is so powerful, because it grants us greater levels of efficiency, and greater volumes of output, than we have ever seen before. But standardisation also enforces a particular set of values on us. 
+- Standardization of anything is a deeply value-laden act
+- Standardized systems strongly discourage sensitive adaptation to the particular local environment
+- large-scale data collection efforts will likely be most useful when they target those qualities that: 1. are highly invariant and stable between contexts 2. have accessible, mechanical methods for being counted 3. do not involve a value decision
+
+#### Classification
+
+- Classification systems are the engine under the hood of metrics and data.
+- Classification systems determine which data we can collect. If there’s no category for it, we won’t get data on it.
+- Classification systems are tools to standardize meanings. They are deeply value-laden technologies.
+- Classification systems represent choices about what to pay attention to.
+- The demand to always proceed from the data is not neutral, because it binds us to past value decisions
+- The values inside classification systems, and all our other decisions about what data to collect, leak up into metrics
+
+### The state
+
+- The state can only see the parts of the world they can classify, measure, and summarize. That is what is legible to the state.
+- What’s legible to the state are the parts of the world that are counted through standardized categories and then aggregated
+- The state is motivated to reshape the world to make it more legible
+- States prefer to use fungible workers
+- States also want people’s minds to be more legible
+- Precise value convergence makes workers fungible at the deepest level.
+
+### The Four Horsemen of Bureaucracy
+   
+- Scale. Scale gives us the power of portability. He asks us to sacrifice context.
+- Rules (full name: Mechanical Rules). Rules offers us the power of accessibility. What he asks us to sacrifice is adaptability.
+- Parts. (His full name is Replaceable Parts.) This is why Parts loves Rules. Rules turn people into parts. Parts promises us interchangeability. The sacrifice is specificity. And when we apply Parts to people, we pay a special version of that price: we give up individual sensitivity.
+- Control.(His full name is Centralized Control.) Control offers us the power of coordination. What he asks us to sacrifice is autonomy.
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+## Whittled notes
+
+### PART 1: OPENING MOVES
+
+#### CHAPTER 1 Is This the Game You Really Want to Be Playing?
+
+- Games wake us up to a life of play
+- Metrics drive us down into grueling optimization
+    - The nature of metrics discourages playfulness. They encourage, instead, value capture: a rigid attachment to an external system of values.
+- "Value capture": when you get your values from some external source and let them rule you without adapting them.
+    - If we let institutional metrics set our values and drive our lives, we end up chasing what’s easy to count, and not what’s really important.
+- what’s easily measurable is rarely the same as what’s really valuable
+    - Some kinds of things are systematically harder to measure because they are more variable, more personal, or more delicate
+    - What’s meaningful is intimate and unpredictable; it eludes easy classification. 
+- "The Gap" the distance between what’s being measured and what actually matters
+- In normal life, we struggle in order to attain some goal that we really want. In "striving play", we adopt a goal in order to have the struggle that we really want.
+
+#### CHAPTER 2 Striving Play
+
+- The achievement player cares about the win itself; the striving player cares about the process of trying to win.
+    - (c.f. Growth vs fixed mindset)
+- For striving players, winning is a disposable end.
+    - They don’t actually care about winning, but they do care about experiences that come from trying hard to win.
+    - You chase the goal in order to have the struggle.
+
+#### CHAPTER 3 Value Capture
+
+- The very nature of institutional metrics resists adjustment and tailoring.
+- Much of our sense of meaning and worth is peculiar, personal, and local. And metrics will always be deeply insensitive to such intimate, small-scale senses of meaning.
+
+#### CHAPTER 4 Scoring Systems Create Convergence
+
+- Mechanical scoring systems offer us a trade-off. We get automatic agreement by using a mechanical evaluation procedure, but there is a price to be paid for that automatic convergence. Mechanical scoring systems will tend to ignore things that are hard and subtle to count.
+
+### PART 2: WHAT SCORES DO
+
+#### CHAPTER 5 The Art of Agency
+
+- To play a game is to voluntarily take on unnecessary obstacles to make possible the activity of struggling to overcome them.
+- With striving play, we pick the goals and restrictions of games in order to engineer a particular quality of action.
+
+#### CHAPTER 6 Transparency Is Surveillance
+
+- Transparency undermines expertise.
+- the Gap: between the complexity of genuine effectiveness and the easier-to-measure quality of pipeline efficiency
+- Transparency metrics expose us to the Dunning-Kruger effect in fancy institutional dress
+- The goal of public transparency is for the public to judge the success of some group of experts
+- Transparency can significantly undermine expert action, by forcing experts to confine their actions to what they can justify to the public
+- Opaque intuition is where bias lives, but also where expertise and sensitivity thrive
+- surveillance is useful when it’s deployed against the corrupt, the biased, or the incompetent. But it’s limiting when it’s deployed against the expert, the highly competent, and the extremely sensitive. 
+- By tying everybody to the demand for public justification, we do two things. We limit the harm that bad and incompetent people can do, but we also limit what good and competent people can do.
+    - There's no solution to this. Only a painful trade-off.
+
+#### CHAPTER 7 The Beauty of the Process
+
+- Well-designed games make beautiful action more likely
+
+#### CHAPTER 8 The Limits of Data
+
+- In well-designed games, the scoring systems have been tuned to produce interesting, satisfying, delightful action
+- Data-based approaches are incredibly powerful, but they narrow our focus to the parts of the world that are easier to quantify.
+- Easy countability automatically wins out over actual importance
+    - systematically highlight some chunks of human life and ignore others
+- the price of the summary is the loss of context, the loss of nuance.
+- Portability and the process of decontextualization are responsible
+    - The power of data is inextricable from its price
+- the Four Horsemen of Bureaucracy. Scale. Scale gives us the power of portability. He asks us to sacrifice context.
+
+### PART 3: WHY USE MECHANICAL SCORING?
+
+#### CHAPTER 11 Mechanical Values
+
+- Counting is sorting
+    - how we count and how we change the world to make it more countable is one of the most important hidden drivers of the modern world
+- corporations and governments spent a lot of resources creating an alternative to expensive, experienced experts: rule sets that anybody could mechanically follow
+    - To be an algorithm is to be a rule that has been written to be used without significant skill, judgment, or discretion
+    - Algorithmic rules are highly efficient in stable environments, but bad in dynamic environments
+- introduce a new kind of bias: a bias toward paying attention to the kinds of things that we can count mechanically
+
+#### CHAPTER 13 The Secret Heart of Mechanization
+
+- Mechanical procedures are not objective: they are biased towards what's mechanically countable
+- Precise language introduces a new kind of arbitrariness: sharp lines in a world naturally full of gradual spectrums and shades of grey
+- Mechanisation makes the world more fungible
+- Much of the efficiency of our world comes from engineered fungibility.
+
+#### CHAPTER 14 Choice of Difficulty
+
+- In real life, the harmony of capacity is incredibly rare. But it is easy to find in games.
+
+#### CHAPTER 15 Reflective Control
+
+- Metrics discourage reflective control
+- Metrics offer a universal and easily communicable value system. They promise social value clarity
+- With value capture, you are setting your values using tools that are designed to be rigid, inflexible, and insensitive—precisely so they can be instantly comprehensible at scale.
+
+### PART 4: STANDARDIZED VALUES
+
+#### CHAPTER 16 Values Hidden in the Machine
+
+- The nature of metrics discourages reflective control, because metrics are pervasive and present themselves as universal.
+    - They reduce our exposure to deeply different modes of valuing, which erodes our reflective control.
+- The standardizing pressure of metrics is a crucial part of their function. What metrics do for us is bound up, inextricably, with what they do to us.
+    - They reduce diversity and variety.
+    - Metrics push us to standardize our values.
+- Metrics are a world-transforming form of technology
+
+#### CHAPTER 17 Whose Interest Does Standardization Serve?
+
+- We have accepted standardization because it is so powerful, because it grants us greater levels of efficiency, and greater volumes of output, than we have ever seen before. But standardization also enforces a particular set of values on us. 
+- Standardization of anything is a deeply value-laden act
+- Standardized systems strongly discourage sensitive adaptation to the particular local environment
+
+#### CHAPTER 18 Who Cuts Up the World?
+
+- Classification systems are the engine under the hood of metrics and data.
+- Classification systems determine which data we can collect. If there’s no category for it, we won’t get data on it.
+- Classification systems are tools to standardize meanings. They are deeply value-laden technologies.
+- Classification systems represent choices about what to pay attention to.
+- The demand to always proceed from the data is not neutral, because it binds us to past value decisions
+- The values inside classification systems, and all our other decisions about what data to collect, leak up into metrics
+- Metrics set what matters to us collectively. They are technology that standardizes values.
+
+#### CHAPTER 19 Islands of Meaning
+
+- The ecosystem of games supports genuine reflective choice by exposing us and giving us opportunities to choose between different ways of acting and of living—and the deeply different values underneath.
+
+#### CHAPTER 20 Centralizing Values
+
+- we diversified our metrics, they would then fail to serve their final and most important function: to centralize how we measure values.
+- The state can only see the parts of the world they can classify, measure, and summarize. That is what is legible to the state.
+- What’s legible to the state are the parts of the world that are counted through standardized categories and then aggregated
+- The state is motivated to reshape the world to make it more legible.
+- States prefer to use fungible workers.
+- States also want people’s minds to be more legible.
+
+#### CHAPTER 21 Technologies of Work, Technologies of Play
+
+- to be playful is to be able to slip between these worlds, to easily adopt different implicit rule sets about how to behave and what’s supposed to be important.
+- A lot of the time, you can only see the real value in an activity by actually doing it for a while—and you can only really do it if you get yourself to care about it, just a little.
+- because they are so pervasive, metrics invite value capture rather than free play and reflective control
+- Metrics make it easy to stop engaging in the practice of fine-tuning our values, to lose touch with the feedback of our sensations.
+- Metrics are a technology that centralizes the process of meaning-making. So metrics de-skill us for the process of setting our own sense of meaning.
+- Precise value convergence makes workers fungible at the deepest level.
+- Metrics are mechanical scoring systems tuned to work at scale; they are standardized and rigidified to serve the purpose of massive coordination. Games use mechanical scoring systems for local purposes, under local control.
+
+### PART 5: WHAT DO WE DO?
+
+#### CHAPTER 22 There Is Too Much World
+
+- The designed portability of metrics is essentially at odds with the richness of human value
+
+#### CHAPTER 23 Objectivity Laundering
+
+- These are the two masks of metrics, which conceal our freedom to choose: the mask of fake objectivity and the mask of seductive clarity.
+    - metrics gave the appearance of objectivity—which lets their users avoid taking responsibility.
+    - Metrics discourage reflection and exploration by creating a facade of objectivity
+    - Reflective control involves making a choice, but metrics disguise and rewrite the situation so that we don’t realize there was a space for choice
+    - metrics offer us the pleasures of seductive clarity. They make things look so simple that we won’t think there is anything else to investigate.
+- large-scale data collection efforts will likely be most useful when they target those qualities that: 1. are highly invariant and stable between contexts 2. have accessible, mechanical methods for being counted 3. do not involve a value decision
+
+#### CHAPTER 25 The Triumph of Universal Language
+
+- Organized social systems will tend to give power to those who game the system, rather than those who pursue what’s really valuable.
+- Metrics foster systematic testimonial injustice against anybody who doesn’t speak in the language of metrics. They siphon credibility away from anybody still dedicated to subtle values.
+- Metrics are an engineered language of fast universal justifications. They help us coordinate our actions because they coordinate what we recognize as success.
+
+#### CHAPTER 26 Play for Its Own Sake
+
+- For Aristotle, the final seat of value is in autotelic activity. This means activity that’s valuable for its own sake.
+
+#### CHAPTER 27 Art Is a Game
+
+- If metrics conceal the possibility of choice, then the response is exposure: to encounter a greater variety of activities and values in the world.
+- If metrics push us to quickly dismiss new values alternatives, then the response is openness: the attitude of paying attention and taking seriously new alternatives.
+- If metrics push us to settle our minds, then the response is to explore: to continually seek out new ideas, new experiences, and new kinds of meaningfulness in the world.
+- The price of holding on to such attitudes—and the weirder values they push you toward—is rendering yourself incomprehensible to the wider world. And there are so many forces pulling in the opposite direction.
+- The aesthetic attitude is an antidote to value collapse.
+- If the point of art is to maximize productivity—to make lots of art quickly and cheaply—then algorithmic art is a good shortcut. But if you thought that the point of art was the exercise of human creativity, then algorithmic art is a disaster.
+
+---
+
+<details>
+    <summary><h2>Gathered notes</h2></summary>
+<div markdown="1">
 
 ### PART 1: OPENING MOVES
 
@@ -250,9 +563,12 @@ updated: 2026-11-02
 - The aesthetic attitude is an antidote to value collapse.
 - Art is a game that we built to give us relief from the ruthless efficiencies of the Four Horsemen.
 - If the point of art is to maximize productivity—to make lots of art quickly and cheaply—then algorithmic art is a good shortcut. But if you thought that the point of art was the exercise of human creativity, then algorithmic art is a disaster.
+</div>
+</details>
 
-## Raw notes
-
+<details>
+    <summary><h2>Raw notes</h2></summary>
+<div markdown="1">
 ### PART 1: OPENING MOVES
 
 #### CHAPTER 1 Is This the Game You Really Want to Be Playing?
@@ -637,3 +953,5 @@ updated: 2026-11-02
 
 - we need to build supports for art and play into the structure of the world—into our technologies, institutions, and communities. Fight fire with fire, and fight infrastructure with infrastructure. We need infrastructures of art and infrastructures of play.
 - THE TOOLS OF THE FOUR HORSEMEN DO NOT LEAD INEVITABLY to doom. You can find, in certain places, people carefully using some of those tools but not being dominated by them.
+</div>
+</details>
