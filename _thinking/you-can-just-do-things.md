@@ -3,7 +3,7 @@ layout: page
 title: You Can Just Do Things
 philosophy: true
 added: 2026-11-02
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 ## Notes notes
@@ -24,6 +24,8 @@ updated: 2026-11-04
 - Bypass the overthinking and analysing, and just get started with something tiny
 - Remove the path of escape so that you'll get creative with the solution
     - (But, careful! Need relaxedness and openness for creativity.)
+- (No escape)
+- (Zen and preferences)
 
 <details>
     <summary><h2>Whittled notes</h2></summary>
