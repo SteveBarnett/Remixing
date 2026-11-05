@@ -39,7 +39,8 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
 
 <h4>Practice</h4>
 
-- ➙ Make a new "wide" Impact Map
+- ➙ Scribble brief note on "Mirror Metta's cousin, for bravery"
+- Make a new "wide" Impact Map
 - Make a birthday plan
 - Sketch out mashup / &times; ideas
     - Keep things fresh
