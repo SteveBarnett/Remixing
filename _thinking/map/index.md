@@ -98,7 +98,6 @@ Memory 7-reminder: mirror, bobby hat, with pearl instead of badge, side-eye, thr
 - When the Inner Critic is very loud and/or mean: **[The three uhds](/thinking/the-three-uhds/)**
 - (one of these two paired with) somatic twistshake
 
-
 ## Hats
 
 - Pluralist
