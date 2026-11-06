@@ -23,24 +23,28 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
 
 <h4>Interests</h4>
 
-- ➙ Make a Japan holiday photo album(s)
-- ➙ Finish travel journal
-- Soxmas watercolour
-- Elden Waterthrough
+- ➙ Elden Waterthrough
     - Altus Plateau
     - Mount Gelmir
     - Leyndell
+- Soxmas watercolour
 - Play some games set in Japan
 - SDC
     - Office
     - Kitchen
     - Bedroom
 - Improv (!)
+- ✔ ~~Make a Japan holiday photo album(s)~~
+- ✔ ~~Finish travel journal~~
 
 <h4>Practice</h4>
 
 - ➙ Scribble brief note on "Mirror Metta's cousin, for bravery"
 - Make a new "wide" Impact Map
+- Think about how to fold in [things from YCJDT](/thinking/you-can-just-do-things/#some-thoughtsactions)
+    - Move towards people rather than away
+    - Use a silly trick to just get started
+    - Be more sceptical of more things ("Is that so?")
 - Make a birthday plan
 - Sketch out mashup / &times; ideas
     - Keep things fresh
