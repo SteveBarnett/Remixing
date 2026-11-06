@@ -23,7 +23,9 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
 
 <h4>Interests</h4>
 
-- ➙ Elden Waterthrough
+- ➙ Post existing Japan watercolours
+- Do a few more Japan watercolours
+- Elden Waterthrough
     - Altus Plateau
     - Mount Gelmir
     - Leyndell
