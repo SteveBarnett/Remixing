@@ -6,8 +6,56 @@ added: 2026-11-02
 updated: 2026-11-05
 ---
 
-## Notes notes
+## Notes notes notes
 
+### Metrics
+
+- standardise values and push us towards it
+- push us to chase what's easy to count, not what’s really important
+- are pervasive and present themselves as universal and objective
+- change the world by centralising meaning-making
+- are designed to be portable, which is inherently at odds with the richness of human experience
+- discourage playfulness, reflective control, adjustment and tailoring and fine-tuning
+- Resistance
+    - metrics conceal the possibility of choice, so seek out a greater variety of activities and values in the world
+    - metrics push us to quickly dismiss new values alternatives, so be more open and pay serious attention to new alternatives
+    - push us to settle our minds, so explore and seek out new ideas, experiences, and values
+    - you'll be seen as a weirdo, incomprehensible, for this
+- what's easily measurable is rarely the same as what's really valuable 
+    - more variable, personal, delicate, intimate, unpredictable, peculiar, local
+
+### Games
+
+- In “striving play”, we adopt a goal in order to have the struggle that we really want
+    - experiences that come from trying hard to win, not the winning itself
+- To play a game is to voluntarily take on unnecessary obstacles to make possible the activity of struggling to overcome them
+- Well-designed games make beautiful, interesting, satisfying, delightful, action more likely
+
+### Counting
+
+- Public transparency undermines expertise
+    - We limit the harm that bad and incompetent people can do
+    - We limit what good and competent people can do
+- Mechanical procedures are not objective: they are biased towards what’s mechanically countable
+- Counting is sorting
+    - How we count, classify, is a hidden driver of the world
+    - Standardisation of anything is a deeply value-laden act
+- Demand data-driven approaches binds us to past value decisions
+- The state only sees what is legible to it: what they can classify, measure, and summarize
+    - Things that are counted through standardized categories and then aggregated
+    - The state is motivated to reshape the world to make it more legible
+
+### The Four Horsemen of Bureaucracy
+   
+- Scale. Offers portability at the cost of context.
+- (Mechanical) Rules. Offers accessibility at the cost of adaptability.
+- (Replaceable) Parts. Offers interchangeability at the cost of specificity.
+    - Rules turn people into parts, which costs us individual sensitivity.
+- (Centralised) Control. Offers coordination at the cost of autonomy.
+
+<details>
+    <summary><h2>Notes notes</h2></summary>
+<div markdown="1">
 ### Metrics
 
 - The nature of metrics discourages playfulness
@@ -124,19 +172,14 @@ updated: 2026-11-05
 - Rules (full name: Mechanical Rules). Rules offers us the power of accessibility. What he asks us to sacrifice is adaptability.
 - Parts. (His full name is Replaceable Parts.) This is why Parts loves Rules. Rules turn people into parts. Parts promises us interchangeability. The sacrifice is specificity. And when we apply Parts to people, we pay a special version of that price: we give up individual sensitivity.
 - Control.(His full name is Centralized Control.) Control offers us the power of coordination. What he asks us to sacrifice is autonomy.
+</div>
+</details>
 
 ---
----
----
----
----
----
----
----
----
 
-## Whittled notes
-
+<details>
+    <summary><h2>Whittled notes</h2></summary>
+<div markdown="1">
 ### PART 1: OPENING MOVES
 
 #### CHAPTER 1 Is This the Game You Really Want to Be Playing?
@@ -314,6 +357,8 @@ updated: 2026-11-05
 - The price of holding on to such attitudes—and the weirder values they push you toward—is rendering yourself incomprehensible to the wider world. And there are so many forces pulling in the opposite direction.
 - The aesthetic attitude is an antidote to value collapse.
 - If the point of art is to maximize productivity—to make lots of art quickly and cheaply—then algorithmic art is a good shortcut. But if you thought that the point of art was the exercise of human creativity, then algorithmic art is a disaster.
+</div>
+</details>
 
 ---
 
@@ -565,6 +610,8 @@ updated: 2026-11-05
 - If the point of art is to maximize productivity—to make lots of art quickly and cheaply—then algorithmic art is a good shortcut. But if you thought that the point of art was the exercise of human creativity, then algorithmic art is a disaster.
 </div>
 </details>
+
+---
 
 <details>
     <summary><h2>Raw notes</h2></summary>
