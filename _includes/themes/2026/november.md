@@ -47,6 +47,8 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
     - Move towards people rather than away
     - Use a silly trick to just get started
     - Be more sceptical of more things ("Is that so?")
+    - (Make a game of it?)
+    - (Use humour more explicitly)
 - Make a birthday plan
 - Sketch out mashup / &times; ideas
     - Keep things fresh
