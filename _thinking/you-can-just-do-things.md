@@ -3,8 +3,27 @@ layout: page
 title: You Can Just Do Things
 philosophy: true
 added: 2026-11-02
-updated: 2026-11-05
+updated: 2026-11-06
 ---
+
+## Notes notes notes
+
+- The curious, questioning, sceptical approach: I already have this. I just want to bring it to bear on more things.
+- Trying/doing rather over-analysing/thinking: similar. I've been using this for the H gate. I want to extend it out.
+- One aspect of Zen is the focus on no preferences. Extend this too.
+    - In particular, think about preferences and identity.
+- The small, silly, steps I have too. Extend it, keep it up. Use humour more.
+- Something that came up for my reading this is the line of "what are you afraid of?"
+    - For me, that tends to be shame-based
+    - From the Enneagram framing
+        - fear of imbalance
+        - individualism as a stress/disintegration
+
+### Some thoughts/actions
+
+- Move towards people rather than away
+- Use a silly trick to just get started
+- Be more sceptical of more things ("Is that so?")
 
 ## Notes notes
 
