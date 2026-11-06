@@ -36,8 +36,25 @@ Mirror metta:
 
 A reminder from You Can Just Do Things: silly tricks are fine, if they work!
 
-Mirror mana (name?): "imaginary friend."
+Mirror māia (name?): "imaginary friend."
 
 - Imagine someone else is there and wants your help
 - Imagine someone is asking for your help
 - Frame it as being brave for someone else
+
+Aotearoa:
+
+> In te ao Māori (the Māori world), strength is important. It's kaha (strength), māia (courage) and manawanui (steadfastness), and it's relational. Your strength isn't your own; your strength comes from others. The main imagery is often that of a waka (canoe) on rough water, a rākau (tree) that bends but does not break, or a pou (post) you can lean on. Courage means knowing when to rest, when to ask for help, and keep faith with your whānau (extended family), hapū (sub-tribe), and iwi (tribe).<br><br>
+> Kia kaha, kia māia, kia manawanui<br>
+> Be strong, be brave, be steadfast.<br><br>
+> A three-part anchor: kaha = physical/inner strength, māia = courage to act, manawanui = long-haul perseverance.
+- [The Whakataukī about Strength and Courage You Can Use to Stay Strong](https://www.superprof.co.nz/blog/strength-whakatauki/)
+
+> In Maori culture, strength is often understood as a collective quality rather than purely individual. Kia Kaha acknowledges that we draw strength from our whanau (family), our community, and our connections to each other. When someone says Kia Kaha, they’re often implying: “You are not alone – we stand with you.” <br>
+> ...<br>
+>  The full phrase “Kia kaha, kia maia, kia manawanui” is often used in more formal contexts or when someone needs significant support. It encompasses physical strength (kaha), courage (maia), and patient endurance (manawanui) – a complete wish for resilience in all its forms. 
+- [Kia Kaha – The Meaning Behind New Zealand’s Favourite Phrase](https://creativeandbrave.co.nz/kia-kaha-meaning/)
+
+So,
+
+maybe something like: mirror metta's cousin is mutual māia. Sharing strength, communal/collective/**connected courage**.

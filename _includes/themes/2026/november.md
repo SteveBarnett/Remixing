@@ -42,13 +42,14 @@ Focus: **value** (&times; taking care). Complex, nuanced, human. Process, not pr
 <h4>Practice</h4>
 
 - ➙ Scribble brief note on "Mirror Metta's cousin, for bravery"
-- Make a new "wide" Impact Map
 - Think about how to fold in [things from YCJDT](/thinking/you-can-just-do-things/#some-thoughtsactions)
     - Move towards people rather than away
     - Use a silly trick to just get started
     - Be more sceptical of more things ("Is that so?")
     - (Make a game of it?)
     - (Use humour more explicitly)
+- Think about updating [MAP](/thinking/map/#tools) with Mirror Māia explicitly
+- Make a new "wide" Impact Map
 - Make a birthday plan
 - Sketch out mashup / &times; ideas
     - Keep things fresh
