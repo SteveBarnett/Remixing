@@ -8,15 +8,21 @@ updated: 2026-11-06
 
 Notes from "Tao Te Ching – A New Translation" by David Bentley Hart.
 
-## Introduction
+## Notes notes
+
+- a power that gives rather than takes
+- charity and constant concern for others
+- throw off all self-interest
+
+## Raw notes
+
+### Introduction
 
 - ... **a power that gives rather than takes**, that is inexhaustible precisely because it is untiring in its generosity, self-emptying, even self-impoverishing, yet always full because it is empty of "itself".
 - ... neither <span lang="zh">**wu wei**</span> nor <span lang="de">Gelassenheit</span> ("letting go", Meister Eckhart) is merely a matter of passive disengagement; each **is an active ethos whose nature is one of charity and constant concern for others**. One "lets go" of one's self so as to embrace the world.
 - ... I have adopted a more authentically Chinese tendency of **not distinguishing so absolutely between the two traditions and of instead holding them together in an oscillating unity** in my mind, with Buddhism constituting a third pole. (And even, when operating in a more Japanese register, with some Shinto thrown in.)
 - ... all dogs are natural Daoists of the highest spiritual attainment
 - ... <span lang="zh">wu wei</span> means something like "not striving", "inaction" ,"not contending", "refraining from exertion", "without action", or even "letting be."
-
-## Tao Te Ching (Daodejing)
 
 ### 1
 
